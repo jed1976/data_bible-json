@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.5.34",
+    "orgId": "ACT.5.34",
+    "bookId": "ACT",
+    "chapterId": "ACT.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 5:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"ACT 5:34\" class=\"v\">34</span>Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.5.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "ACT.5.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('924b7726-9fad-4a69-aa99-ac642da77ef4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='924b7726-9fad-4a69-aa99-ac642da77ef4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "924b7726-9fad-4a69-aa99-ac642da77ef4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('924b7726-9fad-4a69-aa99-ac642da77ef4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=924b7726-9fad-4a69-aa99-ac642da77ef4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

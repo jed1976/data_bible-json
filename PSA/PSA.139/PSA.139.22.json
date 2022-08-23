@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.139.22",
+    "orgId": "PSA.139.22",
+    "bookId": "PSA",
+    "chapterId": "PSA.139",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 139:22",
+    "content": "<p class=\"q1\"><span data-number=\"22\" data-sid=\"PSA 139:22\" class=\"v\">22</span>I hate them with perfect hatred: I count them mine enemies.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.139.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "PSA.139.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f070c284-aa6c-4555-a8b8-f9de60222d17');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f070c284-aa6c-4555-a8b8-f9de60222d17'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f070c284-aa6c-4555-a8b8-f9de60222d17",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f070c284-aa6c-4555-a8b8-f9de60222d17'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f070c284-aa6c-4555-a8b8-f9de60222d17\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

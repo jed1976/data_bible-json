@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.7.89",
+    "orgId": "NUM.7.89",
+    "bookId": "NUM",
+    "chapterId": "NUM.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 7:89",
+    "content": "<p class=\"p\"><span data-number=\"89\" data-sid=\"NUM 7:89\" class=\"v\">89</span>And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that <span class=\"add\">was</span> upon the ark of testimony, from between the two cherubims: and he spake unto him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.8.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "NUM.7.88",
+      "number": "88"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b51730ee-a288-43b7-9d34-ad7c9e8a51b6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b51730ee-a288-43b7-9d34-ad7c9e8a51b6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b51730ee-a288-43b7-9d34-ad7c9e8a51b6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b51730ee-a288-43b7-9d34-ad7c9e8a51b6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b51730ee-a288-43b7-9d34-ad7c9e8a51b6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

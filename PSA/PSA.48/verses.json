@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "PSA.48.1",
+      "orgId": "PSA.48.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:1"
+    },
+    {
+      "id": "PSA.48.2",
+      "orgId": "PSA.48.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:2"
+    },
+    {
+      "id": "PSA.48.3",
+      "orgId": "PSA.48.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:3"
+    },
+    {
+      "id": "PSA.48.4",
+      "orgId": "PSA.48.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:4"
+    },
+    {
+      "id": "PSA.48.5",
+      "orgId": "PSA.48.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:5"
+    },
+    {
+      "id": "PSA.48.6",
+      "orgId": "PSA.48.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:6"
+    },
+    {
+      "id": "PSA.48.7",
+      "orgId": "PSA.48.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:7"
+    },
+    {
+      "id": "PSA.48.8",
+      "orgId": "PSA.48.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:8"
+    },
+    {
+      "id": "PSA.48.9",
+      "orgId": "PSA.48.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:9"
+    },
+    {
+      "id": "PSA.48.10",
+      "orgId": "PSA.48.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:10"
+    },
+    {
+      "id": "PSA.48.11",
+      "orgId": "PSA.48.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:11"
+    },
+    {
+      "id": "PSA.48.12",
+      "orgId": "PSA.48.13",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:12"
+    },
+    {
+      "id": "PSA.48.13",
+      "orgId": "PSA.48.14",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:13"
+    },
+    {
+      "id": "PSA.48.14",
+      "orgId": "PSA.48.15",
+      "bookId": "PSA",
+      "chapterId": "PSA.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 48:14"
+    }
+  ]
+}

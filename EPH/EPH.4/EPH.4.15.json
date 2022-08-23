@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EPH.4.15",
+    "orgId": "EPH.4.15",
+    "bookId": "EPH",
+    "chapterId": "EPH.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ephesians 4:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"EPH 4:15\" class=\"v\">15</span>But speaking the truth in love, may grow up into him in all things, which is the head, <span class=\"add\">even</span> Christ: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EPH.4.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "EPH.4.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fe0dad60-d0de-4d89-b07f-9667dce4fcba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fe0dad60-d0de-4d89-b07f-9667dce4fcba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fe0dad60-d0de-4d89-b07f-9667dce4fcba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fe0dad60-d0de-4d89-b07f-9667dce4fcba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fe0dad60-d0de-4d89-b07f-9667dce4fcba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

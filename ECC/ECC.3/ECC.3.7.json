@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.3.7",
+    "orgId": "ECC.3.7",
+    "bookId": "ECC",
+    "chapterId": "ECC.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes 3:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"ECC 3:7\" class=\"v\">7</span>A time to rend, and a time to sew; a time to keep silence, and a time to speak; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.3.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "ECC.3.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('48e35ee7-7a48-4635-a596-ae95df3b621d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='48e35ee7-7a48-4635-a596-ae95df3b621d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "48e35ee7-7a48-4635-a596-ae95df3b621d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('48e35ee7-7a48-4635-a596-ae95df3b621d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=48e35ee7-7a48-4635-a596-ae95df3b621d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

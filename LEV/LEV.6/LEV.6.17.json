@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.6.17",
+    "orgId": "LEV.6.10",
+    "bookId": "LEV",
+    "chapterId": "LEV.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 6:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"LEV 6:17\" class=\"v\">17</span>It shall not be baken with leaven. I have given it <span class=\"add\">unto them for</span> their portion of my offerings made by fire; it <span class=\"add\">is</span> most holy, as <span class=\"add\">is</span> the sin offering, and as the trespass offering. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.6.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "LEV.6.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2d9f7018-7797-4d57-85ee-7cba9b850b2a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2d9f7018-7797-4d57-85ee-7cba9b850b2a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2d9f7018-7797-4d57-85ee-7cba9b850b2a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2d9f7018-7797-4d57-85ee-7cba9b850b2a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2d9f7018-7797-4d57-85ee-7cba9b850b2a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.14.1",
+    "orgId": "JDG.14.1",
+    "bookId": "JDG",
+    "chapterId": "JDG.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 14:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JDG 14:1\" class=\"v\">1</span>And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.14.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "JDG.13.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('61c1c483-8534-44d3-a0b0-6ceadd3b9e9a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='61c1c483-8534-44d3-a0b0-6ceadd3b9e9a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "61c1c483-8534-44d3-a0b0-6ceadd3b9e9a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('61c1c483-8534-44d3-a0b0-6ceadd3b9e9a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=61c1c483-8534-44d3-a0b0-6ceadd3b9e9a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

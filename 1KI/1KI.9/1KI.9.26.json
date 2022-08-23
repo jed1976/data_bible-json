@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.9.26",
+    "orgId": "1KI.9.26",
+    "bookId": "1KI",
+    "chapterId": "1KI.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 9:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"1KI 9:26\" class=\"v\">26</span>¶ And king Solomon made a navy of ships in Ezion-geber, which <span class=\"add\">is</span> beside Eloth, on the shore of the Red sea, in the land of Edom. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.9.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "1KI.9.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('14bb470d-3257-4582-a9d5-091efb732e36');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='14bb470d-3257-4582-a9d5-091efb732e36'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "14bb470d-3257-4582-a9d5-091efb732e36",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('14bb470d-3257-4582-a9d5-091efb732e36'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=14bb470d-3257-4582-a9d5-091efb732e36\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

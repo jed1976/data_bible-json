@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.40.36",
+    "orgId": "EZK.40.36",
+    "bookId": "EZK",
+    "chapterId": "EZK.40",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 40:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"EZK 40:36\" class=\"v\">36</span>The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length <span class=\"add\">was</span> fifty cubits, and the breadth five and twenty cubits. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.40.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "EZK.40.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('92f04d59-cbe1-452a-bf8c-d197607d5d3e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='92f04d59-cbe1-452a-bf8c-d197607d5d3e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "92f04d59-cbe1-452a-bf8c-d197607d5d3e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('92f04d59-cbe1-452a-bf8c-d197607d5d3e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=92f04d59-cbe1-452a-bf8c-d197607d5d3e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

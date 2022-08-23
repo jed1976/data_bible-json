@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.5.45",
+    "orgId": "JHN.5.45",
+    "bookId": "JHN",
+    "chapterId": "JHN.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 5:45",
+    "content": "<p class=\"p\"><span data-number=\"45\" data-sid=\"JHN 5:45\" class=\"v\">45</span><span class=\"wj\">Do not think that I will accuse you to the Father: there is <span class=\"add\">one</span> that accuseth you, <span class=\"add\">even</span> Moses, in whom ye trust.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.5.46",
+      "number": "46"
+    },
+    "previous": {
+      "id": "JHN.5.44",
+      "number": "44"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('51646a9a-b59b-4898-800e-8a03a0137833');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='51646a9a-b59b-4898-800e-8a03a0137833'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "51646a9a-b59b-4898-800e-8a03a0137833",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('51646a9a-b59b-4898-800e-8a03a0137833'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=51646a9a-b59b-4898-800e-8a03a0137833\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

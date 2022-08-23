@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.65.8",
+    "orgId": "ISA.65.8",
+    "bookId": "ISA",
+    "chapterId": "ISA.65",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 65:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"ISA 65:8\" class=\"v\">8</span>¶ Thus saith the <span class=\"nd\">LORD</span>, As the new wine is found in the cluster, and <span class=\"add\">one</span> saith, Destroy it not; for a blessing <span class=\"add\">is</span> in it: so will I do for my servants’ sakes, that I may not destroy them all. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.65.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "ISA.65.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ace18826-f164-4521-8ac5-0ae557584201');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ace18826-f164-4521-8ac5-0ae557584201'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ace18826-f164-4521-8ac5-0ae557584201",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ace18826-f164-4521-8ac5-0ae557584201'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ace18826-f164-4521-8ac5-0ae557584201\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

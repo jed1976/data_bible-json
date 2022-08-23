@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CO.7.13",
+    "orgId": "2CO.7.13",
+    "bookId": "2CO",
+    "chapterId": "2CO.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Corinthians 7:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"2CO 7:13\" class=\"v\">13</span>Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CO.7.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "2CO.7.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e63731cb-0391-475d-8c60-a45aced29027');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e63731cb-0391-475d-8c60-a45aced29027'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e63731cb-0391-475d-8c60-a45aced29027",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e63731cb-0391-475d-8c60-a45aced29027'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e63731cb-0391-475d-8c60-a45aced29027\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

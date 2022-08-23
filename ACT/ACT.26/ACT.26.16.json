@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.26.16",
+    "orgId": "ACT.26.16",
+    "bookId": "ACT",
+    "chapterId": "ACT.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 26:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"ACT 26:16\" class=\"v\">16</span><span class=\"wj\">But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.26.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "ACT.26.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e951d487-3c8f-4991-b0d4-516b1b501754');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e951d487-3c8f-4991-b0d4-516b1b501754'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e951d487-3c8f-4991-b0d4-516b1b501754",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e951d487-3c8f-4991-b0d4-516b1b501754'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e951d487-3c8f-4991-b0d4-516b1b501754\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

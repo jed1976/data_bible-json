@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.3.26",
+    "orgId": "EZK.3.26",
+    "bookId": "EZK",
+    "chapterId": "EZK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 3:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"EZK 3:26\" class=\"v\">26</span>And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they <span class=\"add\">are</span> a rebellious house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.3.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "EZK.3.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ffba0efa-1d94-442b-bb02-fe611fa5438d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ffba0efa-1d94-442b-bb02-fe611fa5438d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ffba0efa-1d94-442b-bb02-fe611fa5438d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ffba0efa-1d94-442b-bb02-fe611fa5438d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ffba0efa-1d94-442b-bb02-fe611fa5438d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

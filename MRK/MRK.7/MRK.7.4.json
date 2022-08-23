@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.7.4",
+    "orgId": "MRK.7.4",
+    "bookId": "MRK",
+    "chapterId": "MRK.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 7:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"MRK 7:4\" class=\"v\">4</span>And <span class=\"add\">when they come</span> from the market, except they wash, they eat not. And many other things there be, which they have received to hold, <span class=\"add\">as</span> the washing of cups, and pots, brasen vessels, and of tables. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.7.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "MRK.7.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3474c863-aa08-4739-a55b-ba5e13051043');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3474c863-aa08-4739-a55b-ba5e13051043'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3474c863-aa08-4739-a55b-ba5e13051043",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3474c863-aa08-4739-a55b-ba5e13051043'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3474c863-aa08-4739-a55b-ba5e13051043\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

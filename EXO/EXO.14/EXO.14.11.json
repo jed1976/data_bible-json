@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.14.11",
+    "orgId": "EXO.14.11",
+    "bookId": "EXO",
+    "chapterId": "EXO.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 14:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EXO 14:11\" class=\"v\">11</span>And they said unto Moses, Because <span class=\"add\">there were</span> no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.14.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "EXO.14.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0e5b4618-852a-49e3-a2e3-22519f43c425');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0e5b4618-852a-49e3-a2e3-22519f43c425'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0e5b4618-852a-49e3-a2e3-22519f43c425",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0e5b4618-852a-49e3-a2e3-22519f43c425'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0e5b4618-852a-49e3-a2e3-22519f43c425\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.28.56",
+    "orgId": "DEU.28.56",
+    "bookId": "DEU",
+    "chapterId": "DEU.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 28:56",
+    "content": "<p class=\"p\"><span data-number=\"56\" data-sid=\"DEU 28:56\" class=\"v\">56</span>The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.28.57",
+      "number": "57"
+    },
+    "previous": {
+      "id": "DEU.28.55",
+      "number": "55"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2fb51ef1-e9b8-4038-a7c2-dd2855e4dcd1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2fb51ef1-e9b8-4038-a7c2-dd2855e4dcd1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2fb51ef1-e9b8-4038-a7c2-dd2855e4dcd1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2fb51ef1-e9b8-4038-a7c2-dd2855e4dcd1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2fb51ef1-e9b8-4038-a7c2-dd2855e4dcd1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

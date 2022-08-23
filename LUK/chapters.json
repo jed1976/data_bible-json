@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "id": "LUK.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "intro",
+      "reference": "Luke"
+    },
+    {
+      "id": "LUK.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "1",
+      "reference": "Luke 1"
+    },
+    {
+      "id": "LUK.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "2",
+      "reference": "Luke 2"
+    },
+    {
+      "id": "LUK.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "3",
+      "reference": "Luke 3"
+    },
+    {
+      "id": "LUK.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "4",
+      "reference": "Luke 4"
+    },
+    {
+      "id": "LUK.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "5",
+      "reference": "Luke 5"
+    },
+    {
+      "id": "LUK.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "6",
+      "reference": "Luke 6"
+    },
+    {
+      "id": "LUK.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "7",
+      "reference": "Luke 7"
+    },
+    {
+      "id": "LUK.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "8",
+      "reference": "Luke 8"
+    },
+    {
+      "id": "LUK.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "9",
+      "reference": "Luke 9"
+    },
+    {
+      "id": "LUK.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "10",
+      "reference": "Luke 10"
+    },
+    {
+      "id": "LUK.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "11",
+      "reference": "Luke 11"
+    },
+    {
+      "id": "LUK.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "12",
+      "reference": "Luke 12"
+    },
+    {
+      "id": "LUK.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "13",
+      "reference": "Luke 13"
+    },
+    {
+      "id": "LUK.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "14",
+      "reference": "Luke 14"
+    },
+    {
+      "id": "LUK.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "15",
+      "reference": "Luke 15"
+    },
+    {
+      "id": "LUK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "16",
+      "reference": "Luke 16"
+    },
+    {
+      "id": "LUK.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "17",
+      "reference": "Luke 17"
+    },
+    {
+      "id": "LUK.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "18",
+      "reference": "Luke 18"
+    },
+    {
+      "id": "LUK.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "19",
+      "reference": "Luke 19"
+    },
+    {
+      "id": "LUK.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "20",
+      "reference": "Luke 20"
+    },
+    {
+      "id": "LUK.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "21",
+      "reference": "Luke 21"
+    },
+    {
+      "id": "LUK.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "22",
+      "reference": "Luke 22"
+    },
+    {
+      "id": "LUK.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "23",
+      "reference": "Luke 23"
+    },
+    {
+      "id": "LUK.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LUK",
+      "number": "24",
+      "reference": "Luke 24"
+    }
+  ]
+}

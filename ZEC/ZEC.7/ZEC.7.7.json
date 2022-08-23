@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.7.7",
+    "orgId": "ZEC.7.7",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"ZEC 7:7\" class=\"v\">7</span><span class=\"add\">Should ye</span> not <span class=\"add\">hear</span> the words which the <span class=\"nd\">LORD</span> hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when <span class=\"add\">men</span> inhabited the south and the plain?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "ZEC.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('422577e7-8186-4e6c-bb53-acaf9b3347e9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='422577e7-8186-4e6c-bb53-acaf9b3347e9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "422577e7-8186-4e6c-bb53-acaf9b3347e9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('422577e7-8186-4e6c-bb53-acaf9b3347e9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=422577e7-8186-4e6c-bb53-acaf9b3347e9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

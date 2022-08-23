@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": "EST.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "intro",
+      "reference": "Esther"
+    },
+    {
+      "id": "EST.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "1",
+      "reference": "Esther 1"
+    },
+    {
+      "id": "EST.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "2",
+      "reference": "Esther 2"
+    },
+    {
+      "id": "EST.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "3",
+      "reference": "Esther 3"
+    },
+    {
+      "id": "EST.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "4",
+      "reference": "Esther 4"
+    },
+    {
+      "id": "EST.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "5",
+      "reference": "Esther 5"
+    },
+    {
+      "id": "EST.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "6",
+      "reference": "Esther 6"
+    },
+    {
+      "id": "EST.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "7",
+      "reference": "Esther 7"
+    },
+    {
+      "id": "EST.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "8",
+      "reference": "Esther 8"
+    },
+    {
+      "id": "EST.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "9",
+      "reference": "Esther 9"
+    },
+    {
+      "id": "EST.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EST",
+      "number": "10",
+      "reference": "Esther 10"
+    }
+  ]
+}

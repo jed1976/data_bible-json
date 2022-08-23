@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.31.42",
+    "orgId": "GEN.31.42",
+    "bookId": "GEN",
+    "chapterId": "GEN.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 31:42",
+    "content": "<p class=\"p\"><span data-number=\"42\" data-sid=\"GEN 31:42\" class=\"v\">42</span>Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked <span class=\"add\">thee</span> yesternight.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.31.43",
+      "number": "43"
+    },
+    "previous": {
+      "id": "GEN.31.41",
+      "number": "41"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ee49fee0-254f-4b87-bcb4-5d0bc3a9715d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ee49fee0-254f-4b87-bcb4-5d0bc3a9715d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ee49fee0-254f-4b87-bcb4-5d0bc3a9715d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ee49fee0-254f-4b87-bcb4-5d0bc3a9715d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ee49fee0-254f-4b87-bcb4-5d0bc3a9715d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

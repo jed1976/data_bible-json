@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.8.34",
+    "orgId": "ROM.8.34",
+    "bookId": "ROM",
+    "chapterId": "ROM.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 8:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"ROM 8:34\" class=\"v\">34</span>Who <span class=\"add\">is</span> he that condemneth? <span class=\"add\">It is</span> Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.8.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "ROM.8.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bfd8e24e-495b-4196-93d0-32376e6bcbde');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bfd8e24e-495b-4196-93d0-32376e6bcbde'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bfd8e24e-495b-4196-93d0-32376e6bcbde",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bfd8e24e-495b-4196-93d0-32376e6bcbde'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bfd8e24e-495b-4196-93d0-32376e6bcbde\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

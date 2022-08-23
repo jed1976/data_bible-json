@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.23.23",
+    "orgId": "ACT.23.23",
+    "bookId": "ACT",
+    "chapterId": "ACT.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 23:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"ACT 23:23\" class=\"v\">23</span>And he called unto <span class=\"add\">him</span> two centurions, saying, Make ready two hundred soldiers to go to Cæsarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.23.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "ACT.23.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('54215b80-070d-402c-b47c-1d739c51ac6e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='54215b80-070d-402c-b47c-1d739c51ac6e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "54215b80-070d-402c-b47c-1d739c51ac6e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('54215b80-070d-402c-b47c-1d739c51ac6e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=54215b80-070d-402c-b47c-1d739c51ac6e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.6.33",
+    "orgId": "1KI.6.33",
+    "bookId": "1KI",
+    "chapterId": "1KI.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 6:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"1KI 6:33\" class=\"v\">33</span>So also made he for the door of the temple posts <span class=\"add\">of</span> olive tree, a fourth part <span class=\"add\">of the wall</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.6.34",
+      "number": "34"
+    },
+    "previous": {
+      "id": "1KI.6.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('df53ed1e-03c6-4632-87e5-d4fba3163607');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='df53ed1e-03c6-4632-87e5-d4fba3163607'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "df53ed1e-03c6-4632-87e5-d4fba3163607",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('df53ed1e-03c6-4632-87e5-d4fba3163607'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=df53ed1e-03c6-4632-87e5-d4fba3163607\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

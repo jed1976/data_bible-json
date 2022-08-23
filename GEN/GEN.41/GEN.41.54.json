@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.41.54",
+    "orgId": "GEN.41.54",
+    "bookId": "GEN",
+    "chapterId": "GEN.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 41:54",
+    "content": "<p class=\"p\"><span data-number=\"54\" data-sid=\"GEN 41:54\" class=\"v\">54</span>And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.41.55",
+      "number": "55"
+    },
+    "previous": {
+      "id": "GEN.41.53",
+      "number": "53"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9ea5aa98-5dd2-4be0-b6b0-8a626f66e12a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9ea5aa98-5dd2-4be0-b6b0-8a626f66e12a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9ea5aa98-5dd2-4be0-b6b0-8a626f66e12a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9ea5aa98-5dd2-4be0-b6b0-8a626f66e12a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9ea5aa98-5dd2-4be0-b6b0-8a626f66e12a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

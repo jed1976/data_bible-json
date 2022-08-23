@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.4.16",
+    "orgId": "ROM.4.16",
+    "bookId": "ROM",
+    "chapterId": "ROM.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 4:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"ROM 4:16\" class=\"v\">16</span>Therefore <span class=\"add\">it is</span> of faith, that <span class=\"add\">it might be</span> by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.4.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "ROM.4.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a58289b5-d2b4-4461-b345-0975d17f8997');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a58289b5-d2b4-4461-b345-0975d17f8997'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a58289b5-d2b4-4461-b345-0975d17f8997",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a58289b5-d2b4-4461-b345-0975d17f8997'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a58289b5-d2b4-4461-b345-0975d17f8997\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

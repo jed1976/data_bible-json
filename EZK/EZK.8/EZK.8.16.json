@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.8.16",
+    "orgId": "EZK.8.16",
+    "bookId": "EZK",
+    "chapterId": "EZK.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 8:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"EZK 8:16\" class=\"v\">16</span>And he brought me into the inner court of the <span class=\"nd\">LORD’s</span> house, and, behold, at the door of the temple of the <span class=\"nd\">LORD</span>, between the porch and the altar, <span class=\"add\">were</span> about five and twenty men, with their backs toward the temple of the <span class=\"nd\">LORD</span>, and their faces toward the east; and they worshipped the sun toward the east.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.8.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "EZK.8.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2ee6bfd5-f4a2-4436-a646-22d564521a90');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2ee6bfd5-f4a2-4436-a646-22d564521a90'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2ee6bfd5-f4a2-4436-a646-22d564521a90",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2ee6bfd5-f4a2-4436-a646-22d564521a90'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2ee6bfd5-f4a2-4436-a646-22d564521a90\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

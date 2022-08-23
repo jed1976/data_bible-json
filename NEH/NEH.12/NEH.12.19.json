@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.12.19",
+    "orgId": "NEH.12.19",
+    "bookId": "NEH",
+    "chapterId": "NEH.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 12:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"NEH 12:19\" class=\"v\">19</span>And of Joiarib, Mattenai; of Jedaiah, Uzzi; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.12.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "NEH.12.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8456c51e-c7e7-4382-ac6e-88fd20c9c7bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8456c51e-c7e7-4382-ac6e-88fd20c9c7bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8456c51e-c7e7-4382-ac6e-88fd20c9c7bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8456c51e-c7e7-4382-ac6e-88fd20c9c7bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8456c51e-c7e7-4382-ac6e-88fd20c9c7bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

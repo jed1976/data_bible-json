@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.7.7",
+    "orgId": "LUK.7.7",
+    "bookId": "LUK",
+    "chapterId": "LUK.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"LUK 7:7\" class=\"v\">7</span>Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "LUK.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3b5282be-36c6-4573-b6cc-236e0d6d307d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3b5282be-36c6-4573-b6cc-236e0d6d307d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3b5282be-36c6-4573-b6cc-236e0d6d307d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3b5282be-36c6-4573-b6cc-236e0d6d307d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3b5282be-36c6-4573-b6cc-236e0d6d307d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

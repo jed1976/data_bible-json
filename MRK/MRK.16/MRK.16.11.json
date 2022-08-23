@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.16.11",
+    "orgId": "MRK.16.11",
+    "bookId": "MRK",
+    "chapterId": "MRK.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 16:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"MRK 16:11\" class=\"v\">11</span>And they, when they had heard that he was alive, and had been seen of her, believed not.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.16.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "MRK.16.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b858a721-403d-4ae4-acc6-b7f7673aea0b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b858a721-403d-4ae4-acc6-b7f7673aea0b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b858a721-403d-4ae4-acc6-b7f7673aea0b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b858a721-403d-4ae4-acc6-b7f7673aea0b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b858a721-403d-4ae4-acc6-b7f7673aea0b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.6.7",
+    "orgId": "DAN.6.8",
+    "bookId": "DAN",
+    "chapterId": "DAN.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 6:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DAN 6:7\" class=\"v\">7</span>All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.6.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DAN.6.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aca0c63e-b639-4828-9b7c-a82bcef5a367');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aca0c63e-b639-4828-9b7c-a82bcef5a367'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aca0c63e-b639-4828-9b7c-a82bcef5a367",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aca0c63e-b639-4828-9b7c-a82bcef5a367'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aca0c63e-b639-4828-9b7c-a82bcef5a367\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

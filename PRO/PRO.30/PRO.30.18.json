@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.30.18",
+    "orgId": "PRO.30.18",
+    "bookId": "PRO",
+    "chapterId": "PRO.30",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 30:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"PRO 30:18\" class=\"v\">18</span>There be three <span class=\"add\">things which</span> are too wonderful for me, yea, four which I know not: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.30.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PRO.30.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('27b87036-9014-4828-9132-5192a236bc0d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='27b87036-9014-4828-9132-5192a236bc0d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "27b87036-9014-4828-9132-5192a236bc0d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('27b87036-9014-4828-9132-5192a236bc0d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=27b87036-9014-4828-9132-5192a236bc0d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

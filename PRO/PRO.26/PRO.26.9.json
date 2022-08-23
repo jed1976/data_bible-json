@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.26.9",
+    "orgId": "PRO.26.9",
+    "bookId": "PRO",
+    "chapterId": "PRO.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 26:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"PRO 26:9\" class=\"v\">9</span><span class=\"add\">As</span> a thorn goeth up into the hand of a drunkard, so <span class=\"add\">is</span> a parable in the mouth of fools. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.26.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "PRO.26.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0e846a53-12de-45cf-8aaa-8bf3407758eb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0e846a53-12de-45cf-8aaa-8bf3407758eb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0e846a53-12de-45cf-8aaa-8bf3407758eb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0e846a53-12de-45cf-8aaa-8bf3407758eb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0e846a53-12de-45cf-8aaa-8bf3407758eb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

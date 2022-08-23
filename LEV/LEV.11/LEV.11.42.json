@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.11.42",
+    "orgId": "LEV.11.42",
+    "bookId": "LEV",
+    "chapterId": "LEV.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 11:42",
+    "content": "<p class=\"p\"><span data-number=\"42\" data-sid=\"LEV 11:42\" class=\"v\">42</span>Whatsoever goeth upon the belly, and whatsoever goeth upon <span class=\"add\">all</span> four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they <span class=\"add\">are</span> an abomination.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.11.43",
+      "number": "43"
+    },
+    "previous": {
+      "id": "LEV.11.41",
+      "number": "41"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2994ae3a-f2f6-4cd0-acd5-03e62c2b8ccf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2994ae3a-f2f6-4cd0-acd5-03e62c2b8ccf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2994ae3a-f2f6-4cd0-acd5-03e62c2b8ccf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2994ae3a-f2f6-4cd0-acd5-03e62c2b8ccf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2994ae3a-f2f6-4cd0-acd5-03e62c2b8ccf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

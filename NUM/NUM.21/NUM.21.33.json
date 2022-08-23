@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.21.33",
+    "orgId": "NUM.21.33",
+    "bookId": "NUM",
+    "chapterId": "NUM.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 21:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"NUM 21:33\" class=\"v\">33</span>¶ And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.21.34",
+      "number": "34"
+    },
+    "previous": {
+      "id": "NUM.21.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('928b8a12-cc3d-42d1-83e7-8c378af63d73');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='928b8a12-cc3d-42d1-83e7-8c378af63d73'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "928b8a12-cc3d-42d1-83e7-8c378af63d73",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('928b8a12-cc3d-42d1-83e7-8c378af63d73'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=928b8a12-cc3d-42d1-83e7-8c378af63d73\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

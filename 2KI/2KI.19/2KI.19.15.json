@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.19.15",
+    "orgId": "2KI.19.15",
+    "bookId": "2KI",
+    "chapterId": "2KI.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 19:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"2KI 19:15\" class=\"v\">15</span>And Hezekiah prayed before the <span class=\"nd\">LORD</span>, and said, O <span class=\"nd\">LORD</span> God of Israel, which dwellest <span class=\"add\">between</span> the cherubims, thou art the God, <span class=\"add\">even</span> thou alone, of all the kingdoms of the earth; thou hast made heaven and earth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.19.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "2KI.19.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6527b2dc-c604-4411-b5d3-ac0d412d3851');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6527b2dc-c604-4411-b5d3-ac0d412d3851'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6527b2dc-c604-4411-b5d3-ac0d412d3851",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6527b2dc-c604-4411-b5d3-ac0d412d3851'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6527b2dc-c604-4411-b5d3-ac0d412d3851\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

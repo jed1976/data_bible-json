@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.2.1",
+    "orgId": "EZK.2.1",
+    "bookId": "EZK",
+    "chapterId": "EZK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 2:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EZK 2:1\" class=\"v\">1</span>And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.2.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "EZK.1.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2779e1b8-f971-4de2-8437-b7ad2cf8c0bc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2779e1b8-f971-4de2-8437-b7ad2cf8c0bc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2779e1b8-f971-4de2-8437-b7ad2cf8c0bc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2779e1b8-f971-4de2-8437-b7ad2cf8c0bc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2779e1b8-f971-4de2-8437-b7ad2cf8c0bc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

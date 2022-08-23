@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.14.27",
+    "orgId": "JHN.14.27",
+    "bookId": "JHN",
+    "chapterId": "JHN.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 14:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"JHN 14:27\" class=\"v\">27</span><span class=\"wj\">Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.14.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "JHN.14.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8cd7a964-7b87-4f63-910a-e8cf70c45185');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8cd7a964-7b87-4f63-910a-e8cf70c45185'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8cd7a964-7b87-4f63-910a-e8cf70c45185",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8cd7a964-7b87-4f63-910a-e8cf70c45185'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8cd7a964-7b87-4f63-910a-e8cf70c45185\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

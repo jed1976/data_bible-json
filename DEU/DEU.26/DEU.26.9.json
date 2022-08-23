@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.26.9",
+    "orgId": "DEU.26.9",
+    "bookId": "DEU",
+    "chapterId": "DEU.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 26:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"DEU 26:9\" class=\"v\">9</span>And he hath brought us into this place, and hath given us this land, <span class=\"add\">even</span> a land that floweth with milk and honey. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.26.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "DEU.26.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('62f16b87-fd3d-40f4-849e-46c7242a792c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='62f16b87-fd3d-40f4-849e-46c7242a792c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "62f16b87-fd3d-40f4-849e-46c7242a792c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('62f16b87-fd3d-40f4-849e-46c7242a792c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=62f16b87-fd3d-40f4-849e-46c7242a792c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.1.10",
+    "orgId": "JOS.1.10",
+    "bookId": "JOS",
+    "chapterId": "JOS.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 1:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JOS 1:10\" class=\"v\">10</span>¶ Then Joshua commanded the officers of the people, saying, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.1.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "JOS.1.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('84710552-361c-4e16-ba31-72fb9c3f55da');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='84710552-361c-4e16-ba31-72fb9c3f55da'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "84710552-361c-4e16-ba31-72fb9c3f55da",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('84710552-361c-4e16-ba31-72fb9c3f55da'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=84710552-361c-4e16-ba31-72fb9c3f55da\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

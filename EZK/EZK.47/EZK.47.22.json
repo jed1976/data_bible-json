@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.47.22",
+    "orgId": "EZK.47.22",
+    "bookId": "EZK",
+    "chapterId": "EZK.47",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 47:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"EZK 47:22\" class=\"v\">22</span>¶ And it shall come to pass, <span class=\"add\">that</span> ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.47.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "EZK.47.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bfae293a-6d85-4150-ad58-6ec1d2948d20');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bfae293a-6d85-4150-ad58-6ec1d2948d20'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bfae293a-6d85-4150-ad58-6ec1d2948d20",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bfae293a-6d85-4150-ad58-6ec1d2948d20'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bfae293a-6d85-4150-ad58-6ec1d2948d20\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "PSA.123.1",
+      "orgId": "PSA.123.1",
+      "bookId": "PSA",
+      "chapterId": "PSA.123",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 123:1"
+    },
+    {
+      "id": "PSA.123.2",
+      "orgId": "PSA.123.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.123",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 123:2"
+    },
+    {
+      "id": "PSA.123.3",
+      "orgId": "PSA.123.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.123",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 123:3"
+    },
+    {
+      "id": "PSA.123.4",
+      "orgId": "PSA.123.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.123",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 123:4"
+    }
+  ]
+}

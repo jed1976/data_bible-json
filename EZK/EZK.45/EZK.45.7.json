@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.45.7",
+    "orgId": "EZK.45.7",
+    "bookId": "EZK",
+    "chapterId": "EZK.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 45:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 45:7\" class=\"v\">7</span>¶ And a <span class=\"add\">portion shall be</span> for the prince on the one side and on the other side of the oblation of the holy <span class=\"add\">portion</span>, and of the possession of the city, before the oblation of the holy <span class=\"add\">portion</span>, and before the possession of the city, from the west side westward, and from the east side eastward: and the length <span class=\"add\">shall be</span> over against one of the portions, from the west border unto the east border. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.45.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EZK.45.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c4fcced5-3330-4ad1-88f4-4a6b6b346782');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c4fcced5-3330-4ad1-88f4-4a6b6b346782'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c4fcced5-3330-4ad1-88f4-4a6b6b346782",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c4fcced5-3330-4ad1-88f4-4a6b6b346782'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c4fcced5-3330-4ad1-88f4-4a6b6b346782\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

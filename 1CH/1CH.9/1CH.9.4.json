@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.9.4",
+    "orgId": "1CH.9.4",
+    "bookId": "1CH",
+    "chapterId": "1CH.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 9:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"1CH 9:4\" class=\"v\">4</span>Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.9.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "1CH.9.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fc00d51b-d145-4136-827d-1d1708348aec');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fc00d51b-d145-4136-827d-1d1708348aec'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fc00d51b-d145-4136-827d-1d1708348aec",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fc00d51b-d145-4136-827d-1d1708348aec'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fc00d51b-d145-4136-827d-1d1708348aec\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "PHM.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "PHM",
+      "number": "intro",
+      "reference": "Philemon"
+    },
+    {
+      "id": "PHM.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "PHM",
+      "number": "1",
+      "reference": "Philemon 1"
+    }
+  ]
+}

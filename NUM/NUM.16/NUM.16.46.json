@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.16.46",
+    "orgId": "NUM.17.11",
+    "bookId": "NUM",
+    "chapterId": "NUM.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 16:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"NUM 16:46\" class=\"v\">46</span>¶ And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the <span class=\"nd\">LORD</span>; the plague is begun. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.16.47",
+      "number": "47"
+    },
+    "previous": {
+      "id": "NUM.16.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6028a827-6ce7-484f-9bd6-747c861a74ba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6028a827-6ce7-484f-9bd6-747c861a74ba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6028a827-6ce7-484f-9bd6-747c861a74ba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6028a827-6ce7-484f-9bd6-747c861a74ba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6028a827-6ce7-484f-9bd6-747c861a74ba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

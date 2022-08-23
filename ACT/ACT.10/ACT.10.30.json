@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.10.30",
+    "orgId": "ACT.10.30",
+    "bookId": "ACT",
+    "chapterId": "ACT.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 10:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"ACT 10:30\" class=\"v\">30</span>And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.10.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "ACT.10.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('07580093-e4ad-4c01-af2f-b831fefde745');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='07580093-e4ad-4c01-af2f-b831fefde745'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "07580093-e4ad-4c01-af2f-b831fefde745",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('07580093-e4ad-4c01-af2f-b831fefde745'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=07580093-e4ad-4c01-af2f-b831fefde745\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "PSA.3.1",
+      "orgId": "PSA.3.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:1"
+    },
+    {
+      "id": "PSA.3.2",
+      "orgId": "PSA.3.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:2"
+    },
+    {
+      "id": "PSA.3.3",
+      "orgId": "PSA.3.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:3"
+    },
+    {
+      "id": "PSA.3.4",
+      "orgId": "PSA.3.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:4"
+    },
+    {
+      "id": "PSA.3.5",
+      "orgId": "PSA.3.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:5"
+    },
+    {
+      "id": "PSA.3.6",
+      "orgId": "PSA.3.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:6"
+    },
+    {
+      "id": "PSA.3.7",
+      "orgId": "PSA.3.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:7"
+    },
+    {
+      "id": "PSA.3.8",
+      "orgId": "PSA.3.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 3:8"
+    }
+  ]
+}

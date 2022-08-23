@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.9.49",
+    "orgId": "JDG.9.49",
+    "bookId": "JDG",
+    "chapterId": "JDG.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 9:49",
+    "content": "<p class=\"p\"><span data-number=\"49\" data-sid=\"JDG 9:49\" class=\"v\">49</span>And all the people likewise cut down every man his bough, and followed Abimelech, and put <span class=\"add\">them</span> to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.9.50",
+      "number": "50"
+    },
+    "previous": {
+      "id": "JDG.9.48",
+      "number": "48"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e40ae238-f09a-4fe6-9fb5-16a863c5f73e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e40ae238-f09a-4fe6-9fb5-16a863c5f73e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e40ae238-f09a-4fe6-9fb5-16a863c5f73e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e40ae238-f09a-4fe6-9fb5-16a863c5f73e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e40ae238-f09a-4fe6-9fb5-16a863c5f73e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

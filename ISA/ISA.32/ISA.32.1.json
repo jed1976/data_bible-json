@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.32.1",
+    "orgId": "ISA.32.1",
+    "bookId": "ISA",
+    "chapterId": "ISA.32",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 32:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 32:1\" class=\"v\">1</span>Behold, a king shall reign in righteousness, and princes shall rule in judgment. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.32.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ISA.31.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b9a2d4d1-a7c2-4314-9bb0-35e87598610d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b9a2d4d1-a7c2-4314-9bb0-35e87598610d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b9a2d4d1-a7c2-4314-9bb0-35e87598610d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b9a2d4d1-a7c2-4314-9bb0-35e87598610d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b9a2d4d1-a7c2-4314-9bb0-35e87598610d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

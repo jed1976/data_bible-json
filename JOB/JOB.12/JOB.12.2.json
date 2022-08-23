@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.12.2",
+    "orgId": "JOB.12.2",
+    "bookId": "JOB",
+    "chapterId": "JOB.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 12:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"JOB 12:2\" class=\"v\">2</span>No doubt but ye <span class=\"add\">are</span> the people, and wisdom shall die with you. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.12.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "JOB.12.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('62748b65-cc46-4dc7-bdf2-e79a3813e81e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='62748b65-cc46-4dc7-bdf2-e79a3813e81e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "62748b65-cc46-4dc7-bdf2-e79a3813e81e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('62748b65-cc46-4dc7-bdf2-e79a3813e81e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=62748b65-cc46-4dc7-bdf2-e79a3813e81e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

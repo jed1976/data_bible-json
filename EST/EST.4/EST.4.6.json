@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.4.6",
+    "orgId": "EST.4.6",
+    "bookId": "EST",
+    "chapterId": "EST.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 4:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"EST 4:6\" class=\"v\">6</span>So Hatach went forth to Mordecai unto the street of the city, which <span class=\"add\">was</span> before the king’s gate. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.4.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "EST.4.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4c79dd37-931f-45ab-afde-24c2d2a1a7fc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4c79dd37-931f-45ab-afde-24c2d2a1a7fc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4c79dd37-931f-45ab-afde-24c2d2a1a7fc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4c79dd37-931f-45ab-afde-24c2d2a1a7fc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4c79dd37-931f-45ab-afde-24c2d2a1a7fc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

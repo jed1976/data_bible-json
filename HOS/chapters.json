@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": "HOS.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "intro",
+      "reference": "Hosea"
+    },
+    {
+      "id": "HOS.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "1",
+      "reference": "Hosea 1"
+    },
+    {
+      "id": "HOS.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "2",
+      "reference": "Hosea 2"
+    },
+    {
+      "id": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "3",
+      "reference": "Hosea 3"
+    },
+    {
+      "id": "HOS.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "4",
+      "reference": "Hosea 4"
+    },
+    {
+      "id": "HOS.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "5",
+      "reference": "Hosea 5"
+    },
+    {
+      "id": "HOS.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "6",
+      "reference": "Hosea 6"
+    },
+    {
+      "id": "HOS.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "7",
+      "reference": "Hosea 7"
+    },
+    {
+      "id": "HOS.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "8",
+      "reference": "Hosea 8"
+    },
+    {
+      "id": "HOS.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "9",
+      "reference": "Hosea 9"
+    },
+    {
+      "id": "HOS.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "10",
+      "reference": "Hosea 10"
+    },
+    {
+      "id": "HOS.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "11",
+      "reference": "Hosea 11"
+    },
+    {
+      "id": "HOS.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "12",
+      "reference": "Hosea 12"
+    },
+    {
+      "id": "HOS.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "13",
+      "reference": "Hosea 13"
+    },
+    {
+      "id": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HOS",
+      "number": "14",
+      "reference": "Hosea 14"
+    }
+  ]
+}

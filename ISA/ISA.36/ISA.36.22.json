@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.36.22",
+    "orgId": "ISA.36.22",
+    "bookId": "ISA",
+    "chapterId": "ISA.36",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 36:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"ISA 36:22\" class=\"v\">22</span>¶ Then came Eliakim, the son of Hilkiah, that <span class=\"add\">was</span> over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with <span class=\"add\">their</span> clothes rent, and told him the words of Rabshakeh.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.37.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "ISA.36.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7841fd43-f009-432a-bb79-f74a30f9d879');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7841fd43-f009-432a-bb79-f74a30f9d879'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7841fd43-f009-432a-bb79-f74a30f9d879",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7841fd43-f009-432a-bb79-f74a30f9d879'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7841fd43-f009-432a-bb79-f74a30f9d879\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.3.25",
+    "orgId": "NEH.3.25",
+    "bookId": "NEH",
+    "chapterId": "NEH.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 3:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"NEH 3:25\" class=\"v\">25</span>Palal the son of Uzai, over against the turning <span class=\"add\">of the wall</span>, and the tower which lieth out from the king’s high house, that <span class=\"add\">was</span> by the court of the prison. After him Pedaiah the son of Parosh. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.3.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "NEH.3.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fdabc8e4-f6e8-42ad-ade5-0618d7198121');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fdabc8e4-f6e8-42ad-ade5-0618d7198121'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fdabc8e4-f6e8-42ad-ade5-0618d7198121",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fdabc8e4-f6e8-42ad-ade5-0618d7198121'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fdabc8e4-f6e8-42ad-ade5-0618d7198121\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

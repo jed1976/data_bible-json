@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.27.4",
+    "orgId": "PRO.27.4",
+    "bookId": "PRO",
+    "chapterId": "PRO.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 27:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"PRO 27:4\" class=\"v\">4</span>Wrath <span class=\"add\">is</span> cruel, and anger <span class=\"add\">is</span> outrageous; but who <span class=\"add\">is</span> able to stand before envy?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.27.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "PRO.27.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6b4a5944-5c07-40cf-921e-c7f52b531264');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6b4a5944-5c07-40cf-921e-c7f52b531264'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6b4a5944-5c07-40cf-921e-c7f52b531264",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6b4a5944-5c07-40cf-921e-c7f52b531264'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6b4a5944-5c07-40cf-921e-c7f52b531264\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

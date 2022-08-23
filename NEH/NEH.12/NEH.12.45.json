@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.12.45",
+    "orgId": "NEH.12.45",
+    "bookId": "NEH",
+    "chapterId": "NEH.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 12:45",
+    "content": "<p class=\"p\"><span data-number=\"45\" data-sid=\"NEH 12:45\" class=\"v\">45</span>And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, <span class=\"add\">and</span> of Solomon his son. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.12.46",
+      "number": "46"
+    },
+    "previous": {
+      "id": "NEH.12.44",
+      "number": "44"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a29dbd2a-d82c-4470-8f91-6900ebdd7028');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a29dbd2a-d82c-4470-8f91-6900ebdd7028'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a29dbd2a-d82c-4470-8f91-6900ebdd7028",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a29dbd2a-d82c-4470-8f91-6900ebdd7028'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a29dbd2a-d82c-4470-8f91-6900ebdd7028\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

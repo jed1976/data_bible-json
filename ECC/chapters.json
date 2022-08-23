@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "ECC.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "intro",
+      "reference": "Ecclesiastes"
+    },
+    {
+      "id": "ECC.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "1",
+      "reference": "Ecclesiastes 1"
+    },
+    {
+      "id": "ECC.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "2",
+      "reference": "Ecclesiastes 2"
+    },
+    {
+      "id": "ECC.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "3",
+      "reference": "Ecclesiastes 3"
+    },
+    {
+      "id": "ECC.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "4",
+      "reference": "Ecclesiastes 4"
+    },
+    {
+      "id": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "5",
+      "reference": "Ecclesiastes 5"
+    },
+    {
+      "id": "ECC.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "6",
+      "reference": "Ecclesiastes 6"
+    },
+    {
+      "id": "ECC.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "7",
+      "reference": "Ecclesiastes 7"
+    },
+    {
+      "id": "ECC.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "8",
+      "reference": "Ecclesiastes 8"
+    },
+    {
+      "id": "ECC.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "9",
+      "reference": "Ecclesiastes 9"
+    },
+    {
+      "id": "ECC.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "10",
+      "reference": "Ecclesiastes 10"
+    },
+    {
+      "id": "ECC.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "11",
+      "reference": "Ecclesiastes 11"
+    },
+    {
+      "id": "ECC.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ECC",
+      "number": "12",
+      "reference": "Ecclesiastes 12"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZR.4.24",
+    "orgId": "EZR.4.24",
+    "bookId": "EZR",
+    "chapterId": "EZR.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezra 4:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"EZR 4:24\" class=\"v\">24</span>Then ceased the work of the house of God which <span class=\"add\">is</span> at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZR.5.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EZR.4.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('49a51069-59df-41d4-80eb-8bbe16e635f3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='49a51069-59df-41d4-80eb-8bbe16e635f3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "49a51069-59df-41d4-80eb-8bbe16e635f3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('49a51069-59df-41d4-80eb-8bbe16e635f3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=49a51069-59df-41d4-80eb-8bbe16e635f3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

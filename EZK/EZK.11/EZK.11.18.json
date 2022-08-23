@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.11.18",
+    "orgId": "EZK.11.18",
+    "bookId": "EZK",
+    "chapterId": "EZK.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 11:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"EZK 11:18\" class=\"v\">18</span>And they shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.11.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "EZK.11.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bcc9a792-8959-417b-9f11-bcdd5b4e3dcd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bcc9a792-8959-417b-9f11-bcdd5b4e3dcd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bcc9a792-8959-417b-9f11-bcdd5b4e3dcd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bcc9a792-8959-417b-9f11-bcdd5b4e3dcd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bcc9a792-8959-417b-9f11-bcdd5b4e3dcd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

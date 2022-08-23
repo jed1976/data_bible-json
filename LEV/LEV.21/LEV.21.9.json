@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.21.9",
+    "orgId": "LEV.21.9",
+    "bookId": "LEV",
+    "chapterId": "LEV.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 21:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"LEV 21:9\" class=\"v\">9</span>¶ And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.21.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "LEV.21.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('11c8a3bc-4fee-4340-8871-d35dd2609ebb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='11c8a3bc-4fee-4340-8871-d35dd2609ebb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "11c8a3bc-4fee-4340-8871-d35dd2609ebb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('11c8a3bc-4fee-4340-8871-d35dd2609ebb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=11c8a3bc-4fee-4340-8871-d35dd2609ebb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

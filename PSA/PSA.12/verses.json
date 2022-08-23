@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "PSA.12.1",
+      "orgId": "PSA.12.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:1"
+    },
+    {
+      "id": "PSA.12.2",
+      "orgId": "PSA.12.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:2"
+    },
+    {
+      "id": "PSA.12.3",
+      "orgId": "PSA.12.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:3"
+    },
+    {
+      "id": "PSA.12.4",
+      "orgId": "PSA.12.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:4"
+    },
+    {
+      "id": "PSA.12.5",
+      "orgId": "PSA.12.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:5"
+    },
+    {
+      "id": "PSA.12.6",
+      "orgId": "PSA.12.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:6"
+    },
+    {
+      "id": "PSA.12.7",
+      "orgId": "PSA.12.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:7"
+    },
+    {
+      "id": "PSA.12.8",
+      "orgId": "PSA.12.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 12:8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.4.19",
+    "orgId": "DAN.4.16",
+    "bookId": "DAN",
+    "chapterId": "DAN.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 4:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"DAN 4:19\" class=\"v\">19</span>¶ Then Daniel, whose name <span class=\"add\">was</span> Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream <span class=\"add\">be</span> to them that hate thee, and the interpretation thereof to thine enemies. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.4.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "DAN.4.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('08e2b806-9781-42f2-9345-15f69936618c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='08e2b806-9781-42f2-9345-15f69936618c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "08e2b806-9781-42f2-9345-15f69936618c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('08e2b806-9781-42f2-9345-15f69936618c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=08e2b806-9781-42f2-9345-15f69936618c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

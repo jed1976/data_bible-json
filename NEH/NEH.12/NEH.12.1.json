@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.12.1",
+    "orgId": "NEH.12.1",
+    "bookId": "NEH",
+    "chapterId": "NEH.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 12:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"NEH 12:1\" class=\"v\">1</span>Now these <span class=\"add\">are</span> the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.12.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "NEH.11.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('adf88f27-e818-4936-b4fd-baed452e6aa0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='adf88f27-e818-4936-b4fd-baed452e6aa0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "adf88f27-e818-4936-b4fd-baed452e6aa0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('adf88f27-e818-4936-b4fd-baed452e6aa0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=adf88f27-e818-4936-b4fd-baed452e6aa0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

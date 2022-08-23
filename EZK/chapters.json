@@ -1,0 +1,347 @@
+{
+  "data": [
+    {
+      "id": "EZK.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "intro",
+      "reference": "Ezekiel"
+    },
+    {
+      "id": "EZK.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "1",
+      "reference": "Ezekiel 1"
+    },
+    {
+      "id": "EZK.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "2",
+      "reference": "Ezekiel 2"
+    },
+    {
+      "id": "EZK.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "3",
+      "reference": "Ezekiel 3"
+    },
+    {
+      "id": "EZK.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "4",
+      "reference": "Ezekiel 4"
+    },
+    {
+      "id": "EZK.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "5",
+      "reference": "Ezekiel 5"
+    },
+    {
+      "id": "EZK.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "6",
+      "reference": "Ezekiel 6"
+    },
+    {
+      "id": "EZK.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "7",
+      "reference": "Ezekiel 7"
+    },
+    {
+      "id": "EZK.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "8",
+      "reference": "Ezekiel 8"
+    },
+    {
+      "id": "EZK.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "9",
+      "reference": "Ezekiel 9"
+    },
+    {
+      "id": "EZK.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "10",
+      "reference": "Ezekiel 10"
+    },
+    {
+      "id": "EZK.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "11",
+      "reference": "Ezekiel 11"
+    },
+    {
+      "id": "EZK.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "12",
+      "reference": "Ezekiel 12"
+    },
+    {
+      "id": "EZK.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "13",
+      "reference": "Ezekiel 13"
+    },
+    {
+      "id": "EZK.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "14",
+      "reference": "Ezekiel 14"
+    },
+    {
+      "id": "EZK.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "15",
+      "reference": "Ezekiel 15"
+    },
+    {
+      "id": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "16",
+      "reference": "Ezekiel 16"
+    },
+    {
+      "id": "EZK.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "17",
+      "reference": "Ezekiel 17"
+    },
+    {
+      "id": "EZK.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "18",
+      "reference": "Ezekiel 18"
+    },
+    {
+      "id": "EZK.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "19",
+      "reference": "Ezekiel 19"
+    },
+    {
+      "id": "EZK.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "20",
+      "reference": "Ezekiel 20"
+    },
+    {
+      "id": "EZK.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "21",
+      "reference": "Ezekiel 21"
+    },
+    {
+      "id": "EZK.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "22",
+      "reference": "Ezekiel 22"
+    },
+    {
+      "id": "EZK.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "23",
+      "reference": "Ezekiel 23"
+    },
+    {
+      "id": "EZK.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "24",
+      "reference": "Ezekiel 24"
+    },
+    {
+      "id": "EZK.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "25",
+      "reference": "Ezekiel 25"
+    },
+    {
+      "id": "EZK.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "26",
+      "reference": "Ezekiel 26"
+    },
+    {
+      "id": "EZK.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "27",
+      "reference": "Ezekiel 27"
+    },
+    {
+      "id": "EZK.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "28",
+      "reference": "Ezekiel 28"
+    },
+    {
+      "id": "EZK.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "29",
+      "reference": "Ezekiel 29"
+    },
+    {
+      "id": "EZK.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "30",
+      "reference": "Ezekiel 30"
+    },
+    {
+      "id": "EZK.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "31",
+      "reference": "Ezekiel 31"
+    },
+    {
+      "id": "EZK.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "32",
+      "reference": "Ezekiel 32"
+    },
+    {
+      "id": "EZK.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "33",
+      "reference": "Ezekiel 33"
+    },
+    {
+      "id": "EZK.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "34",
+      "reference": "Ezekiel 34"
+    },
+    {
+      "id": "EZK.35",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "35",
+      "reference": "Ezekiel 35"
+    },
+    {
+      "id": "EZK.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "36",
+      "reference": "Ezekiel 36"
+    },
+    {
+      "id": "EZK.37",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "37",
+      "reference": "Ezekiel 37"
+    },
+    {
+      "id": "EZK.38",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "38",
+      "reference": "Ezekiel 38"
+    },
+    {
+      "id": "EZK.39",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "39",
+      "reference": "Ezekiel 39"
+    },
+    {
+      "id": "EZK.40",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "40",
+      "reference": "Ezekiel 40"
+    },
+    {
+      "id": "EZK.41",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "41",
+      "reference": "Ezekiel 41"
+    },
+    {
+      "id": "EZK.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "42",
+      "reference": "Ezekiel 42"
+    },
+    {
+      "id": "EZK.43",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "43",
+      "reference": "Ezekiel 43"
+    },
+    {
+      "id": "EZK.44",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "44",
+      "reference": "Ezekiel 44"
+    },
+    {
+      "id": "EZK.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "45",
+      "reference": "Ezekiel 45"
+    },
+    {
+      "id": "EZK.46",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "46",
+      "reference": "Ezekiel 46"
+    },
+    {
+      "id": "EZK.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "47",
+      "reference": "Ezekiel 47"
+    },
+    {
+      "id": "EZK.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "EZK",
+      "number": "48",
+      "reference": "Ezekiel 48"
+    }
+  ]
+}

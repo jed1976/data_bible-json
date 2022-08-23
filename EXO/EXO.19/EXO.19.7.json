@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.19.7",
+    "orgId": "EXO.19.7",
+    "bookId": "EXO",
+    "chapterId": "EXO.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 19:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EXO 19:7\" class=\"v\">7</span>¶ And Moses came and called for the elders of the people, and laid before their faces all these words which the <span class=\"nd\">LORD</span> commanded him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.19.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EXO.19.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff0aa681-f4aa-4be9-88cb-2716a70c72fa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff0aa681-f4aa-4be9-88cb-2716a70c72fa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff0aa681-f4aa-4be9-88cb-2716a70c72fa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff0aa681-f4aa-4be9-88cb-2716a70c72fa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff0aa681-f4aa-4be9-88cb-2716a70c72fa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

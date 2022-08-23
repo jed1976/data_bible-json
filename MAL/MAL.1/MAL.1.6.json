@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAL.1.6",
+    "orgId": "MAL.1.6",
+    "bookId": "MAL",
+    "chapterId": "MAL.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Malachi 1:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"MAL 1:6\" class=\"v\">6</span>¶ A son honoureth <span class=\"add\">his</span> father, and a servant his master: if then I <span class=\"add\">be</span> a father, where <span class=\"add\">is</span> mine honour? and if I <span class=\"add\">be</span> a master, where <span class=\"add\">is</span> my fear? saith the <span class=\"nd\">LORD</span> of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAL.1.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "MAL.1.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('939c6dc6-1369-4858-b5e5-f86cad041617');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='939c6dc6-1369-4858-b5e5-f86cad041617'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "939c6dc6-1369-4858-b5e5-f86cad041617",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('939c6dc6-1369-4858-b5e5-f86cad041617'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=939c6dc6-1369-4858-b5e5-f86cad041617\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

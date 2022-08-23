@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.38.8",
+    "orgId": "ISA.38.8",
+    "bookId": "ISA",
+    "chapterId": "ISA.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 38:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"ISA 38:8\" class=\"v\">8</span>Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.38.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "ISA.38.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('de8523e2-af53-4777-bd90-1b3a2edc1bb7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='de8523e2-af53-4777-bd90-1b3a2edc1bb7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "de8523e2-af53-4777-bd90-1b3a2edc1bb7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('de8523e2-af53-4777-bd90-1b3a2edc1bb7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=de8523e2-af53-4777-bd90-1b3a2edc1bb7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

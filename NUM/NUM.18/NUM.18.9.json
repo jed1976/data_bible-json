@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.18.9",
+    "orgId": "NUM.18.9",
+    "bookId": "NUM",
+    "chapterId": "NUM.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 18:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"NUM 18:9\" class=\"v\">9</span>This shall be thine of the most holy things, <span class=\"add\">reserved</span> from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, <span class=\"add\">shall be</span> most holy for thee and for thy sons. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.18.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "NUM.18.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('08a04321-7394-46c0-b340-fba4bc24c9d5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='08a04321-7394-46c0-b340-fba4bc24c9d5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "08a04321-7394-46c0-b340-fba4bc24c9d5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('08a04321-7394-46c0-b340-fba4bc24c9d5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=08a04321-7394-46c0-b340-fba4bc24c9d5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

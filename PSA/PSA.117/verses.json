@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "PSA.117.1",
+      "orgId": "PSA.117.1",
+      "bookId": "PSA",
+      "chapterId": "PSA.117",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 117:1"
+    },
+    {
+      "id": "PSA.117.2",
+      "orgId": "PSA.117.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.117",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 117:2"
+    }
+  ]
+}

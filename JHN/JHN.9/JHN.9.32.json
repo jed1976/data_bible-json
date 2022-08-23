@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.9.32",
+    "orgId": "JHN.9.32",
+    "bookId": "JHN",
+    "chapterId": "JHN.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 9:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"JHN 9:32\" class=\"v\">32</span>Since the world began was it not heard that any man opened the eyes of one that was born blind. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.9.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "JHN.9.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d0568075-8f8a-4f08-b0f9-7523f87c316b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d0568075-8f8a-4f08-b0f9-7523f87c316b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d0568075-8f8a-4f08-b0f9-7523f87c316b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d0568075-8f8a-4f08-b0f9-7523f87c316b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d0568075-8f8a-4f08-b0f9-7523f87c316b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

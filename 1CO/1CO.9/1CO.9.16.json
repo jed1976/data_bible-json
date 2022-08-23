@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.9.16",
+    "orgId": "1CO.9.16",
+    "bookId": "1CO",
+    "chapterId": "1CO.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 9:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"1CO 9:16\" class=\"v\">16</span>For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel! </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.9.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "1CO.9.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5fc28b0d-b7d2-4358-9c37-42f1f12e376b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5fc28b0d-b7d2-4358-9c37-42f1f12e376b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5fc28b0d-b7d2-4358-9c37-42f1f12e376b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5fc28b0d-b7d2-4358-9c37-42f1f12e376b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5fc28b0d-b7d2-4358-9c37-42f1f12e376b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

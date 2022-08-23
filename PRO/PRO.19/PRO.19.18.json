@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.19.18",
+    "orgId": "PRO.19.18",
+    "bookId": "PRO",
+    "chapterId": "PRO.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 19:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"PRO 19:18\" class=\"v\">18</span>Chasten thy son while there is hope, and let not thy soul spare for his crying. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.19.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PRO.19.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6a5f3072-25b9-44cd-b0a1-22bb3fe698ca');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6a5f3072-25b9-44cd-b0a1-22bb3fe698ca'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6a5f3072-25b9-44cd-b0a1-22bb3fe698ca",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6a5f3072-25b9-44cd-b0a1-22bb3fe698ca'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6a5f3072-25b9-44cd-b0a1-22bb3fe698ca\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.54.1",
+    "orgId": "ISA.54.1",
+    "bookId": "ISA",
+    "chapterId": "ISA.54",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 54:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 54:1\" class=\"v\">1</span>Sing, O barren, thou <span class=\"add\">that</span> didst not bear; break forth into singing, and cry aloud, thou <span class=\"add\">that</span> didst not travail with child: for more <span class=\"add\">are</span> the children of the desolate than the children of the married wife, saith the <span class=\"nd\">LORD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.54.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ISA.53.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c208708f-0d74-4f76-8201-caab388cf811');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c208708f-0d74-4f76-8201-caab388cf811'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c208708f-0d74-4f76-8201-caab388cf811",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c208708f-0d74-4f76-8201-caab388cf811'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c208708f-0d74-4f76-8201-caab388cf811\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

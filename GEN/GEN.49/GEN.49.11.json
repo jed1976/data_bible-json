@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.49.11",
+    "orgId": "GEN.49.11",
+    "bookId": "GEN",
+    "chapterId": "GEN.49",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 49:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"GEN 49:11\" class=\"v\">11</span>Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.49.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "GEN.49.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a3976bae-d748-410b-a199-f7dceb5ba00b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a3976bae-d748-410b-a199-f7dceb5ba00b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a3976bae-d748-410b-a199-f7dceb5ba00b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a3976bae-d748-410b-a199-f7dceb5ba00b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a3976bae-d748-410b-a199-f7dceb5ba00b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

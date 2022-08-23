@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.5.13",
+    "orgId": "ACT.5.13",
+    "bookId": "ACT",
+    "chapterId": "ACT.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 5:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ACT 5:13\" class=\"v\">13</span>And of the rest durst no man join himself to them: but the people magnified them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.5.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ACT.5.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b76efeb5-500b-4f1e-887c-c988cf3473da');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b76efeb5-500b-4f1e-887c-c988cf3473da'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b76efeb5-500b-4f1e-887c-c988cf3473da",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b76efeb5-500b-4f1e-887c-c988cf3473da'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b76efeb5-500b-4f1e-887c-c988cf3473da\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

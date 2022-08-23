@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.26.5",
+    "orgId": "2CH.26.5",
+    "bookId": "2CH",
+    "chapterId": "2CH.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 26:5",
+    "content": "<p class=\"p\"><span data-number=\"5\" data-sid=\"2CH 26:5\" class=\"v\">5</span>And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the <span class=\"nd\">LORD</span>, God made him to prosper. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.26.6",
+      "number": "6"
+    },
+    "previous": {
+      "id": "2CH.26.4",
+      "number": "4"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3dcf3092-fbc2-4e55-aa6a-d815c2b73b14');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3dcf3092-fbc2-4e55-aa6a-d815c2b73b14'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3dcf3092-fbc2-4e55-aa6a-d815c2b73b14",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3dcf3092-fbc2-4e55-aa6a-d815c2b73b14'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3dcf3092-fbc2-4e55-aa6a-d815c2b73b14\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

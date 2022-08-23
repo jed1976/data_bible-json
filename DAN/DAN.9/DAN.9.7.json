@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.9.7",
+    "orgId": "DAN.9.7",
+    "bookId": "DAN",
+    "chapterId": "DAN.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 9:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DAN 9:7\" class=\"v\">7</span>O Lord, righteousness <span class=\"add\">belongeth</span> unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, <span class=\"add\">that are</span> near, and <span class=\"add\">that are</span> far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.9.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DAN.9.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e6eb18a6-a22b-4711-adec-c89a60012a44');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e6eb18a6-a22b-4711-adec-c89a60012a44'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e6eb18a6-a22b-4711-adec-c89a60012a44",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e6eb18a6-a22b-4711-adec-c89a60012a44'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e6eb18a6-a22b-4711-adec-c89a60012a44\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

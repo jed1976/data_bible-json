@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.6.10",
+    "orgId": "MRK.6.10",
+    "bookId": "MRK",
+    "chapterId": "MRK.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 6:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"MRK 6:10\" class=\"v\">10</span>And he said unto them, <span class=\"wj\">In what place soever ye enter into an house, there abide till ye depart from that place.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.6.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "MRK.6.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('08a17b29-2be7-4e0e-b859-6474a6adac96');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='08a17b29-2be7-4e0e-b859-6474a6adac96'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "08a17b29-2be7-4e0e-b859-6474a6adac96",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('08a17b29-2be7-4e0e-b859-6474a6adac96'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=08a17b29-2be7-4e0e-b859-6474a6adac96\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

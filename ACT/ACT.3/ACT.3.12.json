@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.3.12",
+    "orgId": "ACT.3.12",
+    "bookId": "ACT",
+    "chapterId": "ACT.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 3:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"ACT 3:12\" class=\"v\">12</span>¶ And when Peter saw <span class=\"add\">it</span>, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.3.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "ACT.3.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('790985e7-d27d-4af5-99a3-f88be7c61e14');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='790985e7-d27d-4af5-99a3-f88be7c61e14'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "790985e7-d27d-4af5-99a3-f88be7c61e14",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('790985e7-d27d-4af5-99a3-f88be7c61e14'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=790985e7-d27d-4af5-99a3-f88be7c61e14\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

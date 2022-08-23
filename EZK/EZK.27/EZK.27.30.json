@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.27.30",
+    "orgId": "EZK.27.30",
+    "bookId": "EZK",
+    "chapterId": "EZK.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 27:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"EZK 27:30\" class=\"v\">30</span>And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.27.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "EZK.27.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bb8aed88-767f-47e2-ae15-eb54cc36c7d4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bb8aed88-767f-47e2-ae15-eb54cc36c7d4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bb8aed88-767f-47e2-ae15-eb54cc36c7d4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bb8aed88-767f-47e2-ae15-eb54cc36c7d4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bb8aed88-767f-47e2-ae15-eb54cc36c7d4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

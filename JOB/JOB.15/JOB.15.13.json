@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.15.13",
+    "orgId": "JOB.15.13",
+    "bookId": "JOB",
+    "chapterId": "JOB.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 15:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"JOB 15:13\" class=\"v\">13</span>That thou turnest thy spirit against God, and lettest <span class=\"add\">such</span> words go out of thy mouth? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.15.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "JOB.15.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aa502507-3fb4-4928-b960-dd0898de25be');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aa502507-3fb4-4928-b960-dd0898de25be'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aa502507-3fb4-4928-b960-dd0898de25be",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aa502507-3fb4-4928-b960-dd0898de25be'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aa502507-3fb4-4928-b960-dd0898de25be\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

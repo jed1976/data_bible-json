@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JAS.1.11",
+    "orgId": "JAS.1.11",
+    "bookId": "JAS",
+    "chapterId": "JAS.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "James 1:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"JAS 1:11\" class=\"v\">11</span>For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JAS.1.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "JAS.1.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2dcf47c4-8d2d-4d8e-8da8-ca85f8f767ca');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2dcf47c4-8d2d-4d8e-8da8-ca85f8f767ca'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2dcf47c4-8d2d-4d8e-8da8-ca85f8f767ca",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2dcf47c4-8d2d-4d8e-8da8-ca85f8f767ca'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2dcf47c4-8d2d-4d8e-8da8-ca85f8f767ca\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

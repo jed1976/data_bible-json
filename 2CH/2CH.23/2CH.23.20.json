@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.23.20",
+    "orgId": "2CH.23.20",
+    "bookId": "2CH",
+    "chapterId": "2CH.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 23:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"2CH 23:20\" class=\"v\">20</span>And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the <span class=\"nd\">LORD</span>: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.23.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "2CH.23.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fb333b58-f570-4616-8724-1849e2b17f1e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fb333b58-f570-4616-8724-1849e2b17f1e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fb333b58-f570-4616-8724-1849e2b17f1e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fb333b58-f570-4616-8724-1849e2b17f1e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fb333b58-f570-4616-8724-1849e2b17f1e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

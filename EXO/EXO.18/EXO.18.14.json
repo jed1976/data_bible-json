@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.18.14",
+    "orgId": "EXO.18.14",
+    "bookId": "EXO",
+    "chapterId": "EXO.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 18:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"EXO 18:14\" class=\"v\">14</span>And when Moses’ father in law saw all that he did to the people, he said, What <span class=\"add\">is</span> this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.18.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "EXO.18.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e142635c-b3e4-4b79-b481-fd2ecb74a444');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e142635c-b3e4-4b79-b481-fd2ecb74a444'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e142635c-b3e4-4b79-b481-fd2ecb74a444",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e142635c-b3e4-4b79-b481-fd2ecb74a444'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e142635c-b3e4-4b79-b481-fd2ecb74a444\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

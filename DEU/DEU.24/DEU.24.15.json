@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.24.15",
+    "orgId": "DEU.24.15",
+    "bookId": "DEU",
+    "chapterId": "DEU.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 24:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"DEU 24:15\" class=\"v\">15</span>At his day thou shalt give <span class=\"add\">him</span> his hire, neither shall the sun go down upon it; for he <span class=\"add\">is</span> poor, and setteth his heart upon it: lest he cry against thee unto the <span class=\"nd\">LORD</span>, and it be sin unto thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.24.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "DEU.24.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ae69ff65-79a6-4e09-8eda-58da1f82705f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ae69ff65-79a6-4e09-8eda-58da1f82705f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ae69ff65-79a6-4e09-8eda-58da1f82705f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ae69ff65-79a6-4e09-8eda-58da1f82705f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ae69ff65-79a6-4e09-8eda-58da1f82705f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

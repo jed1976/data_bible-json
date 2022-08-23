@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.12.8",
+    "orgId": "JOS.12.8",
+    "bookId": "JOS",
+    "chapterId": "JOS.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 12:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JOS 12:8\" class=\"v\">8</span>In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.12.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JOS.12.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a815f00f-e64e-4a81-a6a1-768175db34f3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a815f00f-e64e-4a81-a6a1-768175db34f3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a815f00f-e64e-4a81-a6a1-768175db34f3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a815f00f-e64e-4a81-a6a1-768175db34f3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a815f00f-e64e-4a81-a6a1-768175db34f3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

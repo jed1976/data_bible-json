@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.18.20",
+    "orgId": "JOS.18.20",
+    "bookId": "JOS",
+    "chapterId": "JOS.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 18:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JOS 18:20\" class=\"v\">20</span>And Jordan was the border of it on the east side. This <span class=\"add\">was</span> the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.18.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JOS.18.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d7c3c10d-c400-4abe-85df-35605e577814');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d7c3c10d-c400-4abe-85df-35605e577814'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d7c3c10d-c400-4abe-85df-35605e577814",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d7c3c10d-c400-4abe-85df-35605e577814'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d7c3c10d-c400-4abe-85df-35605e577814\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

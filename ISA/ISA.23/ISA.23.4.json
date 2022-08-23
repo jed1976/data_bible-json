@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.23.4",
+    "orgId": "ISA.23.4",
+    "bookId": "ISA",
+    "chapterId": "ISA.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 23:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"ISA 23:4\" class=\"v\">4</span>Be thou ashamed, O Zidon: for the sea hath spoken, <span class=\"add\">even</span> the strength of the sea, saying, I travail not, nor bring forth children, neither do I nourish up young men, <span class=\"add\">nor</span> bring up virgins. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.23.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "ISA.23.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('94e336b6-cb52-4dae-bea6-1c04b1a8d27e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='94e336b6-cb52-4dae-bea6-1c04b1a8d27e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "94e336b6-cb52-4dae-bea6-1c04b1a8d27e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('94e336b6-cb52-4dae-bea6-1c04b1a8d27e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=94e336b6-cb52-4dae-bea6-1c04b1a8d27e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

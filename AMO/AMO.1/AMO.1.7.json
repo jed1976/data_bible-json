@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.1.7",
+    "orgId": "AMO.1.7",
+    "bookId": "AMO",
+    "chapterId": "AMO.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 1:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"AMO 1:7\" class=\"v\">7</span>But I will send a fire on the wall of Gaza, which shall devour the palaces thereof: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.1.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "AMO.1.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('53f3cc80-104a-4a04-afb4-2e9db81dfead');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='53f3cc80-104a-4a04-afb4-2e9db81dfead'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "53f3cc80-104a-4a04-afb4-2e9db81dfead",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('53f3cc80-104a-4a04-afb4-2e9db81dfead'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=53f3cc80-104a-4a04-afb4-2e9db81dfead\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

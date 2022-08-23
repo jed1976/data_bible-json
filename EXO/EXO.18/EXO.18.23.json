@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.18.23",
+    "orgId": "EXO.18.23",
+    "bookId": "EXO",
+    "chapterId": "EXO.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 18:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"EXO 18:23\" class=\"v\">23</span>If thou shalt do this thing, and God command thee <span class=\"add\">so</span>, then thou shalt be able to endure, and all this people shall also go to their place in peace. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.18.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "EXO.18.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3232b83f-5c79-473b-ad46-23b9f38e8b9d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3232b83f-5c79-473b-ad46-23b9f38e8b9d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3232b83f-5c79-473b-ad46-23b9f38e8b9d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3232b83f-5c79-473b-ad46-23b9f38e8b9d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3232b83f-5c79-473b-ad46-23b9f38e8b9d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

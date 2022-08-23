@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.2.21",
+    "orgId": "EST.2.21",
+    "bookId": "EST",
+    "chapterId": "EST.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 2:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"EST 2:21\" class=\"v\">21</span>¶ In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.2.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "EST.2.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b2d47384-bcd2-4603-85be-a5b2bebd0fad');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b2d47384-bcd2-4603-85be-a5b2bebd0fad'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b2d47384-bcd2-4603-85be-a5b2bebd0fad",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b2d47384-bcd2-4603-85be-a5b2bebd0fad'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b2d47384-bcd2-4603-85be-a5b2bebd0fad\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

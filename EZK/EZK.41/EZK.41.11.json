@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.41.11",
+    "orgId": "EZK.41.11",
+    "bookId": "EZK",
+    "chapterId": "EZK.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 41:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EZK 41:11\" class=\"v\">11</span>And the doors of the side chambers <span class=\"add\">were</span> toward <span class=\"add\">the place that was</span> left, one door toward the north, and another door toward the south: and the breadth of the place that was left <span class=\"add\">was</span> five cubits round about.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.41.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "EZK.41.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d242ac52-7b06-4200-a002-3d5633d6a352');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d242ac52-7b06-4200-a002-3d5633d6a352'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d242ac52-7b06-4200-a002-3d5633d6a352",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d242ac52-7b06-4200-a002-3d5633d6a352'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d242ac52-7b06-4200-a002-3d5633d6a352\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

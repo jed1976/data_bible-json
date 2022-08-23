@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.9.1",
+    "orgId": "2KI.9.1",
+    "bookId": "2KI",
+    "chapterId": "2KI.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 9:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"2KI 9:1\" class=\"v\">1</span>And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth-gilead: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.9.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "2KI.8.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d9f2d592-f021-41fb-b9ec-3a58af061726');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d9f2d592-f021-41fb-b9ec-3a58af061726'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d9f2d592-f021-41fb-b9ec-3a58af061726",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d9f2d592-f021-41fb-b9ec-3a58af061726'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d9f2d592-f021-41fb-b9ec-3a58af061726\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

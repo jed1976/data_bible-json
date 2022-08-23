@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.12.9",
+    "orgId": "MRK.12.9",
+    "bookId": "MRK",
+    "chapterId": "MRK.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 12:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"MRK 12:9\" class=\"v\">9</span><span class=\"wj\">What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.12.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "MRK.12.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a28c8805-50a0-4347-84fa-38bb31bc2adc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a28c8805-50a0-4347-84fa-38bb31bc2adc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a28c8805-50a0-4347-84fa-38bb31bc2adc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a28c8805-50a0-4347-84fa-38bb31bc2adc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a28c8805-50a0-4347-84fa-38bb31bc2adc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

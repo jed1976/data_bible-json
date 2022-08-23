@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.13.11",
+    "orgId": "1CO.13.11",
+    "bookId": "1CO",
+    "chapterId": "1CO.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 13:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"1CO 13:11\" class=\"v\">11</span>When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.13.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "1CO.13.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('20b084e2-2c05-456d-9bf4-4af2d2099b22');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='20b084e2-2c05-456d-9bf4-4af2d2099b22'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "20b084e2-2c05-456d-9bf4-4af2d2099b22",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('20b084e2-2c05-456d-9bf4-4af2d2099b22'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=20b084e2-2c05-456d-9bf4-4af2d2099b22\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

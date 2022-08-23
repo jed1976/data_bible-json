@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.21.16",
+    "orgId": "MAT.21.16",
+    "bookId": "MAT",
+    "chapterId": "MAT.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 21:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"MAT 21:16\" class=\"v\">16</span>And said unto him, Hearest thou what these say? And Jesus saith unto them, <span class=\"wj\">Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?</span></p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.21.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "MAT.21.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b3fd3ab3-38e9-4350-bbd4-5f51148fb1ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b3fd3ab3-38e9-4350-bbd4-5f51148fb1ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b3fd3ab3-38e9-4350-bbd4-5f51148fb1ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b3fd3ab3-38e9-4350-bbd4-5f51148fb1ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b3fd3ab3-38e9-4350-bbd4-5f51148fb1ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

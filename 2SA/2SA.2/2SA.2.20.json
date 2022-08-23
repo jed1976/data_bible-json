@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2SA.2.20",
+    "orgId": "2SA.2.20",
+    "bookId": "2SA",
+    "chapterId": "2SA.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Samuel 2:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"2SA 2:20\" class=\"v\">20</span>Then Abner looked behind him, and said, <span class=\"add\">Art</span> thou Asahel? And he answered, I <span class=\"add\">am</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2SA.2.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "2SA.2.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e0a37115-c5ec-4465-8298-91c147ecd987');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e0a37115-c5ec-4465-8298-91c147ecd987'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e0a37115-c5ec-4465-8298-91c147ecd987",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e0a37115-c5ec-4465-8298-91c147ecd987'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e0a37115-c5ec-4465-8298-91c147ecd987\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

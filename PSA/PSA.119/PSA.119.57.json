@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.119.57",
+    "orgId": "PSA.119.57",
+    "bookId": "PSA",
+    "chapterId": "PSA.119",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 119:57",
+    "content": "<p class=\"s1\"><span class=\"tl\">ח CHETH.</span></p><p class=\"q1\"><span data-number=\"57\" data-sid=\"PSA 119:57\" class=\"v\">57</span><span class=\"add\">Thou art</span> my portion, O <span class=\"nd\">LORD</span>: I have said that I would keep thy words.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.119.58",
+      "number": "58"
+    },
+    "previous": {
+      "id": "PSA.119.56",
+      "number": "56"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('53116fcf-f404-4c5c-8bd5-91cf9783e74c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='53116fcf-f404-4c5c-8bd5-91cf9783e74c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "53116fcf-f404-4c5c-8bd5-91cf9783e74c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('53116fcf-f404-4c5c-8bd5-91cf9783e74c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=53116fcf-f404-4c5c-8bd5-91cf9783e74c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

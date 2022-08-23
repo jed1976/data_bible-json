@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.19.9",
+    "orgId": "GEN.19.9",
+    "bookId": "GEN",
+    "chapterId": "GEN.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 19:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"GEN 19:9\" class=\"v\">9</span>And they said, Stand back. And they said <span class=\"add\">again</span>, This one <span class=\"add\">fellow</span> came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, <span class=\"add\">even</span> Lot, and came near to break the door. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.19.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "GEN.19.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4c2979dc-15e0-4699-960f-699afefb2ac3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4c2979dc-15e0-4699-960f-699afefb2ac3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4c2979dc-15e0-4699-960f-699afefb2ac3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4c2979dc-15e0-4699-960f-699afefb2ac3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4c2979dc-15e0-4699-960f-699afefb2ac3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

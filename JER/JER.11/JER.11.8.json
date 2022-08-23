@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.11.8",
+    "orgId": "JER.11.8",
+    "bookId": "JER",
+    "chapterId": "JER.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 11:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JER 11:8\" class=\"v\">8</span>Yet they obeyed not, nor inclined their ear, but walked every one in the imagination of their evil heart: therefore I will bring upon them all the words of this covenant, which I commanded <span class=\"add\">them</span> to do; but they did <span class=\"add\">them</span> not. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.11.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JER.11.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e75d7d59-e7a6-40bb-938c-29e644951cd6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e75d7d59-e7a6-40bb-938c-29e644951cd6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e75d7d59-e7a6-40bb-938c-29e644951cd6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e75d7d59-e7a6-40bb-938c-29e644951cd6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e75d7d59-e7a6-40bb-938c-29e644951cd6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

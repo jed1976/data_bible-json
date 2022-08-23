@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.6.49",
+    "orgId": "MRK.6.49",
+    "bookId": "MRK",
+    "chapterId": "MRK.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 6:49",
+    "content": "<p class=\"p\"><span data-number=\"49\" data-sid=\"MRK 6:49\" class=\"v\">49</span>But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.6.50",
+      "number": "50"
+    },
+    "previous": {
+      "id": "MRK.6.48",
+      "number": "48"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ce6393ef-bf0f-4cfa-ae9f-1c94d262e436');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ce6393ef-bf0f-4cfa-ae9f-1c94d262e436'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ce6393ef-bf0f-4cfa-ae9f-1c94d262e436",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ce6393ef-bf0f-4cfa-ae9f-1c94d262e436'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ce6393ef-bf0f-4cfa-ae9f-1c94d262e436\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

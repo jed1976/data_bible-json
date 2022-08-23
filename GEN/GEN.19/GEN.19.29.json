@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.19.29",
+    "orgId": "GEN.19.29",
+    "bookId": "GEN",
+    "chapterId": "GEN.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 19:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"GEN 19:29\" class=\"v\">29</span>¶ And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.19.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "GEN.19.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('69dc7639-a246-4008-83a3-6d2daf34f7eb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='69dc7639-a246-4008-83a3-6d2daf34f7eb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "69dc7639-a246-4008-83a3-6d2daf34f7eb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('69dc7639-a246-4008-83a3-6d2daf34f7eb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=69dc7639-a246-4008-83a3-6d2daf34f7eb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.35.15",
+    "orgId": "EZK.35.15",
+    "bookId": "EZK",
+    "chapterId": "EZK.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 35:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"EZK 35:15\" class=\"v\">15</span>As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, <span class=\"add\">even</span> all of it: and they shall know that I <span class=\"add\">am</span> the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.36.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EZK.35.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e81666b9-1b39-451d-8e72-abdececb25cb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e81666b9-1b39-451d-8e72-abdececb25cb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e81666b9-1b39-451d-8e72-abdececb25cb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e81666b9-1b39-451d-8e72-abdececb25cb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e81666b9-1b39-451d-8e72-abdececb25cb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

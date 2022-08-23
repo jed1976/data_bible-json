@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.22.6",
+    "orgId": "2KI.22.6",
+    "bookId": "2KI",
+    "chapterId": "2KI.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 22:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"2KI 22:6\" class=\"v\">6</span>Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.22.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "2KI.22.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a2b3dc12-42f0-43c1-b52b-1fffddc57bd6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a2b3dc12-42f0-43c1-b52b-1fffddc57bd6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a2b3dc12-42f0-43c1-b52b-1fffddc57bd6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a2b3dc12-42f0-43c1-b52b-1fffddc57bd6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a2b3dc12-42f0-43c1-b52b-1fffddc57bd6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

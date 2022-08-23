@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.15.57",
+    "orgId": "1CO.15.57",
+    "bookId": "1CO",
+    "chapterId": "1CO.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 15:57",
+    "content": "<p class=\"p\"><span data-number=\"57\" data-sid=\"1CO 15:57\" class=\"v\">57</span>But thanks <span class=\"add\">be</span> to God, which giveth us the victory through our Lord Jesus Christ. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.15.58",
+      "number": "58"
+    },
+    "previous": {
+      "id": "1CO.15.56",
+      "number": "56"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('145390b8-eaaf-43f9-9b2f-9066f3768711');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='145390b8-eaaf-43f9-9b2f-9066f3768711'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "145390b8-eaaf-43f9-9b2f-9066f3768711",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('145390b8-eaaf-43f9-9b2f-9066f3768711'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=145390b8-eaaf-43f9-9b2f-9066f3768711\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.11.7",
+    "orgId": "NEH.11.7",
+    "bookId": "NEH",
+    "chapterId": "NEH.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 11:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"NEH 11:7\" class=\"v\">7</span>And these <span class=\"add\">are</span> the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.11.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "NEH.11.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6bc8dd6e-29a4-42d4-98c8-ba3ccd3f0cfc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6bc8dd6e-29a4-42d4-98c8-ba3ccd3f0cfc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6bc8dd6e-29a4-42d4-98c8-ba3ccd3f0cfc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6bc8dd6e-29a4-42d4-98c8-ba3ccd3f0cfc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6bc8dd6e-29a4-42d4-98c8-ba3ccd3f0cfc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

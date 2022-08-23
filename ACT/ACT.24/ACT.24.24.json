@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.24.24",
+    "orgId": "ACT.24.24",
+    "bookId": "ACT",
+    "chapterId": "ACT.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 24:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"ACT 24:24\" class=\"v\">24</span>And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.24.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "ACT.24.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('59a56876-4b1d-4f72-af4e-3ec76af8f117');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='59a56876-4b1d-4f72-af4e-3ec76af8f117'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "59a56876-4b1d-4f72-af4e-3ec76af8f117",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('59a56876-4b1d-4f72-af4e-3ec76af8f117'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=59a56876-4b1d-4f72-af4e-3ec76af8f117\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

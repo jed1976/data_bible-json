@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.19.5",
+    "orgId": "1CH.19.5",
+    "bookId": "1CH",
+    "chapterId": "1CH.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 19:5",
+    "content": "<p class=\"p\"><span data-number=\"5\" data-sid=\"1CH 19:5\" class=\"v\">5</span>Then there went <span class=\"add\">certain</span>, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and <span class=\"add\">then</span> return.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.19.6",
+      "number": "6"
+    },
+    "previous": {
+      "id": "1CH.19.4",
+      "number": "4"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b7b8c370-28f8-4d63-8915-78ae8ada47b5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b7b8c370-28f8-4d63-8915-78ae8ada47b5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b7b8c370-28f8-4d63-8915-78ae8ada47b5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b7b8c370-28f8-4d63-8915-78ae8ada47b5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b7b8c370-28f8-4d63-8915-78ae8ada47b5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

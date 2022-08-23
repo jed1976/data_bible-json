@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.4.46",
+    "orgId": "JHN.4.46",
+    "bookId": "JHN",
+    "chapterId": "JHN.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 4:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"JHN 4:46\" class=\"v\">46</span>So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.4.47",
+      "number": "47"
+    },
+    "previous": {
+      "id": "JHN.4.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('709b812f-a0f9-4243-b0ae-4ab8d0cbc3e0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='709b812f-a0f9-4243-b0ae-4ab8d0cbc3e0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "709b812f-a0f9-4243-b0ae-4ab8d0cbc3e0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('709b812f-a0f9-4243-b0ae-4ab8d0cbc3e0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=709b812f-a0f9-4243-b0ae-4ab8d0cbc3e0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

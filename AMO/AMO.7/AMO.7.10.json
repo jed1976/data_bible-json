@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.7.10",
+    "orgId": "AMO.7.10",
+    "bookId": "AMO",
+    "chapterId": "AMO.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 7:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"AMO 7:10\" class=\"v\">10</span>¶ Then Amaziah the priest of Beth-el sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.7.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "AMO.7.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a6039695-68a9-4e90-a835-ebc5dc3ae0d5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a6039695-68a9-4e90-a835-ebc5dc3ae0d5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a6039695-68a9-4e90-a835-ebc5dc3ae0d5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a6039695-68a9-4e90-a835-ebc5dc3ae0d5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a6039695-68a9-4e90-a835-ebc5dc3ae0d5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

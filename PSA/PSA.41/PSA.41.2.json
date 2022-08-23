@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.41.2",
+    "orgId": "PSA.41.3",
+    "bookId": "PSA",
+    "chapterId": "PSA.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 41:2",
+    "content": "<p class=\"q1\"><span data-number=\"2\" data-sid=\"PSA 41:2\" class=\"v\">2</span>The <span class=\"nd\">LORD</span> will preserve him, and keep him alive; <span class=\"add\">and</span> he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.41.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "PSA.41.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d8c200bb-3e72-4d3d-9df1-077b56968596');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d8c200bb-3e72-4d3d-9df1-077b56968596'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d8c200bb-3e72-4d3d-9df1-077b56968596",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d8c200bb-3e72-4d3d-9df1-077b56968596'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d8c200bb-3e72-4d3d-9df1-077b56968596\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

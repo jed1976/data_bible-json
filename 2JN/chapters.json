@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "2JN.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2JN",
+      "number": "intro",
+      "reference": "2 John"
+    },
+    {
+      "id": "2JN.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2JN",
+      "number": "1",
+      "reference": "2 John 1"
+    }
+  ]
+}

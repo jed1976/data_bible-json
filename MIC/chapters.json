@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "MIC.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "intro",
+      "reference": "Micah"
+    },
+    {
+      "id": "MIC.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "1",
+      "reference": "Micah 1"
+    },
+    {
+      "id": "MIC.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "2",
+      "reference": "Micah 2"
+    },
+    {
+      "id": "MIC.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "3",
+      "reference": "Micah 3"
+    },
+    {
+      "id": "MIC.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "4",
+      "reference": "Micah 4"
+    },
+    {
+      "id": "MIC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "5",
+      "reference": "Micah 5"
+    },
+    {
+      "id": "MIC.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "6",
+      "reference": "Micah 6"
+    },
+    {
+      "id": "MIC.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MIC",
+      "number": "7",
+      "reference": "Micah 7"
+    }
+  ]
+}

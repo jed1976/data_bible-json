@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.7.7",
+    "orgId": "JDG.7.7",
+    "bookId": "JDG",
+    "chapterId": "JDG.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"JDG 7:7\" class=\"v\">7</span>And the <span class=\"nd\">LORD</span> said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the <span class=\"add\">other</span> people go every man unto his place. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "JDG.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d5c610c2-42b6-4594-b688-be4715a615be');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d5c610c2-42b6-4594-b688-be4715a615be'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d5c610c2-42b6-4594-b688-be4715a615be",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d5c610c2-42b6-4594-b688-be4715a615be'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d5c610c2-42b6-4594-b688-be4715a615be\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.16.14",
+    "orgId": "2CH.16.14",
+    "bookId": "2CH",
+    "chapterId": "2CH.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 16:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"2CH 16:14\" class=\"v\">14</span>And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds <span class=\"add\">of spices</span> prepared by the apothecaries’ art: and they made a very great burning for him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.17.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "2CH.16.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9ef29ec5-d690-49cf-a9ae-21c7abfc16fd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9ef29ec5-d690-49cf-a9ae-21c7abfc16fd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9ef29ec5-d690-49cf-a9ae-21c7abfc16fd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9ef29ec5-d690-49cf-a9ae-21c7abfc16fd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9ef29ec5-d690-49cf-a9ae-21c7abfc16fd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

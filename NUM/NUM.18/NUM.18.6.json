@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.18.6",
+    "orgId": "NUM.18.6",
+    "bookId": "NUM",
+    "chapterId": "NUM.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 18:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"NUM 18:6\" class=\"v\">6</span>And I, behold, I have taken your brethren the Levites from among the children of Israel: to you <span class=\"add\">they are</span> given <span class=\"add\">as</span> a gift for the <span class=\"nd\">LORD</span>, to do the service of the tabernacle of the congregation. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.18.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "NUM.18.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aa574c78-21ec-4a39-b246-b4eadc1b933f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aa574c78-21ec-4a39-b246-b4eadc1b933f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aa574c78-21ec-4a39-b246-b4eadc1b933f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aa574c78-21ec-4a39-b246-b4eadc1b933f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aa574c78-21ec-4a39-b246-b4eadc1b933f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

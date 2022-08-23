@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1PE.1.19",
+    "orgId": "1PE.1.19",
+    "bookId": "1PE",
+    "chapterId": "1PE.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Peter 1:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"1PE 1:19\" class=\"v\">19</span>But with the precious blood of Christ, as of a lamb without blemish and without spot: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1PE.1.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "1PE.1.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('da5626fb-30bf-4447-9592-6f99ec7e398b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='da5626fb-30bf-4447-9592-6f99ec7e398b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "da5626fb-30bf-4447-9592-6f99ec7e398b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('da5626fb-30bf-4447-9592-6f99ec7e398b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=da5626fb-30bf-4447-9592-6f99ec7e398b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

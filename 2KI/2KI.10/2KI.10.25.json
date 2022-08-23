@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.10.25",
+    "orgId": "2KI.10.25",
+    "bookId": "2KI",
+    "chapterId": "2KI.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 10:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"2KI 10:25\" class=\"v\">25</span>And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, <span class=\"add\">and</span> slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast <span class=\"add\">them</span> out, and went to the city of the house of Baal. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.10.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "2KI.10.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3d544367-6ba8-4343-962a-ded9803602c6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3d544367-6ba8-4343-962a-ded9803602c6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3d544367-6ba8-4343-962a-ded9803602c6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3d544367-6ba8-4343-962a-ded9803602c6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3d544367-6ba8-4343-962a-ded9803602c6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "JER.45.1",
+      "orgId": "JER.45.1",
+      "bookId": "JER",
+      "chapterId": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Jeremiah 45:1"
+    },
+    {
+      "id": "JER.45.2",
+      "orgId": "JER.45.2",
+      "bookId": "JER",
+      "chapterId": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Jeremiah 45:2"
+    },
+    {
+      "id": "JER.45.3",
+      "orgId": "JER.45.3",
+      "bookId": "JER",
+      "chapterId": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Jeremiah 45:3"
+    },
+    {
+      "id": "JER.45.4",
+      "orgId": "JER.45.4",
+      "bookId": "JER",
+      "chapterId": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Jeremiah 45:4"
+    },
+    {
+      "id": "JER.45.5",
+      "orgId": "JER.45.5",
+      "bookId": "JER",
+      "chapterId": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Jeremiah 45:5"
+    }
+  ]
+}

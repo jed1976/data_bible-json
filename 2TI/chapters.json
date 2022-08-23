@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "2TI.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TI",
+      "number": "intro",
+      "reference": "2 Timothy"
+    },
+    {
+      "id": "2TI.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TI",
+      "number": "1",
+      "reference": "2 Timothy 1"
+    },
+    {
+      "id": "2TI.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TI",
+      "number": "2",
+      "reference": "2 Timothy 2"
+    },
+    {
+      "id": "2TI.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TI",
+      "number": "3",
+      "reference": "2 Timothy 3"
+    },
+    {
+      "id": "2TI.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TI",
+      "number": "4",
+      "reference": "2 Timothy 4"
+    }
+  ]
+}

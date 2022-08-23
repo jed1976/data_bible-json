@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.24.50",
+    "orgId": "LUK.24.50",
+    "bookId": "LUK",
+    "chapterId": "LUK.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 24:50",
+    "content": "<p class=\"p\"><span data-number=\"50\" data-sid=\"LUK 24:50\" class=\"v\">50</span>¶ And he led them out as far as to Bethany, and he lifted up his hands, and blessed them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.24.51",
+      "number": "51"
+    },
+    "previous": {
+      "id": "LUK.24.49",
+      "number": "49"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d4610f93-5cd7-48fd-83f4-da4e8e3e5299');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d4610f93-5cd7-48fd-83f4-da4e8e3e5299'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d4610f93-5cd7-48fd-83f4-da4e8e3e5299",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d4610f93-5cd7-48fd-83f4-da4e8e3e5299'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d4610f93-5cd7-48fd-83f4-da4e8e3e5299\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.5.12",
+    "orgId": "2CH.5.12",
+    "bookId": "2CH",
+    "chapterId": "2CH.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 5:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"2CH 5:12\" class=\"v\">12</span>Also the Levites <span class=\"add\">which were</span> the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, <span class=\"add\">being</span> arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:) </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.5.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "2CH.5.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('eeccc590-7b51-4f11-8641-4b4117af8d33');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='eeccc590-7b51-4f11-8641-4b4117af8d33'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "eeccc590-7b51-4f11-8641-4b4117af8d33",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('eeccc590-7b51-4f11-8641-4b4117af8d33'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=eeccc590-7b51-4f11-8641-4b4117af8d33\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

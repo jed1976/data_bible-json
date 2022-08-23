@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.1.25",
+    "orgId": "1KI.1.25",
+    "bookId": "1KI",
+    "chapterId": "1KI.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 1:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"1KI 1:25\" class=\"v\">25</span>For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.1.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "1KI.1.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('21a23cb4-b4f9-48ce-8b54-194100e06c55');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='21a23cb4-b4f9-48ce-8b54-194100e06c55'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "21a23cb4-b4f9-48ce-8b54-194100e06c55",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('21a23cb4-b4f9-48ce-8b54-194100e06c55'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=21a23cb4-b4f9-48ce-8b54-194100e06c55\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

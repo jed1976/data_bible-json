@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.6.37",
+    "orgId": "JHN.6.37",
+    "bookId": "JHN",
+    "chapterId": "JHN.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 6:37",
+    "content": "<p class=\"p\"><span data-number=\"37\" data-sid=\"JHN 6:37\" class=\"v\">37</span><span class=\"wj\">All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.6.38",
+      "number": "38"
+    },
+    "previous": {
+      "id": "JHN.6.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ee880790-f306-4c07-a54c-e54f6e3ecbf6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ee880790-f306-4c07-a54c-e54f6e3ecbf6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ee880790-f306-4c07-a54c-e54f6e3ecbf6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ee880790-f306-4c07-a54c-e54f6e3ecbf6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ee880790-f306-4c07-a54c-e54f6e3ecbf6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

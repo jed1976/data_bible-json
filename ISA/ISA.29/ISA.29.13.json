@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.29.13",
+    "orgId": "ISA.29.13",
+    "bookId": "ISA",
+    "chapterId": "ISA.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 29:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ISA 29:13\" class=\"v\">13</span>¶ Wherefore the Lord said, Forasmuch as this people draw near <span class=\"add\">me</span> with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.29.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ISA.29.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6b6bc2ae-1faf-45bf-891d-baea7f7ba5a8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6b6bc2ae-1faf-45bf-891d-baea7f7ba5a8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6b6bc2ae-1faf-45bf-891d-baea7f7ba5a8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6b6bc2ae-1faf-45bf-891d-baea7f7ba5a8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6b6bc2ae-1faf-45bf-891d-baea7f7ba5a8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

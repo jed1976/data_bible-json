@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "SNG.3.4",
+    "orgId": "SNG.3.4",
+    "bookId": "SNG",
+    "chapterId": "SNG.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Song of Solomon 3:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"SNG 3:4\" class=\"v\">4</span><span class=\"add\">It was</span> but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "SNG.3.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "SNG.3.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bb3c7a9a-feba-419e-9d11-9edcc5815262');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bb3c7a9a-feba-419e-9d11-9edcc5815262'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bb3c7a9a-feba-419e-9d11-9edcc5815262",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bb3c7a9a-feba-419e-9d11-9edcc5815262'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bb3c7a9a-feba-419e-9d11-9edcc5815262\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

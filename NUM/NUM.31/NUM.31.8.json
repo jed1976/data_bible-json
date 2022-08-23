@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.31.8",
+    "orgId": "NUM.31.8",
+    "bookId": "NUM",
+    "chapterId": "NUM.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 31:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"NUM 31:8\" class=\"v\">8</span>And they slew the kings of Midian, beside the rest of them that were slain; <span class=\"add\">namely</span>, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.31.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "NUM.31.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('61e7893d-a8f7-46ee-a149-9ed5d674d764');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='61e7893d-a8f7-46ee-a149-9ed5d674d764'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "61e7893d-a8f7-46ee-a149-9ed5d674d764",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('61e7893d-a8f7-46ee-a149-9ed5d674d764'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=61e7893d-a8f7-46ee-a149-9ed5d674d764\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

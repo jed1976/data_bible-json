@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "id": "2KI.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "intro",
+      "reference": "2 Kings"
+    },
+    {
+      "id": "2KI.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "1",
+      "reference": "2 Kings 1"
+    },
+    {
+      "id": "2KI.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "2",
+      "reference": "2 Kings 2"
+    },
+    {
+      "id": "2KI.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "3",
+      "reference": "2 Kings 3"
+    },
+    {
+      "id": "2KI.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "4",
+      "reference": "2 Kings 4"
+    },
+    {
+      "id": "2KI.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "5",
+      "reference": "2 Kings 5"
+    },
+    {
+      "id": "2KI.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "6",
+      "reference": "2 Kings 6"
+    },
+    {
+      "id": "2KI.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "7",
+      "reference": "2 Kings 7"
+    },
+    {
+      "id": "2KI.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "8",
+      "reference": "2 Kings 8"
+    },
+    {
+      "id": "2KI.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "9",
+      "reference": "2 Kings 9"
+    },
+    {
+      "id": "2KI.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "10",
+      "reference": "2 Kings 10"
+    },
+    {
+      "id": "2KI.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "11",
+      "reference": "2 Kings 11"
+    },
+    {
+      "id": "2KI.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "12",
+      "reference": "2 Kings 12"
+    },
+    {
+      "id": "2KI.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "13",
+      "reference": "2 Kings 13"
+    },
+    {
+      "id": "2KI.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "14",
+      "reference": "2 Kings 14"
+    },
+    {
+      "id": "2KI.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "15",
+      "reference": "2 Kings 15"
+    },
+    {
+      "id": "2KI.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "16",
+      "reference": "2 Kings 16"
+    },
+    {
+      "id": "2KI.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "17",
+      "reference": "2 Kings 17"
+    },
+    {
+      "id": "2KI.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "18",
+      "reference": "2 Kings 18"
+    },
+    {
+      "id": "2KI.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "19",
+      "reference": "2 Kings 19"
+    },
+    {
+      "id": "2KI.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "20",
+      "reference": "2 Kings 20"
+    },
+    {
+      "id": "2KI.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "21",
+      "reference": "2 Kings 21"
+    },
+    {
+      "id": "2KI.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "22",
+      "reference": "2 Kings 22"
+    },
+    {
+      "id": "2KI.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "23",
+      "reference": "2 Kings 23"
+    },
+    {
+      "id": "2KI.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "24",
+      "reference": "2 Kings 24"
+    },
+    {
+      "id": "2KI.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2KI",
+      "number": "25",
+      "reference": "2 Kings 25"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.13.8",
+    "orgId": "EZK.13.8",
+    "bookId": "EZK",
+    "chapterId": "EZK.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 13:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"EZK 13:8\" class=\"v\">8</span>Therefore thus saith the Lord <span class=\"nd\">GOD</span>; Because ye have spoken vanity, and seen lies, therefore, behold, I <span class=\"add\">am</span> against you, saith the Lord <span class=\"nd\">GOD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.13.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "EZK.13.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('86768866-709e-4482-adcd-05378b1be79e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='86768866-709e-4482-adcd-05378b1be79e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "86768866-709e-4482-adcd-05378b1be79e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('86768866-709e-4482-adcd-05378b1be79e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=86768866-709e-4482-adcd-05378b1be79e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

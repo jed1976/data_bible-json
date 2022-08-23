@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "RUT.2.16",
+    "orgId": "RUT.2.16",
+    "bookId": "RUT",
+    "chapterId": "RUT.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ruth 2:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"RUT 2:16\" class=\"v\">16</span>And let fall also <span class=\"add\">some</span> of the handfuls of purpose for her, and leave <span class=\"add\">them</span>, that she may glean <span class=\"add\">them</span>, and rebuke her not.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "RUT.2.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "RUT.2.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1fa6fab-f6de-473d-a891-5681651637bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1fa6fab-f6de-473d-a891-5681651637bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1fa6fab-f6de-473d-a891-5681651637bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1fa6fab-f6de-473d-a891-5681651637bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1fa6fab-f6de-473d-a891-5681651637bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

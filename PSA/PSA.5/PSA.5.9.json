@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.5.9",
+    "orgId": "PSA.5.10",
+    "bookId": "PSA",
+    "chapterId": "PSA.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 5:9",
+    "content": "<p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 5:9\" class=\"v\">9</span>For <span class=\"add\">there is</span> no faithfulness in their mouth; their inward part <span class=\"add\">is</span> very wickedness; their throat <span class=\"add\">is</span> an open sepulchre; they flatter with their tongue.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.5.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "PSA.5.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6c7a206d-53f3-48fe-bec8-a3f3cc603750');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6c7a206d-53f3-48fe-bec8-a3f3cc603750'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6c7a206d-53f3-48fe-bec8-a3f3cc603750",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6c7a206d-53f3-48fe-bec8-a3f3cc603750'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6c7a206d-53f3-48fe-bec8-a3f3cc603750\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

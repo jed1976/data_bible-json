@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.21.46",
+    "orgId": "MAT.21.46",
+    "bookId": "MAT",
+    "chapterId": "MAT.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 21:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"MAT 21:46\" class=\"v\">46</span>But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.22.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "MAT.21.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('57c349d4-657e-4779-a626-400d05fbcc42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='57c349d4-657e-4779-a626-400d05fbcc42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "57c349d4-657e-4779-a626-400d05fbcc42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('57c349d4-657e-4779-a626-400d05fbcc42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=57c349d4-657e-4779-a626-400d05fbcc42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

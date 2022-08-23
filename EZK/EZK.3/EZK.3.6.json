@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.3.6",
+    "orgId": "EZK.3.6",
+    "bookId": "EZK",
+    "chapterId": "EZK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 3:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"EZK 3:6\" class=\"v\">6</span>Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.3.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "EZK.3.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dc1d8bb9-fef1-46c4-bed3-ec1e837d5bf2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dc1d8bb9-fef1-46c4-bed3-ec1e837d5bf2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dc1d8bb9-fef1-46c4-bed3-ec1e837d5bf2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dc1d8bb9-fef1-46c4-bed3-ec1e837d5bf2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dc1d8bb9-fef1-46c4-bed3-ec1e837d5bf2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.9.1",
+    "orgId": "ECC.9.1",
+    "bookId": "ECC",
+    "chapterId": "ECC.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes 9:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ECC 9:1\" class=\"v\">1</span>For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, <span class=\"add\">are</span> in the hand of God: no man knoweth either love or hatred <span class=\"add\">by</span> all <span class=\"add\">that is</span> before them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.9.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ECC.8.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a2d21bdd-26a2-424e-82e1-e31198a98bb9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a2d21bdd-26a2-424e-82e1-e31198a98bb9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a2d21bdd-26a2-424e-82e1-e31198a98bb9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a2d21bdd-26a2-424e-82e1-e31198a98bb9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a2d21bdd-26a2-424e-82e1-e31198a98bb9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

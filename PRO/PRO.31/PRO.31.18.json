@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.31.18",
+    "orgId": "PRO.31.18",
+    "bookId": "PRO",
+    "chapterId": "PRO.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 31:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"PRO 31:18\" class=\"v\">18</span>She perceiveth that her merchandise <span class=\"add\">is</span> good: her candle goeth not out by night. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.31.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PRO.31.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a4531f1d-8ac1-4951-beaa-6e468457e0df');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a4531f1d-8ac1-4951-beaa-6e468457e0df'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a4531f1d-8ac1-4951-beaa-6e468457e0df",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a4531f1d-8ac1-4951-beaa-6e468457e0df'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a4531f1d-8ac1-4951-beaa-6e468457e0df\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

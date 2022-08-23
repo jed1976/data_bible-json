@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.21.32",
+    "orgId": "NUM.21.32",
+    "bookId": "NUM",
+    "chapterId": "NUM.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 21:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"NUM 21:32\" class=\"v\">32</span>And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that <span class=\"add\">were</span> there.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.21.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "NUM.21.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cb0f7628-815f-410a-bf4d-c3a5c3a04aee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cb0f7628-815f-410a-bf4d-c3a5c3a04aee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cb0f7628-815f-410a-bf4d-c3a5c3a04aee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cb0f7628-815f-410a-bf4d-c3a5c3a04aee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cb0f7628-815f-410a-bf4d-c3a5c3a04aee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

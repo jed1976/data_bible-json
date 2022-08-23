@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "id": "DAN.4.1",
+      "orgId": "DAN.3.31",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:1"
+    },
+    {
+      "id": "DAN.4.2",
+      "orgId": "DAN.3.32",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:2"
+    },
+    {
+      "id": "DAN.4.3",
+      "orgId": "DAN.3.33",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:3"
+    },
+    {
+      "id": "DAN.4.4",
+      "orgId": "DAN.4.1",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:4"
+    },
+    {
+      "id": "DAN.4.5",
+      "orgId": "DAN.4.2",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:5"
+    },
+    {
+      "id": "DAN.4.6",
+      "orgId": "DAN.4.3",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:6"
+    },
+    {
+      "id": "DAN.4.7",
+      "orgId": "DAN.4.4",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:7"
+    },
+    {
+      "id": "DAN.4.8",
+      "orgId": "DAN.4.5",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:8"
+    },
+    {
+      "id": "DAN.4.9",
+      "orgId": "DAN.4.6",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:9"
+    },
+    {
+      "id": "DAN.4.10",
+      "orgId": "DAN.4.7",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:10"
+    },
+    {
+      "id": "DAN.4.11",
+      "orgId": "DAN.4.8",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:11"
+    },
+    {
+      "id": "DAN.4.12",
+      "orgId": "DAN.4.9",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:12"
+    },
+    {
+      "id": "DAN.4.13",
+      "orgId": "DAN.4.10",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:13"
+    },
+    {
+      "id": "DAN.4.14",
+      "orgId": "DAN.4.11",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:14"
+    },
+    {
+      "id": "DAN.4.15",
+      "orgId": "DAN.4.12",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:15"
+    },
+    {
+      "id": "DAN.4.16",
+      "orgId": "DAN.4.13",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:16"
+    },
+    {
+      "id": "DAN.4.17",
+      "orgId": "DAN.4.14",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:17"
+    },
+    {
+      "id": "DAN.4.18",
+      "orgId": "DAN.4.15",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:18"
+    },
+    {
+      "id": "DAN.4.19",
+      "orgId": "DAN.4.16",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:19"
+    },
+    {
+      "id": "DAN.4.20",
+      "orgId": "DAN.4.17",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:20"
+    },
+    {
+      "id": "DAN.4.21",
+      "orgId": "DAN.4.18",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:21"
+    },
+    {
+      "id": "DAN.4.22",
+      "orgId": "DAN.4.19",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:22"
+    },
+    {
+      "id": "DAN.4.23",
+      "orgId": "DAN.4.20",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:23"
+    },
+    {
+      "id": "DAN.4.24",
+      "orgId": "DAN.4.21",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:24"
+    },
+    {
+      "id": "DAN.4.25",
+      "orgId": "DAN.4.22",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:25"
+    },
+    {
+      "id": "DAN.4.26",
+      "orgId": "DAN.4.23",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:26"
+    },
+    {
+      "id": "DAN.4.27",
+      "orgId": "DAN.4.24",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:27"
+    },
+    {
+      "id": "DAN.4.28",
+      "orgId": "DAN.4.25",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:28"
+    },
+    {
+      "id": "DAN.4.29",
+      "orgId": "DAN.4.26",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:29"
+    },
+    {
+      "id": "DAN.4.30",
+      "orgId": "DAN.4.27",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:30"
+    },
+    {
+      "id": "DAN.4.31",
+      "orgId": "DAN.4.28",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:31"
+    },
+    {
+      "id": "DAN.4.32",
+      "orgId": "DAN.4.29",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:32"
+    },
+    {
+      "id": "DAN.4.33",
+      "orgId": "DAN.4.30",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:33"
+    },
+    {
+      "id": "DAN.4.34",
+      "orgId": "DAN.4.31",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:34"
+    },
+    {
+      "id": "DAN.4.35",
+      "orgId": "DAN.4.32",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:35"
+    },
+    {
+      "id": "DAN.4.36",
+      "orgId": "DAN.4.33",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:36"
+    },
+    {
+      "id": "DAN.4.37",
+      "orgId": "DAN.4.34",
+      "bookId": "DAN",
+      "chapterId": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Daniel 4:37"
+    }
+  ]
+}

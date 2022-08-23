@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.23.24",
+    "orgId": "MAT.23.24",
+    "bookId": "MAT",
+    "chapterId": "MAT.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 23:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"MAT 23:24\" class=\"v\">24</span><span class=\"wj\"><span class=\"add\">Ye</span> blind guides, which strain at a gnat, and swallow a camel.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.23.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "MAT.23.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('392b3f23-b4b2-4d02-9a09-00a8565e529b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='392b3f23-b4b2-4d02-9a09-00a8565e529b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "392b3f23-b4b2-4d02-9a09-00a8565e529b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('392b3f23-b4b2-4d02-9a09-00a8565e529b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=392b3f23-b4b2-4d02-9a09-00a8565e529b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

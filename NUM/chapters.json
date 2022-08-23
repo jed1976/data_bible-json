@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "NUM.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "intro",
+      "reference": "Numbers"
+    },
+    {
+      "id": "NUM.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "1",
+      "reference": "Numbers 1"
+    },
+    {
+      "id": "NUM.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "2",
+      "reference": "Numbers 2"
+    },
+    {
+      "id": "NUM.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "3",
+      "reference": "Numbers 3"
+    },
+    {
+      "id": "NUM.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "4",
+      "reference": "Numbers 4"
+    },
+    {
+      "id": "NUM.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "5",
+      "reference": "Numbers 5"
+    },
+    {
+      "id": "NUM.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "6",
+      "reference": "Numbers 6"
+    },
+    {
+      "id": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "7",
+      "reference": "Numbers 7"
+    },
+    {
+      "id": "NUM.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "8",
+      "reference": "Numbers 8"
+    },
+    {
+      "id": "NUM.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "9",
+      "reference": "Numbers 9"
+    },
+    {
+      "id": "NUM.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "10",
+      "reference": "Numbers 10"
+    },
+    {
+      "id": "NUM.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "11",
+      "reference": "Numbers 11"
+    },
+    {
+      "id": "NUM.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "12",
+      "reference": "Numbers 12"
+    },
+    {
+      "id": "NUM.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "13",
+      "reference": "Numbers 13"
+    },
+    {
+      "id": "NUM.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "14",
+      "reference": "Numbers 14"
+    },
+    {
+      "id": "NUM.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "15",
+      "reference": "Numbers 15"
+    },
+    {
+      "id": "NUM.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "16",
+      "reference": "Numbers 16"
+    },
+    {
+      "id": "NUM.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "17",
+      "reference": "Numbers 17"
+    },
+    {
+      "id": "NUM.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "18",
+      "reference": "Numbers 18"
+    },
+    {
+      "id": "NUM.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "19",
+      "reference": "Numbers 19"
+    },
+    {
+      "id": "NUM.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "20",
+      "reference": "Numbers 20"
+    },
+    {
+      "id": "NUM.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "21",
+      "reference": "Numbers 21"
+    },
+    {
+      "id": "NUM.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "22",
+      "reference": "Numbers 22"
+    },
+    {
+      "id": "NUM.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "23",
+      "reference": "Numbers 23"
+    },
+    {
+      "id": "NUM.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "24",
+      "reference": "Numbers 24"
+    },
+    {
+      "id": "NUM.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "25",
+      "reference": "Numbers 25"
+    },
+    {
+      "id": "NUM.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "26",
+      "reference": "Numbers 26"
+    },
+    {
+      "id": "NUM.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "27",
+      "reference": "Numbers 27"
+    },
+    {
+      "id": "NUM.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "28",
+      "reference": "Numbers 28"
+    },
+    {
+      "id": "NUM.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "29",
+      "reference": "Numbers 29"
+    },
+    {
+      "id": "NUM.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "30",
+      "reference": "Numbers 30"
+    },
+    {
+      "id": "NUM.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "31",
+      "reference": "Numbers 31"
+    },
+    {
+      "id": "NUM.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "32",
+      "reference": "Numbers 32"
+    },
+    {
+      "id": "NUM.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "33",
+      "reference": "Numbers 33"
+    },
+    {
+      "id": "NUM.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "34",
+      "reference": "Numbers 34"
+    },
+    {
+      "id": "NUM.35",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "35",
+      "reference": "Numbers 35"
+    },
+    {
+      "id": "NUM.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NUM",
+      "number": "36",
+      "reference": "Numbers 36"
+    }
+  ]
+}

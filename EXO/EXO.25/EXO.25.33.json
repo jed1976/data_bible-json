@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.25.33",
+    "orgId": "EXO.25.33",
+    "bookId": "EXO",
+    "chapterId": "EXO.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 25:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"EXO 25:33\" class=\"v\">33</span>Three bowls made like unto almonds, <span class=\"add\">with</span> a knop and a flower in one branch; and three bowls made like almonds in the other branch, <span class=\"add\">with</span> a knop and a flower: so in the six branches that come out of the candlestick. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.25.34",
+      "number": "34"
+    },
+    "previous": {
+      "id": "EXO.25.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d931dfeb-7342-43f2-8eaa-ecb4f0b7687f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d931dfeb-7342-43f2-8eaa-ecb4f0b7687f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d931dfeb-7342-43f2-8eaa-ecb4f0b7687f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d931dfeb-7342-43f2-8eaa-ecb4f0b7687f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d931dfeb-7342-43f2-8eaa-ecb4f0b7687f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

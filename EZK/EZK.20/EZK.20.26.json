@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.20.26",
+    "orgId": "EZK.20.26",
+    "bookId": "EZK",
+    "chapterId": "EZK.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 20:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"EZK 20:26\" class=\"v\">26</span>And I polluted them in their own gifts, in that they caused to pass through <span class=\"add\">the fire</span> all that openeth the womb, that I might make them desolate, to the end that they might know that I <span class=\"add\">am</span> the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.20.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "EZK.20.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a16f7493-6abb-45b8-9a03-7e2e383eefc3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a16f7493-6abb-45b8-9a03-7e2e383eefc3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a16f7493-6abb-45b8-9a03-7e2e383eefc3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a16f7493-6abb-45b8-9a03-7e2e383eefc3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a16f7493-6abb-45b8-9a03-7e2e383eefc3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

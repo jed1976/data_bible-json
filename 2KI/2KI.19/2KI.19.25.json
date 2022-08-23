@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.19.25",
+    "orgId": "2KI.19.25",
+    "bookId": "2KI",
+    "chapterId": "2KI.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 19:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"2KI 19:25\" class=\"v\">25</span>Hast thou not heard long ago <span class=\"add\">how</span> I have done it, <span class=\"add\">and</span> of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities <span class=\"add\">into</span> ruinous heaps. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.19.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "2KI.19.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d556de7d-3d37-4931-8b7a-5443983bfc54');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d556de7d-3d37-4931-8b7a-5443983bfc54'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d556de7d-3d37-4931-8b7a-5443983bfc54",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d556de7d-3d37-4931-8b7a-5443983bfc54'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d556de7d-3d37-4931-8b7a-5443983bfc54\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

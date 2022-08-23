@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.4.9",
+    "orgId": "EXO.4.9",
+    "bookId": "EXO",
+    "chapterId": "EXO.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 4:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"EXO 4:9\" class=\"v\">9</span>And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour <span class=\"add\">it</span> upon the dry <span class=\"add\">land:</span> and the water which thou takest out of the river shall become blood upon the dry <span class=\"add\">land</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.4.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "EXO.4.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4cdc7710-7c61-46c7-90f9-bcd1cd1c708d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4cdc7710-7c61-46c7-90f9-bcd1cd1c708d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4cdc7710-7c61-46c7-90f9-bcd1cd1c708d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4cdc7710-7c61-46c7-90f9-bcd1cd1c708d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4cdc7710-7c61-46c7-90f9-bcd1cd1c708d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

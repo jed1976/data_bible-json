@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.20.32",
+    "orgId": "ACT.20.32",
+    "bookId": "ACT",
+    "chapterId": "ACT.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 20:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"ACT 20:32\" class=\"v\">32</span>And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.20.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "ACT.20.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('52826a10-b22f-44a2-9fd2-7dfd756bc7ca');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='52826a10-b22f-44a2-9fd2-7dfd756bc7ca'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "52826a10-b22f-44a2-9fd2-7dfd756bc7ca",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('52826a10-b22f-44a2-9fd2-7dfd756bc7ca'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=52826a10-b22f-44a2-9fd2-7dfd756bc7ca\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

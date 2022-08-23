@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.21.23",
+    "orgId": "NUM.21.23",
+    "bookId": "NUM",
+    "chapterId": "NUM.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 21:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"NUM 21:23\" class=\"v\">23</span>And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.21.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "NUM.21.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('990154bc-b496-40c2-8f9c-6b744ed3ba42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='990154bc-b496-40c2-8f9c-6b744ed3ba42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "990154bc-b496-40c2-8f9c-6b744ed3ba42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('990154bc-b496-40c2-8f9c-6b744ed3ba42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=990154bc-b496-40c2-8f9c-6b744ed3ba42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

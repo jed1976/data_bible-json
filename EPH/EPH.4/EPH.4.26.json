@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EPH.4.26",
+    "orgId": "EPH.4.26",
+    "bookId": "EPH",
+    "chapterId": "EPH.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ephesians 4:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"EPH 4:26\" class=\"v\">26</span>Be ye angry, and sin not: let not the sun go down upon your wrath: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EPH.4.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "EPH.4.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d37286b4-4827-42b9-93ef-b34d6eb97bfb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d37286b4-4827-42b9-93ef-b34d6eb97bfb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d37286b4-4827-42b9-93ef-b34d6eb97bfb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d37286b4-4827-42b9-93ef-b34d6eb97bfb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d37286b4-4827-42b9-93ef-b34d6eb97bfb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

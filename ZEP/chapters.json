@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "ZEP.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ZEP",
+      "number": "intro",
+      "reference": "Zephaniah"
+    },
+    {
+      "id": "ZEP.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ZEP",
+      "number": "1",
+      "reference": "Zephaniah 1"
+    },
+    {
+      "id": "ZEP.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ZEP",
+      "number": "2",
+      "reference": "Zephaniah 2"
+    },
+    {
+      "id": "ZEP.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "ZEP",
+      "number": "3",
+      "reference": "Zephaniah 3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.10.38",
+    "orgId": "JHN.10.38",
+    "bookId": "JHN",
+    "chapterId": "JHN.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 10:38",
+    "content": "<p class=\"p\"><span data-number=\"38\" data-sid=\"JHN 10:38\" class=\"v\">38</span><span class=\"wj\">But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father <span class=\"add\">is</span> in me, and I in him.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.10.39",
+      "number": "39"
+    },
+    "previous": {
+      "id": "JHN.10.37",
+      "number": "37"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dd3dd157-4092-4da8-9761-075f1618e522');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dd3dd157-4092-4da8-9761-075f1618e522'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dd3dd157-4092-4da8-9761-075f1618e522",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dd3dd157-4092-4da8-9761-075f1618e522'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dd3dd157-4092-4da8-9761-075f1618e522\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

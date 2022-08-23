@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.11.15",
+    "orgId": "JOS.11.15",
+    "bookId": "JOS",
+    "chapterId": "JOS.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 11:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"JOS 11:15\" class=\"v\">15</span>¶ As the <span class=\"nd\">LORD</span> commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the <span class=\"nd\">LORD</span> commanded Moses. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.11.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "JOS.11.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('73e889d2-c1a0-4d79-8364-a3ff53a93a5b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='73e889d2-c1a0-4d79-8364-a3ff53a93a5b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "73e889d2-c1a0-4d79-8364-a3ff53a93a5b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('73e889d2-c1a0-4d79-8364-a3ff53a93a5b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=73e889d2-c1a0-4d79-8364-a3ff53a93a5b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

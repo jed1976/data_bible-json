@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.34.16",
+    "orgId": "EZK.34.16",
+    "bookId": "EZK",
+    "chapterId": "EZK.34",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 34:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"EZK 34:16\" class=\"v\">16</span>I will seek that which was lost, and bring again that which was driven away, and will bind up <span class=\"add\">that which was</span> broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.34.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "EZK.34.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('67bb7621-b7a0-46c2-8576-84961eb7c378');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='67bb7621-b7a0-46c2-8576-84961eb7c378'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "67bb7621-b7a0-46c2-8576-84961eb7c378",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('67bb7621-b7a0-46c2-8576-84961eb7c378'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=67bb7621-b7a0-46c2-8576-84961eb7c378\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

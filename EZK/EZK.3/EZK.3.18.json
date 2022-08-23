@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.3.18",
+    "orgId": "EZK.3.18",
+    "bookId": "EZK",
+    "chapterId": "EZK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 3:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"EZK 3:18\" class=\"v\">18</span>When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked <span class=\"add\">man</span> shall die in his iniquity; but his blood will I require at thine hand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.3.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "EZK.3.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3d6fcb6c-e344-4719-9eb9-35e4747bf33f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3d6fcb6c-e344-4719-9eb9-35e4747bf33f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3d6fcb6c-e344-4719-9eb9-35e4747bf33f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3d6fcb6c-e344-4719-9eb9-35e4747bf33f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3d6fcb6c-e344-4719-9eb9-35e4747bf33f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

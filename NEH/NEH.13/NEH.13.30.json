@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.13.30",
+    "orgId": "NEH.13.30",
+    "bookId": "NEH",
+    "chapterId": "NEH.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 13:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"NEH 13:30\" class=\"v\">30</span>Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.13.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "NEH.13.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e94d960c-afa5-4ee5-9ffa-723038912d20');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e94d960c-afa5-4ee5-9ffa-723038912d20'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e94d960c-afa5-4ee5-9ffa-723038912d20",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e94d960c-afa5-4ee5-9ffa-723038912d20'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e94d960c-afa5-4ee5-9ffa-723038912d20\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

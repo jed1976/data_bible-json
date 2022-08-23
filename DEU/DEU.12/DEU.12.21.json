@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.12.21",
+    "orgId": "DEU.12.21",
+    "bookId": "DEU",
+    "chapterId": "DEU.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 12:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"DEU 12:21\" class=\"v\">21</span>If the place which the <span class=\"nd\">LORD</span> thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the <span class=\"nd\">LORD</span> hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.12.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "DEU.12.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d3094e50-010a-4ca9-b4c0-655781791387');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d3094e50-010a-4ca9-b4c0-655781791387'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d3094e50-010a-4ca9-b4c0-655781791387",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d3094e50-010a-4ca9-b4c0-655781791387'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d3094e50-010a-4ca9-b4c0-655781791387\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

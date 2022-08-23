@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.23.32",
+    "orgId": "PRO.23.32",
+    "bookId": "PRO",
+    "chapterId": "PRO.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 23:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"PRO 23:32\" class=\"v\">32</span>At the last it biteth like a serpent, and stingeth like an adder. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.23.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "PRO.23.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b551ef05-7adf-45e8-9302-49ef1c4c5244');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b551ef05-7adf-45e8-9302-49ef1c4c5244'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b551ef05-7adf-45e8-9302-49ef1c4c5244",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b551ef05-7adf-45e8-9302-49ef1c4c5244'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b551ef05-7adf-45e8-9302-49ef1c4c5244\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

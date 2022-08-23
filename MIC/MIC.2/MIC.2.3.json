@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MIC.2.3",
+    "orgId": "MIC.2.3",
+    "bookId": "MIC",
+    "chapterId": "MIC.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Micah 2:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"MIC 2:3\" class=\"v\">3</span>Therefore thus saith the <span class=\"nd\">LORD</span>; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time <span class=\"add\">is</span> evil.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MIC.2.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "MIC.2.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('056c9a54-d3b9-457b-82b4-a8e76c65918a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='056c9a54-d3b9-457b-82b4-a8e76c65918a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "056c9a54-d3b9-457b-82b4-a8e76c65918a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('056c9a54-d3b9-457b-82b4-a8e76c65918a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=056c9a54-d3b9-457b-82b4-a8e76c65918a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

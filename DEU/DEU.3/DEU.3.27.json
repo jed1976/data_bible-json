@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.3.27",
+    "orgId": "DEU.3.27",
+    "bookId": "DEU",
+    "chapterId": "DEU.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 3:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"DEU 3:27\" class=\"v\">27</span>Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold <span class=\"add\">it</span> with thine eyes: for thou shalt not go over this Jordan. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.3.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "DEU.3.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9ea4b03d-9f5a-4c39-a185-fd4c3baef28b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9ea4b03d-9f5a-4c39-a185-fd4c3baef28b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9ea4b03d-9f5a-4c39-a185-fd4c3baef28b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9ea4b03d-9f5a-4c39-a185-fd4c3baef28b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9ea4b03d-9f5a-4c39-a185-fd4c3baef28b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

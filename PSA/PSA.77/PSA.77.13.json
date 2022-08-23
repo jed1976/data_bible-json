@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.77.13",
+    "orgId": "PSA.77.14",
+    "bookId": "PSA",
+    "chapterId": "PSA.77",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 77:13",
+    "content": "<p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 77:13\" class=\"v\">13</span>Thy way, O God, <span class=\"add\">is</span> in the sanctuary: who <span class=\"add\">is so</span> great a God as <span class=\"add\">our</span> God?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.77.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "PSA.77.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('14ba655d-f5ed-42d9-aa0a-ba1dbb0b0302');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='14ba655d-f5ed-42d9-aa0a-ba1dbb0b0302'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "14ba655d-f5ed-42d9-aa0a-ba1dbb0b0302",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('14ba655d-f5ed-42d9-aa0a-ba1dbb0b0302'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=14ba655d-f5ed-42d9-aa0a-ba1dbb0b0302\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.12.23",
+    "orgId": "EXO.12.23",
+    "bookId": "EXO",
+    "chapterId": "EXO.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 12:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"EXO 12:23\" class=\"v\">23</span>For the <span class=\"nd\">LORD</span> will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the <span class=\"nd\">LORD</span> will pass over the door, and will not suffer the destroyer to come in unto your houses to smite <span class=\"add\">you</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.12.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "EXO.12.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('630666f9-8c1f-4625-b0da-1ab5121f1d5c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='630666f9-8c1f-4625-b0da-1ab5121f1d5c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "630666f9-8c1f-4625-b0da-1ab5121f1d5c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('630666f9-8c1f-4625-b0da-1ab5121f1d5c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=630666f9-8c1f-4625-b0da-1ab5121f1d5c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

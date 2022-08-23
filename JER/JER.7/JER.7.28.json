@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.7.28",
+    "orgId": "JER.7.28",
+    "bookId": "JER",
+    "chapterId": "JER.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 7:28",
+    "content": "<p class=\"p\"><span data-number=\"28\" data-sid=\"JER 7:28\" class=\"v\">28</span>But thou shalt say unto them, This <span class=\"add\">is</span> a nation that obeyeth not the voice of the <span class=\"nd\">LORD</span> their God, nor receiveth correction: truth is perished, and is cut off from their mouth.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.7.29",
+      "number": "29"
+    },
+    "previous": {
+      "id": "JER.7.27",
+      "number": "27"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d6da03de-eba4-4e69-8660-bbb850e18102');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d6da03de-eba4-4e69-8660-bbb850e18102'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d6da03de-eba4-4e69-8660-bbb850e18102",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d6da03de-eba4-4e69-8660-bbb850e18102'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d6da03de-eba4-4e69-8660-bbb850e18102\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

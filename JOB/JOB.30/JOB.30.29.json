@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.30.29",
+    "orgId": "JOB.30.29",
+    "bookId": "JOB",
+    "chapterId": "JOB.30",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 30:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"JOB 30:29\" class=\"v\">29</span>I am a brother to dragons, and a companion to owls. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.30.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "JOB.30.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('69c9f0d3-ecba-46d3-85c5-b48c53fe08ea');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='69c9f0d3-ecba-46d3-85c5-b48c53fe08ea'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "69c9f0d3-ecba-46d3-85c5-b48c53fe08ea",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('69c9f0d3-ecba-46d3-85c5-b48c53fe08ea'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=69c9f0d3-ecba-46d3-85c5-b48c53fe08ea\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

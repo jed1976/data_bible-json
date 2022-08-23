@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1JN.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "intro",
+      "reference": "1 John"
+    },
+    {
+      "id": "1JN.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "1",
+      "reference": "1 John 1"
+    },
+    {
+      "id": "1JN.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "2",
+      "reference": "1 John 2"
+    },
+    {
+      "id": "1JN.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "3",
+      "reference": "1 John 3"
+    },
+    {
+      "id": "1JN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "4",
+      "reference": "1 John 4"
+    },
+    {
+      "id": "1JN.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1JN",
+      "number": "5",
+      "reference": "1 John 5"
+    }
+  ]
+}

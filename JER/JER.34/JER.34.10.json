@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.34.10",
+    "orgId": "JER.34.10",
+    "bookId": "JER",
+    "chapterId": "JER.34",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 34:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JER 34:10\" class=\"v\">10</span>Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let <span class=\"add\">them</span> go. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.34.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "JER.34.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('31febf55-3922-4e6a-9bba-f9f50e9516e6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='31febf55-3922-4e6a-9bba-f9f50e9516e6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "31febf55-3922-4e6a-9bba-f9f50e9516e6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('31febf55-3922-4e6a-9bba-f9f50e9516e6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=31febf55-3922-4e6a-9bba-f9f50e9516e6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

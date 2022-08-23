@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.28.17",
+    "orgId": "EZK.28.17",
+    "bookId": "EZK",
+    "chapterId": "EZK.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 28:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"EZK 28:17\" class=\"v\">17</span>Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.28.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "EZK.28.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('27da6402-2773-4d66-89b7-735febe5c9d7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='27da6402-2773-4d66-89b7-735febe5c9d7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "27da6402-2773-4d66-89b7-735febe5c9d7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('27da6402-2773-4d66-89b7-735febe5c9d7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=27da6402-2773-4d66-89b7-735febe5c9d7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.18.26",
+    "orgId": "LEV.18.26",
+    "bookId": "LEV",
+    "chapterId": "LEV.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 18:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"LEV 18:26\" class=\"v\">26</span>Ye shall therefore keep my statutes and my judgments, and shall not commit <span class=\"add\">any</span> of these abominations; <span class=\"add\">neither</span> any of your own nation, nor any stranger that sojourneth among you: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.18.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "LEV.18.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1f47e34-a6bf-4b26-b76f-82e2a209d9f3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1f47e34-a6bf-4b26-b76f-82e2a209d9f3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1f47e34-a6bf-4b26-b76f-82e2a209d9f3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1f47e34-a6bf-4b26-b76f-82e2a209d9f3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1f47e34-a6bf-4b26-b76f-82e2a209d9f3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

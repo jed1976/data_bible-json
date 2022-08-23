@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.21.13",
+    "orgId": "REV.21.13",
+    "bookId": "REV",
+    "chapterId": "REV.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 21:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"REV 21:13\" class=\"v\">13</span>On the east three gates; on the north three gates; on the south three gates; and on the west three gates. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.21.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "REV.21.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cd414568-9806-4afd-a94f-bdc3125a61c4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cd414568-9806-4afd-a94f-bdc3125a61c4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cd414568-9806-4afd-a94f-bdc3125a61c4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cd414568-9806-4afd-a94f-bdc3125a61c4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cd414568-9806-4afd-a94f-bdc3125a61c4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

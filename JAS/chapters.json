@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "JAS.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "intro",
+      "reference": "James"
+    },
+    {
+      "id": "JAS.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "1",
+      "reference": "James 1"
+    },
+    {
+      "id": "JAS.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "2",
+      "reference": "James 2"
+    },
+    {
+      "id": "JAS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "3",
+      "reference": "James 3"
+    },
+    {
+      "id": "JAS.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "4",
+      "reference": "James 4"
+    },
+    {
+      "id": "JAS.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JAS",
+      "number": "5",
+      "reference": "James 5"
+    }
+  ]
+}

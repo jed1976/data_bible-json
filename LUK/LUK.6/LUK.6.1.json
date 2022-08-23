@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.6.1",
+    "orgId": "LUK.6.1",
+    "bookId": "LUK",
+    "chapterId": "LUK.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 6:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"LUK 6:1\" class=\"v\">1</span>And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing <span class=\"add\">them</span> in <span class=\"add\">their</span> hands. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.6.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "LUK.5.39",
+      "number": "39"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9f3c1867-7941-4227-83a5-a4167d5c50de');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9f3c1867-7941-4227-83a5-a4167d5c50de'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9f3c1867-7941-4227-83a5-a4167d5c50de",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9f3c1867-7941-4227-83a5-a4167d5c50de'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9f3c1867-7941-4227-83a5-a4167d5c50de\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.4.9",
+    "orgId": "AMO.4.9",
+    "bookId": "AMO",
+    "chapterId": "AMO.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 4:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"AMO 4:9\" class=\"v\">9</span>I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured <span class=\"add\">them:</span> yet have ye not returned unto me, saith the <span class=\"nd\">LORD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.4.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "AMO.4.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('10cbd65d-85c5-4291-ab12-7ef55216701d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='10cbd65d-85c5-4291-ab12-7ef55216701d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "10cbd65d-85c5-4291-ab12-7ef55216701d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('10cbd65d-85c5-4291-ab12-7ef55216701d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=10cbd65d-85c5-4291-ab12-7ef55216701d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.19.19",
+    "orgId": "JDG.19.19",
+    "bookId": "JDG",
+    "chapterId": "JDG.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 19:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"JDG 19:19\" class=\"v\">19</span>Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man <span class=\"add\">which is</span> with thy servants: <span class=\"add\">there is</span> no want of any thing. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.19.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "JDG.19.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('76f03a08-5444-4c9e-bad6-af693ba3e6fd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='76f03a08-5444-4c9e-bad6-af693ba3e6fd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "76f03a08-5444-4c9e-bad6-af693ba3e6fd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('76f03a08-5444-4c9e-bad6-af693ba3e6fd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=76f03a08-5444-4c9e-bad6-af693ba3e6fd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

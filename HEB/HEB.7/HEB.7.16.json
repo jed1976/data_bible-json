@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.7.16",
+    "orgId": "HEB.7.16",
+    "bookId": "HEB",
+    "chapterId": "HEB.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 7:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"HEB 7:16\" class=\"v\">16</span>Who is made, not after the law of a carnal commandment, but after the power of an endless life. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.7.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "HEB.7.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('69a3751f-6376-42d6-81ee-2d6f5486c040');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='69a3751f-6376-42d6-81ee-2d6f5486c040'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "69a3751f-6376-42d6-81ee-2d6f5486c040",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('69a3751f-6376-42d6-81ee-2d6f5486c040'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=69a3751f-6376-42d6-81ee-2d6f5486c040\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

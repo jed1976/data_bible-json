@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZR.4.16",
+    "orgId": "EZR.4.16",
+    "bookId": "EZR",
+    "chapterId": "EZR.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezra 4:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"EZR 4:16\" class=\"v\">16</span>We certify the king that, if this city be builded <span class=\"add\">again</span>, and the walls thereof set up, by this means thou shalt have no portion on this side the river.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZR.4.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "EZR.4.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1537415e-2d06-4a9c-81a2-a04f734674de');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1537415e-2d06-4a9c-81a2-a04f734674de'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1537415e-2d06-4a9c-81a2-a04f734674de",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1537415e-2d06-4a9c-81a2-a04f734674de'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1537415e-2d06-4a9c-81a2-a04f734674de\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

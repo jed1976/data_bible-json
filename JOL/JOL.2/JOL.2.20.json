@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOL.2.20",
+    "orgId": "JOL.2.20",
+    "bookId": "JOL",
+    "chapterId": "JOL.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joel 2:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JOL 2:20\" class=\"v\">20</span>But I will remove far off from you the northern <span class=\"add\">army</span>, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOL.2.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JOL.2.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('305bfc0a-4d9a-4858-821c-a0e700cd5612');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='305bfc0a-4d9a-4858-821c-a0e700cd5612'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "305bfc0a-4d9a-4858-821c-a0e700cd5612",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('305bfc0a-4d9a-4858-821c-a0e700cd5612'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=305bfc0a-4d9a-4858-821c-a0e700cd5612\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.3.22",
+    "orgId": "ACT.3.22",
+    "bookId": "ACT",
+    "chapterId": "ACT.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 3:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"ACT 3:22\" class=\"v\">22</span>For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.3.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "ACT.3.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cad88a62-2938-459e-9b7a-d54d711340d7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cad88a62-2938-459e-9b7a-d54d711340d7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cad88a62-2938-459e-9b7a-d54d711340d7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cad88a62-2938-459e-9b7a-d54d711340d7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cad88a62-2938-459e-9b7a-d54d711340d7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

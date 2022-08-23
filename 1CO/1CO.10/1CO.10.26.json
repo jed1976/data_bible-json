@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.10.26",
+    "orgId": "1CO.10.26",
+    "bookId": "1CO",
+    "chapterId": "1CO.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 10:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"1CO 10:26\" class=\"v\">26</span>For the earth <span class=\"add\">is</span> the Lord’s, and the fulness thereof. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.10.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "1CO.10.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d5ae8c73-63a1-4c2e-9784-6c1c09911ea0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d5ae8c73-63a1-4c2e-9784-6c1c09911ea0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d5ae8c73-63a1-4c2e-9784-6c1c09911ea0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d5ae8c73-63a1-4c2e-9784-6c1c09911ea0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d5ae8c73-63a1-4c2e-9784-6c1c09911ea0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

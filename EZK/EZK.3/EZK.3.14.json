@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.3.14",
+    "orgId": "EZK.3.14",
+    "bookId": "EZK",
+    "chapterId": "EZK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 3:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"EZK 3:14\" class=\"v\">14</span>So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the <span class=\"nd\">LORD</span> was strong upon me.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.3.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "EZK.3.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('80c1e32b-bfb0-4deb-99fe-906834fcd643');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='80c1e32b-bfb0-4deb-99fe-906834fcd643'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "80c1e32b-bfb0-4deb-99fe-906834fcd643",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('80c1e32b-bfb0-4deb-99fe-906834fcd643'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=80c1e32b-bfb0-4deb-99fe-906834fcd643\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

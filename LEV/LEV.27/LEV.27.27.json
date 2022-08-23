@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.27.27",
+    "orgId": "LEV.27.27",
+    "bookId": "LEV",
+    "chapterId": "LEV.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 27:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"LEV 27:27\" class=\"v\">27</span>And if <span class=\"add\">it be</span> of an unclean beast, then he shall redeem <span class=\"add\">it</span> according to thine estimation, and shall add a fifth <span class=\"add\">part</span> of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.27.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "LEV.27.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c58c4170-f59d-408e-a0bf-40903dd1775b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c58c4170-f59d-408e-a0bf-40903dd1775b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c58c4170-f59d-408e-a0bf-40903dd1775b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c58c4170-f59d-408e-a0bf-40903dd1775b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c58c4170-f59d-408e-a0bf-40903dd1775b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

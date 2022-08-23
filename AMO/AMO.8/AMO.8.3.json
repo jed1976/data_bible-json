@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.8.3",
+    "orgId": "AMO.8.3",
+    "bookId": "AMO",
+    "chapterId": "AMO.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 8:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"AMO 8:3\" class=\"v\">3</span>And the songs of the temple shall be howlings in that day, saith the Lord <span class=\"nd\">GOD</span>: <span class=\"add\">there shall be</span> many dead bodies in every place; they shall cast <span class=\"add\">them</span> forth with silence.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.8.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "AMO.8.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('39eb6d36-d35b-416b-a62b-e092da1bf86a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='39eb6d36-d35b-416b-a62b-e092da1bf86a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "39eb6d36-d35b-416b-a62b-e092da1bf86a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('39eb6d36-d35b-416b-a62b-e092da1bf86a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=39eb6d36-d35b-416b-a62b-e092da1bf86a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

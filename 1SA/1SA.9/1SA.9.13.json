@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.9.13",
+    "orgId": "1SA.9.13",
+    "bookId": "1SA",
+    "chapterId": "1SA.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 9:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"1SA 9:13\" class=\"v\">13</span>As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; <span class=\"add\">and</span> afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.9.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "1SA.9.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3cb03c6d-7dd4-47f4-b441-99eaf54942b0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3cb03c6d-7dd4-47f4-b441-99eaf54942b0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3cb03c6d-7dd4-47f4-b441-99eaf54942b0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3cb03c6d-7dd4-47f4-b441-99eaf54942b0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3cb03c6d-7dd4-47f4-b441-99eaf54942b0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

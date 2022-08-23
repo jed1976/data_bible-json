@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.27.44",
+    "orgId": "GEN.27.44",
+    "bookId": "GEN",
+    "chapterId": "GEN.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 27:44",
+    "content": "<p class=\"p\"><span data-number=\"44\" data-sid=\"GEN 27:44\" class=\"v\">44</span>And tarry with him a few days, until thy brother’s fury turn away; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.27.45",
+      "number": "45"
+    },
+    "previous": {
+      "id": "GEN.27.43",
+      "number": "43"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('89575832-575e-4fb3-be9f-a8ee607d8a3e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='89575832-575e-4fb3-be9f-a8ee607d8a3e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "89575832-575e-4fb3-be9f-a8ee607d8a3e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('89575832-575e-4fb3-be9f-a8ee607d8a3e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=89575832-575e-4fb3-be9f-a8ee607d8a3e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.24.56",
+    "orgId": "GEN.24.56",
+    "bookId": "GEN",
+    "chapterId": "GEN.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 24:56",
+    "content": "<p class=\"p\"><span data-number=\"56\" data-sid=\"GEN 24:56\" class=\"v\">56</span>And he said unto them, Hinder me not, seeing the <span class=\"nd\">LORD</span> hath prospered my way; send me away that I may go to my master. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.24.57",
+      "number": "57"
+    },
+    "previous": {
+      "id": "GEN.24.55",
+      "number": "55"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6bff5fa2-4a20-471b-bfd0-f74ec7d546a7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6bff5fa2-4a20-471b-bfd0-f74ec7d546a7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6bff5fa2-4a20-471b-bfd0-f74ec7d546a7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6bff5fa2-4a20-471b-bfd0-f74ec7d546a7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6bff5fa2-4a20-471b-bfd0-f74ec7d546a7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

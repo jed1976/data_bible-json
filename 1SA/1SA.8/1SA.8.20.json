@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.8.20",
+    "orgId": "1SA.8.20",
+    "bookId": "1SA",
+    "chapterId": "1SA.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 8:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"1SA 8:20\" class=\"v\">20</span>That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.8.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "1SA.8.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3f1d32a5-2381-4cff-b4d5-f54124b11d77');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3f1d32a5-2381-4cff-b4d5-f54124b11d77'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3f1d32a5-2381-4cff-b4d5-f54124b11d77",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3f1d32a5-2381-4cff-b4d5-f54124b11d77'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3f1d32a5-2381-4cff-b4d5-f54124b11d77\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

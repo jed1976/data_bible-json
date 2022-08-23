@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.10.30",
+    "orgId": "HEB.10.30",
+    "bookId": "HEB",
+    "chapterId": "HEB.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 10:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"HEB 10:30\" class=\"v\">30</span>For we know him that hath said, Vengeance <span class=\"add\">belongeth</span> unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.10.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "HEB.10.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c6e8f754-a1d1-41c9-9670-443fe2b41406');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c6e8f754-a1d1-41c9-9670-443fe2b41406'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c6e8f754-a1d1-41c9-9670-443fe2b41406",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c6e8f754-a1d1-41c9-9670-443fe2b41406'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c6e8f754-a1d1-41c9-9670-443fe2b41406\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

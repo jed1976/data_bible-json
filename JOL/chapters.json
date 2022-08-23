@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "JOL.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOL",
+      "number": "intro",
+      "reference": "Joel"
+    },
+    {
+      "id": "JOL.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOL",
+      "number": "1",
+      "reference": "Joel 1"
+    },
+    {
+      "id": "JOL.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOL",
+      "number": "2",
+      "reference": "Joel 2"
+    },
+    {
+      "id": "JOL.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOL",
+      "number": "3",
+      "reference": "Joel 3"
+    }
+  ]
+}

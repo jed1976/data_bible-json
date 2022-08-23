@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.3.60",
+    "orgId": "LAM.3.60",
+    "bookId": "LAM",
+    "chapterId": "LAM.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 3:60",
+    "content": "<p class=\"p\"><span data-number=\"60\" data-sid=\"LAM 3:60\" class=\"v\">60</span>Thou hast seen all their vengeance <span class=\"add\">and</span> all their imaginations against me. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.3.61",
+      "number": "61"
+    },
+    "previous": {
+      "id": "LAM.3.59",
+      "number": "59"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2283df4d-6446-4a25-a9ca-2063f52e0cab');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2283df4d-6446-4a25-a9ca-2063f52e0cab'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2283df4d-6446-4a25-a9ca-2063f52e0cab",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2283df4d-6446-4a25-a9ca-2063f52e0cab'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2283df4d-6446-4a25-a9ca-2063f52e0cab\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

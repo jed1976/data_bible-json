@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "HOS.3.1",
+      "orgId": "HOS.3.1",
+      "bookId": "HOS",
+      "chapterId": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 3:1"
+    },
+    {
+      "id": "HOS.3.2",
+      "orgId": "HOS.3.2",
+      "bookId": "HOS",
+      "chapterId": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 3:2"
+    },
+    {
+      "id": "HOS.3.3",
+      "orgId": "HOS.3.3",
+      "bookId": "HOS",
+      "chapterId": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 3:3"
+    },
+    {
+      "id": "HOS.3.4",
+      "orgId": "HOS.3.4",
+      "bookId": "HOS",
+      "chapterId": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 3:4"
+    },
+    {
+      "id": "HOS.3.5",
+      "orgId": "HOS.3.5",
+      "bookId": "HOS",
+      "chapterId": "HOS.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 3:5"
+    }
+  ]
+}

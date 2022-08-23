@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "2TH.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TH",
+      "number": "intro",
+      "reference": "2 Thessalonians"
+    },
+    {
+      "id": "2TH.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TH",
+      "number": "1",
+      "reference": "2 Thessalonians 1"
+    },
+    {
+      "id": "2TH.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TH",
+      "number": "2",
+      "reference": "2 Thessalonians 2"
+    },
+    {
+      "id": "2TH.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2TH",
+      "number": "3",
+      "reference": "2 Thessalonians 3"
+    }
+  ]
+}

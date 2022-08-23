@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.6.81",
+    "orgId": "1CH.6.66",
+    "bookId": "1CH",
+    "chapterId": "1CH.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 6:81",
+    "content": "<p class=\"p\"><span data-number=\"81\" data-sid=\"1CH 6:81\" class=\"v\">81</span>And Heshbon with her suburbs, and Jazer with her suburbs.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.7.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "1CH.6.80",
+      "number": "80"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3a9e8ae8-bc51-427f-8bdc-a5819afea6ab');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3a9e8ae8-bc51-427f-8bdc-a5819afea6ab'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3a9e8ae8-bc51-427f-8bdc-a5819afea6ab",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3a9e8ae8-bc51-427f-8bdc-a5819afea6ab'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3a9e8ae8-bc51-427f-8bdc-a5819afea6ab\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

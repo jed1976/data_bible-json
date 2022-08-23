@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.6.32",
+    "orgId": "PRO.6.32",
+    "bookId": "PRO",
+    "chapterId": "PRO.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 6:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"PRO 6:32\" class=\"v\">32</span><span class=\"add\">But</span> whoso committeth adultery with a woman lacketh understanding: he <span class=\"add\">that</span> doeth it destroyeth his own soul. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.6.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "PRO.6.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6896c414-45c6-479f-ae3a-3f1ac6b957ad');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6896c414-45c6-479f-ae3a-3f1ac6b957ad'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6896c414-45c6-479f-ae3a-3f1ac6b957ad",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6896c414-45c6-479f-ae3a-3f1ac6b957ad'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6896c414-45c6-479f-ae3a-3f1ac6b957ad\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

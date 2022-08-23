@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.6.14",
+    "orgId": "DAN.6.15",
+    "bookId": "DAN",
+    "chapterId": "DAN.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 6:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"DAN 6:14\" class=\"v\">14</span>Then the king, when he heard <span class=\"add\">these</span> words, was sore displeased with himself, and set <span class=\"add\">his</span> heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.6.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "DAN.6.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9c2d4bf3-9124-4640-a0dc-ee8fd466cced');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9c2d4bf3-9124-4640-a0dc-ee8fd466cced'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9c2d4bf3-9124-4640-a0dc-ee8fd466cced",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9c2d4bf3-9124-4640-a0dc-ee8fd466cced'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9c2d4bf3-9124-4640-a0dc-ee8fd466cced\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

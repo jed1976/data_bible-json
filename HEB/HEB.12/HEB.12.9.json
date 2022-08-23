@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.12.9",
+    "orgId": "HEB.12.9",
+    "bookId": "HEB",
+    "chapterId": "HEB.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 12:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"HEB 12:9\" class=\"v\">9</span>Furthermore we have had fathers of our flesh which corrected <span class=\"add\">us</span>, and we gave <span class=\"add\">them</span> reverence: shall we not much rather be in subjection unto the Father of spirits, and live? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.12.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "HEB.12.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c15e6d22-7bf7-415f-9824-3535bbba331e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c15e6d22-7bf7-415f-9824-3535bbba331e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c15e6d22-7bf7-415f-9824-3535bbba331e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c15e6d22-7bf7-415f-9824-3535bbba331e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c15e6d22-7bf7-415f-9824-3535bbba331e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

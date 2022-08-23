@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.10.26",
+    "orgId": "EXO.10.26",
+    "bookId": "EXO",
+    "chapterId": "EXO.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 10:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"EXO 10:26\" class=\"v\">26</span>Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the <span class=\"nd\">LORD</span> our God; and we know not with what we must serve the <span class=\"nd\">LORD</span>, until we come thither.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.10.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "EXO.10.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd6a3232-d9e8-4cda-8e86-f127a2c0af43');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd6a3232-d9e8-4cda-8e86-f127a2c0af43'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd6a3232-d9e8-4cda-8e86-f127a2c0af43",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd6a3232-d9e8-4cda-8e86-f127a2c0af43'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd6a3232-d9e8-4cda-8e86-f127a2c0af43\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

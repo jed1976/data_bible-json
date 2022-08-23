@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.8.27",
+    "orgId": "ACT.8.27",
+    "bookId": "ACT",
+    "chapterId": "ACT.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 8:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"ACT 8:27\" class=\"v\">27</span>And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.8.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "ACT.8.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ecfac838-705b-4588-a044-f59c3e1c244c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ecfac838-705b-4588-a044-f59c3e1c244c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ecfac838-705b-4588-a044-f59c3e1c244c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ecfac838-705b-4588-a044-f59c3e1c244c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ecfac838-705b-4588-a044-f59c3e1c244c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

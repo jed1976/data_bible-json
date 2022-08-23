@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.2.6",
+    "orgId": "2KI.2.6",
+    "bookId": "2KI",
+    "chapterId": "2KI.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"2KI 2:6\" class=\"v\">6</span>And Elijah said unto him, Tarry, I pray thee, here; for the <span class=\"nd\">LORD</span> hath sent me to Jordan. And he said, <span class=\"add\">As</span> the <span class=\"nd\">LORD</span> liveth, and <span class=\"add\">as</span> thy soul liveth, I will not leave thee. And they two went on. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "2KI.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('caff4bb0-c0eb-48e2-89ff-b55da9cdba9b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='caff4bb0-c0eb-48e2-89ff-b55da9cdba9b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "caff4bb0-c0eb-48e2-89ff-b55da9cdba9b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('caff4bb0-c0eb-48e2-89ff-b55da9cdba9b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=caff4bb0-c0eb-48e2-89ff-b55da9cdba9b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

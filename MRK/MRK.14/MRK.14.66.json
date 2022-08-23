@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.14.66",
+    "orgId": "MRK.14.66",
+    "bookId": "MRK",
+    "chapterId": "MRK.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 14:66",
+    "content": "<p class=\"p\"><span data-number=\"66\" data-sid=\"MRK 14:66\" class=\"v\">66</span>¶ And as Peter was beneath in the palace, there cometh one of the maids of the high priest: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.14.67",
+      "number": "67"
+    },
+    "previous": {
+      "id": "MRK.14.65",
+      "number": "65"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('962849d8-4abb-4f69-bdab-03ffbcc9c0dc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='962849d8-4abb-4f69-bdab-03ffbcc9c0dc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "962849d8-4abb-4f69-bdab-03ffbcc9c0dc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('962849d8-4abb-4f69-bdab-03ffbcc9c0dc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=962849d8-4abb-4f69-bdab-03ffbcc9c0dc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

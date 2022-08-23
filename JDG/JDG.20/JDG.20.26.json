@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.20.26",
+    "orgId": "JDG.20.26",
+    "bookId": "JDG",
+    "chapterId": "JDG.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 20:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"JDG 20:26\" class=\"v\">26</span>¶ Then all the children of Israel, and all the people, went up, and came unto the house of God, and wept, and sat there before the <span class=\"nd\">LORD</span>, and fasted that day until even, and offered burnt offerings and peace offerings before the <span class=\"nd\">LORD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.20.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "JDG.20.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('542bd2b2-0511-4f5d-9ab6-58b4d2c2151a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='542bd2b2-0511-4f5d-9ab6-58b4d2c2151a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "542bd2b2-0511-4f5d-9ab6-58b4d2c2151a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('542bd2b2-0511-4f5d-9ab6-58b4d2c2151a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=542bd2b2-0511-4f5d-9ab6-58b4d2c2151a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.7.20",
+    "orgId": "2CH.7.20",
+    "bookId": "2CH",
+    "chapterId": "2CH.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 7:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"2CH 7:20\" class=\"v\">20</span>Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it <span class=\"add\">to be</span> a proverb and a byword among all nations. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.7.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "2CH.7.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d0313b30-669b-42e2-83b6-358a9ee6c192');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d0313b30-669b-42e2-83b6-358a9ee6c192'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d0313b30-669b-42e2-83b6-358a9ee6c192",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d0313b30-669b-42e2-83b6-358a9ee6c192'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d0313b30-669b-42e2-83b6-358a9ee6c192\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

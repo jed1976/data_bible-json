@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.5.1",
+    "orgId": "EST.5.1",
+    "bookId": "EST",
+    "chapterId": "EST.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 5:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EST 5:1\" class=\"v\">1</span>Now it came to pass on the third day, that Esther put on <span class=\"add\">her</span> royal <span class=\"add\">apparel</span>, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.5.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "EST.4.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f140e1ad-5806-4a94-87d3-ee0279e759d6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f140e1ad-5806-4a94-87d3-ee0279e759d6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f140e1ad-5806-4a94-87d3-ee0279e759d6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f140e1ad-5806-4a94-87d3-ee0279e759d6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f140e1ad-5806-4a94-87d3-ee0279e759d6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.15.16",
+    "orgId": "MRK.15.16",
+    "bookId": "MRK",
+    "chapterId": "MRK.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 15:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"MRK 15:16\" class=\"v\">16</span>And the soldiers led him away into the hall, called Prætorium; and they call together the whole band. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.15.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "MRK.15.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dab3b9db-ecaa-4b4b-8340-ac7c9c78bac3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dab3b9db-ecaa-4b4b-8340-ac7c9c78bac3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dab3b9db-ecaa-4b4b-8340-ac7c9c78bac3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dab3b9db-ecaa-4b4b-8340-ac7c9c78bac3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dab3b9db-ecaa-4b4b-8340-ac7c9c78bac3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

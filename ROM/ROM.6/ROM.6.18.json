@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.6.18",
+    "orgId": "ROM.6.18",
+    "bookId": "ROM",
+    "chapterId": "ROM.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 6:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"ROM 6:18\" class=\"v\">18</span>Being then made free from sin, ye became the servants of righteousness. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.6.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "ROM.6.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('94b9e9ef-5527-4963-b62a-64a8787b7d97');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='94b9e9ef-5527-4963-b62a-64a8787b7d97'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "94b9e9ef-5527-4963-b62a-64a8787b7d97",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('94b9e9ef-5527-4963-b62a-64a8787b7d97'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=94b9e9ef-5527-4963-b62a-64a8787b7d97\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

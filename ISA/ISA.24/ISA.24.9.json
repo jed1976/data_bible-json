@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.24.9",
+    "orgId": "ISA.24.9",
+    "bookId": "ISA",
+    "chapterId": "ISA.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 24:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"ISA 24:9\" class=\"v\">9</span>They shall not drink wine with a song; strong drink shall be bitter to them that drink it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.24.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "ISA.24.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1308033b-af6f-4ffa-bcbc-3876893fdc93');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1308033b-af6f-4ffa-bcbc-3876893fdc93'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1308033b-af6f-4ffa-bcbc-3876893fdc93",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1308033b-af6f-4ffa-bcbc-3876893fdc93'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1308033b-af6f-4ffa-bcbc-3876893fdc93\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

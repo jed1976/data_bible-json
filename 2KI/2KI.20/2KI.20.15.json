@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.20.15",
+    "orgId": "2KI.20.15",
+    "bookId": "2KI",
+    "chapterId": "2KI.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 20:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"2KI 20:15\" class=\"v\">15</span>And he said, What have they seen in thine house? And Hezekiah answered, All <span class=\"add\">the things</span> that <span class=\"add\">are</span> in mine house have they seen: there is nothing among my treasures that I have not shewed them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.20.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "2KI.20.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4553db75-5054-4030-8b71-88a43467250b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4553db75-5054-4030-8b71-88a43467250b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4553db75-5054-4030-8b71-88a43467250b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4553db75-5054-4030-8b71-88a43467250b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4553db75-5054-4030-8b71-88a43467250b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

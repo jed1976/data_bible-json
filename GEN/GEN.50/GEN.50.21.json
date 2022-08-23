@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.50.21",
+    "orgId": "GEN.50.21",
+    "bookId": "GEN",
+    "chapterId": "GEN.50",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 50:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"GEN 50:21\" class=\"v\">21</span>Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.50.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "GEN.50.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a54797c7-dc9e-40b3-9acc-d4517091ee6c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a54797c7-dc9e-40b3-9acc-d4517091ee6c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a54797c7-dc9e-40b3-9acc-d4517091ee6c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a54797c7-dc9e-40b3-9acc-d4517091ee6c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a54797c7-dc9e-40b3-9acc-d4517091ee6c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

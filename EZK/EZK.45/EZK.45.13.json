@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.45.13",
+    "orgId": "EZK.45.13",
+    "bookId": "EZK",
+    "chapterId": "EZK.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 45:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"EZK 45:13\" class=\"v\">13</span>This <span class=\"add\">is</span> the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.45.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "EZK.45.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ddb56fb0-e1fd-490d-9e2e-f8f2d990fad6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ddb56fb0-e1fd-490d-9e2e-f8f2d990fad6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ddb56fb0-e1fd-490d-9e2e-f8f2d990fad6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ddb56fb0-e1fd-490d-9e2e-f8f2d990fad6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ddb56fb0-e1fd-490d-9e2e-f8f2d990fad6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

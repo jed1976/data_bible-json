@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": "ECC.5.1",
+      "orgId": "ECC.4.17",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:1"
+    },
+    {
+      "id": "ECC.5.2",
+      "orgId": "ECC.5.1",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:2"
+    },
+    {
+      "id": "ECC.5.3",
+      "orgId": "ECC.5.2",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:3"
+    },
+    {
+      "id": "ECC.5.4",
+      "orgId": "ECC.5.3",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:4"
+    },
+    {
+      "id": "ECC.5.5",
+      "orgId": "ECC.5.4",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:5"
+    },
+    {
+      "id": "ECC.5.6",
+      "orgId": "ECC.5.5",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:6"
+    },
+    {
+      "id": "ECC.5.7",
+      "orgId": "ECC.5.6",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:7"
+    },
+    {
+      "id": "ECC.5.8",
+      "orgId": "ECC.5.7",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:8"
+    },
+    {
+      "id": "ECC.5.9",
+      "orgId": "ECC.5.8",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:9"
+    },
+    {
+      "id": "ECC.5.10",
+      "orgId": "ECC.5.9",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:10"
+    },
+    {
+      "id": "ECC.5.11",
+      "orgId": "ECC.5.10",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:11"
+    },
+    {
+      "id": "ECC.5.12",
+      "orgId": "ECC.5.11",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:12"
+    },
+    {
+      "id": "ECC.5.13",
+      "orgId": "ECC.5.12",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:13"
+    },
+    {
+      "id": "ECC.5.14",
+      "orgId": "ECC.5.13",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:14"
+    },
+    {
+      "id": "ECC.5.15",
+      "orgId": "ECC.5.14",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:15"
+    },
+    {
+      "id": "ECC.5.16",
+      "orgId": "ECC.5.15",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:16"
+    },
+    {
+      "id": "ECC.5.17",
+      "orgId": "ECC.5.16",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:17"
+    },
+    {
+      "id": "ECC.5.18",
+      "orgId": "ECC.5.17",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:18"
+    },
+    {
+      "id": "ECC.5.19",
+      "orgId": "ECC.5.18",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:19"
+    },
+    {
+      "id": "ECC.5.20",
+      "orgId": "ECC.5.19",
+      "bookId": "ECC",
+      "chapterId": "ECC.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ecclesiastes 5:20"
+    }
+  ]
+}

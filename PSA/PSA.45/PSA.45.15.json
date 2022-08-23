@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.45.15",
+    "orgId": "PSA.45.16",
+    "bookId": "PSA",
+    "chapterId": "PSA.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 45:15",
+    "content": "<p class=\"q1\"><span data-number=\"15\" data-sid=\"PSA 45:15\" class=\"v\">15</span>With gladness and rejoicing shall they be brought: they shall enter into the king’s palace.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.45.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "PSA.45.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5d8fe29a-40a9-4f77-a300-699b4460e43c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5d8fe29a-40a9-4f77-a300-699b4460e43c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5d8fe29a-40a9-4f77-a300-699b4460e43c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5d8fe29a-40a9-4f77-a300-699b4460e43c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5d8fe29a-40a9-4f77-a300-699b4460e43c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

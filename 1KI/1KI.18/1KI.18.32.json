@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.18.32",
+    "orgId": "1KI.18.32",
+    "bookId": "1KI",
+    "chapterId": "1KI.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 18:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"1KI 18:32\" class=\"v\">32</span>And with the stones he built an altar in the name of the <span class=\"nd\">LORD</span>: and he made a trench about the altar, as great as would contain two measures of seed. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.18.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "1KI.18.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9b4777bb-6da6-46f0-ac54-5890596dc2bc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9b4777bb-6da6-46f0-ac54-5890596dc2bc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9b4777bb-6da6-46f0-ac54-5890596dc2bc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9b4777bb-6da6-46f0-ac54-5890596dc2bc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9b4777bb-6da6-46f0-ac54-5890596dc2bc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "DAN.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "intro",
+      "reference": "Daniel"
+    },
+    {
+      "id": "DAN.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "1",
+      "reference": "Daniel 1"
+    },
+    {
+      "id": "DAN.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "2",
+      "reference": "Daniel 2"
+    },
+    {
+      "id": "DAN.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "3",
+      "reference": "Daniel 3"
+    },
+    {
+      "id": "DAN.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "4",
+      "reference": "Daniel 4"
+    },
+    {
+      "id": "DAN.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "5",
+      "reference": "Daniel 5"
+    },
+    {
+      "id": "DAN.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "6",
+      "reference": "Daniel 6"
+    },
+    {
+      "id": "DAN.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "7",
+      "reference": "Daniel 7"
+    },
+    {
+      "id": "DAN.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "8",
+      "reference": "Daniel 8"
+    },
+    {
+      "id": "DAN.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "9",
+      "reference": "Daniel 9"
+    },
+    {
+      "id": "DAN.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "10",
+      "reference": "Daniel 10"
+    },
+    {
+      "id": "DAN.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "11",
+      "reference": "Daniel 11"
+    },
+    {
+      "id": "DAN.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DAN",
+      "number": "12",
+      "reference": "Daniel 12"
+    }
+  ]
+}

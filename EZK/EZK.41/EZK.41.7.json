@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.41.7",
+    "orgId": "EZK.41.7",
+    "bookId": "EZK",
+    "chapterId": "EZK.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 41:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 41:7\" class=\"v\">7</span>And <span class=\"add\">there was</span> an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house <span class=\"add\">was still</span> upward, and so increased <span class=\"add\">from</span> the lowest <span class=\"add\">chamber</span> to the highest by the midst. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.41.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EZK.41.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a14f425d-1a77-4e7c-84d5-6999ea0311b5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a14f425d-1a77-4e7c-84d5-6999ea0311b5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a14f425d-1a77-4e7c-84d5-6999ea0311b5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a14f425d-1a77-4e7c-84d5-6999ea0311b5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a14f425d-1a77-4e7c-84d5-6999ea0311b5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

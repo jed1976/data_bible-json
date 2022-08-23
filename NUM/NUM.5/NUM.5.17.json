@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.5.17",
+    "orgId": "NUM.5.17",
+    "bookId": "NUM",
+    "chapterId": "NUM.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 5:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"NUM 5:17\" class=\"v\">17</span>And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put <span class=\"add\">it</span> into the water: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.5.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "NUM.5.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a86e857e-6f0d-497d-a00b-6be4c8e4ac1a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a86e857e-6f0d-497d-a00b-6be4c8e4ac1a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a86e857e-6f0d-497d-a00b-6be4c8e4ac1a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a86e857e-6f0d-497d-a00b-6be4c8e4ac1a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a86e857e-6f0d-497d-a00b-6be4c8e4ac1a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

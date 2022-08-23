@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.11.36",
+    "orgId": "LEV.11.36",
+    "bookId": "LEV",
+    "chapterId": "LEV.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 11:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"LEV 11:36\" class=\"v\">36</span>Nevertheless a fountain or pit, <span class=\"add\">wherein there is</span> plenty of water, shall be clean: but that which toucheth their carcase shall be unclean. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.11.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "LEV.11.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bb97f058-929a-4326-883d-eb730bbe440d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bb97f058-929a-4326-883d-eb730bbe440d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bb97f058-929a-4326-883d-eb730bbe440d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bb97f058-929a-4326-883d-eb730bbe440d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bb97f058-929a-4326-883d-eb730bbe440d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

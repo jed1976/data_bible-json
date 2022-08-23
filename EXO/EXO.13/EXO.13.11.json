@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.13.11",
+    "orgId": "EXO.13.11",
+    "bookId": "EXO",
+    "chapterId": "EXO.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 13:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EXO 13:11\" class=\"v\">11</span>¶ And it shall be when the <span class=\"nd\">LORD</span> shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.13.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "EXO.13.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('71352f87-f1a9-4ad7-a89f-7905368dcd1e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='71352f87-f1a9-4ad7-a89f-7905368dcd1e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "71352f87-f1a9-4ad7-a89f-7905368dcd1e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('71352f87-f1a9-4ad7-a89f-7905368dcd1e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=71352f87-f1a9-4ad7-a89f-7905368dcd1e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

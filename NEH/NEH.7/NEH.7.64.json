@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.7.64",
+    "orgId": "NEH.7.64",
+    "bookId": "NEH",
+    "chapterId": "NEH.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 7:64",
+    "content": "<p class=\"p\"><span data-number=\"64\" data-sid=\"NEH 7:64\" class=\"v\">64</span>These sought their register <span class=\"add\">among</span> those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.7.65",
+      "number": "65"
+    },
+    "previous": {
+      "id": "NEH.7.63",
+      "number": "63"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c7f0d65b-5b96-490f-a65f-1fe091c80bc6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c7f0d65b-5b96-490f-a65f-1fe091c80bc6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c7f0d65b-5b96-490f-a65f-1fe091c80bc6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c7f0d65b-5b96-490f-a65f-1fe091c80bc6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c7f0d65b-5b96-490f-a65f-1fe091c80bc6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

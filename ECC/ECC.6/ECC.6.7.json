@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.6.7",
+    "orgId": "ECC.6.7",
+    "bookId": "ECC",
+    "chapterId": "ECC.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes 6:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"ECC 6:7\" class=\"v\">7</span>All the labour of man <span class=\"add\">is</span> for his mouth, and yet the appetite is not filled. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.6.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "ECC.6.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aadde17c-0621-4749-a1a8-2b3908006fe8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aadde17c-0621-4749-a1a8-2b3908006fe8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aadde17c-0621-4749-a1a8-2b3908006fe8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aadde17c-0621-4749-a1a8-2b3908006fe8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aadde17c-0621-4749-a1a8-2b3908006fe8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

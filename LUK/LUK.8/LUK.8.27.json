@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.8.27",
+    "orgId": "LUK.8.27",
+    "bookId": "LUK",
+    "chapterId": "LUK.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 8:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"LUK 8:27\" class=\"v\">27</span>And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in <span class=\"add\">any</span> house, but in the tombs. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.8.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "LUK.8.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('244046a4-e703-4da2-ab0a-cd8dfbed5abf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='244046a4-e703-4da2-ab0a-cd8dfbed5abf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "244046a4-e703-4da2-ab0a-cd8dfbed5abf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('244046a4-e703-4da2-ab0a-cd8dfbed5abf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=244046a4-e703-4da2-ab0a-cd8dfbed5abf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

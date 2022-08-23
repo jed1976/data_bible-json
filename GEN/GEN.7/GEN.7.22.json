@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.7.22",
+    "orgId": "GEN.7.22",
+    "bookId": "GEN",
+    "chapterId": "GEN.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 7:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"GEN 7:22\" class=\"v\">22</span>All in whose nostrils <span class=\"add\">was</span> the breath of life, of all that <span class=\"add\">was</span> in the dry <span class=\"add\">land</span>, died. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.7.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "GEN.7.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9bf09613-a575-415b-be0a-017904c6f9bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9bf09613-a575-415b-be0a-017904c6f9bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9bf09613-a575-415b-be0a-017904c6f9bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9bf09613-a575-415b-be0a-017904c6f9bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9bf09613-a575-415b-be0a-017904c6f9bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.14.6",
+    "orgId": "REV.14.6",
+    "bookId": "REV",
+    "chapterId": "REV.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 14:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"REV 14:6\" class=\"v\">6</span>And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.14.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "REV.14.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('48dfc314-8e5e-4801-acc8-76a32b944f06');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='48dfc314-8e5e-4801-acc8-76a32b944f06'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "48dfc314-8e5e-4801-acc8-76a32b944f06",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('48dfc314-8e5e-4801-acc8-76a32b944f06'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=48dfc314-8e5e-4801-acc8-76a32b944f06\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.16.4",
+    "orgId": "EZK.16.4",
+    "bookId": "EZK",
+    "chapterId": "EZK.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 16:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"EZK 16:4\" class=\"v\">4</span>And <span class=\"add\">as for</span> thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple <span class=\"add\">thee;</span> thou wast not salted at all, nor swaddled at all. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.16.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "EZK.16.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('19a72556-d2be-4d6b-9cca-1a89e2c8a869');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='19a72556-d2be-4d6b-9cca-1a89e2c8a869'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "19a72556-d2be-4d6b-9cca-1a89e2c8a869",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('19a72556-d2be-4d6b-9cca-1a89e2c8a869'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=19a72556-d2be-4d6b-9cca-1a89e2c8a869\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

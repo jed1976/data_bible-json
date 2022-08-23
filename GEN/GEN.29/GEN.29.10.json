@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.29.10",
+    "orgId": "GEN.29.10",
+    "bookId": "GEN",
+    "chapterId": "GEN.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 29:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"GEN 29:10\" class=\"v\">10</span>And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.29.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "GEN.29.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('33f6d399-600b-45a6-bdcc-f6f57737dcd8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='33f6d399-600b-45a6-bdcc-f6f57737dcd8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "33f6d399-600b-45a6-bdcc-f6f57737dcd8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('33f6d399-600b-45a6-bdcc-f6f57737dcd8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=33f6d399-600b-45a6-bdcc-f6f57737dcd8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

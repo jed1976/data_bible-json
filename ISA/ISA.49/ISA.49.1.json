@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.49.1",
+    "orgId": "ISA.49.1",
+    "bookId": "ISA",
+    "chapterId": "ISA.49",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 49:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 49:1\" class=\"v\">1</span>Listen, O isles, unto me; and hearken, ye people, from far; The <span class=\"nd\">LORD</span> hath called me from the womb; from the bowels of my mother hath he made mention of my name. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.49.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ISA.48.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7a85f2e1-b51d-4bb4-85ff-ae0cdb6d20d9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7a85f2e1-b51d-4bb4-85ff-ae0cdb6d20d9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7a85f2e1-b51d-4bb4-85ff-ae0cdb6d20d9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7a85f2e1-b51d-4bb4-85ff-ae0cdb6d20d9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7a85f2e1-b51d-4bb4-85ff-ae0cdb6d20d9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "EST.10.1",
+      "orgId": "EST.10.1",
+      "bookId": "EST",
+      "chapterId": "EST.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Esther 10:1"
+    },
+    {
+      "id": "EST.10.2",
+      "orgId": "EST.10.2",
+      "bookId": "EST",
+      "chapterId": "EST.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Esther 10:2"
+    },
+    {
+      "id": "EST.10.3",
+      "orgId": "EST.10.3",
+      "bookId": "EST",
+      "chapterId": "EST.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Esther 10:3"
+    }
+  ]
+}

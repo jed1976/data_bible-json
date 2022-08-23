@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.23.16",
+    "orgId": "DEU.23.17",
+    "bookId": "DEU",
+    "chapterId": "DEU.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 23:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"DEU 23:16\" class=\"v\">16</span>He shall dwell with thee, <span class=\"add\">even</span> among you, in that place which he shall choose in one of thy gates, where it liketh him best: thou shalt not oppress him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.23.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "DEU.23.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a14a377a-48d0-421e-b0fe-2fccaca5ef45');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a14a377a-48d0-421e-b0fe-2fccaca5ef45'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a14a377a-48d0-421e-b0fe-2fccaca5ef45",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a14a377a-48d0-421e-b0fe-2fccaca5ef45'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a14a377a-48d0-421e-b0fe-2fccaca5ef45\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

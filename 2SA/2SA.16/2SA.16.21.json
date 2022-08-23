@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2SA.16.21",
+    "orgId": "2SA.16.21",
+    "bookId": "2SA",
+    "chapterId": "2SA.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Samuel 16:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"2SA 16:21\" class=\"v\">21</span>And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that <span class=\"add\">are</span> with thee be strong. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2SA.16.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "2SA.16.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2cf5c18e-a34e-4ade-aade-572b3ccbeddd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2cf5c18e-a34e-4ade-aade-572b3ccbeddd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2cf5c18e-a34e-4ade-aade-572b3ccbeddd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2cf5c18e-a34e-4ade-aade-572b3ccbeddd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2cf5c18e-a34e-4ade-aade-572b3ccbeddd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

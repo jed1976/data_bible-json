@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.6.7",
+    "orgId": "NUM.6.7",
+    "bookId": "NUM",
+    "chapterId": "NUM.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 6:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"NUM 6:7\" class=\"v\">7</span>He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God <span class=\"add\">is</span> upon his head. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.6.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "NUM.6.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('297e05e0-8ee1-4151-9b75-dba13dbe3d7f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='297e05e0-8ee1-4151-9b75-dba13dbe3d7f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "297e05e0-8ee1-4151-9b75-dba13dbe3d7f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('297e05e0-8ee1-4151-9b75-dba13dbe3d7f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=297e05e0-8ee1-4151-9b75-dba13dbe3d7f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.12.15",
+    "orgId": "HEB.12.15",
+    "bookId": "HEB",
+    "chapterId": "HEB.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 12:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"HEB 12:15\" class=\"v\">15</span>Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble <span class=\"add\">you</span>, and thereby many be defiled; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.12.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "HEB.12.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a5898bc7-5c5f-4965-a071-bde1055c83aa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a5898bc7-5c5f-4965-a071-bde1055c83aa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a5898bc7-5c5f-4965-a071-bde1055c83aa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a5898bc7-5c5f-4965-a071-bde1055c83aa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a5898bc7-5c5f-4965-a071-bde1055c83aa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

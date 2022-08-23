@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.16.57",
+    "orgId": "EZK.16.57",
+    "bookId": "EZK",
+    "chapterId": "EZK.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 16:57",
+    "content": "<p class=\"p\"><span data-number=\"57\" data-sid=\"EZK 16:57\" class=\"v\">57</span>Before thy wickedness was discovered, as at the time of <span class=\"add\">thy</span> reproach of the daughters of Syria, and all <span class=\"add\">that are</span> round about her, the daughters of the Philistines, which despise thee round about. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.16.58",
+      "number": "58"
+    },
+    "previous": {
+      "id": "EZK.16.56",
+      "number": "56"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('57314a20-28b1-4156-a86d-02e8dd2f492f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='57314a20-28b1-4156-a86d-02e8dd2f492f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "57314a20-28b1-4156-a86d-02e8dd2f492f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('57314a20-28b1-4156-a86d-02e8dd2f492f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=57314a20-28b1-4156-a86d-02e8dd2f492f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

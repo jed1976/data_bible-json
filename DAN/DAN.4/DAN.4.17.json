@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.4.17",
+    "orgId": "DAN.4.14",
+    "bookId": "DAN",
+    "chapterId": "DAN.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 4:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"DAN 4:17\" class=\"v\">17</span>This matter <span class=\"add\">is</span> by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.4.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "DAN.4.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0881e00d-0a8c-4ec9-b7eb-b0778f5ef5c3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0881e00d-0a8c-4ec9-b7eb-b0778f5ef5c3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0881e00d-0a8c-4ec9-b7eb-b0778f5ef5c3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0881e00d-0a8c-4ec9-b7eb-b0778f5ef5c3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0881e00d-0a8c-4ec9-b7eb-b0778f5ef5c3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

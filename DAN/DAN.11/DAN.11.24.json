@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.11.24",
+    "orgId": "DAN.11.24",
+    "bookId": "DAN",
+    "chapterId": "DAN.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 11:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"DAN 11:24\" class=\"v\">24</span>He shall enter peaceably even upon the fattest places of the province; and he shall do <span class=\"add\">that</span> which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: <span class=\"add\">yea</span>, and he shall forecast his devices against the strong holds, even for a time. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.11.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "DAN.11.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('95fa5f0a-b5b2-4959-b61c-b16b77f3b43c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='95fa5f0a-b5b2-4959-b61c-b16b77f3b43c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "95fa5f0a-b5b2-4959-b61c-b16b77f3b43c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('95fa5f0a-b5b2-4959-b61c-b16b77f3b43c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=95fa5f0a-b5b2-4959-b61c-b16b77f3b43c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

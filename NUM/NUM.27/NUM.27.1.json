@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.27.1",
+    "orgId": "NUM.27.1",
+    "bookId": "NUM",
+    "chapterId": "NUM.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 27:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"NUM 27:1\" class=\"v\">1</span>Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these <span class=\"add\">are</span> the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.27.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "NUM.26.65",
+      "number": "65"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('856038f5-211c-4e53-ac42-3ef67489a7ba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='856038f5-211c-4e53-ac42-3ef67489a7ba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "856038f5-211c-4e53-ac42-3ef67489a7ba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('856038f5-211c-4e53-ac42-3ef67489a7ba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=856038f5-211c-4e53-ac42-3ef67489a7ba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

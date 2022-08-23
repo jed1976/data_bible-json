@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "id": "DEU.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "intro",
+      "reference": "Deuteronomy"
+    },
+    {
+      "id": "DEU.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "1",
+      "reference": "Deuteronomy 1"
+    },
+    {
+      "id": "DEU.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "2",
+      "reference": "Deuteronomy 2"
+    },
+    {
+      "id": "DEU.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "3",
+      "reference": "Deuteronomy 3"
+    },
+    {
+      "id": "DEU.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "4",
+      "reference": "Deuteronomy 4"
+    },
+    {
+      "id": "DEU.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "5",
+      "reference": "Deuteronomy 5"
+    },
+    {
+      "id": "DEU.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "6",
+      "reference": "Deuteronomy 6"
+    },
+    {
+      "id": "DEU.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "7",
+      "reference": "Deuteronomy 7"
+    },
+    {
+      "id": "DEU.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "8",
+      "reference": "Deuteronomy 8"
+    },
+    {
+      "id": "DEU.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "9",
+      "reference": "Deuteronomy 9"
+    },
+    {
+      "id": "DEU.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "10",
+      "reference": "Deuteronomy 10"
+    },
+    {
+      "id": "DEU.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "11",
+      "reference": "Deuteronomy 11"
+    },
+    {
+      "id": "DEU.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "12",
+      "reference": "Deuteronomy 12"
+    },
+    {
+      "id": "DEU.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "13",
+      "reference": "Deuteronomy 13"
+    },
+    {
+      "id": "DEU.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "14",
+      "reference": "Deuteronomy 14"
+    },
+    {
+      "id": "DEU.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "15",
+      "reference": "Deuteronomy 15"
+    },
+    {
+      "id": "DEU.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "16",
+      "reference": "Deuteronomy 16"
+    },
+    {
+      "id": "DEU.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "17",
+      "reference": "Deuteronomy 17"
+    },
+    {
+      "id": "DEU.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "18",
+      "reference": "Deuteronomy 18"
+    },
+    {
+      "id": "DEU.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "19",
+      "reference": "Deuteronomy 19"
+    },
+    {
+      "id": "DEU.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "20",
+      "reference": "Deuteronomy 20"
+    },
+    {
+      "id": "DEU.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "21",
+      "reference": "Deuteronomy 21"
+    },
+    {
+      "id": "DEU.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "22",
+      "reference": "Deuteronomy 22"
+    },
+    {
+      "id": "DEU.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "23",
+      "reference": "Deuteronomy 23"
+    },
+    {
+      "id": "DEU.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "24",
+      "reference": "Deuteronomy 24"
+    },
+    {
+      "id": "DEU.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "25",
+      "reference": "Deuteronomy 25"
+    },
+    {
+      "id": "DEU.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "26",
+      "reference": "Deuteronomy 26"
+    },
+    {
+      "id": "DEU.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "27",
+      "reference": "Deuteronomy 27"
+    },
+    {
+      "id": "DEU.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "28",
+      "reference": "Deuteronomy 28"
+    },
+    {
+      "id": "DEU.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "29",
+      "reference": "Deuteronomy 29"
+    },
+    {
+      "id": "DEU.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "30",
+      "reference": "Deuteronomy 30"
+    },
+    {
+      "id": "DEU.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "31",
+      "reference": "Deuteronomy 31"
+    },
+    {
+      "id": "DEU.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "32",
+      "reference": "Deuteronomy 32"
+    },
+    {
+      "id": "DEU.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "33",
+      "reference": "Deuteronomy 33"
+    },
+    {
+      "id": "DEU.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "DEU",
+      "number": "34",
+      "reference": "Deuteronomy 34"
+    }
+  ]
+}

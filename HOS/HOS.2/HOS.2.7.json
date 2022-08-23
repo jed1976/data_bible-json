@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HOS.2.7",
+    "orgId": "HOS.2.9",
+    "bookId": "HOS",
+    "chapterId": "HOS.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hosea 2:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"HOS 2:7\" class=\"v\">7</span>And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find <span class=\"add\">them:</span> then shall she say, I will go and return to my first husband; for then <span class=\"add\">was it</span> better with me than now. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HOS.2.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "HOS.2.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5e8f1e8c-734c-4aef-a6ae-f9fdbae483a5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5e8f1e8c-734c-4aef-a6ae-f9fdbae483a5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5e8f1e8c-734c-4aef-a6ae-f9fdbae483a5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5e8f1e8c-734c-4aef-a6ae-f9fdbae483a5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5e8f1e8c-734c-4aef-a6ae-f9fdbae483a5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

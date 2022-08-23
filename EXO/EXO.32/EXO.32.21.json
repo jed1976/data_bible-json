@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.32.21",
+    "orgId": "EXO.32.21",
+    "bookId": "EXO",
+    "chapterId": "EXO.32",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 32:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"EXO 32:21\" class=\"v\">21</span>And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.32.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "EXO.32.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('35846111-d2eb-44bf-9fe3-7f8dfe2675e3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='35846111-d2eb-44bf-9fe3-7f8dfe2675e3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "35846111-d2eb-44bf-9fe3-7f8dfe2675e3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('35846111-d2eb-44bf-9fe3-7f8dfe2675e3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=35846111-d2eb-44bf-9fe3-7f8dfe2675e3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

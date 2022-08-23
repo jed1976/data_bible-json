@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.74.1",
+    "orgId": "PSA.74.1",
+    "bookId": "PSA",
+    "chapterId": "PSA.74",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 74:1",
+    "content": "<p class=\"d\">Maschil of Asaph.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 74:1\" class=\"v\">1</span>O God, why hast thou cast <span class=\"add\">us</span> off for ever? <span class=\"add\">why</span> doth thine anger smoke against the sheep of thy pasture?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.74.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "PSA.73.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4675a400-4258-40a8-a239-aefc70c7587f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4675a400-4258-40a8-a239-aefc70c7587f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4675a400-4258-40a8-a239-aefc70c7587f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4675a400-4258-40a8-a239-aefc70c7587f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4675a400-4258-40a8-a239-aefc70c7587f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

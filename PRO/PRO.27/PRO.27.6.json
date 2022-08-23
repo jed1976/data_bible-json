@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.27.6",
+    "orgId": "PRO.27.6",
+    "bookId": "PRO",
+    "chapterId": "PRO.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 27:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"PRO 27:6\" class=\"v\">6</span>Faithful <span class=\"add\">are</span> the wounds of a friend; but the kisses of an enemy <span class=\"add\">are</span> deceitful. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.27.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "PRO.27.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd0ef99a-5be4-4494-8b7e-edbd02329761');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd0ef99a-5be4-4494-8b7e-edbd02329761'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd0ef99a-5be4-4494-8b7e-edbd02329761",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd0ef99a-5be4-4494-8b7e-edbd02329761'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd0ef99a-5be4-4494-8b7e-edbd02329761\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

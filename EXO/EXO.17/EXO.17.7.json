@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.17.7",
+    "orgId": "EXO.17.7",
+    "bookId": "EXO",
+    "chapterId": "EXO.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 17:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EXO 17:7\" class=\"v\">7</span>And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the <span class=\"nd\">LORD</span>, saying, Is the <span class=\"nd\">LORD</span> among us, or not?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.17.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EXO.17.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e69f0ef2-df0f-4b40-8ebf-0b986d3bfb79');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e69f0ef2-df0f-4b40-8ebf-0b986d3bfb79'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e69f0ef2-df0f-4b40-8ebf-0b986d3bfb79",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e69f0ef2-df0f-4b40-8ebf-0b986d3bfb79'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e69f0ef2-df0f-4b40-8ebf-0b986d3bfb79\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

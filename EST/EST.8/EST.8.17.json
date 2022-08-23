@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.8.17",
+    "orgId": "EST.8.17",
+    "bookId": "EST",
+    "chapterId": "EST.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 8:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"EST 8:17\" class=\"v\">17</span>And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.9.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EST.8.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c67c463d-eeb8-46f1-b176-f466278d5574');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c67c463d-eeb8-46f1-b176-f466278d5574'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c67c463d-eeb8-46f1-b176-f466278d5574",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c67c463d-eeb8-46f1-b176-f466278d5574'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c67c463d-eeb8-46f1-b176-f466278d5574\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

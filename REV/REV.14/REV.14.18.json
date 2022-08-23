@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.14.18",
+    "orgId": "REV.14.18",
+    "bookId": "REV",
+    "chapterId": "REV.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 14:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"REV 14:18\" class=\"v\">18</span>And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.14.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "REV.14.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b6b80f65-8676-4989-be09-199ff69be296');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b6b80f65-8676-4989-be09-199ff69be296'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b6b80f65-8676-4989-be09-199ff69be296",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b6b80f65-8676-4989-be09-199ff69be296'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b6b80f65-8676-4989-be09-199ff69be296\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

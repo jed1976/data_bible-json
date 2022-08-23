@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HAB.1.9",
+    "orgId": "HAB.1.9",
+    "bookId": "HAB",
+    "chapterId": "HAB.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Habakkuk 1:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"HAB 1:9\" class=\"v\">9</span>They shall come all for violence: their faces shall sup up <span class=\"add\">as</span> the east wind, and they shall gather the captivity as the sand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HAB.1.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "HAB.1.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f913f2b2-80c1-4b17-bc18-e421842f432f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f913f2b2-80c1-4b17-bc18-e421842f432f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f913f2b2-80c1-4b17-bc18-e421842f432f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f913f2b2-80c1-4b17-bc18-e421842f432f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f913f2b2-80c1-4b17-bc18-e421842f432f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

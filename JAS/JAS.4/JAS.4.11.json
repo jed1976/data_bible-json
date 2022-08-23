@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JAS.4.11",
+    "orgId": "JAS.4.11",
+    "bookId": "JAS",
+    "chapterId": "JAS.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "James 4:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"JAS 4:11\" class=\"v\">11</span>Speak not evil one of another, brethren. He that speaketh evil of <span class=\"add\">his</span> brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JAS.4.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "JAS.4.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('150b4a23-57a1-446c-a336-1bd1f62fa994');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='150b4a23-57a1-446c-a336-1bd1f62fa994'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "150b4a23-57a1-446c-a336-1bd1f62fa994",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('150b4a23-57a1-446c-a336-1bd1f62fa994'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=150b4a23-57a1-446c-a336-1bd1f62fa994\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

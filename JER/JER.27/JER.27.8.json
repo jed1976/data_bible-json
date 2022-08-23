@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.27.8",
+    "orgId": "JER.27.8",
+    "bookId": "JER",
+    "chapterId": "JER.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 27:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JER 27:8\" class=\"v\">8</span>And it shall come to pass, <span class=\"add\">that</span> the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the <span class=\"nd\">LORD</span>, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.27.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JER.27.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('912abf7a-8211-4f51-ba60-92ff212e1a3e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='912abf7a-8211-4f51-ba60-92ff212e1a3e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "912abf7a-8211-4f51-ba60-92ff212e1a3e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('912abf7a-8211-4f51-ba60-92ff212e1a3e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=912abf7a-8211-4f51-ba60-92ff212e1a3e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

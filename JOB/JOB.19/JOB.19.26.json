@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.19.26",
+    "orgId": "JOB.19.26",
+    "bookId": "JOB",
+    "chapterId": "JOB.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 19:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"JOB 19:26\" class=\"v\">26</span>And <span class=\"add\">though</span> after my skin <span class=\"add\">worms</span> destroy this <span class=\"add\">body</span>, yet in my flesh shall I see God: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.19.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "JOB.19.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9d6c761f-749b-412a-bf3c-20f0ad0325dc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9d6c761f-749b-412a-bf3c-20f0ad0325dc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9d6c761f-749b-412a-bf3c-20f0ad0325dc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9d6c761f-749b-412a-bf3c-20f0ad0325dc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9d6c761f-749b-412a-bf3c-20f0ad0325dc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

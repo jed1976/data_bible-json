@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CO.6.6",
+    "orgId": "2CO.6.6",
+    "bookId": "2CO",
+    "chapterId": "2CO.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Corinthians 6:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"2CO 6:6\" class=\"v\">6</span>By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CO.6.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "2CO.6.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8fdde625-53b5-4fc6-86fe-564c2af832bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8fdde625-53b5-4fc6-86fe-564c2af832bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8fdde625-53b5-4fc6-86fe-564c2af832bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8fdde625-53b5-4fc6-86fe-564c2af832bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8fdde625-53b5-4fc6-86fe-564c2af832bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

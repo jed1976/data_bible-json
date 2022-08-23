@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.21.6",
+    "orgId": "LUK.21.6",
+    "bookId": "LUK",
+    "chapterId": "LUK.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 21:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"LUK 21:6\" class=\"v\">6</span><span class=\"wj\"><span class=\"add\">As for</span> these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.21.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "LUK.21.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d8ea1bc5-2a14-4533-b236-7654d4533e87');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d8ea1bc5-2a14-4533-b236-7654d4533e87'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d8ea1bc5-2a14-4533-b236-7654d4533e87",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d8ea1bc5-2a14-4533-b236-7654d4533e87'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d8ea1bc5-2a14-4533-b236-7654d4533e87\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

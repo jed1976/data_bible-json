@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.35.28",
+    "orgId": "NUM.35.28",
+    "bookId": "NUM",
+    "chapterId": "NUM.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 35:28",
+    "content": "<p class=\"p\"><span data-number=\"28\" data-sid=\"NUM 35:28\" class=\"v\">28</span>Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.35.29",
+      "number": "29"
+    },
+    "previous": {
+      "id": "NUM.35.27",
+      "number": "27"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e23bd686-c663-4630-bc98-d75c73d8d8f2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e23bd686-c663-4630-bc98-d75c73d8d8f2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e23bd686-c663-4630-bc98-d75c73d8d8f2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e23bd686-c663-4630-bc98-d75c73d8d8f2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e23bd686-c663-4630-bc98-d75c73d8d8f2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

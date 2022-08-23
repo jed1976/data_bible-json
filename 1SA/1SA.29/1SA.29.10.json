@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.29.10",
+    "orgId": "1SA.29.10",
+    "bookId": "1SA",
+    "chapterId": "1SA.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 29:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"1SA 29:10\" class=\"v\">10</span>Wherefore now rise up early in the morning with thy master’s servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.29.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "1SA.29.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6c51b343-58fd-462c-b973-b92f1fb57fee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6c51b343-58fd-462c-b973-b92f1fb57fee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6c51b343-58fd-462c-b973-b92f1fb57fee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6c51b343-58fd-462c-b973-b92f1fb57fee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6c51b343-58fd-462c-b973-b92f1fb57fee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

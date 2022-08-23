@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.41.21",
+    "orgId": "ISA.41.21",
+    "bookId": "ISA",
+    "chapterId": "ISA.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 41:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"ISA 41:21\" class=\"v\">21</span>Produce your cause, saith the <span class=\"nd\">LORD</span>; bring forth your strong <span class=\"add\">reasons</span>, saith the King of Jacob. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.41.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "ISA.41.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dc14c4dd-4749-4758-abf5-f05bb367bccf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dc14c4dd-4749-4758-abf5-f05bb367bccf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dc14c4dd-4749-4758-abf5-f05bb367bccf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dc14c4dd-4749-4758-abf5-f05bb367bccf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dc14c4dd-4749-4758-abf5-f05bb367bccf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

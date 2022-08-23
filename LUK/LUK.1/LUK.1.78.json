@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.1.78",
+    "orgId": "LUK.1.78",
+    "bookId": "LUK",
+    "chapterId": "LUK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 1:78",
+    "content": "<p class=\"p\"><span data-number=\"78\" data-sid=\"LUK 1:78\" class=\"v\">78</span>Through the tender mercy of our God; whereby the dayspring from on high hath visited us, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.1.79",
+      "number": "79"
+    },
+    "previous": {
+      "id": "LUK.1.77",
+      "number": "77"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4d15171f-9935-4cfd-88a2-0e59e09a9baf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4d15171f-9935-4cfd-88a2-0e59e09a9baf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4d15171f-9935-4cfd-88a2-0e59e09a9baf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4d15171f-9935-4cfd-88a2-0e59e09a9baf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4d15171f-9935-4cfd-88a2-0e59e09a9baf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

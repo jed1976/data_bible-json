@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.1.18",
+    "orgId": "JHN.1.18",
+    "bookId": "JHN",
+    "chapterId": "JHN.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 1:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"JHN 1:18\" class=\"v\">18</span>No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared <span class=\"add\">him.</span></p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.1.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "JHN.1.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('858fcb94-7d98-4ad8-acd5-1fb1cb0cbb84');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='858fcb94-7d98-4ad8-acd5-1fb1cb0cbb84'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "858fcb94-7d98-4ad8-acd5-1fb1cb0cbb84",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('858fcb94-7d98-4ad8-acd5-1fb1cb0cbb84'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=858fcb94-7d98-4ad8-acd5-1fb1cb0cbb84\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

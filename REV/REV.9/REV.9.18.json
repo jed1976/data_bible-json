@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.9.18",
+    "orgId": "REV.9.18",
+    "bookId": "REV",
+    "chapterId": "REV.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 9:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"REV 9:18\" class=\"v\">18</span>By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.9.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "REV.9.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6a2dd9a0-8cfb-4e5a-b1d8-342b57b71256');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6a2dd9a0-8cfb-4e5a-b1d8-342b57b71256'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6a2dd9a0-8cfb-4e5a-b1d8-342b57b71256",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6a2dd9a0-8cfb-4e5a-b1d8-342b57b71256'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6a2dd9a0-8cfb-4e5a-b1d8-342b57b71256\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

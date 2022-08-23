@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.14.26",
+    "orgId": "1KI.14.26",
+    "bookId": "1KI",
+    "chapterId": "1KI.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 14:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"1KI 14:26\" class=\"v\">26</span>And he took away the treasures of the house of the <span class=\"nd\">LORD</span>, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.14.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "1KI.14.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b87dd8fd-5cf3-43c4-8498-37fa5096ea0d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b87dd8fd-5cf3-43c4-8498-37fa5096ea0d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b87dd8fd-5cf3-43c4-8498-37fa5096ea0d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b87dd8fd-5cf3-43c4-8498-37fa5096ea0d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b87dd8fd-5cf3-43c4-8498-37fa5096ea0d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

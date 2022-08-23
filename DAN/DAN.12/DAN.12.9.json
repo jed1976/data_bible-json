@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.12.9",
+    "orgId": "DAN.12.9",
+    "bookId": "DAN",
+    "chapterId": "DAN.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 12:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"DAN 12:9\" class=\"v\">9</span>And he said, Go thy way, Daniel: for the words <span class=\"add\">are</span> closed up and sealed till the time of the end. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.12.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "DAN.12.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a3e568c2-88a3-4106-9bfa-db7170cc8c37');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a3e568c2-88a3-4106-9bfa-db7170cc8c37'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a3e568c2-88a3-4106-9bfa-db7170cc8c37",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a3e568c2-88a3-4106-9bfa-db7170cc8c37'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a3e568c2-88a3-4106-9bfa-db7170cc8c37\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

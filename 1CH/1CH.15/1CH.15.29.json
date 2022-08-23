@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.15.29",
+    "orgId": "1CH.15.29",
+    "bookId": "1CH",
+    "chapterId": "1CH.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 15:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"1CH 15:29\" class=\"v\">29</span>¶ And it came to pass, <span class=\"add\">as</span> the ark of the covenant of the <span class=\"nd\">LORD</span> came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.16.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "1CH.15.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d33d8aef-7810-408d-a986-ee20412c127a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d33d8aef-7810-408d-a986-ee20412c127a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d33d8aef-7810-408d-a986-ee20412c127a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d33d8aef-7810-408d-a986-ee20412c127a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d33d8aef-7810-408d-a986-ee20412c127a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

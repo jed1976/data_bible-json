@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.22.1",
+    "orgId": "1CH.22.1",
+    "bookId": "1CH",
+    "chapterId": "1CH.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 22:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1CH 22:1\" class=\"v\">1</span>Then David said, This <span class=\"add\">is</span> the house of the <span class=\"nd\">LORD</span> God, and this <span class=\"add\">is</span> the altar of the burnt offering for Israel. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.22.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "1CH.21.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8cae8a4d-e0bc-4219-b1e0-f5701c4a5dba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8cae8a4d-e0bc-4219-b1e0-f5701c4a5dba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8cae8a4d-e0bc-4219-b1e0-f5701c4a5dba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8cae8a4d-e0bc-4219-b1e0-f5701c4a5dba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8cae8a4d-e0bc-4219-b1e0-f5701c4a5dba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

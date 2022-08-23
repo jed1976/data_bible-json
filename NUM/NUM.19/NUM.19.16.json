@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.19.16",
+    "orgId": "NUM.19.16",
+    "bookId": "NUM",
+    "chapterId": "NUM.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 19:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"NUM 19:16\" class=\"v\">16</span>And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.19.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "NUM.19.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bdfdeb2c-3e4b-46f9-bc03-d2a7999a665d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bdfdeb2c-3e4b-46f9-bc03-d2a7999a665d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bdfdeb2c-3e4b-46f9-bc03-d2a7999a665d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bdfdeb2c-3e4b-46f9-bc03-d2a7999a665d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bdfdeb2c-3e4b-46f9-bc03-d2a7999a665d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2SA.12.16",
+    "orgId": "2SA.12.16",
+    "bookId": "2SA",
+    "chapterId": "2SA.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Samuel 12:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"2SA 12:16\" class=\"v\">16</span>David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2SA.12.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "2SA.12.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a77d06f6-6f83-420c-bfa9-ff6ecb7bcfed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a77d06f6-6f83-420c-bfa9-ff6ecb7bcfed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a77d06f6-6f83-420c-bfa9-ff6ecb7bcfed",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a77d06f6-6f83-420c-bfa9-ff6ecb7bcfed'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a77d06f6-6f83-420c-bfa9-ff6ecb7bcfed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

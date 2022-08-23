@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZR.8.25",
+    "orgId": "EZR.8.25",
+    "bookId": "EZR",
+    "chapterId": "EZR.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezra 8:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"EZR 8:25\" class=\"v\">25</span>And weighed unto them the silver, and the gold, and the vessels, <span class=\"add\">even</span> the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel <span class=\"add\">there</span> present, had offered: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZR.8.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "EZR.8.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3d6a00db-2905-4542-83ef-103adc010aea');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3d6a00db-2905-4542-83ef-103adc010aea'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3d6a00db-2905-4542-83ef-103adc010aea",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3d6a00db-2905-4542-83ef-103adc010aea'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3d6a00db-2905-4542-83ef-103adc010aea\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

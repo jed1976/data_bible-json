@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.119.133",
+    "orgId": "PSA.119.133",
+    "bookId": "PSA",
+    "chapterId": "PSA.119",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 119:133",
+    "content": "<p class=\"q1\"><span data-number=\"133\" data-sid=\"PSA 119:133\" class=\"v\">133</span>Order my steps in thy word: and let not any iniquity have dominion over me.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.119.134",
+      "number": "134"
+    },
+    "previous": {
+      "id": "PSA.119.132",
+      "number": "132"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('40710810-401d-47b0-ae18-63d285cdff13');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='40710810-401d-47b0-ae18-63d285cdff13'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "40710810-401d-47b0-ae18-63d285cdff13",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('40710810-401d-47b0-ae18-63d285cdff13'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=40710810-401d-47b0-ae18-63d285cdff13\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

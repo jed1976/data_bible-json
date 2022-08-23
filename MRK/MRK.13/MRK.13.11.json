@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.13.11",
+    "orgId": "MRK.13.11",
+    "bookId": "MRK",
+    "chapterId": "MRK.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 13:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"MRK 13:11\" class=\"v\">11</span><span class=\"wj\">But when they shall lead <span class=\"add\">you</span>, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.13.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "MRK.13.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a41480f1-1876-4635-a7af-673705a51afc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a41480f1-1876-4635-a7af-673705a51afc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a41480f1-1876-4635-a7af-673705a51afc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a41480f1-1876-4635-a7af-673705a51afc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a41480f1-1876-4635-a7af-673705a51afc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

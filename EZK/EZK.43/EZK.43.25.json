@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.43.25",
+    "orgId": "EZK.43.25",
+    "bookId": "EZK",
+    "chapterId": "EZK.43",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 43:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"EZK 43:25\" class=\"v\">25</span>Seven days shalt thou prepare every day a goat <span class=\"add\">for</span> a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.43.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "EZK.43.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('77835437-dee5-4808-8482-f7765319d035');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='77835437-dee5-4808-8482-f7765319d035'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "77835437-dee5-4808-8482-f7765319d035",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('77835437-dee5-4808-8482-f7765319d035'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=77835437-dee5-4808-8482-f7765319d035\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

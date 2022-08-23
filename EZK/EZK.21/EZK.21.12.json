@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.21.12",
+    "orgId": "EZK.21.17",
+    "bookId": "EZK",
+    "chapterId": "EZK.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 21:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EZK 21:12\" class=\"v\">12</span>Cry and howl, son of man: for it shall be upon my people, it <span class=\"add\">shall be</span> upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon <span class=\"add\">thy</span> thigh. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.21.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EZK.21.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('039142ae-cafb-4dab-b386-3301615f2494');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='039142ae-cafb-4dab-b386-3301615f2494'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "039142ae-cafb-4dab-b386-3301615f2494",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('039142ae-cafb-4dab-b386-3301615f2494'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=039142ae-cafb-4dab-b386-3301615f2494\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

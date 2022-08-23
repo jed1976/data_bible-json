@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.2.45",
+    "orgId": "LUK.2.45",
+    "bookId": "LUK",
+    "chapterId": "LUK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 2:45",
+    "content": "<p class=\"p\"><span data-number=\"45\" data-sid=\"LUK 2:45\" class=\"v\">45</span>And when they found him not, they turned back again to Jerusalem, seeking him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.2.46",
+      "number": "46"
+    },
+    "previous": {
+      "id": "LUK.2.44",
+      "number": "44"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7a99f8cf-7d70-4ed5-be5f-4358bc8eba2b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7a99f8cf-7d70-4ed5-be5f-4358bc8eba2b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7a99f8cf-7d70-4ed5-be5f-4358bc8eba2b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7a99f8cf-7d70-4ed5-be5f-4358bc8eba2b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7a99f8cf-7d70-4ed5-be5f-4358bc8eba2b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

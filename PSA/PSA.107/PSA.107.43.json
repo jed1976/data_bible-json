@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.107.43",
+    "orgId": "PSA.107.43",
+    "bookId": "PSA",
+    "chapterId": "PSA.107",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 107:43",
+    "content": "<p class=\"q1\"><span data-number=\"43\" data-sid=\"PSA 107:43\" class=\"v\">43</span>Whoso <span class=\"add\">is</span> wise, and will observe these <span class=\"add\">things</span>, even they shall understand the lovingkindness of the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.108.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "PSA.107.42",
+      "number": "42"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('75e2a3a1-7cfe-4967-9cd7-46dfa66b72d8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='75e2a3a1-7cfe-4967-9cd7-46dfa66b72d8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "75e2a3a1-7cfe-4967-9cd7-46dfa66b72d8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('75e2a3a1-7cfe-4967-9cd7-46dfa66b72d8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=75e2a3a1-7cfe-4967-9cd7-46dfa66b72d8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

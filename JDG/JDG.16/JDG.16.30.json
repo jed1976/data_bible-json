@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.16.30",
+    "orgId": "JDG.16.30",
+    "bookId": "JDG",
+    "chapterId": "JDG.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 16:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"JDG 16:30\" class=\"v\">30</span>And Samson said, Let me die with the Philistines. And he bowed himself with <span class=\"add\">all his</span> might; and the house fell upon the lords, and upon all the people that <span class=\"add\">were</span> therein. So the dead which he slew at his death were more than <span class=\"add\">they</span> which he slew in his life. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.16.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "JDG.16.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3f48d0e5-0f5a-4d32-96a1-d2415f759fc7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3f48d0e5-0f5a-4d32-96a1-d2415f759fc7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3f48d0e5-0f5a-4d32-96a1-d2415f759fc7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3f48d0e5-0f5a-4d32-96a1-d2415f759fc7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3f48d0e5-0f5a-4d32-96a1-d2415f759fc7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

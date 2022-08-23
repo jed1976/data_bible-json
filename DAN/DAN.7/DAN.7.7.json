@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.7.7",
+    "orgId": "DAN.7.7",
+    "bookId": "DAN",
+    "chapterId": "DAN.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DAN 7:7\" class=\"v\">7</span>After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it <span class=\"add\">was</span> diverse from all the beasts that <span class=\"add\">were</span> before it; and it had ten horns. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DAN.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bdb63b51-1840-492a-b93a-b1f731883931');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bdb63b51-1840-492a-b93a-b1f731883931'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bdb63b51-1840-492a-b93a-b1f731883931",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bdb63b51-1840-492a-b93a-b1f731883931'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bdb63b51-1840-492a-b93a-b1f731883931\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

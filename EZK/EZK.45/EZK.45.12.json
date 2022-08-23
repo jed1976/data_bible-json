@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.45.12",
+    "orgId": "EZK.45.12",
+    "bookId": "EZK",
+    "chapterId": "EZK.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 45:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EZK 45:12\" class=\"v\">12</span>And the shekel <span class=\"add\">shall be</span> twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.45.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EZK.45.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f7aeb051-f656-411d-9d96-f74ded28edb5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f7aeb051-f656-411d-9d96-f74ded28edb5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f7aeb051-f656-411d-9d96-f74ded28edb5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f7aeb051-f656-411d-9d96-f74ded28edb5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f7aeb051-f656-411d-9d96-f74ded28edb5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.18.12",
+    "orgId": "REV.18.12",
+    "bookId": "REV",
+    "chapterId": "REV.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 18:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"REV 18:12\" class=\"v\">12</span>The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.18.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "REV.18.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f844eabf-ac32-48c2-ab44-3da3bba39378');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f844eabf-ac32-48c2-ab44-3da3bba39378'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f844eabf-ac32-48c2-ab44-3da3bba39378",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f844eabf-ac32-48c2-ab44-3da3bba39378'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f844eabf-ac32-48c2-ab44-3da3bba39378\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

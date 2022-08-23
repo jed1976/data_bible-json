@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.7.17",
+    "orgId": "PSA.7.18",
+    "bookId": "PSA",
+    "chapterId": "PSA.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 7:17",
+    "content": "<p class=\"q1\"><span data-number=\"17\" data-sid=\"PSA 7:17\" class=\"v\">17</span>I will praise the <span class=\"nd\">LORD</span> according to his righteousness: and will sing praise to the name of the <span class=\"nd\">LORD</span> most high.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.8.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "PSA.7.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5b0fda1c-6f29-4e4a-aca3-e467456841ba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5b0fda1c-6f29-4e4a-aca3-e467456841ba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5b0fda1c-6f29-4e4a-aca3-e467456841ba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5b0fda1c-6f29-4e4a-aca3-e467456841ba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5b0fda1c-6f29-4e4a-aca3-e467456841ba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

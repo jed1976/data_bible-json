@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.25.4",
+    "orgId": "2CH.25.4",
+    "bookId": "2CH",
+    "chapterId": "2CH.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 25:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"2CH 25:4\" class=\"v\">4</span>But he slew not their children, but <span class=\"add\">did</span> as <span class=\"add\">it is</span> written in the law in the book of Moses, where the <span class=\"nd\">LORD</span> commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.25.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "2CH.25.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2b55115e-345d-48b1-9e6b-5be12ce206db');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2b55115e-345d-48b1-9e6b-5be12ce206db'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2b55115e-345d-48b1-9e6b-5be12ce206db",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2b55115e-345d-48b1-9e6b-5be12ce206db'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2b55115e-345d-48b1-9e6b-5be12ce206db\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

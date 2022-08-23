@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.31.18",
+    "orgId": "EZK.31.18",
+    "bookId": "EZK",
+    "chapterId": "EZK.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 31:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"EZK 31:18\" class=\"v\">18</span>¶ To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with <span class=\"add\">them that be</span> slain by the sword. This <span class=\"add\">is</span> Pharaoh and all his multitude, saith the Lord <span class=\"nd\">GOD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.32.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EZK.31.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8bbdf9f2-9b32-43ba-ab6a-a3520e2be857');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8bbdf9f2-9b32-43ba-ab6a-a3520e2be857'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8bbdf9f2-9b32-43ba-ab6a-a3520e2be857",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8bbdf9f2-9b32-43ba-ab6a-a3520e2be857'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8bbdf9f2-9b32-43ba-ab6a-a3520e2be857\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

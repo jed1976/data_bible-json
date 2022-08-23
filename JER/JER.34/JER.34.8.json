@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.34.8",
+    "orgId": "JER.34.8",
+    "bookId": "JER",
+    "chapterId": "JER.34",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 34:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JER 34:8\" class=\"v\">8</span>¶ <span class=\"add\">This is</span> the word that came unto Jeremiah from the <span class=\"nd\">LORD</span>, after that the king Zedekiah had made a covenant with all the people which <span class=\"add\">were</span> at Jerusalem, to proclaim liberty unto them; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.34.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JER.34.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5905640e-6d50-4ed4-9546-b90a2a882fba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5905640e-6d50-4ed4-9546-b90a2a882fba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5905640e-6d50-4ed4-9546-b90a2a882fba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5905640e-6d50-4ed4-9546-b90a2a882fba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5905640e-6d50-4ed4-9546-b90a2a882fba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

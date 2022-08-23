@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.25.29",
+    "orgId": "EXO.25.29",
+    "bookId": "EXO",
+    "chapterId": "EXO.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 25:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"EXO 25:29\" class=\"v\">29</span>And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: <span class=\"add\">of</span> pure gold shalt thou make them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.25.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "EXO.25.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7b3b6310-7e62-44ce-aa03-80f0bcc5a732');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7b3b6310-7e62-44ce-aa03-80f0bcc5a732'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7b3b6310-7e62-44ce-aa03-80f0bcc5a732",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7b3b6310-7e62-44ce-aa03-80f0bcc5a732'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7b3b6310-7e62-44ce-aa03-80f0bcc5a732\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

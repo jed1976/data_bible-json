@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.8.13",
+    "orgId": "ROM.8.13",
+    "bookId": "ROM",
+    "chapterId": "ROM.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 8:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ROM 8:13\" class=\"v\">13</span>For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.8.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ROM.8.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cb4340dd-2b09-478f-93a4-5f4ef9a4deed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cb4340dd-2b09-478f-93a4-5f4ef9a4deed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cb4340dd-2b09-478f-93a4-5f4ef9a4deed",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cb4340dd-2b09-478f-93a4-5f4ef9a4deed'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cb4340dd-2b09-478f-93a4-5f4ef9a4deed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

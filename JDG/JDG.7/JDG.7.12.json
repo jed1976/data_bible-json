@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.7.12",
+    "orgId": "JDG.7.12",
+    "bookId": "JDG",
+    "chapterId": "JDG.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 7:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"JDG 7:12\" class=\"v\">12</span>And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels <span class=\"add\">were</span> without number, as the sand by the sea side for multitude. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.7.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "JDG.7.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('390b3b70-8ccc-4724-863b-f4daf8a1333b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='390b3b70-8ccc-4724-863b-f4daf8a1333b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "390b3b70-8ccc-4724-863b-f4daf8a1333b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('390b3b70-8ccc-4724-863b-f4daf8a1333b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=390b3b70-8ccc-4724-863b-f4daf8a1333b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

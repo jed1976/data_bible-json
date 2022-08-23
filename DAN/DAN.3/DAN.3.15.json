@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.3.15",
+    "orgId": "DAN.3.15",
+    "bookId": "DAN",
+    "chapterId": "DAN.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 3:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"DAN 3:15\" class=\"v\">15</span>Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; <span class=\"add\">well:</span> but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who <span class=\"add\">is</span> that God that shall deliver you out of my hands? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.3.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "DAN.3.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1cb83729-72c5-4f9d-aad3-773fe3de76e2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1cb83729-72c5-4f9d-aad3-773fe3de76e2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1cb83729-72c5-4f9d-aad3-773fe3de76e2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1cb83729-72c5-4f9d-aad3-773fe3de76e2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1cb83729-72c5-4f9d-aad3-773fe3de76e2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

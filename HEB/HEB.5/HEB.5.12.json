@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.5.12",
+    "orgId": "HEB.5.12",
+    "bookId": "HEB",
+    "chapterId": "HEB.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 5:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"HEB 5:12\" class=\"v\">12</span>For when for the time ye ought to be teachers, ye have need that one teach you again which <span class=\"add\">be</span> the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.5.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "HEB.5.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e729db93-a650-4eb2-a0a2-6e66f3bbcd16');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e729db93-a650-4eb2-a0a2-6e66f3bbcd16'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e729db93-a650-4eb2-a0a2-6e66f3bbcd16",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e729db93-a650-4eb2-a0a2-6e66f3bbcd16'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e729db93-a650-4eb2-a0a2-6e66f3bbcd16\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.1.14",
+    "orgId": "REV.1.14",
+    "bookId": "REV",
+    "chapterId": "REV.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 1:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"REV 1:14\" class=\"v\">14</span>His head and <span class=\"add\">his</span> hairs <span class=\"add\">were</span> white like wool, as white as snow; and his eyes <span class=\"add\">were</span> as a flame of fire; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.1.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "REV.1.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f8968592-b1a7-45b2-8e37-c9451d52571a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f8968592-b1a7-45b2-8e37-c9451d52571a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f8968592-b1a7-45b2-8e37-c9451d52571a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f8968592-b1a7-45b2-8e37-c9451d52571a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f8968592-b1a7-45b2-8e37-c9451d52571a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.42.3",
+    "orgId": "EZK.42.3",
+    "bookId": "EZK",
+    "chapterId": "EZK.42",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 42:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"EZK 42:3\" class=\"v\">3</span>Over against the twenty <span class=\"add\">cubits</span> which <span class=\"add\">were</span> for the inner court, and over against the pavement which <span class=\"add\">was</span> for the utter court, <span class=\"add\">was</span> gallery against gallery in three <span class=\"add\">stories</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.42.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "EZK.42.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4bcc3c5f-aba6-45e8-b17b-4dc8c0f60a88');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4bcc3c5f-aba6-45e8-b17b-4dc8c0f60a88'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4bcc3c5f-aba6-45e8-b17b-4dc8c0f60a88",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4bcc3c5f-aba6-45e8-b17b-4dc8c0f60a88'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4bcc3c5f-aba6-45e8-b17b-4dc8c0f60a88\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

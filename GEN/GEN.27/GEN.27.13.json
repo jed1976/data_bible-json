@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.27.13",
+    "orgId": "GEN.27.13",
+    "bookId": "GEN",
+    "chapterId": "GEN.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 27:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"GEN 27:13\" class=\"v\">13</span>And his mother said unto him, Upon me <span class=\"add\">be</span> thy curse, my son: only obey my voice, and go fetch me <span class=\"add\">them</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.27.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "GEN.27.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('edfa2216-94d6-4b46-850c-5b6f61e3c113');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='edfa2216-94d6-4b46-850c-5b6f61e3c113'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "edfa2216-94d6-4b46-850c-5b6f61e3c113",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('edfa2216-94d6-4b46-850c-5b6f61e3c113'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=edfa2216-94d6-4b46-850c-5b6f61e3c113\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

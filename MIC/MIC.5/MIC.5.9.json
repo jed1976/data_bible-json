@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MIC.5.9",
+    "orgId": "MIC.5.8",
+    "bookId": "MIC",
+    "chapterId": "MIC.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Micah 5:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"MIC 5:9\" class=\"v\">9</span>Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MIC.5.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "MIC.5.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d0677ca2-ee30-4533-a7b6-c508de832cb6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d0677ca2-ee30-4533-a7b6-c508de832cb6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d0677ca2-ee30-4533-a7b6-c508de832cb6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d0677ca2-ee30-4533-a7b6-c508de832cb6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d0677ca2-ee30-4533-a7b6-c508de832cb6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

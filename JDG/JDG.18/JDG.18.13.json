@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.18.13",
+    "orgId": "JDG.18.13",
+    "bookId": "JDG",
+    "chapterId": "JDG.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 18:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"JDG 18:13\" class=\"v\">13</span>And they passed thence unto mount Ephraim, and came unto the house of Micah.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.18.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "JDG.18.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('55b77762-3908-42c3-b743-b9fe83c9e7ab');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='55b77762-3908-42c3-b743-b9fe83c9e7ab'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "55b77762-3908-42c3-b743-b9fe83c9e7ab",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('55b77762-3908-42c3-b743-b9fe83c9e7ab'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=55b77762-3908-42c3-b743-b9fe83c9e7ab\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

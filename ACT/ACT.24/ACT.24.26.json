@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.24.26",
+    "orgId": "ACT.24.26",
+    "bookId": "ACT",
+    "chapterId": "ACT.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 24:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"ACT 24:26\" class=\"v\">26</span>He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.24.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "ACT.24.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1167d5b-5d57-47c4-8a5f-f874711ebfeb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1167d5b-5d57-47c4-8a5f-f874711ebfeb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1167d5b-5d57-47c4-8a5f-f874711ebfeb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1167d5b-5d57-47c4-8a5f-f874711ebfeb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1167d5b-5d57-47c4-8a5f-f874711ebfeb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

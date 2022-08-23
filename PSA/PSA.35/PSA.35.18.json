@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.35.18",
+    "orgId": "PSA.35.18",
+    "bookId": "PSA",
+    "chapterId": "PSA.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 35:18",
+    "content": "<p class=\"q1\"><span data-number=\"18\" data-sid=\"PSA 35:18\" class=\"v\">18</span>I will give thee thanks in the great congregation: I will praise thee among much people.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.35.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PSA.35.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c78f3bba-890a-4985-ab40-3b9f2f8eba84');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c78f3bba-890a-4985-ab40-3b9f2f8eba84'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c78f3bba-890a-4985-ab40-3b9f2f8eba84",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c78f3bba-890a-4985-ab40-3b9f2f8eba84'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c78f3bba-890a-4985-ab40-3b9f2f8eba84\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

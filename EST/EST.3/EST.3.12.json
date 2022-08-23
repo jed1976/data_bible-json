@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.3.12",
+    "orgId": "EST.3.12",
+    "bookId": "EST",
+    "chapterId": "EST.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 3:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EST 3:12\" class=\"v\">12</span>Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that <span class=\"add\">were</span> over every province, and to the rulers of every people of every province according to the writing thereof, and <span class=\"add\">to</span> every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.3.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EST.3.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('01eafb48-23ae-4a84-ab40-31d9d315de21');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='01eafb48-23ae-4a84-ab40-31d9d315de21'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "01eafb48-23ae-4a84-ab40-31d9d315de21",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('01eafb48-23ae-4a84-ab40-31d9d315de21'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=01eafb48-23ae-4a84-ab40-31d9d315de21\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

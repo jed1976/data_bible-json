@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.6.4",
+    "orgId": "ACT.6.4",
+    "bookId": "ACT",
+    "chapterId": "ACT.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 6:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"ACT 6:4\" class=\"v\">4</span>But we will give ourselves continually to prayer, and to the ministry of the word.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.6.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "ACT.6.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b1d9df84-4c85-4390-83be-81bb92ac2ee4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b1d9df84-4c85-4390-83be-81bb92ac2ee4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b1d9df84-4c85-4390-83be-81bb92ac2ee4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b1d9df84-4c85-4390-83be-81bb92ac2ee4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b1d9df84-4c85-4390-83be-81bb92ac2ee4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.41.34",
+    "orgId": "JOB.41.26",
+    "bookId": "JOB",
+    "chapterId": "JOB.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 41:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"JOB 41:34\" class=\"v\">34</span>He beholdeth all high <span class=\"add\">things:</span> he <span class=\"add\">is</span> a king over all the children of pride.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.42.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "JOB.41.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0652cb51-a95b-4307-9504-3b756115132d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0652cb51-a95b-4307-9504-3b756115132d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0652cb51-a95b-4307-9504-3b756115132d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0652cb51-a95b-4307-9504-3b756115132d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0652cb51-a95b-4307-9504-3b756115132d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.17.20",
+    "orgId": "1KI.17.20",
+    "bookId": "1KI",
+    "chapterId": "1KI.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 17:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"1KI 17:20\" class=\"v\">20</span>And he cried unto the <span class=\"nd\">LORD</span>, and said, O <span class=\"nd\">LORD</span> my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.17.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "1KI.17.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e431f8fd-04d0-46e1-b116-c55911a3e302');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e431f8fd-04d0-46e1-b116-c55911a3e302'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e431f8fd-04d0-46e1-b116-c55911a3e302",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e431f8fd-04d0-46e1-b116-c55911a3e302'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e431f8fd-04d0-46e1-b116-c55911a3e302\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.4.14",
+    "orgId": "LAM.4.14",
+    "bookId": "LAM",
+    "chapterId": "LAM.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 4:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"LAM 4:14\" class=\"v\">14</span>They have wandered <span class=\"add\">as</span> blind <span class=\"add\">men</span> in the streets, they have polluted themselves with blood, so that men could not touch their garments. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.4.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "LAM.4.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('32e7fcc8-ffce-4f8a-a27b-edbeaf34ff7b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='32e7fcc8-ffce-4f8a-a27b-edbeaf34ff7b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "32e7fcc8-ffce-4f8a-a27b-edbeaf34ff7b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('32e7fcc8-ffce-4f8a-a27b-edbeaf34ff7b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=32e7fcc8-ffce-4f8a-a27b-edbeaf34ff7b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

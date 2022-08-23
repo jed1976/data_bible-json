@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": "PSA.42.1",
+      "orgId": "PSA.42.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:1"
+    },
+    {
+      "id": "PSA.42.2",
+      "orgId": "PSA.42.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:2"
+    },
+    {
+      "id": "PSA.42.3",
+      "orgId": "PSA.42.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:3"
+    },
+    {
+      "id": "PSA.42.4",
+      "orgId": "PSA.42.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:4"
+    },
+    {
+      "id": "PSA.42.5",
+      "orgId": "PSA.42.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:5"
+    },
+    {
+      "id": "PSA.42.6",
+      "orgId": "PSA.42.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:6"
+    },
+    {
+      "id": "PSA.42.7",
+      "orgId": "PSA.42.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:7"
+    },
+    {
+      "id": "PSA.42.8",
+      "orgId": "PSA.42.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:8"
+    },
+    {
+      "id": "PSA.42.9",
+      "orgId": "PSA.42.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:9"
+    },
+    {
+      "id": "PSA.42.10",
+      "orgId": "PSA.42.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:10"
+    },
+    {
+      "id": "PSA.42.11",
+      "orgId": "PSA.42.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 42:11"
+    }
+  ]
+}

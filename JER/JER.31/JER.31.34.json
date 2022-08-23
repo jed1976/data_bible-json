@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.31.34",
+    "orgId": "JER.31.34",
+    "bookId": "JER",
+    "chapterId": "JER.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 31:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"JER 31:34\" class=\"v\">34</span>And they shall teach no more every man his neighbour, and every man his brother, saying, Know the <span class=\"nd\">LORD</span>: for they shall all know me, from the least of them unto the greatest of them, saith the <span class=\"nd\">LORD</span>: for I will forgive their iniquity, and I will remember their sin no more.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.31.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "JER.31.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('01f739ca-e8ed-4d93-8d26-f59fe8442cbc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='01f739ca-e8ed-4d93-8d26-f59fe8442cbc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "01f739ca-e8ed-4d93-8d26-f59fe8442cbc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('01f739ca-e8ed-4d93-8d26-f59fe8442cbc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=01f739ca-e8ed-4d93-8d26-f59fe8442cbc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

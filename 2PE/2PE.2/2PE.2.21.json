@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2PE.2.21",
+    "orgId": "2PE.2.21",
+    "bookId": "2PE",
+    "chapterId": "2PE.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Peter 2:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"2PE 2:21\" class=\"v\">21</span>For it had been better for them not to have known the way of righteousness, than, after they have known <span class=\"add\">it</span>, to turn from the holy commandment delivered unto them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2PE.2.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "2PE.2.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1af51baa-b56a-4933-8962-195508cb4ee8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1af51baa-b56a-4933-8962-195508cb4ee8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1af51baa-b56a-4933-8962-195508cb4ee8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1af51baa-b56a-4933-8962-195508cb4ee8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1af51baa-b56a-4933-8962-195508cb4ee8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

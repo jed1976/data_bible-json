@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.12.31",
+    "orgId": "1CO.12.31",
+    "bookId": "1CO",
+    "chapterId": "1CO.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 12:31",
+    "content": "<p class=\"p\"><span data-number=\"31\" data-sid=\"1CO 12:31\" class=\"v\">31</span>But covet earnestly the best gifts: and yet shew I unto you a more excellent way.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.13.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "1CO.12.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('771219f7-6114-4ad8-9007-c002885fbe18');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='771219f7-6114-4ad8-9007-c002885fbe18'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "771219f7-6114-4ad8-9007-c002885fbe18",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('771219f7-6114-4ad8-9007-c002885fbe18'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=771219f7-6114-4ad8-9007-c002885fbe18\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

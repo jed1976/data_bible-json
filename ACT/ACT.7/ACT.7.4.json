@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.7.4",
+    "orgId": "ACT.7.4",
+    "bookId": "ACT",
+    "chapterId": "ACT.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 7:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"ACT 7:4\" class=\"v\">4</span>Then came he out of the land of the Chaldæans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.7.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "ACT.7.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('73e500e2-6117-469c-88d5-90b499613a4b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='73e500e2-6117-469c-88d5-90b499613a4b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "73e500e2-6117-469c-88d5-90b499613a4b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('73e500e2-6117-469c-88d5-90b499613a4b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=73e500e2-6117-469c-88d5-90b499613a4b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

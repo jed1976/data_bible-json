@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.19.7",
+    "orgId": "JHN.19.7",
+    "bookId": "JHN",
+    "chapterId": "JHN.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 19:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"JHN 19:7\" class=\"v\">7</span>The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.19.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "JHN.19.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bc5c8fff-aefa-4b60-a201-642ea1104aab');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bc5c8fff-aefa-4b60-a201-642ea1104aab'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bc5c8fff-aefa-4b60-a201-642ea1104aab",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bc5c8fff-aefa-4b60-a201-642ea1104aab'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bc5c8fff-aefa-4b60-a201-642ea1104aab\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

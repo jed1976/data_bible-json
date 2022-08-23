@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.22.34",
+    "orgId": "MAT.22.34",
+    "bookId": "MAT",
+    "chapterId": "MAT.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 22:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"MAT 22:34\" class=\"v\">34</span>¶ But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.22.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "MAT.22.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('974e2469-749b-43c3-aad8-c25a7f32d8d2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='974e2469-749b-43c3-aad8-c25a7f32d8d2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "974e2469-749b-43c3-aad8-c25a7f32d8d2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('974e2469-749b-43c3-aad8-c25a7f32d8d2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=974e2469-749b-43c3-aad8-c25a7f32d8d2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

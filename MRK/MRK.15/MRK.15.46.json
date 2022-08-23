@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.15.46",
+    "orgId": "MRK.15.46",
+    "bookId": "MRK",
+    "chapterId": "MRK.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 15:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"MRK 15:46\" class=\"v\">46</span>And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.15.47",
+      "number": "47"
+    },
+    "previous": {
+      "id": "MRK.15.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c352276e-f795-4604-b340-740672184213');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c352276e-f795-4604-b340-740672184213'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c352276e-f795-4604-b340-740672184213",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c352276e-f795-4604-b340-740672184213'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c352276e-f795-4604-b340-740672184213\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

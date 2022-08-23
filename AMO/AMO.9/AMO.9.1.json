@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.9.1",
+    "orgId": "AMO.9.1",
+    "bookId": "AMO",
+    "chapterId": "AMO.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 9:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"AMO 9:1\" class=\"v\">1</span>I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.9.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "AMO.8.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6e0dfd89-81ed-4f34-bc67-8b1b3493bd24');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6e0dfd89-81ed-4f34-bc67-8b1b3493bd24'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6e0dfd89-81ed-4f34-bc67-8b1b3493bd24",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6e0dfd89-81ed-4f34-bc67-8b1b3493bd24'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6e0dfd89-81ed-4f34-bc67-8b1b3493bd24\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

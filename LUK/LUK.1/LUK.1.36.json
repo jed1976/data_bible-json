@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.1.36",
+    "orgId": "LUK.1.36",
+    "bookId": "LUK",
+    "chapterId": "LUK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 1:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"LUK 1:36\" class=\"v\">36</span>And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.1.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "LUK.1.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f60316a1-95da-4fcf-b8f8-2e55296b2247');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f60316a1-95da-4fcf-b8f8-2e55296b2247'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f60316a1-95da-4fcf-b8f8-2e55296b2247",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f60316a1-95da-4fcf-b8f8-2e55296b2247'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f60316a1-95da-4fcf-b8f8-2e55296b2247\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

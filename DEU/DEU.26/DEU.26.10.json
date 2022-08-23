@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.26.10",
+    "orgId": "DEU.26.10",
+    "bookId": "DEU",
+    "chapterId": "DEU.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 26:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"DEU 26:10\" class=\"v\">10</span>And now, behold, I have brought the firstfruits of the land, which thou, O <span class=\"nd\">LORD</span>, hast given me. And thou shalt set it before the <span class=\"nd\">LORD</span> thy God, and worship before the <span class=\"nd\">LORD</span> thy God: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.26.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "DEU.26.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('505bbefe-16c2-4c6b-8222-0150bcd4d797');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='505bbefe-16c2-4c6b-8222-0150bcd4d797'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "505bbefe-16c2-4c6b-8222-0150bcd4d797",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('505bbefe-16c2-4c6b-8222-0150bcd4d797'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=505bbefe-16c2-4c6b-8222-0150bcd4d797\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

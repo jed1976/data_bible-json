@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.8.20",
+    "orgId": "JDG.8.20",
+    "bookId": "JDG",
+    "chapterId": "JDG.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 8:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JDG 8:20\" class=\"v\">20</span>And he said unto Jether his firstborn, Up, <span class=\"add\">and</span> slay them. But the youth drew not his sword: for he feared, because he <span class=\"add\">was</span> yet a youth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.8.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JDG.8.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a7682fc0-f64e-4172-a72b-2a3443f5edaf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a7682fc0-f64e-4172-a72b-2a3443f5edaf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a7682fc0-f64e-4172-a72b-2a3443f5edaf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a7682fc0-f64e-4172-a72b-2a3443f5edaf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a7682fc0-f64e-4172-a72b-2a3443f5edaf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

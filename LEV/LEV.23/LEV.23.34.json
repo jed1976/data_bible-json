@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.23.34",
+    "orgId": "LEV.23.34",
+    "bookId": "LEV",
+    "chapterId": "LEV.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 23:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"LEV 23:34\" class=\"v\">34</span>Speak unto the children of Israel, saying, The fifteenth day of this seventh month <span class=\"add\">shall be</span> the feast of tabernacles <span class=\"add\">for</span> seven days unto the <span class=\"nd\">LORD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.23.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "LEV.23.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd09ecfc-a5c8-4569-bc9b-2a285e151238');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd09ecfc-a5c8-4569-bc9b-2a285e151238'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd09ecfc-a5c8-4569-bc9b-2a285e151238",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd09ecfc-a5c8-4569-bc9b-2a285e151238'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd09ecfc-a5c8-4569-bc9b-2a285e151238\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

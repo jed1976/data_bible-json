@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.5.25",
+    "orgId": "2KI.5.25",
+    "bookId": "2KI",
+    "chapterId": "2KI.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 5:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"2KI 5:25\" class=\"v\">25</span>But he went in, and stood before his master. And Elisha said unto him, Whence <span class=\"add\">comest thou</span>, Gehazi? And he said, Thy servant went no whither. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.5.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "2KI.5.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('94d55171-f9d8-4aaa-b58e-305c1621c24b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='94d55171-f9d8-4aaa-b58e-305c1621c24b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "94d55171-f9d8-4aaa-b58e-305c1621c24b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('94d55171-f9d8-4aaa-b58e-305c1621c24b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=94d55171-f9d8-4aaa-b58e-305c1621c24b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

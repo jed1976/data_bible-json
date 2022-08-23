@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "PSA.75.1",
+      "orgId": "PSA.75.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:1"
+    },
+    {
+      "id": "PSA.75.2",
+      "orgId": "PSA.75.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:2"
+    },
+    {
+      "id": "PSA.75.3",
+      "orgId": "PSA.75.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:3"
+    },
+    {
+      "id": "PSA.75.4",
+      "orgId": "PSA.75.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:4"
+    },
+    {
+      "id": "PSA.75.5",
+      "orgId": "PSA.75.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:5"
+    },
+    {
+      "id": "PSA.75.6",
+      "orgId": "PSA.75.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:6"
+    },
+    {
+      "id": "PSA.75.7",
+      "orgId": "PSA.75.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:7"
+    },
+    {
+      "id": "PSA.75.8",
+      "orgId": "PSA.75.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:8"
+    },
+    {
+      "id": "PSA.75.9",
+      "orgId": "PSA.75.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:9"
+    },
+    {
+      "id": "PSA.75.10",
+      "orgId": "PSA.75.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.75",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 75:10"
+    }
+  ]
+}

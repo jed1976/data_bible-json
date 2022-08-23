@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.27.20",
+    "orgId": "EZK.27.20",
+    "bookId": "EZK",
+    "chapterId": "EZK.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 27:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"EZK 27:20\" class=\"v\">20</span>Dedan <span class=\"add\">was</span> thy merchant in precious clothes for chariots. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.27.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "EZK.27.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dc08bd20-30dd-4c2d-b427-b7a4517b468b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dc08bd20-30dd-4c2d-b427-b7a4517b468b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dc08bd20-30dd-4c2d-b427-b7a4517b468b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dc08bd20-30dd-4c2d-b427-b7a4517b468b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dc08bd20-30dd-4c2d-b427-b7a4517b468b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

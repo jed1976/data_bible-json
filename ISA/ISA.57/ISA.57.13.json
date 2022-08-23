@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.57.13",
+    "orgId": "ISA.57.13",
+    "bookId": "ISA",
+    "chapterId": "ISA.57",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 57:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ISA 57:13\" class=\"v\">13</span>¶ When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take <span class=\"add\">them:</span> but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.57.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ISA.57.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a638a202-c42d-4b9c-8047-a33f14165f92');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a638a202-c42d-4b9c-8047-a33f14165f92'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a638a202-c42d-4b9c-8047-a33f14165f92",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a638a202-c42d-4b9c-8047-a33f14165f92'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a638a202-c42d-4b9c-8047-a33f14165f92\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

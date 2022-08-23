@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.13.41",
+    "orgId": "LEV.13.41",
+    "bookId": "LEV",
+    "chapterId": "LEV.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 13:41",
+    "content": "<p class=\"p\"><span data-number=\"41\" data-sid=\"LEV 13:41\" class=\"v\">41</span>And he that hath his hair fallen off from the part of his head toward his face, he <span class=\"add\">is</span> forehead bald: <span class=\"add\">yet is</span> he clean. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.13.42",
+      "number": "42"
+    },
+    "previous": {
+      "id": "LEV.13.40",
+      "number": "40"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('44a9ace9-2a81-46da-86e3-14ab455a63d9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='44a9ace9-2a81-46da-86e3-14ab455a63d9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "44a9ace9-2a81-46da-86e3-14ab455a63d9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('44a9ace9-2a81-46da-86e3-14ab455a63d9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=44a9ace9-2a81-46da-86e3-14ab455a63d9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

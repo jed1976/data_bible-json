@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.17.19",
+    "orgId": "1CH.17.19",
+    "bookId": "1CH",
+    "chapterId": "1CH.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 17:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"1CH 17:19\" class=\"v\">19</span>O <span class=\"nd\">LORD</span>, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all <span class=\"add\">these</span> great things. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.17.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "1CH.17.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7555930d-b295-4b73-b9dc-f946f4e63f0b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7555930d-b295-4b73-b9dc-f946f4e63f0b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7555930d-b295-4b73-b9dc-f946f4e63f0b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7555930d-b295-4b73-b9dc-f946f4e63f0b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7555930d-b295-4b73-b9dc-f946f4e63f0b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

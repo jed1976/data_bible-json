@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.29.8",
+    "orgId": "NUM.29.8",
+    "bookId": "NUM",
+    "chapterId": "NUM.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 29:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"NUM 29:8\" class=\"v\">8</span>But ye shall offer a burnt offering unto the <span class=\"nd\">LORD</span> <span class=\"add\">for</span> a sweet savour; one young bullock, one ram, <span class=\"add\">and</span> seven lambs of the first year; they shall be unto you without blemish: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.29.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "NUM.29.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('594d2ec3-377e-40d4-bee0-0b591be4d325');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='594d2ec3-377e-40d4-bee0-0b591be4d325'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "594d2ec3-377e-40d4-bee0-0b591be4d325",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('594d2ec3-377e-40d4-bee0-0b591be4d325'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=594d2ec3-377e-40d4-bee0-0b591be4d325\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

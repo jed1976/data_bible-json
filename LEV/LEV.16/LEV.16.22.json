@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.16.22",
+    "orgId": "LEV.16.22",
+    "bookId": "LEV",
+    "chapterId": "LEV.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 16:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"LEV 16:22\" class=\"v\">22</span>And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.16.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "LEV.16.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd4f2158-2a31-4efe-af93-417abeb8a8ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd4f2158-2a31-4efe-af93-417abeb8a8ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd4f2158-2a31-4efe-af93-417abeb8a8ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd4f2158-2a31-4efe-af93-417abeb8a8ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd4f2158-2a31-4efe-af93-417abeb8a8ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

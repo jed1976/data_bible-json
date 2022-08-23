@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.8.21",
+    "orgId": "ZEC.8.21",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 8:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"ZEC 8:21\" class=\"v\">21</span>And the inhabitants of one <span class=\"add\">city</span> shall go to another, saying, Let us go speedily to pray before the <span class=\"nd\">LORD</span>, and to seek the <span class=\"nd\">LORD</span> of hosts: I will go also. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.8.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "ZEC.8.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('348cdc61-1180-40cd-aa92-c03d76c3d044');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='348cdc61-1180-40cd-aa92-c03d76c3d044'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "348cdc61-1180-40cd-aa92-c03d76c3d044",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('348cdc61-1180-40cd-aa92-c03d76c3d044'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=348cdc61-1180-40cd-aa92-c03d76c3d044\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

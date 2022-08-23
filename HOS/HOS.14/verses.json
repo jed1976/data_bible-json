@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "HOS.14.1",
+      "orgId": "HOS.14.2",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:1"
+    },
+    {
+      "id": "HOS.14.2",
+      "orgId": "HOS.14.3",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:2"
+    },
+    {
+      "id": "HOS.14.3",
+      "orgId": "HOS.14.4",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:3"
+    },
+    {
+      "id": "HOS.14.4",
+      "orgId": "HOS.14.5",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:4"
+    },
+    {
+      "id": "HOS.14.5",
+      "orgId": "HOS.14.6",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:5"
+    },
+    {
+      "id": "HOS.14.6",
+      "orgId": "HOS.14.7",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:6"
+    },
+    {
+      "id": "HOS.14.7",
+      "orgId": "HOS.14.8",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:7"
+    },
+    {
+      "id": "HOS.14.8",
+      "orgId": "HOS.14.9",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:8"
+    },
+    {
+      "id": "HOS.14.9",
+      "orgId": "HOS.14.10",
+      "bookId": "HOS",
+      "chapterId": "HOS.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Hosea 14:9"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.7.1",
+    "orgId": "AMO.7.1",
+    "bookId": "AMO",
+    "chapterId": "AMO.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 7:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"AMO 7:1\" class=\"v\">1</span>Thus hath the Lord <span class=\"nd\">GOD</span> shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, <span class=\"add\">it was</span> the latter growth after the king’s mowings. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.7.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "AMO.6.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fbc6b339-253b-492f-83e1-cf44cfbe9e31');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fbc6b339-253b-492f-83e1-cf44cfbe9e31'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fbc6b339-253b-492f-83e1-cf44cfbe9e31",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fbc6b339-253b-492f-83e1-cf44cfbe9e31'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fbc6b339-253b-492f-83e1-cf44cfbe9e31\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

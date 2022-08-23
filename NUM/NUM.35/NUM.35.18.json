@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.35.18",
+    "orgId": "NUM.35.18",
+    "bookId": "NUM",
+    "chapterId": "NUM.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 35:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"NUM 35:18\" class=\"v\">18</span>Or <span class=\"add\">if</span> he smite him with an hand weapon of wood, wherewith he may die, and he die, he <span class=\"add\">is</span> a murderer: the murderer shall surely be put to death. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.35.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "NUM.35.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ee2c0294-a099-4574-b523-4bedc1d1c2c3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ee2c0294-a099-4574-b523-4bedc1d1c2c3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ee2c0294-a099-4574-b523-4bedc1d1c2c3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ee2c0294-a099-4574-b523-4bedc1d1c2c3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ee2c0294-a099-4574-b523-4bedc1d1c2c3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

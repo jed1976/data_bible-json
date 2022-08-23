@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.22.35",
+    "orgId": "1KI.22.35",
+    "bookId": "1KI",
+    "chapterId": "1KI.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 22:35",
+    "content": "<p class=\"p\"><span data-number=\"35\" data-sid=\"1KI 22:35\" class=\"v\">35</span>And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.22.36",
+      "number": "36"
+    },
+    "previous": {
+      "id": "1KI.22.34",
+      "number": "34"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('718e84d8-3225-499c-a5dd-e0d5dac299b2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='718e84d8-3225-499c-a5dd-e0d5dac299b2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "718e84d8-3225-499c-a5dd-e0d5dac299b2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('718e84d8-3225-499c-a5dd-e0d5dac299b2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=718e84d8-3225-499c-a5dd-e0d5dac299b2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

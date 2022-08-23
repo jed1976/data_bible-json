@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.21.8",
+    "orgId": "REV.21.8",
+    "bookId": "REV",
+    "chapterId": "REV.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 21:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"REV 21:8\" class=\"v\">8</span>But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.21.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "REV.21.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('30b217be-2b3f-4d71-8cce-caa2673c2b6f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='30b217be-2b3f-4d71-8cce-caa2673c2b6f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "30b217be-2b3f-4d71-8cce-caa2673c2b6f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('30b217be-2b3f-4d71-8cce-caa2673c2b6f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=30b217be-2b3f-4d71-8cce-caa2673c2b6f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

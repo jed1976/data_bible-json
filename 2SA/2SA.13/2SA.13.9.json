@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2SA.13.9",
+    "orgId": "2SA.13.9",
+    "bookId": "2SA",
+    "chapterId": "2SA.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Samuel 13:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"2SA 13:9\" class=\"v\">9</span>And she took a pan, and poured <span class=\"add\">them</span> out before him; but he refused to eat. And Amnon said, Have out all men from me. And they went out every man from him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2SA.13.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "2SA.13.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('45e32cd6-7ced-4e2b-8941-36fbe4ae0e33');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='45e32cd6-7ced-4e2b-8941-36fbe4ae0e33'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "45e32cd6-7ced-4e2b-8941-36fbe4ae0e33",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('45e32cd6-7ced-4e2b-8941-36fbe4ae0e33'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=45e32cd6-7ced-4e2b-8941-36fbe4ae0e33\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

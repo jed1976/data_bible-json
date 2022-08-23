@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.9.21",
+    "orgId": "DEU.9.21",
+    "bookId": "DEU",
+    "chapterId": "DEU.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 9:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"DEU 9:21\" class=\"v\">21</span>And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, <span class=\"add\">and</span> ground <span class=\"add\">it</span> very small, <span class=\"add\">even</span> until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.9.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "DEU.9.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cf2640c5-090b-4310-83df-3d7f471a6c3b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cf2640c5-090b-4310-83df-3d7f471a6c3b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cf2640c5-090b-4310-83df-3d7f471a6c3b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cf2640c5-090b-4310-83df-3d7f471a6c3b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cf2640c5-090b-4310-83df-3d7f471a6c3b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

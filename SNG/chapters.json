@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "SNG.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "intro",
+      "reference": "Song of Solomon"
+    },
+    {
+      "id": "SNG.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "1",
+      "reference": "Song of Solomon 1"
+    },
+    {
+      "id": "SNG.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "2",
+      "reference": "Song of Solomon 2"
+    },
+    {
+      "id": "SNG.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "3",
+      "reference": "Song of Solomon 3"
+    },
+    {
+      "id": "SNG.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "4",
+      "reference": "Song of Solomon 4"
+    },
+    {
+      "id": "SNG.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "5",
+      "reference": "Song of Solomon 5"
+    },
+    {
+      "id": "SNG.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "6",
+      "reference": "Song of Solomon 6"
+    },
+    {
+      "id": "SNG.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "7",
+      "reference": "Song of Solomon 7"
+    },
+    {
+      "id": "SNG.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "SNG",
+      "number": "8",
+      "reference": "Song of Solomon 8"
+    }
+  ]
+}

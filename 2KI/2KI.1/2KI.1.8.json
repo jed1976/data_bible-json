@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.1.8",
+    "orgId": "2KI.1.8",
+    "bookId": "2KI",
+    "chapterId": "2KI.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 1:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"2KI 1:8\" class=\"v\">8</span>And they answered him, <span class=\"add\">He was</span> an hairy man, and girt with a girdle of leather about his loins. And he said, It <span class=\"add\">is</span> Elijah the Tishbite.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.1.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "2KI.1.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('452718dc-3ec5-412c-a7b5-d10fb03bb2ea');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='452718dc-3ec5-412c-a7b5-d10fb03bb2ea'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "452718dc-3ec5-412c-a7b5-d10fb03bb2ea",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('452718dc-3ec5-412c-a7b5-d10fb03bb2ea'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=452718dc-3ec5-412c-a7b5-d10fb03bb2ea\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

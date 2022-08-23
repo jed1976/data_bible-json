@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.27.9",
+    "orgId": "PRO.27.9",
+    "bookId": "PRO",
+    "chapterId": "PRO.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 27:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"PRO 27:9\" class=\"v\">9</span>Ointment and perfume rejoice the heart: so <span class=\"add\">doth</span> the sweetness of a man’s friend by hearty counsel. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.27.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "PRO.27.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('54b32e33-65b3-4aa6-bc2e-c55aaebd6e6d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='54b32e33-65b3-4aa6-bc2e-c55aaebd6e6d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "54b32e33-65b3-4aa6-bc2e-c55aaebd6e6d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('54b32e33-65b3-4aa6-bc2e-c55aaebd6e6d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=54b32e33-65b3-4aa6-bc2e-c55aaebd6e6d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

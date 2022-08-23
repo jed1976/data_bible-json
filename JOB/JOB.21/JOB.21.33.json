@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.21.33",
+    "orgId": "JOB.21.33",
+    "bookId": "JOB",
+    "chapterId": "JOB.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 21:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"JOB 21:33\" class=\"v\">33</span>The clods of the valley shall be sweet unto him, and every man shall draw after him, as <span class=\"add\">there are</span> innumerable before him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.21.34",
+      "number": "34"
+    },
+    "previous": {
+      "id": "JOB.21.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e4d202ea-6512-403a-8db4-fd73bcc49f9f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e4d202ea-6512-403a-8db4-fd73bcc49f9f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e4d202ea-6512-403a-8db4-fd73bcc49f9f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e4d202ea-6512-403a-8db4-fd73bcc49f9f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e4d202ea-6512-403a-8db4-fd73bcc49f9f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

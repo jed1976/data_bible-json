@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.13.24",
+    "orgId": "MAT.13.24",
+    "bookId": "MAT",
+    "chapterId": "MAT.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 13:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"MAT 13:24\" class=\"v\">24</span>¶ Another parable put he forth unto them, saying, <span class=\"wj\">The kingdom of heaven is likened unto a man which sowed good seed in his field:</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.13.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "MAT.13.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('242318d9-56e7-4b20-b514-e46773ec3f3b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='242318d9-56e7-4b20-b514-e46773ec3f3b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "242318d9-56e7-4b20-b514-e46773ec3f3b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('242318d9-56e7-4b20-b514-e46773ec3f3b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=242318d9-56e7-4b20-b514-e46773ec3f3b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

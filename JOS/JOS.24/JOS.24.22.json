@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.24.22",
+    "orgId": "JOS.24.22",
+    "bookId": "JOS",
+    "chapterId": "JOS.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 24:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"JOS 24:22\" class=\"v\">22</span>And Joshua said unto the people, Ye <span class=\"add\">are</span> witnesses against yourselves that ye have chosen you the <span class=\"nd\">LORD</span>, to serve him. And they said, <span class=\"add\">We are</span> witnesses. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.24.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "JOS.24.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8a91220f-2054-4b53-8947-cb8dded0458b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8a91220f-2054-4b53-8947-cb8dded0458b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8a91220f-2054-4b53-8947-cb8dded0458b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8a91220f-2054-4b53-8947-cb8dded0458b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8a91220f-2054-4b53-8947-cb8dded0458b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

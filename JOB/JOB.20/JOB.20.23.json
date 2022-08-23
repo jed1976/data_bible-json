@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.20.23",
+    "orgId": "JOB.20.23",
+    "bookId": "JOB",
+    "chapterId": "JOB.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 20:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"JOB 20:23\" class=\"v\">23</span><span class=\"add\">When</span> he is about to fill his belly, <span class=\"add\">God</span> shall cast the fury of his wrath upon him, and shall rain <span class=\"add\">it</span> upon him while he is eating. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.20.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "JOB.20.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fc4988a4-28e1-42a5-89cc-d1cd613d5daf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fc4988a4-28e1-42a5-89cc-d1cd613d5daf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fc4988a4-28e1-42a5-89cc-d1cd613d5daf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fc4988a4-28e1-42a5-89cc-d1cd613d5daf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fc4988a4-28e1-42a5-89cc-d1cd613d5daf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

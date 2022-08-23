@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.19.29",
+    "orgId": "ACT.19.29",
+    "bookId": "ACT",
+    "chapterId": "ACT.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 19:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"ACT 19:29\" class=\"v\">29</span>And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.19.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "ACT.19.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('91549998-48bf-4325-8fc1-2ca1e057e367');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='91549998-48bf-4325-8fc1-2ca1e057e367'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "91549998-48bf-4325-8fc1-2ca1e057e367",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('91549998-48bf-4325-8fc1-2ca1e057e367'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=91549998-48bf-4325-8fc1-2ca1e057e367\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

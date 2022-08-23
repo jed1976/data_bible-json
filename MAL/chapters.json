@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "MAL.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MAL",
+      "number": "intro",
+      "reference": "Malachi"
+    },
+    {
+      "id": "MAL.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MAL",
+      "number": "1",
+      "reference": "Malachi 1"
+    },
+    {
+      "id": "MAL.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MAL",
+      "number": "2",
+      "reference": "Malachi 2"
+    },
+    {
+      "id": "MAL.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MAL",
+      "number": "3",
+      "reference": "Malachi 3"
+    },
+    {
+      "id": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MAL",
+      "number": "4",
+      "reference": "Malachi 4"
+    }
+  ]
+}

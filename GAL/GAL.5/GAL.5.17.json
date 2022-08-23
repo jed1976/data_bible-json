@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GAL.5.17",
+    "orgId": "GAL.5.17",
+    "bookId": "GAL",
+    "chapterId": "GAL.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Galatians 5:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"GAL 5:17\" class=\"v\">17</span>For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GAL.5.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "GAL.5.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('19e880e8-7850-4c44-a453-10b02aed0068');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='19e880e8-7850-4c44-a453-10b02aed0068'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "19e880e8-7850-4c44-a453-10b02aed0068",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('19e880e8-7850-4c44-a453-10b02aed0068'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=19e880e8-7850-4c44-a453-10b02aed0068\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

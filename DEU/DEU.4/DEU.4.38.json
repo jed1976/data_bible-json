@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.4.38",
+    "orgId": "DEU.4.38",
+    "bookId": "DEU",
+    "chapterId": "DEU.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 4:38",
+    "content": "<p class=\"p\"><span data-number=\"38\" data-sid=\"DEU 4:38\" class=\"v\">38</span>To drive out nations from before thee greater and mightier than thou <span class=\"add\">art</span>, to bring thee in, to give thee their land <span class=\"add\">for</span> an inheritance, as <span class=\"add\">it is</span> this day. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.4.39",
+      "number": "39"
+    },
+    "previous": {
+      "id": "DEU.4.37",
+      "number": "37"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5c116ecc-9115-4e53-9ab1-3cc758d72bd9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5c116ecc-9115-4e53-9ab1-3cc758d72bd9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5c116ecc-9115-4e53-9ab1-3cc758d72bd9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5c116ecc-9115-4e53-9ab1-3cc758d72bd9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5c116ecc-9115-4e53-9ab1-3cc758d72bd9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

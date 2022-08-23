@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.9.24",
+    "orgId": "1SA.9.24",
+    "bookId": "1SA",
+    "chapterId": "1SA.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 9:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"1SA 9:24\" class=\"v\">24</span>And the cook took up the shoulder, and <span class=\"add\">that</span> which <span class=\"add\">was</span> upon it, and set <span class=\"add\">it</span> before Saul. And <span class=\"add\">Samuel</span> said, Behold that which is left! set <span class=\"add\">it</span> before thee, <span class=\"add\">and</span> eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.9.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "1SA.9.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('62f7afd7-a991-4885-bcc3-3341d64db774');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='62f7afd7-a991-4885-bcc3-3341d64db774'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "62f7afd7-a991-4885-bcc3-3341d64db774",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('62f7afd7-a991-4885-bcc3-3341d64db774'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=62f7afd7-a991-4885-bcc3-3341d64db774\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

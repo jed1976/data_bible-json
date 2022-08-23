@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.27.40",
+    "orgId": "ACT.27.40",
+    "bookId": "ACT",
+    "chapterId": "ACT.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 27:40",
+    "content": "<p class=\"p\"><span data-number=\"40\" data-sid=\"ACT 27:40\" class=\"v\">40</span>And when they had taken up the anchors, they committed <span class=\"add\">themselves</span> unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.27.41",
+      "number": "41"
+    },
+    "previous": {
+      "id": "ACT.27.39",
+      "number": "39"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dcf23f88-a990-4144-92f1-fea22f90ee75');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dcf23f88-a990-4144-92f1-fea22f90ee75'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dcf23f88-a990-4144-92f1-fea22f90ee75",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dcf23f88-a990-4144-92f1-fea22f90ee75'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dcf23f88-a990-4144-92f1-fea22f90ee75\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

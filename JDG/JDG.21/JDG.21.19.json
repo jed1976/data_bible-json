@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.21.19",
+    "orgId": "JDG.21.19",
+    "bookId": "JDG",
+    "chapterId": "JDG.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 21:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"JDG 21:19\" class=\"v\">19</span>Then they said, Behold, <span class=\"add\">there is</span> a feast of the <span class=\"nd\">LORD</span> in Shiloh yearly <span class=\"add\">in a place</span> which <span class=\"add\">is</span> on the north side of Beth-el, on the east side of the highway that goeth up from Beth-el to Shechem, and on the south of Lebonah. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.21.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "JDG.21.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a2c7e6f1-dc81-4653-aa8f-dcf3d457c6b7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a2c7e6f1-dc81-4653-aa8f-dcf3d457c6b7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a2c7e6f1-dc81-4653-aa8f-dcf3d457c6b7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a2c7e6f1-dc81-4653-aa8f-dcf3d457c6b7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a2c7e6f1-dc81-4653-aa8f-dcf3d457c6b7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

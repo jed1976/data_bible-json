@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.3.27",
+    "orgId": "JDG.3.27",
+    "bookId": "JDG",
+    "chapterId": "JDG.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 3:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"JDG 3:27\" class=\"v\">27</span>And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.3.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "JDG.3.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c47d2862-4b79-438e-8630-bfe85e46162c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c47d2862-4b79-438e-8630-bfe85e46162c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c47d2862-4b79-438e-8630-bfe85e46162c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c47d2862-4b79-438e-8630-bfe85e46162c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c47d2862-4b79-438e-8630-bfe85e46162c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

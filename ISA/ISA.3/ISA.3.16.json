@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.3.16",
+    "orgId": "ISA.3.16",
+    "bookId": "ISA",
+    "chapterId": "ISA.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 3:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"ISA 3:16\" class=\"v\">16</span>¶ Moreover the <span class=\"nd\">LORD</span> saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing <span class=\"add\">as</span> they go, and making a tinkling with their feet: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.3.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "ISA.3.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('475340ba-1958-4ce7-ad60-8fdf0646c34a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='475340ba-1958-4ce7-ad60-8fdf0646c34a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "475340ba-1958-4ce7-ad60-8fdf0646c34a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('475340ba-1958-4ce7-ad60-8fdf0646c34a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=475340ba-1958-4ce7-ad60-8fdf0646c34a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.21.4",
+    "orgId": "REV.21.4",
+    "bookId": "REV",
+    "chapterId": "REV.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 21:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"REV 21:4\" class=\"v\">4</span>And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.21.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "REV.21.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e2e9402a-9985-4d15-b37e-29f982cf025a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e2e9402a-9985-4d15-b37e-29f982cf025a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e2e9402a-9985-4d15-b37e-29f982cf025a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e2e9402a-9985-4d15-b37e-29f982cf025a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e2e9402a-9985-4d15-b37e-29f982cf025a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

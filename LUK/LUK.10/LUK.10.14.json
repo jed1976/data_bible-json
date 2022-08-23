@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.10.14",
+    "orgId": "LUK.10.14",
+    "bookId": "LUK",
+    "chapterId": "LUK.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 10:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"LUK 10:14\" class=\"v\">14</span><span class=\"wj\">But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.10.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "LUK.10.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b7aa845d-343e-4480-8845-8cb65b1765d1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b7aa845d-343e-4480-8845-8cb65b1765d1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b7aa845d-343e-4480-8845-8cb65b1765d1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b7aa845d-343e-4480-8845-8cb65b1765d1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b7aa845d-343e-4480-8845-8cb65b1765d1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

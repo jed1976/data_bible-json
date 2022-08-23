@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "MAL.4.1",
+      "orgId": "MAL.3.19",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:1"
+    },
+    {
+      "id": "MAL.4.2",
+      "orgId": "MAL.3.20",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:2"
+    },
+    {
+      "id": "MAL.4.3",
+      "orgId": "MAL.3.21",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:3"
+    },
+    {
+      "id": "MAL.4.4",
+      "orgId": "MAL.3.22",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:4"
+    },
+    {
+      "id": "MAL.4.5",
+      "orgId": "MAL.3.23",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:5"
+    },
+    {
+      "id": "MAL.4.6",
+      "orgId": "MAL.3.24",
+      "bookId": "MAL",
+      "chapterId": "MAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Malachi 4:6"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.13.22",
+    "orgId": "MRK.13.22",
+    "bookId": "MRK",
+    "chapterId": "MRK.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 13:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"MRK 13:22\" class=\"v\">22</span><span class=\"wj\">For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if <span class=\"add\">it were</span> possible, even the elect.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.13.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "MRK.13.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('08a5bafe-7478-4371-9dd8-e05251281c64');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='08a5bafe-7478-4371-9dd8-e05251281c64'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "08a5bafe-7478-4371-9dd8-e05251281c64",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('08a5bafe-7478-4371-9dd8-e05251281c64'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=08a5bafe-7478-4371-9dd8-e05251281c64\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

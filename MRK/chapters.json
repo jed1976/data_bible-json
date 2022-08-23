@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "MRK.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "intro",
+      "reference": "Mark"
+    },
+    {
+      "id": "MRK.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "1",
+      "reference": "Mark 1"
+    },
+    {
+      "id": "MRK.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "2",
+      "reference": "Mark 2"
+    },
+    {
+      "id": "MRK.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "3",
+      "reference": "Mark 3"
+    },
+    {
+      "id": "MRK.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "4",
+      "reference": "Mark 4"
+    },
+    {
+      "id": "MRK.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "5",
+      "reference": "Mark 5"
+    },
+    {
+      "id": "MRK.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "6",
+      "reference": "Mark 6"
+    },
+    {
+      "id": "MRK.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "7",
+      "reference": "Mark 7"
+    },
+    {
+      "id": "MRK.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "8",
+      "reference": "Mark 8"
+    },
+    {
+      "id": "MRK.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "9",
+      "reference": "Mark 9"
+    },
+    {
+      "id": "MRK.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "10",
+      "reference": "Mark 10"
+    },
+    {
+      "id": "MRK.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "11",
+      "reference": "Mark 11"
+    },
+    {
+      "id": "MRK.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "12",
+      "reference": "Mark 12"
+    },
+    {
+      "id": "MRK.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "13",
+      "reference": "Mark 13"
+    },
+    {
+      "id": "MRK.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "14",
+      "reference": "Mark 14"
+    },
+    {
+      "id": "MRK.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "15",
+      "reference": "Mark 15"
+    },
+    {
+      "id": "MRK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "MRK",
+      "number": "16",
+      "reference": "Mark 16"
+    }
+  ]
+}

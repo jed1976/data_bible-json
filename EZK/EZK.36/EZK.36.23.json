@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.36.23",
+    "orgId": "EZK.36.23",
+    "bookId": "EZK",
+    "chapterId": "EZK.36",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 36:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"EZK 36:23\" class=\"v\">23</span>And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I <span class=\"add\">am</span> the <span class=\"nd\">LORD</span>, saith the Lord <span class=\"nd\">GOD</span>, when I shall be sanctified in you before their eyes. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.36.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "EZK.36.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e86a2e54-294d-42d7-890c-35305f5be06a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e86a2e54-294d-42d7-890c-35305f5be06a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e86a2e54-294d-42d7-890c-35305f5be06a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e86a2e54-294d-42d7-890c-35305f5be06a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e86a2e54-294d-42d7-890c-35305f5be06a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

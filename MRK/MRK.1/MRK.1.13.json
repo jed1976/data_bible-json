@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.1.13",
+    "orgId": "MRK.1.13",
+    "bookId": "MRK",
+    "chapterId": "MRK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 1:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"MRK 1:13\" class=\"v\">13</span>And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.1.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "MRK.1.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ab6cfed0-a1c4-40ce-95a7-9f3a9c6be523');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ab6cfed0-a1c4-40ce-95a7-9f3a9c6be523'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ab6cfed0-a1c4-40ce-95a7-9f3a9c6be523",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ab6cfed0-a1c4-40ce-95a7-9f3a9c6be523'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ab6cfed0-a1c4-40ce-95a7-9f3a9c6be523\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.58.7",
+    "orgId": "ISA.58.7",
+    "bookId": "ISA",
+    "chapterId": "ISA.58",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 58:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"ISA 58:7\" class=\"v\">7</span><span class=\"add\">Is it</span> not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.58.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "ISA.58.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c1b71b50-7a68-417a-9610-00eb336ee60b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c1b71b50-7a68-417a-9610-00eb336ee60b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c1b71b50-7a68-417a-9610-00eb336ee60b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c1b71b50-7a68-417a-9610-00eb336ee60b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c1b71b50-7a68-417a-9610-00eb336ee60b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

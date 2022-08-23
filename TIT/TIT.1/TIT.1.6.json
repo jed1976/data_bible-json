@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "TIT.1.6",
+    "orgId": "TIT.1.6",
+    "bookId": "TIT",
+    "chapterId": "TIT.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Titus 1:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"TIT 1:6\" class=\"v\">6</span>If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "TIT.1.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "TIT.1.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0f472b0a-83a6-41ff-8fb2-7e6ad2f8acf8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0f472b0a-83a6-41ff-8fb2-7e6ad2f8acf8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0f472b0a-83a6-41ff-8fb2-7e6ad2f8acf8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0f472b0a-83a6-41ff-8fb2-7e6ad2f8acf8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0f472b0a-83a6-41ff-8fb2-7e6ad2f8acf8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

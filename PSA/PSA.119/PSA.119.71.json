@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.119.71",
+    "orgId": "PSA.119.71",
+    "bookId": "PSA",
+    "chapterId": "PSA.119",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 119:71",
+    "content": "<p class=\"q1\"><span data-number=\"71\" data-sid=\"PSA 119:71\" class=\"v\">71</span><span class=\"add\">It is</span> good for me that I have been afflicted; that I might learn thy statutes.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.119.72",
+      "number": "72"
+    },
+    "previous": {
+      "id": "PSA.119.70",
+      "number": "70"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('53c3a88c-f4fc-4c3c-aa23-fdfcbc089c2c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='53c3a88c-f4fc-4c3c-aa23-fdfcbc089c2c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "53c3a88c-f4fc-4c3c-aa23-fdfcbc089c2c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('53c3a88c-f4fc-4c3c-aa23-fdfcbc089c2c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=53c3a88c-f4fc-4c3c-aa23-fdfcbc089c2c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

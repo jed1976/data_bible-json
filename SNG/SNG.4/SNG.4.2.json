@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "SNG.4.2",
+    "orgId": "SNG.4.2",
+    "bookId": "SNG",
+    "chapterId": "SNG.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Song of Solomon 4:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"SNG 4:2\" class=\"v\">2</span>Thy teeth <span class=\"add\">are</span> like a flock <span class=\"add\">of sheep that are even</span> shorn, which came up from the washing; whereof every one bear twins, and none <span class=\"add\">is</span> barren among them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "SNG.4.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "SNG.4.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('273f4aa6-803d-4ccc-9090-82851bf7d9a8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='273f4aa6-803d-4ccc-9090-82851bf7d9a8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "273f4aa6-803d-4ccc-9090-82851bf7d9a8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('273f4aa6-803d-4ccc-9090-82851bf7d9a8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=273f4aa6-803d-4ccc-9090-82851bf7d9a8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

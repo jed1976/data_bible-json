@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.3.17",
+    "orgId": "MRK.3.17",
+    "bookId": "MRK",
+    "chapterId": "MRK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 3:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"MRK 3:17\" class=\"v\">17</span>And James the <span class=\"add\">son</span> of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.3.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "MRK.3.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('46dd4572-60ea-4601-9ad1-41cc25ce1c08');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='46dd4572-60ea-4601-9ad1-41cc25ce1c08'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "46dd4572-60ea-4601-9ad1-41cc25ce1c08",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('46dd4572-60ea-4601-9ad1-41cc25ce1c08'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=46dd4572-60ea-4601-9ad1-41cc25ce1c08\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

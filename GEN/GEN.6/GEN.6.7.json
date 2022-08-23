@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.6.7",
+    "orgId": "GEN.6.7",
+    "bookId": "GEN",
+    "chapterId": "GEN.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 6:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"GEN 6:7\" class=\"v\">7</span>And the <span class=\"nd\">LORD</span> said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.6.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "GEN.6.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('217d2480-5437-4902-8510-0a4f31bc01b7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='217d2480-5437-4902-8510-0a4f31bc01b7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "217d2480-5437-4902-8510-0a4f31bc01b7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('217d2480-5437-4902-8510-0a4f31bc01b7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=217d2480-5437-4902-8510-0a4f31bc01b7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

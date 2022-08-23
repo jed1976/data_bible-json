@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "NAM.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NAM",
+      "number": "intro",
+      "reference": "Nahum"
+    },
+    {
+      "id": "NAM.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NAM",
+      "number": "1",
+      "reference": "Nahum 1"
+    },
+    {
+      "id": "NAM.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NAM",
+      "number": "2",
+      "reference": "Nahum 2"
+    },
+    {
+      "id": "NAM.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "NAM",
+      "number": "3",
+      "reference": "Nahum 3"
+    }
+  ]
+}

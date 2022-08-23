@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.17.6",
+    "orgId": "NUM.17.21",
+    "bookId": "NUM",
+    "chapterId": "NUM.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 17:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"NUM 17:6\" class=\"v\">6</span>¶ And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, <span class=\"add\">even</span> twelve rods: and the rod of Aaron <span class=\"add\">was</span> among their rods. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.17.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "NUM.17.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8584b16e-6562-444b-9f3a-e488976dfe0e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8584b16e-6562-444b-9f3a-e488976dfe0e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8584b16e-6562-444b-9f3a-e488976dfe0e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8584b16e-6562-444b-9f3a-e488976dfe0e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8584b16e-6562-444b-9f3a-e488976dfe0e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

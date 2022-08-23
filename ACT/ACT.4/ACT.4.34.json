@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.4.34",
+    "orgId": "ACT.4.34",
+    "bookId": "ACT",
+    "chapterId": "ACT.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 4:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"ACT 4:34\" class=\"v\">34</span>Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.4.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "ACT.4.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ed58a5a1-9c6e-4f34-9d23-b4c8fdcdd2d9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ed58a5a1-9c6e-4f34-9d23-b4c8fdcdd2d9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ed58a5a1-9c6e-4f34-9d23-b4c8fdcdd2d9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ed58a5a1-9c6e-4f34-9d23-b4c8fdcdd2d9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ed58a5a1-9c6e-4f34-9d23-b4c8fdcdd2d9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

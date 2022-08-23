@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.16.36",
+    "orgId": "EXO.16.36",
+    "bookId": "EXO",
+    "chapterId": "EXO.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 16:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"EXO 16:36\" class=\"v\">36</span>Now an omer <span class=\"add\">is</span> the tenth <span class=\"add\">part</span> of an ephah.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.17.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EXO.16.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('23969e5e-5bd4-464c-9cf7-e5fc1ba1bb5f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='23969e5e-5bd4-464c-9cf7-e5fc1ba1bb5f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "23969e5e-5bd4-464c-9cf7-e5fc1ba1bb5f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('23969e5e-5bd4-464c-9cf7-e5fc1ba1bb5f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=23969e5e-5bd4-464c-9cf7-e5fc1ba1bb5f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

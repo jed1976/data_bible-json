@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.5.21",
+    "orgId": "NUM.5.21",
+    "bookId": "NUM",
+    "chapterId": "NUM.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 5:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"NUM 5:21\" class=\"v\">21</span>Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The <span class=\"nd\">LORD</span> make thee a curse and an oath among thy people, when the <span class=\"nd\">LORD</span> doth make thy thigh to rot, and thy belly to swell; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.5.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "NUM.5.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1a523693-75b4-48c7-820d-6cf46b11ba6a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1a523693-75b4-48c7-820d-6cf46b11ba6a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1a523693-75b4-48c7-820d-6cf46b11ba6a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1a523693-75b4-48c7-820d-6cf46b11ba6a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1a523693-75b4-48c7-820d-6cf46b11ba6a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

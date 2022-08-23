@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.7.13",
+    "orgId": "MRK.7.13",
+    "bookId": "MRK",
+    "chapterId": "MRK.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 7:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"MRK 7:13\" class=\"v\">13</span><span class=\"wj\">Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.</span></p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.7.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "MRK.7.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('36445991-7302-49c3-81a8-cd0db1ba6e47');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='36445991-7302-49c3-81a8-cd0db1ba6e47'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "36445991-7302-49c3-81a8-cd0db1ba6e47",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('36445991-7302-49c3-81a8-cd0db1ba6e47'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=36445991-7302-49c3-81a8-cd0db1ba6e47\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

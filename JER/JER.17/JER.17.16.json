@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.17.16",
+    "orgId": "JER.17.16",
+    "bookId": "JER",
+    "chapterId": "JER.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 17:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"JER 17:16\" class=\"v\">16</span>As for me, I have not hastened from <span class=\"add\">being</span> a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was <span class=\"add\">right</span> before thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.17.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "JER.17.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('47386482-5fbb-480d-b4b7-4c979a8917d6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='47386482-5fbb-480d-b4b7-4c979a8917d6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "47386482-5fbb-480d-b4b7-4c979a8917d6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('47386482-5fbb-480d-b4b7-4c979a8917d6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=47386482-5fbb-480d-b4b7-4c979a8917d6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

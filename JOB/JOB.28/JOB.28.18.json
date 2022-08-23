@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.28.18",
+    "orgId": "JOB.28.18",
+    "bookId": "JOB",
+    "chapterId": "JOB.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 28:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"JOB 28:18\" class=\"v\">18</span>No mention shall be made of coral, or of pearls: for the price of wisdom <span class=\"add\">is</span> above rubies. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.28.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "JOB.28.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('882439f8-9683-4a2f-a51c-c9b91b2a8028');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='882439f8-9683-4a2f-a51c-c9b91b2a8028'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "882439f8-9683-4a2f-a51c-c9b91b2a8028",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('882439f8-9683-4a2f-a51c-c9b91b2a8028'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=882439f8-9683-4a2f-a51c-c9b91b2a8028\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

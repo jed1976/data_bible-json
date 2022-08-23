@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.19.27",
+    "orgId": "JDG.19.27",
+    "bookId": "JDG",
+    "chapterId": "JDG.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 19:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"JDG 19:27\" class=\"v\">27</span>And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down <span class=\"add\">at</span> the door of the house, and her hands <span class=\"add\">were</span> upon the threshold. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.19.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "JDG.19.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fe64b767-436b-43a0-8b46-5a5e8c51e583');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fe64b767-436b-43a0-8b46-5a5e8c51e583'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fe64b767-436b-43a0-8b46-5a5e8c51e583",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fe64b767-436b-43a0-8b46-5a5e8c51e583'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fe64b767-436b-43a0-8b46-5a5e8c51e583\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

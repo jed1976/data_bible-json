@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.47.1",
+    "orgId": "PSA.47.2",
+    "bookId": "PSA",
+    "chapterId": "PSA.47",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 47:1",
+    "content": "<p class=\"d\">To the chief Musician, A Psalm for the sons of Korah.</p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 47:1\" class=\"v\">1</span>O clap your hands, all ye people; shout unto God with the voice of triumph.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.47.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "PSA.46.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4c272ec6-383c-4ebe-ba41-f1816058ce3e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4c272ec6-383c-4ebe-ba41-f1816058ce3e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4c272ec6-383c-4ebe-ba41-f1816058ce3e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4c272ec6-383c-4ebe-ba41-f1816058ce3e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4c272ec6-383c-4ebe-ba41-f1816058ce3e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

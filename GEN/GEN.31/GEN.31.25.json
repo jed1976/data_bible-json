@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.31.25",
+    "orgId": "GEN.31.25",
+    "bookId": "GEN",
+    "chapterId": "GEN.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 31:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"GEN 31:25\" class=\"v\">25</span>¶ Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.31.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "GEN.31.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('54b47324-7676-4251-be9c-6b1760c4ceb0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='54b47324-7676-4251-be9c-6b1760c4ceb0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "54b47324-7676-4251-be9c-6b1760c4ceb0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('54b47324-7676-4251-be9c-6b1760c4ceb0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=54b47324-7676-4251-be9c-6b1760c4ceb0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

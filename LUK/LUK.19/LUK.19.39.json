@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.19.39",
+    "orgId": "LUK.19.39",
+    "bookId": "LUK",
+    "chapterId": "LUK.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 19:39",
+    "content": "<p class=\"p\"><span data-number=\"39\" data-sid=\"LUK 19:39\" class=\"v\">39</span>And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.19.40",
+      "number": "40"
+    },
+    "previous": {
+      "id": "LUK.19.38",
+      "number": "38"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cbe815e0-64c6-48df-8a6f-1ff8d74d4a42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cbe815e0-64c6-48df-8a6f-1ff8d74d4a42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cbe815e0-64c6-48df-8a6f-1ff8d74d4a42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cbe815e0-64c6-48df-8a6f-1ff8d74d4a42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cbe815e0-64c6-48df-8a6f-1ff8d74d4a42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

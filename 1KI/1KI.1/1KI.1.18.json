@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.1.18",
+    "orgId": "1KI.1.18",
+    "bookId": "1KI",
+    "chapterId": "1KI.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 1:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"1KI 1:18\" class=\"v\">18</span>And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest <span class=\"add\">it</span> not: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.1.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "1KI.1.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('96f0ad79-8b1f-4805-a05c-196e43b2ea21');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='96f0ad79-8b1f-4805-a05c-196e43b2ea21'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "96f0ad79-8b1f-4805-a05c-196e43b2ea21",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('96f0ad79-8b1f-4805-a05c-196e43b2ea21'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=96f0ad79-8b1f-4805-a05c-196e43b2ea21\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

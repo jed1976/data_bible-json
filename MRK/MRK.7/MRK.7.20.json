@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.7.20",
+    "orgId": "MRK.7.20",
+    "bookId": "MRK",
+    "chapterId": "MRK.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 7:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"MRK 7:20\" class=\"v\">20</span>And he said, <span class=\"wj\">That which cometh out of the man, that defileth the man.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.7.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "MRK.7.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff6a190c-c71d-4f9a-a79d-d22984a4a51f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff6a190c-c71d-4f9a-a79d-d22984a4a51f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff6a190c-c71d-4f9a-a79d-d22984a4a51f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff6a190c-c71d-4f9a-a79d-d22984a4a51f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff6a190c-c71d-4f9a-a79d-d22984a4a51f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

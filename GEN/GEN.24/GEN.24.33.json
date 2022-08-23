@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.24.33",
+    "orgId": "GEN.24.33",
+    "bookId": "GEN",
+    "chapterId": "GEN.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 24:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"GEN 24:33\" class=\"v\">33</span>And there was set <span class=\"add\">meat</span> before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.24.34",
+      "number": "34"
+    },
+    "previous": {
+      "id": "GEN.24.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2a9ccee1-ad80-41a0-b7bc-f8d9ff8036b6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2a9ccee1-ad80-41a0-b7bc-f8d9ff8036b6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2a9ccee1-ad80-41a0-b7bc-f8d9ff8036b6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2a9ccee1-ad80-41a0-b7bc-f8d9ff8036b6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2a9ccee1-ad80-41a0-b7bc-f8d9ff8036b6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

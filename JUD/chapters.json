@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "JUD.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JUD",
+      "number": "intro",
+      "reference": "Jude"
+    },
+    {
+      "id": "JUD.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JUD",
+      "number": "1",
+      "reference": "Jude 1"
+    }
+  ]
+}

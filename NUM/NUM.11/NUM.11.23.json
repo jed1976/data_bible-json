@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.11.23",
+    "orgId": "NUM.11.23",
+    "bookId": "NUM",
+    "chapterId": "NUM.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 11:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"NUM 11:23\" class=\"v\">23</span>And the <span class=\"nd\">LORD</span> said unto Moses, Is the <span class=\"nd\">LORD’s</span> hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.11.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "NUM.11.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cdf64383-643c-412a-9b6a-683b70c8c54c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cdf64383-643c-412a-9b6a-683b70c8c54c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cdf64383-643c-412a-9b6a-683b70c8c54c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cdf64383-643c-412a-9b6a-683b70c8c54c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cdf64383-643c-412a-9b6a-683b70c8c54c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "RUT.2.11",
+    "orgId": "RUT.2.11",
+    "bookId": "RUT",
+    "chapterId": "RUT.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ruth 2:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"RUT 2:11\" class=\"v\">11</span>And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and <span class=\"add\">how</span> thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "RUT.2.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "RUT.2.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('620ec2a2-df9b-4159-9d51-141706249982');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='620ec2a2-df9b-4159-9d51-141706249982'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "620ec2a2-df9b-4159-9d51-141706249982",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('620ec2a2-df9b-4159-9d51-141706249982'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=620ec2a2-df9b-4159-9d51-141706249982\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

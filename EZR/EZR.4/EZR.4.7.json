@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZR.4.7",
+    "orgId": "EZR.4.7",
+    "bookId": "EZR",
+    "chapterId": "EZR.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezra 4:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EZR 4:7\" class=\"v\">7</span>¶ And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter <span class=\"add\">was</span> written in the Syrian tongue, and interpreted in the Syrian tongue. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZR.4.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EZR.4.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aacb3bc4-ea41-44b0-89e3-576f0aa226d9');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aacb3bc4-ea41-44b0-89e3-576f0aa226d9'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aacb3bc4-ea41-44b0-89e3-576f0aa226d9",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aacb3bc4-ea41-44b0-89e3-576f0aa226d9'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aacb3bc4-ea41-44b0-89e3-576f0aa226d9\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

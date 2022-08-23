@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.111.1",
+    "orgId": "PSA.111.1",
+    "bookId": "PSA",
+    "chapterId": "PSA.111",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 111:1",
+    "content": "<p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 111:1\" class=\"v\">1</span>Praise ye the <span class=\"nd\">LORD</span>. I will praise the <span class=\"nd\">LORD</span> with <span class=\"add\">my</span> whole heart, in the assembly of the upright, and <span class=\"add\">in</span> the congregation.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.111.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "PSA.110.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b7cea2c5-c144-42bd-b56e-73e725057425');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b7cea2c5-c144-42bd-b56e-73e725057425'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b7cea2c5-c144-42bd-b56e-73e725057425",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b7cea2c5-c144-42bd-b56e-73e725057425'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b7cea2c5-c144-42bd-b56e-73e725057425\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.21.13",
+    "orgId": "DEU.21.13",
+    "bookId": "DEU",
+    "chapterId": "DEU.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 21:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"DEU 21:13\" class=\"v\">13</span>And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.21.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "DEU.21.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1cddee50-b04c-409e-9ffc-9bd1e27e9564');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1cddee50-b04c-409e-9ffc-9bd1e27e9564'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1cddee50-b04c-409e-9ffc-9bd1e27e9564",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1cddee50-b04c-409e-9ffc-9bd1e27e9564'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1cddee50-b04c-409e-9ffc-9bd1e27e9564\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

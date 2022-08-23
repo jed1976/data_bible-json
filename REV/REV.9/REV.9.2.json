@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.9.2",
+    "orgId": "REV.9.2",
+    "bookId": "REV",
+    "chapterId": "REV.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 9:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"REV 9:2\" class=\"v\">2</span>And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.9.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "REV.9.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4bc865dd-839a-45ac-a9dd-970e24e65917');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4bc865dd-839a-45ac-a9dd-970e24e65917'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4bc865dd-839a-45ac-a9dd-970e24e65917",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4bc865dd-839a-45ac-a9dd-970e24e65917'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4bc865dd-839a-45ac-a9dd-970e24e65917\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

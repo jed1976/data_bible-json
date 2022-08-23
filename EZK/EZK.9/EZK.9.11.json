@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.9.11",
+    "orgId": "EZK.9.11",
+    "bookId": "EZK",
+    "chapterId": "EZK.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 9:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EZK 9:11\" class=\"v\">11</span>And, behold, the man clothed with linen, which <span class=\"add\">had</span> the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.10.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "EZK.9.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('195dc5af-d344-46d5-a9bc-36644286b4c3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='195dc5af-d344-46d5-a9bc-36644286b4c3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "195dc5af-d344-46d5-a9bc-36644286b4c3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('195dc5af-d344-46d5-a9bc-36644286b4c3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=195dc5af-d344-46d5-a9bc-36644286b4c3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

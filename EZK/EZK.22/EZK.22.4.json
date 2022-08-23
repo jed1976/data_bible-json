@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.22.4",
+    "orgId": "EZK.22.4",
+    "bookId": "EZK",
+    "chapterId": "EZK.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 22:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"EZK 22:4\" class=\"v\">4</span>Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come <span class=\"add\">even</span> unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.22.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "EZK.22.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ae99e612-92b1-4bf4-98a3-156d40109bcf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ae99e612-92b1-4bf4-98a3-156d40109bcf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ae99e612-92b1-4bf4-98a3-156d40109bcf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ae99e612-92b1-4bf4-98a3-156d40109bcf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ae99e612-92b1-4bf4-98a3-156d40109bcf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MIC.2.13",
+    "orgId": "MIC.2.13",
+    "bookId": "MIC",
+    "chapterId": "MIC.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Micah 2:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"MIC 2:13\" class=\"v\">13</span>The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the <span class=\"nd\">LORD</span> on the head of them.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MIC.3.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "MIC.2.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7bfca65f-e63d-4115-882d-c43ba2fe2121');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7bfca65f-e63d-4115-882d-c43ba2fe2121'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7bfca65f-e63d-4115-882d-c43ba2fe2121",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7bfca65f-e63d-4115-882d-c43ba2fe2121'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7bfca65f-e63d-4115-882d-c43ba2fe2121\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

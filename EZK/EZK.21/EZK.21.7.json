@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.21.7",
+    "orgId": "EZK.21.12",
+    "bookId": "EZK",
+    "chapterId": "EZK.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 21:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 21:7\" class=\"v\">7</span>And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak <span class=\"add\">as</span> water: behold, it cometh, and shall be brought to pass, saith the Lord <span class=\"nd\">GOD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.21.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EZK.21.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a3529729-995c-4043-a417-880ee7f3f6ad');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a3529729-995c-4043-a417-880ee7f3f6ad'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a3529729-995c-4043-a417-880ee7f3f6ad",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a3529729-995c-4043-a417-880ee7f3f6ad'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a3529729-995c-4043-a417-880ee7f3f6ad\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

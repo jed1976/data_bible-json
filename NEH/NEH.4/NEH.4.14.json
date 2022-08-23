@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.4.14",
+    "orgId": "NEH.4.8",
+    "bookId": "NEH",
+    "chapterId": "NEH.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 4:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"NEH 4:14\" class=\"v\">14</span>And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, <span class=\"add\">which is</span> great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.4.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "NEH.4.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b6d7a40e-3c13-4a7c-8ce6-b218f0b07da8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b6d7a40e-3c13-4a7c-8ce6-b218f0b07da8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b6d7a40e-3c13-4a7c-8ce6-b218f0b07da8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b6d7a40e-3c13-4a7c-8ce6-b218f0b07da8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b6d7a40e-3c13-4a7c-8ce6-b218f0b07da8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

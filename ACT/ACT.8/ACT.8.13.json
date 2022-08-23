@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.8.13",
+    "orgId": "ACT.8.13",
+    "bookId": "ACT",
+    "chapterId": "ACT.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 8:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ACT 8:13\" class=\"v\">13</span>Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.8.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ACT.8.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9964eed9-e03b-4d0d-9e31-cc1ea67cf006');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9964eed9-e03b-4d0d-9e31-cc1ea67cf006'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9964eed9-e03b-4d0d-9e31-cc1ea67cf006",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9964eed9-e03b-4d0d-9e31-cc1ea67cf006'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9964eed9-e03b-4d0d-9e31-cc1ea67cf006\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

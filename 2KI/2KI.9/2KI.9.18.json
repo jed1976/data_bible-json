@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.9.18",
+    "orgId": "2KI.9.18",
+    "bookId": "2KI",
+    "chapterId": "2KI.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 9:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"2KI 9:18\" class=\"v\">18</span>So there went one on horseback to meet him, and said, Thus saith the king, <span class=\"add\">Is it</span> peace? And Jehu said, What hast thou to do with peace? turn thee behind me. And the watchman told, saying, The messenger came to them, but he cometh not again. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.9.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "2KI.9.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff2f3897-0759-46d7-933b-14debf67069c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff2f3897-0759-46d7-933b-14debf67069c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff2f3897-0759-46d7-933b-14debf67069c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff2f3897-0759-46d7-933b-14debf67069c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff2f3897-0759-46d7-933b-14debf67069c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

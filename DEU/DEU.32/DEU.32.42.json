@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.32.42",
+    "orgId": "DEU.32.42",
+    "bookId": "DEU",
+    "chapterId": "DEU.32",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 32:42",
+    "content": "<p class=\"p\"><span data-number=\"42\" data-sid=\"DEU 32:42\" class=\"v\">42</span>I will make mine arrows drunk with blood, and my sword shall devour flesh; <span class=\"add\">and that</span> with the blood of the slain and of the captives, from the beginning of revenges upon the enemy. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.32.43",
+      "number": "43"
+    },
+    "previous": {
+      "id": "DEU.32.41",
+      "number": "41"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a93a7fb0-1d9e-4509-afde-7c700829dbbc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a93a7fb0-1d9e-4509-afde-7c700829dbbc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a93a7fb0-1d9e-4509-afde-7c700829dbbc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a93a7fb0-1d9e-4509-afde-7c700829dbbc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a93a7fb0-1d9e-4509-afde-7c700829dbbc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

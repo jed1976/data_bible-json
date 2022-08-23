@@ -1,0 +1,305 @@
+{
+  "data": [
+    {
+      "id": "JOB.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "intro",
+      "reference": "Job"
+    },
+    {
+      "id": "JOB.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "1",
+      "reference": "Job 1"
+    },
+    {
+      "id": "JOB.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "2",
+      "reference": "Job 2"
+    },
+    {
+      "id": "JOB.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "3",
+      "reference": "Job 3"
+    },
+    {
+      "id": "JOB.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "4",
+      "reference": "Job 4"
+    },
+    {
+      "id": "JOB.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "5",
+      "reference": "Job 5"
+    },
+    {
+      "id": "JOB.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "6",
+      "reference": "Job 6"
+    },
+    {
+      "id": "JOB.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "7",
+      "reference": "Job 7"
+    },
+    {
+      "id": "JOB.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "8",
+      "reference": "Job 8"
+    },
+    {
+      "id": "JOB.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "9",
+      "reference": "Job 9"
+    },
+    {
+      "id": "JOB.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "10",
+      "reference": "Job 10"
+    },
+    {
+      "id": "JOB.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "11",
+      "reference": "Job 11"
+    },
+    {
+      "id": "JOB.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "12",
+      "reference": "Job 12"
+    },
+    {
+      "id": "JOB.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "13",
+      "reference": "Job 13"
+    },
+    {
+      "id": "JOB.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "14",
+      "reference": "Job 14"
+    },
+    {
+      "id": "JOB.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "15",
+      "reference": "Job 15"
+    },
+    {
+      "id": "JOB.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "16",
+      "reference": "Job 16"
+    },
+    {
+      "id": "JOB.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "17",
+      "reference": "Job 17"
+    },
+    {
+      "id": "JOB.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "18",
+      "reference": "Job 18"
+    },
+    {
+      "id": "JOB.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "19",
+      "reference": "Job 19"
+    },
+    {
+      "id": "JOB.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "20",
+      "reference": "Job 20"
+    },
+    {
+      "id": "JOB.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "21",
+      "reference": "Job 21"
+    },
+    {
+      "id": "JOB.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "22",
+      "reference": "Job 22"
+    },
+    {
+      "id": "JOB.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "23",
+      "reference": "Job 23"
+    },
+    {
+      "id": "JOB.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "24",
+      "reference": "Job 24"
+    },
+    {
+      "id": "JOB.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "25",
+      "reference": "Job 25"
+    },
+    {
+      "id": "JOB.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "26",
+      "reference": "Job 26"
+    },
+    {
+      "id": "JOB.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "27",
+      "reference": "Job 27"
+    },
+    {
+      "id": "JOB.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "28",
+      "reference": "Job 28"
+    },
+    {
+      "id": "JOB.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "29",
+      "reference": "Job 29"
+    },
+    {
+      "id": "JOB.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "30",
+      "reference": "Job 30"
+    },
+    {
+      "id": "JOB.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "31",
+      "reference": "Job 31"
+    },
+    {
+      "id": "JOB.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "32",
+      "reference": "Job 32"
+    },
+    {
+      "id": "JOB.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "33",
+      "reference": "Job 33"
+    },
+    {
+      "id": "JOB.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "34",
+      "reference": "Job 34"
+    },
+    {
+      "id": "JOB.35",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "35",
+      "reference": "Job 35"
+    },
+    {
+      "id": "JOB.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "36",
+      "reference": "Job 36"
+    },
+    {
+      "id": "JOB.37",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "37",
+      "reference": "Job 37"
+    },
+    {
+      "id": "JOB.38",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "38",
+      "reference": "Job 38"
+    },
+    {
+      "id": "JOB.39",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "39",
+      "reference": "Job 39"
+    },
+    {
+      "id": "JOB.40",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "40",
+      "reference": "Job 40"
+    },
+    {
+      "id": "JOB.41",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "41",
+      "reference": "Job 41"
+    },
+    {
+      "id": "JOB.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JOB",
+      "number": "42",
+      "reference": "Job 42"
+    }
+  ]
+}

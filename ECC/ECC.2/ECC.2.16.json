@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.2.16",
+    "orgId": "ECC.2.16",
+    "bookId": "ECC",
+    "chapterId": "ECC.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes 2:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"ECC 2:16\" class=\"v\">16</span>For <span class=\"add\">there is</span> no remembrance of the wise more than of the fool for ever; seeing that which now <span class=\"add\">is</span> in the days to come shall all be forgotten. And how dieth the wise <span class=\"add\">man</span>? as the fool.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.2.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "ECC.2.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cc99a646-caa2-42b9-8851-a81773af796e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cc99a646-caa2-42b9-8851-a81773af796e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cc99a646-caa2-42b9-8851-a81773af796e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cc99a646-caa2-42b9-8851-a81773af796e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cc99a646-caa2-42b9-8851-a81773af796e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

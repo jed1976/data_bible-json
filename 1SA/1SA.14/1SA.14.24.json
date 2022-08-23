@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.14.24",
+    "orgId": "1SA.14.24",
+    "bookId": "1SA",
+    "chapterId": "1SA.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 14:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"1SA 14:24\" class=\"v\">24</span>¶ And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed <span class=\"add\">be</span> the man that eateth <span class=\"add\">any</span> food until evening, that I may be avenged on mine enemies. So none of the people tasted <span class=\"add\">any</span> food. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.14.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "1SA.14.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d2f7ba58-7c94-4fe1-8433-0bf6f4daf38c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d2f7ba58-7c94-4fe1-8433-0bf6f4daf38c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d2f7ba58-7c94-4fe1-8433-0bf6f4daf38c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d2f7ba58-7c94-4fe1-8433-0bf6f4daf38c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d2f7ba58-7c94-4fe1-8433-0bf6f4daf38c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

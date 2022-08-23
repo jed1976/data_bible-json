@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "LAM.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "intro",
+      "reference": "Lamentations"
+    },
+    {
+      "id": "LAM.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "1",
+      "reference": "Lamentations 1"
+    },
+    {
+      "id": "LAM.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "2",
+      "reference": "Lamentations 2"
+    },
+    {
+      "id": "LAM.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "3",
+      "reference": "Lamentations 3"
+    },
+    {
+      "id": "LAM.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "4",
+      "reference": "Lamentations 4"
+    },
+    {
+      "id": "LAM.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "LAM",
+      "number": "5",
+      "reference": "Lamentations 5"
+    }
+  ]
+}

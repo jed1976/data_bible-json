@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.50.16",
+    "orgId": "JER.50.16",
+    "bookId": "JER",
+    "chapterId": "JER.50",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 50:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"JER 50:16\" class=\"v\">16</span>Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.50.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "JER.50.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('87f19e8a-199e-4e3a-abd6-cafd8e973261');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='87f19e8a-199e-4e3a-abd6-cafd8e973261'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "87f19e8a-199e-4e3a-abd6-cafd8e973261",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('87f19e8a-199e-4e3a-abd6-cafd8e973261'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=87f19e8a-199e-4e3a-abd6-cafd8e973261\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

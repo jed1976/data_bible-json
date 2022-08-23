@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "HAB.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAB",
+      "number": "intro",
+      "reference": "Habakkuk"
+    },
+    {
+      "id": "HAB.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAB",
+      "number": "1",
+      "reference": "Habakkuk 1"
+    },
+    {
+      "id": "HAB.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAB",
+      "number": "2",
+      "reference": "Habakkuk 2"
+    },
+    {
+      "id": "HAB.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAB",
+      "number": "3",
+      "reference": "Habakkuk 3"
+    }
+  ]
+}

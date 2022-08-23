@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.2.19",
+    "orgId": "JOS.2.19",
+    "bookId": "JOS",
+    "chapterId": "JOS.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 2:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"JOS 2:19\" class=\"v\">19</span>And it shall be, <span class=\"add\">that</span> whosoever shall go out of the doors of thy house into the street, his blood <span class=\"add\">shall be</span> upon his head, and we <span class=\"add\">will be</span> guiltless: and whosoever shall be with thee in the house, his blood <span class=\"add\">shall be</span> on our head, if <span class=\"add\">any</span> hand be upon him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.2.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "JOS.2.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b82e05c6-506f-438f-872a-2666003c6e16');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b82e05c6-506f-438f-872a-2666003c6e16'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b82e05c6-506f-438f-872a-2666003c6e16",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b82e05c6-506f-438f-872a-2666003c6e16'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b82e05c6-506f-438f-872a-2666003c6e16\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

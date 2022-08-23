@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "PSA.67.1",
+      "orgId": "PSA.67.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:1"
+    },
+    {
+      "id": "PSA.67.2",
+      "orgId": "PSA.67.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:2"
+    },
+    {
+      "id": "PSA.67.3",
+      "orgId": "PSA.67.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:3"
+    },
+    {
+      "id": "PSA.67.4",
+      "orgId": "PSA.67.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:4"
+    },
+    {
+      "id": "PSA.67.5",
+      "orgId": "PSA.67.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:5"
+    },
+    {
+      "id": "PSA.67.6",
+      "orgId": "PSA.67.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:6"
+    },
+    {
+      "id": "PSA.67.7",
+      "orgId": "PSA.67.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.67",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 67:7"
+    }
+  ]
+}

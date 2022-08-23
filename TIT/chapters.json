@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "TIT.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "TIT",
+      "number": "intro",
+      "reference": "Titus"
+    },
+    {
+      "id": "TIT.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "TIT",
+      "number": "1",
+      "reference": "Titus 1"
+    },
+    {
+      "id": "TIT.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "TIT",
+      "number": "2",
+      "reference": "Titus 2"
+    },
+    {
+      "id": "TIT.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "TIT",
+      "number": "3",
+      "reference": "Titus 3"
+    }
+  ]
+}

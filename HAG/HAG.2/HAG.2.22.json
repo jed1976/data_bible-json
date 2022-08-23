@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HAG.2.22",
+    "orgId": "HAG.2.22",
+    "bookId": "HAG",
+    "chapterId": "HAG.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Haggai 2:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"HAG 2:22\" class=\"v\">22</span>And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HAG.2.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "HAG.2.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1f48709-68ab-4240-be9e-416969500d64');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1f48709-68ab-4240-be9e-416969500d64'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1f48709-68ab-4240-be9e-416969500d64",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1f48709-68ab-4240-be9e-416969500d64'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1f48709-68ab-4240-be9e-416969500d64\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

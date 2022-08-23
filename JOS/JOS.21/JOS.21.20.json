@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.21.20",
+    "orgId": "JOS.21.20",
+    "bookId": "JOS",
+    "chapterId": "JOS.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 21:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JOS 21:20\" class=\"v\">20</span>¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.21.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JOS.21.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9e3ba44b-942c-4248-bdb0-6bbf87bde577');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9e3ba44b-942c-4248-bdb0-6bbf87bde577'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9e3ba44b-942c-4248-bdb0-6bbf87bde577",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9e3ba44b-942c-4248-bdb0-6bbf87bde577'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9e3ba44b-942c-4248-bdb0-6bbf87bde577\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

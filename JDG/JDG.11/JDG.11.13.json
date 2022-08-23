@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.11.13",
+    "orgId": "JDG.11.13",
+    "bookId": "JDG",
+    "chapterId": "JDG.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 11:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"JDG 11:13\" class=\"v\">13</span>And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those <span class=\"add\">lands</span> again peaceably. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.11.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "JDG.11.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c2aa3f0f-5b6e-4de8-8cde-494ae3e61fad');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c2aa3f0f-5b6e-4de8-8cde-494ae3e61fad'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c2aa3f0f-5b6e-4de8-8cde-494ae3e61fad",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c2aa3f0f-5b6e-4de8-8cde-494ae3e61fad'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c2aa3f0f-5b6e-4de8-8cde-494ae3e61fad\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.17.50",
+    "orgId": "1SA.17.50",
+    "bookId": "1SA",
+    "chapterId": "1SA.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 17:50",
+    "content": "<p class=\"p\"><span data-number=\"50\" data-sid=\"1SA 17:50\" class=\"v\">50</span>So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but <span class=\"add\">there was</span> no sword in the hand of David. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.17.51",
+      "number": "51"
+    },
+    "previous": {
+      "id": "1SA.17.49",
+      "number": "49"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3aca4443-c727-4979-b15e-95c472a25f47');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3aca4443-c727-4979-b15e-95c472a25f47'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3aca4443-c727-4979-b15e-95c472a25f47",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3aca4443-c727-4979-b15e-95c472a25f47'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3aca4443-c727-4979-b15e-95c472a25f47\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

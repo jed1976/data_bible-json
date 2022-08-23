@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.14.6",
+    "orgId": "1KI.14.6",
+    "bookId": "1KI",
+    "chapterId": "1KI.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 14:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"1KI 14:6\" class=\"v\">6</span>And it was <span class=\"add\">so</span>, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself <span class=\"add\">to be</span> another? for I <span class=\"add\">am</span> sent to thee <span class=\"add\">with</span> heavy <span class=\"add\">tidings</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.14.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "1KI.14.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ce0782c4-552d-4953-aa31-74d2b9be0c0d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ce0782c4-552d-4953-aa31-74d2b9be0c0d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ce0782c4-552d-4953-aa31-74d2b9be0c0d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ce0782c4-552d-4953-aa31-74d2b9be0c0d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ce0782c4-552d-4953-aa31-74d2b9be0c0d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

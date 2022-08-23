@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.2.32",
+    "orgId": "DAN.2.32",
+    "bookId": "DAN",
+    "chapterId": "DAN.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 2:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"DAN 2:32\" class=\"v\">32</span>This image’s head <span class=\"add\">was</span> of fine gold, his breast and his arms of silver, his belly and his thighs of brass, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.2.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "DAN.2.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4a2f0447-6f2e-44a2-b0d0-10ec4d53d59a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4a2f0447-6f2e-44a2-b0d0-10ec4d53d59a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4a2f0447-6f2e-44a2-b0d0-10ec4d53d59a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4a2f0447-6f2e-44a2-b0d0-10ec4d53d59a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4a2f0447-6f2e-44a2-b0d0-10ec4d53d59a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

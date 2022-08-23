@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.48.22",
+    "orgId": "GEN.48.22",
+    "bookId": "GEN",
+    "chapterId": "GEN.48",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 48:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"GEN 48:22\" class=\"v\">22</span>Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.49.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "GEN.48.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ce507dce-a2ef-4864-9181-0412532c35ee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ce507dce-a2ef-4864-9181-0412532c35ee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ce507dce-a2ef-4864-9181-0412532c35ee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ce507dce-a2ef-4864-9181-0412532c35ee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ce507dce-a2ef-4864-9181-0412532c35ee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

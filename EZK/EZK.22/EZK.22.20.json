@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.22.20",
+    "orgId": "EZK.22.20",
+    "bookId": "EZK",
+    "chapterId": "EZK.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 22:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"EZK 22:20\" class=\"v\">20</span><span class=\"add\">As</span> they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt <span class=\"add\">it;</span> so will I gather <span class=\"add\">you</span> in mine anger and in my fury, and I will leave <span class=\"add\">you there</span>, and melt you. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.22.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "EZK.22.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e3cec089-612b-4126-9b1b-684b888a58fd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e3cec089-612b-4126-9b1b-684b888a58fd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e3cec089-612b-4126-9b1b-684b888a58fd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e3cec089-612b-4126-9b1b-684b888a58fd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e3cec089-612b-4126-9b1b-684b888a58fd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

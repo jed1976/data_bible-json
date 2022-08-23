@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.12.3",
+    "orgId": "EZK.12.3",
+    "bookId": "EZK",
+    "chapterId": "EZK.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 12:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"EZK 12:3\" class=\"v\">3</span>Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they <span class=\"add\">be</span> a rebellious house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.12.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "EZK.12.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e148e419-afbe-45ea-9ec8-da6e1aca1d69');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e148e419-afbe-45ea-9ec8-da6e1aca1d69'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e148e419-afbe-45ea-9ec8-da6e1aca1d69",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e148e419-afbe-45ea-9ec8-da6e1aca1d69'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e148e419-afbe-45ea-9ec8-da6e1aca1d69\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

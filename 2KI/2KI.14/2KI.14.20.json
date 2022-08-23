@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.14.20",
+    "orgId": "2KI.14.20",
+    "bookId": "2KI",
+    "chapterId": "2KI.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 14:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"2KI 14:20\" class=\"v\">20</span>And they brought him on horses: and he was buried at Jerusalem with his fathers in the city of David.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.14.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "2KI.14.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c9117a1d-67b1-4678-bad5-1fcd97554d79');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c9117a1d-67b1-4678-bad5-1fcd97554d79'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c9117a1d-67b1-4678-bad5-1fcd97554d79",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c9117a1d-67b1-4678-bad5-1fcd97554d79'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c9117a1d-67b1-4678-bad5-1fcd97554d79\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

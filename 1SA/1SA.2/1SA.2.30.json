@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.2.30",
+    "orgId": "1SA.2.30",
+    "bookId": "1SA",
+    "chapterId": "1SA.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 2:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"1SA 2:30\" class=\"v\">30</span>Wherefore the <span class=\"nd\">LORD</span> God of Israel saith, I said indeed <span class=\"add\">that</span> thy house, and the house of thy father, should walk before me for ever: but now the <span class=\"nd\">LORD</span> saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.2.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "1SA.2.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9fcfec4b-c493-433e-b3ed-69fff2d6dcbb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9fcfec4b-c493-433e-b3ed-69fff2d6dcbb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9fcfec4b-c493-433e-b3ed-69fff2d6dcbb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9fcfec4b-c493-433e-b3ed-69fff2d6dcbb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9fcfec4b-c493-433e-b3ed-69fff2d6dcbb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

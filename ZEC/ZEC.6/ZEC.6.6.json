@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.6.6",
+    "orgId": "ZEC.6.6",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 6:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"ZEC 6:6\" class=\"v\">6</span>The black horses which <span class=\"add\">are</span> therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.6.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "ZEC.6.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bef7f4f0-e290-4256-987a-158430e4ee2e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bef7f4f0-e290-4256-987a-158430e4ee2e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bef7f4f0-e290-4256-987a-158430e4ee2e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bef7f4f0-e290-4256-987a-158430e4ee2e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bef7f4f0-e290-4256-987a-158430e4ee2e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

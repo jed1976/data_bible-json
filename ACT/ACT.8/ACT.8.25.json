@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.8.25",
+    "orgId": "ACT.8.25",
+    "bookId": "ACT",
+    "chapterId": "ACT.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 8:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"ACT 8:25\" class=\"v\">25</span>And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.8.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "ACT.8.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('00b6f2d0-4571-4260-9159-69c5d984a1ce');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='00b6f2d0-4571-4260-9159-69c5d984a1ce'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "00b6f2d0-4571-4260-9159-69c5d984a1ce",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('00b6f2d0-4571-4260-9159-69c5d984a1ce'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=00b6f2d0-4571-4260-9159-69c5d984a1ce\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

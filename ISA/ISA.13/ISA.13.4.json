@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.13.4",
+    "orgId": "ISA.13.4",
+    "bookId": "ISA",
+    "chapterId": "ISA.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 13:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"ISA 13:4\" class=\"v\">4</span>The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the <span class=\"nd\">LORD</span> of hosts mustereth the host of the battle. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.13.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "ISA.13.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c6ff5fcb-5bac-436e-8b44-3b0364daaf11');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c6ff5fcb-5bac-436e-8b44-3b0364daaf11'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c6ff5fcb-5bac-436e-8b44-3b0364daaf11",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c6ff5fcb-5bac-436e-8b44-3b0364daaf11'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c6ff5fcb-5bac-436e-8b44-3b0364daaf11\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

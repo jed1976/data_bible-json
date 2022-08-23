@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.8.8",
+    "orgId": "JER.8.8",
+    "bookId": "JER",
+    "chapterId": "JER.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 8:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JER 8:8\" class=\"v\">8</span>How do ye say, We <span class=\"add\">are</span> wise, and the law of the <span class=\"nd\">LORD</span> <span class=\"add\">is</span> with us? Lo, certainly in vain made he <span class=\"add\">it;</span> the pen of the scribes <span class=\"add\">is</span> in vain. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.8.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JER.8.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ccf33866-a440-402d-8399-94f0a51d45a1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ccf33866-a440-402d-8399-94f0a51d45a1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ccf33866-a440-402d-8399-94f0a51d45a1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ccf33866-a440-402d-8399-94f0a51d45a1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ccf33866-a440-402d-8399-94f0a51d45a1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

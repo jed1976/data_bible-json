@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.45.20",
+    "orgId": "EZK.45.20",
+    "bookId": "EZK",
+    "chapterId": "EZK.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 45:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"EZK 45:20\" class=\"v\">20</span>And so thou shalt do the seventh <span class=\"add\">day</span> of the month for every one that erreth, and for <span class=\"add\">him that is</span> simple: so shall ye reconcile the house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.45.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "EZK.45.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd7da1be-57a9-4e04-9292-81aa57f6d73b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd7da1be-57a9-4e04-9292-81aa57f6d73b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd7da1be-57a9-4e04-9292-81aa57f6d73b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd7da1be-57a9-4e04-9292-81aa57f6d73b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd7da1be-57a9-4e04-9292-81aa57f6d73b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

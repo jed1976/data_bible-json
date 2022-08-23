@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.1.15",
+    "orgId": "LUK.1.15",
+    "bookId": "LUK",
+    "chapterId": "LUK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 1:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"LUK 1:15\" class=\"v\">15</span>For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.1.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "LUK.1.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5e1182c2-0a3b-4e7d-80d8-5b340fe18575');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5e1182c2-0a3b-4e7d-80d8-5b340fe18575'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5e1182c2-0a3b-4e7d-80d8-5b340fe18575",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5e1182c2-0a3b-4e7d-80d8-5b340fe18575'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5e1182c2-0a3b-4e7d-80d8-5b340fe18575\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

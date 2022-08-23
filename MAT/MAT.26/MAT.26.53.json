@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.26.53",
+    "orgId": "MAT.26.53",
+    "bookId": "MAT",
+    "chapterId": "MAT.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 26:53",
+    "content": "<p class=\"p\"><span data-number=\"53\" data-sid=\"MAT 26:53\" class=\"v\">53</span><span class=\"wj\">Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.26.54",
+      "number": "54"
+    },
+    "previous": {
+      "id": "MAT.26.52",
+      "number": "52"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b599c0a0-34b1-4481-a090-457c009a92bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b599c0a0-34b1-4481-a090-457c009a92bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b599c0a0-34b1-4481-a090-457c009a92bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b599c0a0-34b1-4481-a090-457c009a92bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b599c0a0-34b1-4481-a090-457c009a92bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

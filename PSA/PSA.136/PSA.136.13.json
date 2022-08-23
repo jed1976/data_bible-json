@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.136.13",
+    "orgId": "PSA.136.13",
+    "bookId": "PSA",
+    "chapterId": "PSA.136",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 136:13",
+    "content": "<p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 136:13\" class=\"v\">13</span>To him which divided the Red sea into parts: for his mercy <span class=\"add\">endureth</span> for ever:</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.136.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "PSA.136.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3438b1ad-bef4-42e1-9bba-8c3d36bb038c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3438b1ad-bef4-42e1-9bba-8c3d36bb038c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3438b1ad-bef4-42e1-9bba-8c3d36bb038c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3438b1ad-bef4-42e1-9bba-8c3d36bb038c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3438b1ad-bef4-42e1-9bba-8c3d36bb038c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

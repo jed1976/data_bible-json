@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.32.37",
+    "orgId": "DEU.32.37",
+    "bookId": "DEU",
+    "chapterId": "DEU.32",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 32:37",
+    "content": "<p class=\"p\"><span data-number=\"37\" data-sid=\"DEU 32:37\" class=\"v\">37</span>And he shall say, Where <span class=\"add\">are</span> their gods, <span class=\"add\">their</span> rock in whom they trusted, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.32.38",
+      "number": "38"
+    },
+    "previous": {
+      "id": "DEU.32.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('32a4c6f0-ce90-41a8-9c89-deda94307633');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='32a4c6f0-ce90-41a8-9c89-deda94307633'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "32a4c6f0-ce90-41a8-9c89-deda94307633",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('32a4c6f0-ce90-41a8-9c89-deda94307633'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=32a4c6f0-ce90-41a8-9c89-deda94307633\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.5.13",
+    "orgId": "NEH.5.13",
+    "bookId": "NEH",
+    "chapterId": "NEH.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 5:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"NEH 5:13\" class=\"v\">13</span>Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the <span class=\"nd\">LORD</span>. And the people did according to this promise.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.5.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "NEH.5.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6551a085-ac4f-4176-9c4c-c7b1a6b6abce');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6551a085-ac4f-4176-9c4c-c7b1a6b6abce'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6551a085-ac4f-4176-9c4c-c7b1a6b6abce",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6551a085-ac4f-4176-9c4c-c7b1a6b6abce'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6551a085-ac4f-4176-9c4c-c7b1a6b6abce\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

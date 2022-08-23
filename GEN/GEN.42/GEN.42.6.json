@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.42.6",
+    "orgId": "GEN.42.6",
+    "bookId": "GEN",
+    "chapterId": "GEN.42",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 42:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"GEN 42:6\" class=\"v\">6</span>And Joseph <span class=\"add\">was</span> the governor over the land, <span class=\"add\">and</span> he <span class=\"add\">it was</span> that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him <span class=\"add\">with</span> their faces to the earth.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.42.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "GEN.42.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f350c4ef-0de4-414a-b634-e8a416405fae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f350c4ef-0de4-414a-b634-e8a416405fae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f350c4ef-0de4-414a-b634-e8a416405fae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f350c4ef-0de4-414a-b634-e8a416405fae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f350c4ef-0de4-414a-b634-e8a416405fae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

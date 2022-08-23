@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.33.47",
+    "orgId": "NUM.33.47",
+    "bookId": "NUM",
+    "chapterId": "NUM.33",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 33:47",
+    "content": "<p class=\"p\"><span data-number=\"47\" data-sid=\"NUM 33:47\" class=\"v\">47</span>And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.33.48",
+      "number": "48"
+    },
+    "previous": {
+      "id": "NUM.33.46",
+      "number": "46"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2405d6da-6149-42c6-ad41-04773078ebb7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2405d6da-6149-42c6-ad41-04773078ebb7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2405d6da-6149-42c6-ad41-04773078ebb7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2405d6da-6149-42c6-ad41-04773078ebb7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2405d6da-6149-42c6-ad41-04773078ebb7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.21.16",
+    "orgId": "JHN.21.16",
+    "bookId": "JHN",
+    "chapterId": "JHN.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 21:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"JHN 21:16\" class=\"v\">16</span>He saith to him again the second time, <span class=\"wj\">Simon, <span class=\"add\">son</span> of Jonas, lovest thou me?</span> He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, <span class=\"wj\">Feed my sheep.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.21.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "JHN.21.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c48c59a9-3dc0-41a6-93f5-f7eac71a3d18');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c48c59a9-3dc0-41a6-93f5-f7eac71a3d18'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c48c59a9-3dc0-41a6-93f5-f7eac71a3d18",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c48c59a9-3dc0-41a6-93f5-f7eac71a3d18'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c48c59a9-3dc0-41a6-93f5-f7eac71a3d18\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

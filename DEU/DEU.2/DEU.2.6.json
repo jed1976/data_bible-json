@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.2.6",
+    "orgId": "DEU.2.6",
+    "bookId": "DEU",
+    "chapterId": "DEU.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"DEU 2:6\" class=\"v\">6</span>Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "DEU.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('57e06570-3f37-49c2-91c4-d0e5a40ad228');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='57e06570-3f37-49c2-91c4-d0e5a40ad228'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "57e06570-3f37-49c2-91c4-d0e5a40ad228",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('57e06570-3f37-49c2-91c4-d0e5a40ad228'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=57e06570-3f37-49c2-91c4-d0e5a40ad228\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

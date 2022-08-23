@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.15.24",
+    "orgId": "LUK.15.24",
+    "bookId": "LUK",
+    "chapterId": "LUK.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 15:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"LUK 15:24\" class=\"v\">24</span><span class=\"wj\">For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.15.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "LUK.15.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('be0a6baf-eee2-4de5-b65a-1c3185d66e15');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='be0a6baf-eee2-4de5-b65a-1c3185d66e15'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "be0a6baf-eee2-4de5-b65a-1c3185d66e15",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('be0a6baf-eee2-4de5-b65a-1c3185d66e15'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=be0a6baf-eee2-4de5-b65a-1c3185d66e15\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

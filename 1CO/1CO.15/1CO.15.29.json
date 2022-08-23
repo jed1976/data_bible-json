@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.15.29",
+    "orgId": "1CO.15.29",
+    "bookId": "1CO",
+    "chapterId": "1CO.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 15:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"1CO 15:29\" class=\"v\">29</span>Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.15.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "1CO.15.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0202a9f5-8fd0-47e6-b99e-e22653ff5a40');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0202a9f5-8fd0-47e6-b99e-e22653ff5a40'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0202a9f5-8fd0-47e6-b99e-e22653ff5a40",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0202a9f5-8fd0-47e6-b99e-e22653ff5a40'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0202a9f5-8fd0-47e6-b99e-e22653ff5a40\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

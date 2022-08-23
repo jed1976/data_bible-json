@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.9.3",
+    "orgId": "EZK.9.3",
+    "bookId": "EZK",
+    "chapterId": "EZK.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 9:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"EZK 9:3\" class=\"v\">3</span>And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which <span class=\"add\">had</span> the writer’s inkhorn by his side; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.9.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "EZK.9.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ec773c2a-8d4c-4eed-b46f-de17e0b01dbf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ec773c2a-8d4c-4eed-b46f-de17e0b01dbf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ec773c2a-8d4c-4eed-b46f-de17e0b01dbf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ec773c2a-8d4c-4eed-b46f-de17e0b01dbf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ec773c2a-8d4c-4eed-b46f-de17e0b01dbf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

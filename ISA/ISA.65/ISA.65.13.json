@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.65.13",
+    "orgId": "ISA.65.13",
+    "bookId": "ISA",
+    "chapterId": "ISA.65",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 65:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ISA 65:13\" class=\"v\">13</span>Therefore thus saith the Lord <span class=\"nd\">GOD</span>, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.65.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ISA.65.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0d0b2e52-58ad-4cd9-8ef7-311af8a409ba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0d0b2e52-58ad-4cd9-8ef7-311af8a409ba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0d0b2e52-58ad-4cd9-8ef7-311af8a409ba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0d0b2e52-58ad-4cd9-8ef7-311af8a409ba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0d0b2e52-58ad-4cd9-8ef7-311af8a409ba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.14.41",
+    "orgId": "LEV.14.41",
+    "bookId": "LEV",
+    "chapterId": "LEV.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 14:41",
+    "content": "<p class=\"p\"><span data-number=\"41\" data-sid=\"LEV 14:41\" class=\"v\">41</span>And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.14.42",
+      "number": "42"
+    },
+    "previous": {
+      "id": "LEV.14.40",
+      "number": "40"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('53c485ab-f074-4e43-815c-102c33937715');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='53c485ab-f074-4e43-815c-102c33937715'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "53c485ab-f074-4e43-815c-102c33937715",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('53c485ab-f074-4e43-815c-102c33937715'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=53c485ab-f074-4e43-815c-102c33937715\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

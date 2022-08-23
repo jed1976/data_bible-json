@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.28.63",
+    "orgId": "DEU.28.63",
+    "bookId": "DEU",
+    "chapterId": "DEU.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 28:63",
+    "content": "<p class=\"p\"><span data-number=\"63\" data-sid=\"DEU 28:63\" class=\"v\">63</span>And it shall come to pass, <span class=\"add\">that</span> as the <span class=\"nd\">LORD</span> rejoiced over you to do you good, and to multiply you; so the <span class=\"nd\">LORD</span> will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.28.64",
+      "number": "64"
+    },
+    "previous": {
+      "id": "DEU.28.62",
+      "number": "62"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('120bfeee-638d-4e09-adb1-4cbe7773b97a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='120bfeee-638d-4e09-adb1-4cbe7773b97a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "120bfeee-638d-4e09-adb1-4cbe7773b97a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('120bfeee-638d-4e09-adb1-4cbe7773b97a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=120bfeee-638d-4e09-adb1-4cbe7773b97a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.12.1",
+    "orgId": "NUM.12.1",
+    "bookId": "NUM",
+    "chapterId": "NUM.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 12:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"NUM 12:1\" class=\"v\">1</span>And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.12.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "NUM.11.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cfc0e89f-f70b-48eb-aa6d-05aac7246551');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cfc0e89f-f70b-48eb-aa6d-05aac7246551'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cfc0e89f-f70b-48eb-aa6d-05aac7246551",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cfc0e89f-f70b-48eb-aa6d-05aac7246551'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cfc0e89f-f70b-48eb-aa6d-05aac7246551\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

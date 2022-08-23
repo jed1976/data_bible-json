@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.2.12",
+    "orgId": "MRK.2.12",
+    "bookId": "MRK",
+    "chapterId": "MRK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 2:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"MRK 2:12\" class=\"v\">12</span>And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.2.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "MRK.2.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a45265b2-b852-4d52-ab13-0c221daee338');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a45265b2-b852-4d52-ab13-0c221daee338'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a45265b2-b852-4d52-ab13-0c221daee338",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a45265b2-b852-4d52-ab13-0c221daee338'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a45265b2-b852-4d52-ab13-0c221daee338\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

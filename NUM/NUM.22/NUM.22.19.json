@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.22.19",
+    "orgId": "NUM.22.19",
+    "bookId": "NUM",
+    "chapterId": "NUM.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 22:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"NUM 22:19\" class=\"v\">19</span>Now therefore, I pray you, tarry ye also here this night, that I may know what the <span class=\"nd\">LORD</span> will say unto me more. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.22.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "NUM.22.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fe1d8633-2ac1-44c6-8a66-ef76e5f22a9c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fe1d8633-2ac1-44c6-8a66-ef76e5f22a9c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fe1d8633-2ac1-44c6-8a66-ef76e5f22a9c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fe1d8633-2ac1-44c6-8a66-ef76e5f22a9c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fe1d8633-2ac1-44c6-8a66-ef76e5f22a9c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

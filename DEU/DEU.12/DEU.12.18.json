@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.12.18",
+    "orgId": "DEU.12.18",
+    "bookId": "DEU",
+    "chapterId": "DEU.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 12:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"DEU 12:18\" class=\"v\">18</span>But thou must eat them before the <span class=\"nd\">LORD</span> thy God in the place which the <span class=\"nd\">LORD</span> thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that <span class=\"add\">is</span> within thy gates: and thou shalt rejoice before the <span class=\"nd\">LORD</span> thy God in all that thou puttest thine hands unto. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.12.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "DEU.12.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9b0a8ebd-dd83-4434-82b7-dbf1238fbf5a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9b0a8ebd-dd83-4434-82b7-dbf1238fbf5a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9b0a8ebd-dd83-4434-82b7-dbf1238fbf5a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9b0a8ebd-dd83-4434-82b7-dbf1238fbf5a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9b0a8ebd-dd83-4434-82b7-dbf1238fbf5a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.16.52",
+    "orgId": "EZK.16.52",
+    "bookId": "EZK",
+    "chapterId": "EZK.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 16:52",
+    "content": "<p class=\"p\"><span data-number=\"52\" data-sid=\"EZK 16:52\" class=\"v\">52</span>Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.16.53",
+      "number": "53"
+    },
+    "previous": {
+      "id": "EZK.16.51",
+      "number": "51"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6faa7f5e-31d6-4e39-a9b7-cf869262357e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6faa7f5e-31d6-4e39-a9b7-cf869262357e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6faa7f5e-31d6-4e39-a9b7-cf869262357e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6faa7f5e-31d6-4e39-a9b7-cf869262357e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6faa7f5e-31d6-4e39-a9b7-cf869262357e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

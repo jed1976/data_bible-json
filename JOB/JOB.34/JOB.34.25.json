@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.34.25",
+    "orgId": "JOB.34.25",
+    "bookId": "JOB",
+    "chapterId": "JOB.34",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 34:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"JOB 34:25\" class=\"v\">25</span>Therefore he knoweth their works, and he overturneth <span class=\"add\">them</span> in the night, so that they are destroyed. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.34.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "JOB.34.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('67f4b3db-2f0a-4a96-81aa-4ace658ae311');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='67f4b3db-2f0a-4a96-81aa-4ace658ae311'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "67f4b3db-2f0a-4a96-81aa-4ace658ae311",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('67f4b3db-2f0a-4a96-81aa-4ace658ae311'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=67f4b3db-2f0a-4a96-81aa-4ace658ae311\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

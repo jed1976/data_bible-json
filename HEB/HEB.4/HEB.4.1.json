@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HEB.4.1",
+    "orgId": "HEB.4.1",
+    "bookId": "HEB",
+    "chapterId": "HEB.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hebrews 4:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"HEB 4:1\" class=\"v\">1</span>Let us therefore fear, lest, a promise being left <span class=\"add\">us</span> of entering into his rest, any of you should seem to come short of it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HEB.4.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "HEB.3.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a00c7193-3f9e-4a75-b295-38069355af57');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a00c7193-3f9e-4a75-b295-38069355af57'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a00c7193-3f9e-4a75-b295-38069355af57",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a00c7193-3f9e-4a75-b295-38069355af57'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a00c7193-3f9e-4a75-b295-38069355af57\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

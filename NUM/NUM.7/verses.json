@@ -1,0 +1,716 @@
+{
+  "data": [
+    {
+      "id": "NUM.7.1",
+      "orgId": "NUM.7.1",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:1"
+    },
+    {
+      "id": "NUM.7.2",
+      "orgId": "NUM.7.2",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:2"
+    },
+    {
+      "id": "NUM.7.3",
+      "orgId": "NUM.7.3",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:3"
+    },
+    {
+      "id": "NUM.7.4",
+      "orgId": "NUM.7.4",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:4"
+    },
+    {
+      "id": "NUM.7.5",
+      "orgId": "NUM.7.5",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:5"
+    },
+    {
+      "id": "NUM.7.6",
+      "orgId": "NUM.7.6",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:6"
+    },
+    {
+      "id": "NUM.7.7",
+      "orgId": "NUM.7.7",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:7"
+    },
+    {
+      "id": "NUM.7.8",
+      "orgId": "NUM.7.8",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:8"
+    },
+    {
+      "id": "NUM.7.9",
+      "orgId": "NUM.7.9",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:9"
+    },
+    {
+      "id": "NUM.7.10",
+      "orgId": "NUM.7.10",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:10"
+    },
+    {
+      "id": "NUM.7.11",
+      "orgId": "NUM.7.11",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:11"
+    },
+    {
+      "id": "NUM.7.12",
+      "orgId": "NUM.7.12",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:12"
+    },
+    {
+      "id": "NUM.7.13",
+      "orgId": "NUM.7.13",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:13"
+    },
+    {
+      "id": "NUM.7.14",
+      "orgId": "NUM.7.14",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:14"
+    },
+    {
+      "id": "NUM.7.15",
+      "orgId": "NUM.7.15",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:15"
+    },
+    {
+      "id": "NUM.7.16",
+      "orgId": "NUM.7.16",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:16"
+    },
+    {
+      "id": "NUM.7.17",
+      "orgId": "NUM.7.17",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:17"
+    },
+    {
+      "id": "NUM.7.18",
+      "orgId": "NUM.7.18",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:18"
+    },
+    {
+      "id": "NUM.7.19",
+      "orgId": "NUM.7.19",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:19"
+    },
+    {
+      "id": "NUM.7.20",
+      "orgId": "NUM.7.20",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:20"
+    },
+    {
+      "id": "NUM.7.21",
+      "orgId": "NUM.7.21",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:21"
+    },
+    {
+      "id": "NUM.7.22",
+      "orgId": "NUM.7.22",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:22"
+    },
+    {
+      "id": "NUM.7.23",
+      "orgId": "NUM.7.23",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:23"
+    },
+    {
+      "id": "NUM.7.24",
+      "orgId": "NUM.7.24",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:24"
+    },
+    {
+      "id": "NUM.7.25",
+      "orgId": "NUM.7.25",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:25"
+    },
+    {
+      "id": "NUM.7.26",
+      "orgId": "NUM.7.26",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:26"
+    },
+    {
+      "id": "NUM.7.27",
+      "orgId": "NUM.7.27",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:27"
+    },
+    {
+      "id": "NUM.7.28",
+      "orgId": "NUM.7.28",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:28"
+    },
+    {
+      "id": "NUM.7.29",
+      "orgId": "NUM.7.29",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:29"
+    },
+    {
+      "id": "NUM.7.30",
+      "orgId": "NUM.7.30",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:30"
+    },
+    {
+      "id": "NUM.7.31",
+      "orgId": "NUM.7.31",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:31"
+    },
+    {
+      "id": "NUM.7.32",
+      "orgId": "NUM.7.32",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:32"
+    },
+    {
+      "id": "NUM.7.33",
+      "orgId": "NUM.7.33",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:33"
+    },
+    {
+      "id": "NUM.7.34",
+      "orgId": "NUM.7.34",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:34"
+    },
+    {
+      "id": "NUM.7.35",
+      "orgId": "NUM.7.35",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:35"
+    },
+    {
+      "id": "NUM.7.36",
+      "orgId": "NUM.7.36",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:36"
+    },
+    {
+      "id": "NUM.7.37",
+      "orgId": "NUM.7.37",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:37"
+    },
+    {
+      "id": "NUM.7.38",
+      "orgId": "NUM.7.38",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:38"
+    },
+    {
+      "id": "NUM.7.39",
+      "orgId": "NUM.7.39",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:39"
+    },
+    {
+      "id": "NUM.7.40",
+      "orgId": "NUM.7.40",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:40"
+    },
+    {
+      "id": "NUM.7.41",
+      "orgId": "NUM.7.41",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:41"
+    },
+    {
+      "id": "NUM.7.42",
+      "orgId": "NUM.7.42",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:42"
+    },
+    {
+      "id": "NUM.7.43",
+      "orgId": "NUM.7.43",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:43"
+    },
+    {
+      "id": "NUM.7.44",
+      "orgId": "NUM.7.44",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:44"
+    },
+    {
+      "id": "NUM.7.45",
+      "orgId": "NUM.7.45",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:45"
+    },
+    {
+      "id": "NUM.7.46",
+      "orgId": "NUM.7.46",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:46"
+    },
+    {
+      "id": "NUM.7.47",
+      "orgId": "NUM.7.47",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:47"
+    },
+    {
+      "id": "NUM.7.48",
+      "orgId": "NUM.7.48",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:48"
+    },
+    {
+      "id": "NUM.7.49",
+      "orgId": "NUM.7.49",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:49"
+    },
+    {
+      "id": "NUM.7.50",
+      "orgId": "NUM.7.50",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:50"
+    },
+    {
+      "id": "NUM.7.51",
+      "orgId": "NUM.7.51",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:51"
+    },
+    {
+      "id": "NUM.7.52",
+      "orgId": "NUM.7.52",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:52"
+    },
+    {
+      "id": "NUM.7.53",
+      "orgId": "NUM.7.53",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:53"
+    },
+    {
+      "id": "NUM.7.54",
+      "orgId": "NUM.7.54",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:54"
+    },
+    {
+      "id": "NUM.7.55",
+      "orgId": "NUM.7.55",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:55"
+    },
+    {
+      "id": "NUM.7.56",
+      "orgId": "NUM.7.56",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:56"
+    },
+    {
+      "id": "NUM.7.57",
+      "orgId": "NUM.7.57",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:57"
+    },
+    {
+      "id": "NUM.7.58",
+      "orgId": "NUM.7.58",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:58"
+    },
+    {
+      "id": "NUM.7.59",
+      "orgId": "NUM.7.59",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:59"
+    },
+    {
+      "id": "NUM.7.60",
+      "orgId": "NUM.7.60",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:60"
+    },
+    {
+      "id": "NUM.7.61",
+      "orgId": "NUM.7.61",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:61"
+    },
+    {
+      "id": "NUM.7.62",
+      "orgId": "NUM.7.62",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:62"
+    },
+    {
+      "id": "NUM.7.63",
+      "orgId": "NUM.7.63",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:63"
+    },
+    {
+      "id": "NUM.7.64",
+      "orgId": "NUM.7.64",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:64"
+    },
+    {
+      "id": "NUM.7.65",
+      "orgId": "NUM.7.65",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:65"
+    },
+    {
+      "id": "NUM.7.66",
+      "orgId": "NUM.7.66",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:66"
+    },
+    {
+      "id": "NUM.7.67",
+      "orgId": "NUM.7.67",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:67"
+    },
+    {
+      "id": "NUM.7.68",
+      "orgId": "NUM.7.68",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:68"
+    },
+    {
+      "id": "NUM.7.69",
+      "orgId": "NUM.7.69",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:69"
+    },
+    {
+      "id": "NUM.7.70",
+      "orgId": "NUM.7.70",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:70"
+    },
+    {
+      "id": "NUM.7.71",
+      "orgId": "NUM.7.71",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:71"
+    },
+    {
+      "id": "NUM.7.72",
+      "orgId": "NUM.7.72",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:72"
+    },
+    {
+      "id": "NUM.7.73",
+      "orgId": "NUM.7.73",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:73"
+    },
+    {
+      "id": "NUM.7.74",
+      "orgId": "NUM.7.74",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:74"
+    },
+    {
+      "id": "NUM.7.75",
+      "orgId": "NUM.7.75",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:75"
+    },
+    {
+      "id": "NUM.7.76",
+      "orgId": "NUM.7.76",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:76"
+    },
+    {
+      "id": "NUM.7.77",
+      "orgId": "NUM.7.77",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:77"
+    },
+    {
+      "id": "NUM.7.78",
+      "orgId": "NUM.7.78",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:78"
+    },
+    {
+      "id": "NUM.7.79",
+      "orgId": "NUM.7.79",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:79"
+    },
+    {
+      "id": "NUM.7.80",
+      "orgId": "NUM.7.80",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:80"
+    },
+    {
+      "id": "NUM.7.81",
+      "orgId": "NUM.7.81",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:81"
+    },
+    {
+      "id": "NUM.7.82",
+      "orgId": "NUM.7.82",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:82"
+    },
+    {
+      "id": "NUM.7.83",
+      "orgId": "NUM.7.83",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:83"
+    },
+    {
+      "id": "NUM.7.84",
+      "orgId": "NUM.7.84",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:84"
+    },
+    {
+      "id": "NUM.7.85",
+      "orgId": "NUM.7.85",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:85"
+    },
+    {
+      "id": "NUM.7.86",
+      "orgId": "NUM.7.86",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:86"
+    },
+    {
+      "id": "NUM.7.87",
+      "orgId": "NUM.7.87",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:87"
+    },
+    {
+      "id": "NUM.7.88",
+      "orgId": "NUM.7.88",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:88"
+    },
+    {
+      "id": "NUM.7.89",
+      "orgId": "NUM.7.89",
+      "bookId": "NUM",
+      "chapterId": "NUM.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Numbers 7:89"
+    }
+  ]
+}

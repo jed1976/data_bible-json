@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.3.9",
+    "orgId": "LUK.3.9",
+    "bookId": "LUK",
+    "chapterId": "LUK.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 3:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"LUK 3:9\" class=\"v\">9</span>And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.3.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "LUK.3.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e3f03e79-7932-41bb-b17a-85ec74dd72f7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e3f03e79-7932-41bb-b17a-85ec74dd72f7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e3f03e79-7932-41bb-b17a-85ec74dd72f7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e3f03e79-7932-41bb-b17a-85ec74dd72f7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e3f03e79-7932-41bb-b17a-85ec74dd72f7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

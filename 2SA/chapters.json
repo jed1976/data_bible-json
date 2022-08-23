@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "id": "2SA.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "intro",
+      "reference": "2 Samuel"
+    },
+    {
+      "id": "2SA.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "1",
+      "reference": "2 Samuel 1"
+    },
+    {
+      "id": "2SA.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "2",
+      "reference": "2 Samuel 2"
+    },
+    {
+      "id": "2SA.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "3",
+      "reference": "2 Samuel 3"
+    },
+    {
+      "id": "2SA.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "4",
+      "reference": "2 Samuel 4"
+    },
+    {
+      "id": "2SA.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "5",
+      "reference": "2 Samuel 5"
+    },
+    {
+      "id": "2SA.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "6",
+      "reference": "2 Samuel 6"
+    },
+    {
+      "id": "2SA.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "7",
+      "reference": "2 Samuel 7"
+    },
+    {
+      "id": "2SA.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "8",
+      "reference": "2 Samuel 8"
+    },
+    {
+      "id": "2SA.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "9",
+      "reference": "2 Samuel 9"
+    },
+    {
+      "id": "2SA.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "10",
+      "reference": "2 Samuel 10"
+    },
+    {
+      "id": "2SA.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "11",
+      "reference": "2 Samuel 11"
+    },
+    {
+      "id": "2SA.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "12",
+      "reference": "2 Samuel 12"
+    },
+    {
+      "id": "2SA.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "13",
+      "reference": "2 Samuel 13"
+    },
+    {
+      "id": "2SA.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "14",
+      "reference": "2 Samuel 14"
+    },
+    {
+      "id": "2SA.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "15",
+      "reference": "2 Samuel 15"
+    },
+    {
+      "id": "2SA.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "16",
+      "reference": "2 Samuel 16"
+    },
+    {
+      "id": "2SA.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "17",
+      "reference": "2 Samuel 17"
+    },
+    {
+      "id": "2SA.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "18",
+      "reference": "2 Samuel 18"
+    },
+    {
+      "id": "2SA.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "19",
+      "reference": "2 Samuel 19"
+    },
+    {
+      "id": "2SA.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "20",
+      "reference": "2 Samuel 20"
+    },
+    {
+      "id": "2SA.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "21",
+      "reference": "2 Samuel 21"
+    },
+    {
+      "id": "2SA.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "22",
+      "reference": "2 Samuel 22"
+    },
+    {
+      "id": "2SA.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "23",
+      "reference": "2 Samuel 23"
+    },
+    {
+      "id": "2SA.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2SA",
+      "number": "24",
+      "reference": "2 Samuel 24"
+    }
+  ]
+}

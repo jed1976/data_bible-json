@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.26.18",
+    "orgId": "EZK.26.18",
+    "bookId": "EZK",
+    "chapterId": "EZK.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 26:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"EZK 26:18\" class=\"v\">18</span>Now shall the isles tremble in the day of thy fall; yea, the isles that <span class=\"add\">are</span> in the sea shall be troubled at thy departure. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.26.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "EZK.26.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('089aa5c9-92b3-43c9-9d21-b5b2f528a761');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='089aa5c9-92b3-43c9-9d21-b5b2f528a761'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "089aa5c9-92b3-43c9-9d21-b5b2f528a761",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('089aa5c9-92b3-43c9-9d21-b5b2f528a761'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=089aa5c9-92b3-43c9-9d21-b5b2f528a761\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

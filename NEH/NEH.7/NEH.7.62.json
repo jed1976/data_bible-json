@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.7.62",
+    "orgId": "NEH.7.62",
+    "bookId": "NEH",
+    "chapterId": "NEH.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 7:62",
+    "content": "<p class=\"p\"><span data-number=\"62\" data-sid=\"NEH 7:62\" class=\"v\">62</span>The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.7.63",
+      "number": "63"
+    },
+    "previous": {
+      "id": "NEH.7.61",
+      "number": "61"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ddb2fe56-6ec4-4dbe-b74d-62ff1cc1185a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ddb2fe56-6ec4-4dbe-b74d-62ff1cc1185a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ddb2fe56-6ec4-4dbe-b74d-62ff1cc1185a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ddb2fe56-6ec4-4dbe-b74d-62ff1cc1185a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ddb2fe56-6ec4-4dbe-b74d-62ff1cc1185a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

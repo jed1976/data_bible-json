@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1JN.3.24",
+    "orgId": "1JN.3.24",
+    "bookId": "1JN",
+    "chapterId": "1JN.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 John 3:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"1JN 3:24\" class=\"v\">24</span>And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1JN.4.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "1JN.3.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6be6420d-0410-441d-b5a3-d57b00d70a0e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6be6420d-0410-441d-b5a3-d57b00d70a0e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6be6420d-0410-441d-b5a3-d57b00d70a0e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6be6420d-0410-441d-b5a3-d57b00d70a0e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6be6420d-0410-441d-b5a3-d57b00d70a0e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

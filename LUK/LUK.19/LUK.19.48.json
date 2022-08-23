@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.19.48",
+    "orgId": "LUK.19.48",
+    "bookId": "LUK",
+    "chapterId": "LUK.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 19:48",
+    "content": "<p class=\"p\"><span data-number=\"48\" data-sid=\"LUK 19:48\" class=\"v\">48</span>And could not find what they might do: for all the people were very attentive to hear him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.20.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "LUK.19.47",
+      "number": "47"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('badc0648-dfb7-4fc5-999f-60a7c3805d64');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='badc0648-dfb7-4fc5-999f-60a7c3805d64'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "badc0648-dfb7-4fc5-999f-60a7c3805d64",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('badc0648-dfb7-4fc5-999f-60a7c3805d64'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=badc0648-dfb7-4fc5-999f-60a7c3805d64\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

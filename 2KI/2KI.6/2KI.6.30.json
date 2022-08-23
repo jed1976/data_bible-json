@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.6.30",
+    "orgId": "2KI.6.30",
+    "bookId": "2KI",
+    "chapterId": "2KI.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 6:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"2KI 6:30\" class=\"v\">30</span>¶ And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, <span class=\"add\">he had</span> sackcloth within upon his flesh. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.6.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "2KI.6.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('631b2500-4a03-47c4-9f3b-b21f95d632b3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='631b2500-4a03-47c4-9f3b-b21f95d632b3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "631b2500-4a03-47c4-9f3b-b21f95d632b3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('631b2500-4a03-47c4-9f3b-b21f95d632b3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=631b2500-4a03-47c4-9f3b-b21f95d632b3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

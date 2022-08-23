@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "PSA.84.1",
+      "orgId": "PSA.84.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:1"
+    },
+    {
+      "id": "PSA.84.2",
+      "orgId": "PSA.84.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:2"
+    },
+    {
+      "id": "PSA.84.3",
+      "orgId": "PSA.84.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:3"
+    },
+    {
+      "id": "PSA.84.4",
+      "orgId": "PSA.84.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:4"
+    },
+    {
+      "id": "PSA.84.5",
+      "orgId": "PSA.84.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:5"
+    },
+    {
+      "id": "PSA.84.6",
+      "orgId": "PSA.84.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:6"
+    },
+    {
+      "id": "PSA.84.7",
+      "orgId": "PSA.84.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:7"
+    },
+    {
+      "id": "PSA.84.8",
+      "orgId": "PSA.84.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:8"
+    },
+    {
+      "id": "PSA.84.9",
+      "orgId": "PSA.84.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:9"
+    },
+    {
+      "id": "PSA.84.10",
+      "orgId": "PSA.84.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:10"
+    },
+    {
+      "id": "PSA.84.11",
+      "orgId": "PSA.84.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:11"
+    },
+    {
+      "id": "PSA.84.12",
+      "orgId": "PSA.84.13",
+      "bookId": "PSA",
+      "chapterId": "PSA.84",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 84:12"
+    }
+  ]
+}

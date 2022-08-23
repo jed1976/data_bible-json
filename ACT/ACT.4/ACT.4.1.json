@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.4.1",
+    "orgId": "ACT.4.1",
+    "bookId": "ACT",
+    "chapterId": "ACT.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 4:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ACT 4:1\" class=\"v\">1</span>And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.4.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ACT.3.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('686508b8-b83b-4ade-a160-0b10dabd7380');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='686508b8-b83b-4ade-a160-0b10dabd7380'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "686508b8-b83b-4ade-a160-0b10dabd7380",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('686508b8-b83b-4ade-a160-0b10dabd7380'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=686508b8-b83b-4ade-a160-0b10dabd7380\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

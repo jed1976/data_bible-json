@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.10.21",
+    "orgId": "DAN.10.21",
+    "bookId": "DAN",
+    "chapterId": "DAN.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 10:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"DAN 10:21\" class=\"v\">21</span>But I will shew thee that which is noted in the scripture of truth: and <span class=\"add\">there is</span> none that holdeth with me in these things, but Michael your prince.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.11.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "DAN.10.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('eca1624d-1d06-4083-a6ca-388b7034a389');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='eca1624d-1d06-4083-a6ca-388b7034a389'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "eca1624d-1d06-4083-a6ca-388b7034a389",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('eca1624d-1d06-4083-a6ca-388b7034a389'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=eca1624d-1d06-4083-a6ca-388b7034a389\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.21.7",
+    "orgId": "NUM.21.7",
+    "bookId": "NUM",
+    "chapterId": "NUM.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 21:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"NUM 21:7\" class=\"v\">7</span>¶ Therefore the people came to Moses, and said, We have sinned, for we have spoken against the <span class=\"nd\">LORD</span>, and against thee; pray unto the <span class=\"nd\">LORD</span>, that he take away the serpents from us. And Moses prayed for the people. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.21.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "NUM.21.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('032be23e-e23d-4e08-bc79-a778527d70cb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='032be23e-e23d-4e08-bc79-a778527d70cb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "032be23e-e23d-4e08-bc79-a778527d70cb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('032be23e-e23d-4e08-bc79-a778527d70cb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=032be23e-e23d-4e08-bc79-a778527d70cb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

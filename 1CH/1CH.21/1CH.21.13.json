@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.21.13",
+    "orgId": "1CH.21.13",
+    "bookId": "1CH",
+    "chapterId": "1CH.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 21:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"1CH 21:13\" class=\"v\">13</span>And David said unto Gad, I am in a great strait: let me fall now into the hand of the <span class=\"nd\">LORD</span>; for very great <span class=\"add\">are</span> his mercies: but let me not fall into the hand of man.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.21.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "1CH.21.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ac79427c-078b-406d-8453-5554216a9189');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ac79427c-078b-406d-8453-5554216a9189'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ac79427c-078b-406d-8453-5554216a9189",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ac79427c-078b-406d-8453-5554216a9189'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ac79427c-078b-406d-8453-5554216a9189\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

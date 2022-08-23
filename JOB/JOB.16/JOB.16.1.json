@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.16.1",
+    "orgId": "JOB.16.1",
+    "bookId": "JOB",
+    "chapterId": "JOB.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 16:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JOB 16:1\" class=\"v\">1</span>Then Job answered and said, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.16.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "JOB.15.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c2891e10-1878-4d81-b4bd-496bb5fee63d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c2891e10-1878-4d81-b4bd-496bb5fee63d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c2891e10-1878-4d81-b4bd-496bb5fee63d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c2891e10-1878-4d81-b4bd-496bb5fee63d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c2891e10-1878-4d81-b4bd-496bb5fee63d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

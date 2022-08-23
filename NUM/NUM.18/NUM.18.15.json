@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.18.15",
+    "orgId": "NUM.18.15",
+    "bookId": "NUM",
+    "chapterId": "NUM.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 18:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"NUM 18:15\" class=\"v\">15</span>Every thing that openeth the matrix in all flesh, which they bring unto the <span class=\"nd\">LORD</span>, <span class=\"add\">whether it be</span> of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.18.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "NUM.18.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('51cdf770-847f-4fcf-8322-7093efcec4b3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='51cdf770-847f-4fcf-8322-7093efcec4b3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "51cdf770-847f-4fcf-8322-7093efcec4b3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('51cdf770-847f-4fcf-8322-7093efcec4b3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=51cdf770-847f-4fcf-8322-7093efcec4b3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

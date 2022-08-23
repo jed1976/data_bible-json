@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.4.16",
+    "orgId": "JDG.4.16",
+    "bookId": "JDG",
+    "chapterId": "JDG.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 4:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"JDG 4:16\" class=\"v\">16</span>But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; <span class=\"add\">and</span> there was not a man left.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.4.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "JDG.4.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5277e19f-9e50-48f6-9d2c-a1f4cf9b1308');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5277e19f-9e50-48f6-9d2c-a1f4cf9b1308'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5277e19f-9e50-48f6-9d2c-a1f4cf9b1308",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5277e19f-9e50-48f6-9d2c-a1f4cf9b1308'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5277e19f-9e50-48f6-9d2c-a1f4cf9b1308\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

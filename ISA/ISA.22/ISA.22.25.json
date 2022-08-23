@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.22.25",
+    "orgId": "ISA.22.25",
+    "bookId": "ISA",
+    "chapterId": "ISA.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 22:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"ISA 22:25\" class=\"v\">25</span>In that day, saith the <span class=\"nd\">LORD</span> of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that <span class=\"add\">was</span> upon it shall be cut off: for the <span class=\"nd\">LORD</span> hath spoken <span class=\"add\">it</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.23.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "ISA.22.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2fe3c778-41a5-4c7d-b442-181d304e8a93');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2fe3c778-41a5-4c7d-b442-181d304e8a93'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2fe3c778-41a5-4c7d-b442-181d304e8a93",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2fe3c778-41a5-4c7d-b442-181d304e8a93'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2fe3c778-41a5-4c7d-b442-181d304e8a93\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

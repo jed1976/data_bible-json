@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.31.3",
+    "orgId": "ISA.31.3",
+    "bookId": "ISA",
+    "chapterId": "ISA.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 31:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"ISA 31:3\" class=\"v\">3</span>Now the Egyptians <span class=\"add\">are</span> men, and not God; and their horses flesh, and not spirit. When the <span class=\"nd\">LORD</span> shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.31.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "ISA.31.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('836c05d6-5792-4d9f-ba86-f009317e995a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='836c05d6-5792-4d9f-ba86-f009317e995a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "836c05d6-5792-4d9f-ba86-f009317e995a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('836c05d6-5792-4d9f-ba86-f009317e995a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=836c05d6-5792-4d9f-ba86-f009317e995a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

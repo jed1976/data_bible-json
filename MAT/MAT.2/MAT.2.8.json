@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.2.8",
+    "orgId": "MAT.2.8",
+    "bookId": "MAT",
+    "chapterId": "MAT.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 2:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"MAT 2:8\" class=\"v\">8</span>And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found <span class=\"add\">him</span>, bring me word again, that I may come and worship him also. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.2.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "MAT.2.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f13c448f-e48b-49f4-8b27-1149903429bd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f13c448f-e48b-49f4-8b27-1149903429bd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f13c448f-e48b-49f4-8b27-1149903429bd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f13c448f-e48b-49f4-8b27-1149903429bd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f13c448f-e48b-49f4-8b27-1149903429bd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

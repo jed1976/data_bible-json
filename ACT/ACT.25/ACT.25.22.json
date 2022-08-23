@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.25.22",
+    "orgId": "ACT.25.22",
+    "bookId": "ACT",
+    "chapterId": "ACT.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 25:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"ACT 25:22\" class=\"v\">22</span>Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.25.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "ACT.25.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('afaa921b-8391-43d9-8248-f137b2efd2ef');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='afaa921b-8391-43d9-8248-f137b2efd2ef'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "afaa921b-8391-43d9-8248-f137b2efd2ef",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('afaa921b-8391-43d9-8248-f137b2efd2ef'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=afaa921b-8391-43d9-8248-f137b2efd2ef\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

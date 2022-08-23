@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "id": "2CH.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "intro",
+      "reference": "2 Chronicles"
+    },
+    {
+      "id": "2CH.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "1",
+      "reference": "2 Chronicles 1"
+    },
+    {
+      "id": "2CH.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "2",
+      "reference": "2 Chronicles 2"
+    },
+    {
+      "id": "2CH.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "3",
+      "reference": "2 Chronicles 3"
+    },
+    {
+      "id": "2CH.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "4",
+      "reference": "2 Chronicles 4"
+    },
+    {
+      "id": "2CH.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "5",
+      "reference": "2 Chronicles 5"
+    },
+    {
+      "id": "2CH.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "6",
+      "reference": "2 Chronicles 6"
+    },
+    {
+      "id": "2CH.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "7",
+      "reference": "2 Chronicles 7"
+    },
+    {
+      "id": "2CH.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "8",
+      "reference": "2 Chronicles 8"
+    },
+    {
+      "id": "2CH.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "9",
+      "reference": "2 Chronicles 9"
+    },
+    {
+      "id": "2CH.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "10",
+      "reference": "2 Chronicles 10"
+    },
+    {
+      "id": "2CH.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "11",
+      "reference": "2 Chronicles 11"
+    },
+    {
+      "id": "2CH.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "12",
+      "reference": "2 Chronicles 12"
+    },
+    {
+      "id": "2CH.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "13",
+      "reference": "2 Chronicles 13"
+    },
+    {
+      "id": "2CH.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "14",
+      "reference": "2 Chronicles 14"
+    },
+    {
+      "id": "2CH.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "15",
+      "reference": "2 Chronicles 15"
+    },
+    {
+      "id": "2CH.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "16",
+      "reference": "2 Chronicles 16"
+    },
+    {
+      "id": "2CH.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "17",
+      "reference": "2 Chronicles 17"
+    },
+    {
+      "id": "2CH.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "18",
+      "reference": "2 Chronicles 18"
+    },
+    {
+      "id": "2CH.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "19",
+      "reference": "2 Chronicles 19"
+    },
+    {
+      "id": "2CH.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "20",
+      "reference": "2 Chronicles 20"
+    },
+    {
+      "id": "2CH.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "21",
+      "reference": "2 Chronicles 21"
+    },
+    {
+      "id": "2CH.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "22",
+      "reference": "2 Chronicles 22"
+    },
+    {
+      "id": "2CH.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "23",
+      "reference": "2 Chronicles 23"
+    },
+    {
+      "id": "2CH.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "24",
+      "reference": "2 Chronicles 24"
+    },
+    {
+      "id": "2CH.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "25",
+      "reference": "2 Chronicles 25"
+    },
+    {
+      "id": "2CH.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "26",
+      "reference": "2 Chronicles 26"
+    },
+    {
+      "id": "2CH.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "27",
+      "reference": "2 Chronicles 27"
+    },
+    {
+      "id": "2CH.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "28",
+      "reference": "2 Chronicles 28"
+    },
+    {
+      "id": "2CH.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "29",
+      "reference": "2 Chronicles 29"
+    },
+    {
+      "id": "2CH.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "30",
+      "reference": "2 Chronicles 30"
+    },
+    {
+      "id": "2CH.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "31",
+      "reference": "2 Chronicles 31"
+    },
+    {
+      "id": "2CH.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "32",
+      "reference": "2 Chronicles 32"
+    },
+    {
+      "id": "2CH.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "33",
+      "reference": "2 Chronicles 33"
+    },
+    {
+      "id": "2CH.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "34",
+      "reference": "2 Chronicles 34"
+    },
+    {
+      "id": "2CH.35",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "35",
+      "reference": "2 Chronicles 35"
+    },
+    {
+      "id": "2CH.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CH",
+      "number": "36",
+      "reference": "2 Chronicles 36"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.38.17",
+    "orgId": "ISA.38.17",
+    "bookId": "ISA",
+    "chapterId": "ISA.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 38:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"ISA 38:17\" class=\"v\">17</span>Behold, for peace I had great bitterness: but thou hast in love to my soul <span class=\"add\">delivered it</span> from the pit of corruption: for thou hast cast all my sins behind thy back. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.38.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "ISA.38.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('25a7d045-9f89-4fca-880d-f347e4bd4b74');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='25a7d045-9f89-4fca-880d-f347e4bd4b74'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "25a7d045-9f89-4fca-880d-f347e4bd4b74",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('25a7d045-9f89-4fca-880d-f347e4bd4b74'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=25a7d045-9f89-4fca-880d-f347e4bd4b74\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

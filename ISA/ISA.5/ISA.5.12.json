@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.5.12",
+    "orgId": "ISA.5.12",
+    "bookId": "ISA",
+    "chapterId": "ISA.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 5:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"ISA 5:12\" class=\"v\">12</span>And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the <span class=\"nd\">LORD</span>, neither consider the operation of his hands.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.5.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "ISA.5.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5cdad059-1a01-4ca8-b3d0-04bd9699322f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5cdad059-1a01-4ca8-b3d0-04bd9699322f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5cdad059-1a01-4ca8-b3d0-04bd9699322f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5cdad059-1a01-4ca8-b3d0-04bd9699322f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5cdad059-1a01-4ca8-b3d0-04bd9699322f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

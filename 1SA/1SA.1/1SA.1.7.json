@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.1.7",
+    "orgId": "1SA.1.7",
+    "bookId": "1SA",
+    "chapterId": "1SA.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 1:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"1SA 1:7\" class=\"v\">7</span>And <span class=\"add\">as</span> he did so year by year, when she went up to the house of the <span class=\"nd\">LORD</span>, so she provoked her; therefore she wept, and did not eat. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.1.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "1SA.1.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('85445adb-270d-41a9-a9ca-1a5f98e529c0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='85445adb-270d-41a9-a9ca-1a5f98e529c0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "85445adb-270d-41a9-a9ca-1a5f98e529c0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('85445adb-270d-41a9-a9ca-1a5f98e529c0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=85445adb-270d-41a9-a9ca-1a5f98e529c0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

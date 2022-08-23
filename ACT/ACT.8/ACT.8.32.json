@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.8.32",
+    "orgId": "ACT.8.32",
+    "bookId": "ACT",
+    "chapterId": "ACT.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 8:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"ACT 8:32\" class=\"v\">32</span>The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.8.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "ACT.8.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0f0df223-e00b-41e6-8d40-fae1bb3a046c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0f0df223-e00b-41e6-8d40-fae1bb3a046c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0f0df223-e00b-41e6-8d40-fae1bb3a046c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0f0df223-e00b-41e6-8d40-fae1bb3a046c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0f0df223-e00b-41e6-8d40-fae1bb3a046c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

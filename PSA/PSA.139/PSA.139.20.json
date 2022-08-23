@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.139.20",
+    "orgId": "PSA.139.20",
+    "bookId": "PSA",
+    "chapterId": "PSA.139",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 139:20",
+    "content": "<p class=\"q1\"><span data-number=\"20\" data-sid=\"PSA 139:20\" class=\"v\">20</span>For they speak against thee wickedly, <span class=\"add\">and</span> thine enemies take <span class=\"add\">thy name</span> in vain.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.139.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "PSA.139.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ef1d8c1b-4f37-4414-ad74-9a43dfbec3ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ef1d8c1b-4f37-4414-ad74-9a43dfbec3ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ef1d8c1b-4f37-4414-ad74-9a43dfbec3ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ef1d8c1b-4f37-4414-ad74-9a43dfbec3ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ef1d8c1b-4f37-4414-ad74-9a43dfbec3ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

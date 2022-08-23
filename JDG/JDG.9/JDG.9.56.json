@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.9.56",
+    "orgId": "JDG.9.56",
+    "bookId": "JDG",
+    "chapterId": "JDG.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 9:56",
+    "content": "<p class=\"p\"><span data-number=\"56\" data-sid=\"JDG 9:56\" class=\"v\">56</span>¶ Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.9.57",
+      "number": "57"
+    },
+    "previous": {
+      "id": "JDG.9.55",
+      "number": "55"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1664a745-7f4f-45ff-b2b2-3a65f786b70c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1664a745-7f4f-45ff-b2b2-3a65f786b70c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1664a745-7f4f-45ff-b2b2-3a65f786b70c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1664a745-7f4f-45ff-b2b2-3a65f786b70c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1664a745-7f4f-45ff-b2b2-3a65f786b70c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

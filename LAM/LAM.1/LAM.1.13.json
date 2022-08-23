@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.1.13",
+    "orgId": "LAM.1.13",
+    "bookId": "LAM",
+    "chapterId": "LAM.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 1:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"LAM 1:13\" class=\"v\">13</span>From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate <span class=\"add\">and</span> faint all the day. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.1.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "LAM.1.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9741edb6-5fad-43e9-aef2-f97d1987be46');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9741edb6-5fad-43e9-aef2-f97d1987be46'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9741edb6-5fad-43e9-aef2-f97d1987be46",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9741edb6-5fad-43e9-aef2-f97d1987be46'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9741edb6-5fad-43e9-aef2-f97d1987be46\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

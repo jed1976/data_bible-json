@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.22.37",
+    "orgId": "LUK.22.37",
+    "bookId": "LUK",
+    "chapterId": "LUK.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 22:37",
+    "content": "<p class=\"p\"><span data-number=\"37\" data-sid=\"LUK 22:37\" class=\"v\">37</span><span class=\"wj\">For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.22.38",
+      "number": "38"
+    },
+    "previous": {
+      "id": "LUK.22.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0dd3ee2a-2bfc-4a44-ab54-ee917b288e76');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0dd3ee2a-2bfc-4a44-ab54-ee917b288e76'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0dd3ee2a-2bfc-4a44-ab54-ee917b288e76",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0dd3ee2a-2bfc-4a44-ab54-ee917b288e76'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0dd3ee2a-2bfc-4a44-ab54-ee917b288e76\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

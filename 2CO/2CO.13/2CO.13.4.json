@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CO.13.4",
+    "orgId": "2CO.13.4",
+    "bookId": "2CO",
+    "chapterId": "2CO.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Corinthians 13:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"2CO 13:4\" class=\"v\">4</span>For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CO.13.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "2CO.13.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ce0e78c2-fb82-4046-b686-bb536b466177');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ce0e78c2-fb82-4046-b686-bb536b466177'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ce0e78c2-fb82-4046-b686-bb536b466177",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ce0e78c2-fb82-4046-b686-bb536b466177'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ce0e78c2-fb82-4046-b686-bb536b466177\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

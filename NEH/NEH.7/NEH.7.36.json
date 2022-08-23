@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.7.36",
+    "orgId": "NEH.7.36",
+    "bookId": "NEH",
+    "chapterId": "NEH.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 7:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"NEH 7:36\" class=\"v\">36</span>The children of Jericho, three hundred forty and five. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.7.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "NEH.7.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e19c70d4-4359-43e4-9dee-ad3172ecc375');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e19c70d4-4359-43e4-9dee-ad3172ecc375'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e19c70d4-4359-43e4-9dee-ad3172ecc375",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e19c70d4-4359-43e4-9dee-ad3172ecc375'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e19c70d4-4359-43e4-9dee-ad3172ecc375\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

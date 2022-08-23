@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": "PSA.57.1",
+      "orgId": "PSA.57.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:1"
+    },
+    {
+      "id": "PSA.57.2",
+      "orgId": "PSA.57.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:2"
+    },
+    {
+      "id": "PSA.57.3",
+      "orgId": "PSA.57.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:3"
+    },
+    {
+      "id": "PSA.57.4",
+      "orgId": "PSA.57.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:4"
+    },
+    {
+      "id": "PSA.57.5",
+      "orgId": "PSA.57.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:5"
+    },
+    {
+      "id": "PSA.57.6",
+      "orgId": "PSA.57.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:6"
+    },
+    {
+      "id": "PSA.57.7",
+      "orgId": "PSA.57.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:7"
+    },
+    {
+      "id": "PSA.57.8",
+      "orgId": "PSA.57.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:8"
+    },
+    {
+      "id": "PSA.57.9",
+      "orgId": "PSA.57.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:9"
+    },
+    {
+      "id": "PSA.57.10",
+      "orgId": "PSA.57.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:10"
+    },
+    {
+      "id": "PSA.57.11",
+      "orgId": "PSA.57.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.57",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 57:11"
+    }
+  ]
+}

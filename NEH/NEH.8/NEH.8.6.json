@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.8.6",
+    "orgId": "NEH.8.6",
+    "bookId": "NEH",
+    "chapterId": "NEH.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 8:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"NEH 8:6\" class=\"v\">6</span>And Ezra blessed the <span class=\"nd\">LORD</span>, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the <span class=\"nd\">LORD</span> with <span class=\"add\">their</span> faces to the ground. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.8.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "NEH.8.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ced188dc-6343-4a35-a813-3b16cfac6d3a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ced188dc-6343-4a35-a813-3b16cfac6d3a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ced188dc-6343-4a35-a813-3b16cfac6d3a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ced188dc-6343-4a35-a813-3b16cfac6d3a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ced188dc-6343-4a35-a813-3b16cfac6d3a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

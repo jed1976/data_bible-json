@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "PSA.52.1",
+      "orgId": "PSA.52.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:1"
+    },
+    {
+      "id": "PSA.52.2",
+      "orgId": "PSA.52.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:2"
+    },
+    {
+      "id": "PSA.52.3",
+      "orgId": "PSA.52.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:3"
+    },
+    {
+      "id": "PSA.52.4",
+      "orgId": "PSA.52.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:4"
+    },
+    {
+      "id": "PSA.52.5",
+      "orgId": "PSA.52.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:5"
+    },
+    {
+      "id": "PSA.52.6",
+      "orgId": "PSA.52.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:6"
+    },
+    {
+      "id": "PSA.52.7",
+      "orgId": "PSA.52.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:7"
+    },
+    {
+      "id": "PSA.52.8",
+      "orgId": "PSA.52.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:8"
+    },
+    {
+      "id": "PSA.52.9",
+      "orgId": "PSA.52.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 52:9"
+    }
+  ]
+}

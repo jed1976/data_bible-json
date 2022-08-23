@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.6.22",
+    "orgId": "ROM.6.22",
+    "bookId": "ROM",
+    "chapterId": "ROM.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 6:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"ROM 6:22\" class=\"v\">22</span>But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.6.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "ROM.6.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('201cffe7-f5d2-4901-b0e3-019f4f50fea7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='201cffe7-f5d2-4901-b0e3-019f4f50fea7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "201cffe7-f5d2-4901-b0e3-019f4f50fea7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('201cffe7-f5d2-4901-b0e3-019f4f50fea7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=201cffe7-f5d2-4901-b0e3-019f4f50fea7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

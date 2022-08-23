@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.22.27",
+    "orgId": "JOS.22.27",
+    "bookId": "JOS",
+    "chapterId": "JOS.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 22:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"JOS 22:27\" class=\"v\">27</span>But <span class=\"add\">that</span> it <span class=\"add\">may be</span> a witness between us, and you, and our generations after us, that we might do the service of the <span class=\"nd\">LORD</span> before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not say to our children in time to come, Ye have no part in the <span class=\"nd\">LORD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.22.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "JOS.22.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d1161864-3efd-4708-a1cf-3700d39ed182');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d1161864-3efd-4708-a1cf-3700d39ed182'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d1161864-3efd-4708-a1cf-3700d39ed182",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d1161864-3efd-4708-a1cf-3700d39ed182'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d1161864-3efd-4708-a1cf-3700d39ed182\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

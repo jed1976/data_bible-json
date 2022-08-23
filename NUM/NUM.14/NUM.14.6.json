@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.14.6",
+    "orgId": "NUM.14.6",
+    "bookId": "NUM",
+    "chapterId": "NUM.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 14:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"NUM 14:6\" class=\"v\">6</span>¶ And Joshua the son of Nun, and Caleb the son of Jephunneh, <span class=\"add\">which were</span> of them that searched the land, rent their clothes: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.14.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "NUM.14.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('423b0f5f-36a6-4e3e-a7ea-c41dff6639eb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='423b0f5f-36a6-4e3e-a7ea-c41dff6639eb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "423b0f5f-36a6-4e3e-a7ea-c41dff6639eb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('423b0f5f-36a6-4e3e-a7ea-c41dff6639eb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=423b0f5f-36a6-4e3e-a7ea-c41dff6639eb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

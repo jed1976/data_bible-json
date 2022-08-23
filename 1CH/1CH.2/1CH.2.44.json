@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.2.44",
+    "orgId": "1CH.2.44",
+    "bookId": "1CH",
+    "chapterId": "1CH.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 2:44",
+    "content": "<p class=\"p\"><span data-number=\"44\" data-sid=\"1CH 2:44\" class=\"v\">44</span>And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.2.45",
+      "number": "45"
+    },
+    "previous": {
+      "id": "1CH.2.43",
+      "number": "43"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a0d03bb3-db8a-4caa-802a-10a1c3a9c81c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a0d03bb3-db8a-4caa-802a-10a1c3a9c81c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a0d03bb3-db8a-4caa-802a-10a1c3a9c81c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a0d03bb3-db8a-4caa-802a-10a1c3a9c81c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a0d03bb3-db8a-4caa-802a-10a1c3a9c81c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

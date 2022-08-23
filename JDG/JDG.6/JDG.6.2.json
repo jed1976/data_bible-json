@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.6.2",
+    "orgId": "JDG.6.2",
+    "bookId": "JDG",
+    "chapterId": "JDG.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 6:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"JDG 6:2\" class=\"v\">2</span>And the hand of Midian prevailed against Israel: <span class=\"add\">and</span> because of the Midianites the children of Israel made them the dens which <span class=\"add\">are</span> in the mountains, and caves, and strong holds. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.6.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "JDG.6.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b52e8d89-8805-4240-a687-a8e866d51b80');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b52e8d89-8805-4240-a687-a8e866d51b80'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b52e8d89-8805-4240-a687-a8e866d51b80",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b52e8d89-8805-4240-a687-a8e866d51b80'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b52e8d89-8805-4240-a687-a8e866d51b80\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.9.24",
+    "orgId": "LEV.9.24",
+    "bookId": "LEV",
+    "chapterId": "LEV.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 9:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"LEV 9:24\" class=\"v\">24</span>And there came a fire out from before the <span class=\"nd\">LORD</span>, and consumed upon the altar the burnt offering and the fat: <span class=\"add\">which</span> when all the people saw, they shouted, and fell on their faces.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.10.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "LEV.9.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('74986acc-3311-400f-a139-4380e80afd6e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='74986acc-3311-400f-a139-4380e80afd6e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "74986acc-3311-400f-a139-4380e80afd6e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('74986acc-3311-400f-a139-4380e80afd6e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=74986acc-3311-400f-a139-4380e80afd6e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

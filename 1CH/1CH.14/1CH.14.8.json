@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.14.8",
+    "orgId": "1CH.14.8",
+    "bookId": "1CH",
+    "chapterId": "1CH.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 14:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"1CH 14:8\" class=\"v\">8</span>¶ And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard <span class=\"add\">of it</span>, and went out against them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.14.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "1CH.14.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('26a80b06-d65c-4d95-98cb-fe9cc0ba356f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='26a80b06-d65c-4d95-98cb-fe9cc0ba356f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "26a80b06-d65c-4d95-98cb-fe9cc0ba356f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('26a80b06-d65c-4d95-98cb-fe9cc0ba356f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=26a80b06-d65c-4d95-98cb-fe9cc0ba356f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

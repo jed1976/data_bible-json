@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.15.9",
+    "orgId": "JER.15.9",
+    "bookId": "JER",
+    "chapterId": "JER.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 15:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"JER 15:9\" class=\"v\">9</span>She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while <span class=\"add\">it was</span> yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.15.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "JER.15.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('26712ace-daa2-46ea-9b38-81ec23d7ad61');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='26712ace-daa2-46ea-9b38-81ec23d7ad61'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "26712ace-daa2-46ea-9b38-81ec23d7ad61",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('26712ace-daa2-46ea-9b38-81ec23d7ad61'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=26712ace-daa2-46ea-9b38-81ec23d7ad61\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.13.24",
+    "orgId": "MRK.13.24",
+    "bookId": "MRK",
+    "chapterId": "MRK.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 13:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"MRK 13:24\" class=\"v\">24</span><span class=\"wj\">¶ But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.13.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "MRK.13.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('097ae6f9-c774-40f5-882d-23edcf66a050');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='097ae6f9-c774-40f5-882d-23edcf66a050'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "097ae6f9-c774-40f5-882d-23edcf66a050",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('097ae6f9-c774-40f5-882d-23edcf66a050'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=097ae6f9-c774-40f5-882d-23edcf66a050\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

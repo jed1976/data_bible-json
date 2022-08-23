@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "AMO.8.11",
+    "orgId": "AMO.8.11",
+    "bookId": "AMO",
+    "chapterId": "AMO.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Amos 8:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"AMO 8:11\" class=\"v\">11</span>¶ Behold, the days come, saith the Lord <span class=\"nd\">GOD</span>, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the <span class=\"nd\">LORD</span>: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "AMO.8.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "AMO.8.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7338e897-55e1-4ac7-bc3c-dafa8308193c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7338e897-55e1-4ac7-bc3c-dafa8308193c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7338e897-55e1-4ac7-bc3c-dafa8308193c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7338e897-55e1-4ac7-bc3c-dafa8308193c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7338e897-55e1-4ac7-bc3c-dafa8308193c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

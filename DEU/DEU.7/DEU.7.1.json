@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.7.1",
+    "orgId": "DEU.7.1",
+    "bookId": "DEU",
+    "chapterId": "DEU.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 7:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"DEU 7:1\" class=\"v\">1</span>When the <span class=\"nd\">LORD</span> thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.7.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "DEU.6.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bedf9175-1497-4f1e-af26-8512a1831658');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bedf9175-1497-4f1e-af26-8512a1831658'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bedf9175-1497-4f1e-af26-8512a1831658",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bedf9175-1497-4f1e-af26-8512a1831658'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bedf9175-1497-4f1e-af26-8512a1831658\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

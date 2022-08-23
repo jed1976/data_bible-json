@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.5.6",
+    "orgId": "JDG.5.6",
+    "bookId": "JDG",
+    "chapterId": "JDG.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 5:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"JDG 5:6\" class=\"v\">6</span>In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.5.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "JDG.5.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b332e1e9-e448-4252-aaab-a6692f34f42a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b332e1e9-e448-4252-aaab-a6692f34f42a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b332e1e9-e448-4252-aaab-a6692f34f42a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b332e1e9-e448-4252-aaab-a6692f34f42a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b332e1e9-e448-4252-aaab-a6692f34f42a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

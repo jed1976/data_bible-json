@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.14.22",
+    "orgId": "ROM.14.22",
+    "bookId": "ROM",
+    "chapterId": "ROM.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 14:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"ROM 14:22\" class=\"v\">22</span>Hast thou faith? have <span class=\"add\">it</span> to thyself before God. Happy <span class=\"add\">is</span> he that condemneth not himself in that thing which he alloweth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.14.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "ROM.14.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ca70bc11-a88c-46a0-ae3e-ddf88fe6534e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ca70bc11-a88c-46a0-ae3e-ddf88fe6534e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ca70bc11-a88c-46a0-ae3e-ddf88fe6534e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ca70bc11-a88c-46a0-ae3e-ddf88fe6534e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ca70bc11-a88c-46a0-ae3e-ddf88fe6534e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

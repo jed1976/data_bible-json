@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.21.6",
+    "orgId": "JDG.21.6",
+    "bookId": "JDG",
+    "chapterId": "JDG.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 21:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"JDG 21:6\" class=\"v\">6</span>And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.21.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "JDG.21.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7bdcc570-e87b-438d-9fe4-146bdb82dbaa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7bdcc570-e87b-438d-9fe4-146bdb82dbaa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7bdcc570-e87b-438d-9fe4-146bdb82dbaa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7bdcc570-e87b-438d-9fe4-146bdb82dbaa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7bdcc570-e87b-438d-9fe4-146bdb82dbaa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

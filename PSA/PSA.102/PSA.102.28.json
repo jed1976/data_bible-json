@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.102.28",
+    "orgId": "PSA.102.29",
+    "bookId": "PSA",
+    "chapterId": "PSA.102",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 102:28",
+    "content": "<p class=\"q1\"><span data-number=\"28\" data-sid=\"PSA 102:28\" class=\"v\">28</span>The children of thy servants shall continue, and their seed shall be established before thee.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.103.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "PSA.102.27",
+      "number": "27"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2b4eb97a-fc66-4d48-a315-0ae39cb296d4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2b4eb97a-fc66-4d48-a315-0ae39cb296d4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2b4eb97a-fc66-4d48-a315-0ae39cb296d4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2b4eb97a-fc66-4d48-a315-0ae39cb296d4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2b4eb97a-fc66-4d48-a315-0ae39cb296d4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

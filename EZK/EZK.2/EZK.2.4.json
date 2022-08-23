@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.2.4",
+    "orgId": "EZK.2.4",
+    "bookId": "EZK",
+    "chapterId": "EZK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 2:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"EZK 2:4\" class=\"v\">4</span>For <span class=\"add\">they are</span> impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord <span class=\"nd\">GOD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.2.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "EZK.2.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e51a9761-4ae7-4ed9-b08d-c8a17f566d7e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e51a9761-4ae7-4ed9-b08d-c8a17f566d7e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e51a9761-4ae7-4ed9-b08d-c8a17f566d7e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e51a9761-4ae7-4ed9-b08d-c8a17f566d7e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e51a9761-4ae7-4ed9-b08d-c8a17f566d7e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

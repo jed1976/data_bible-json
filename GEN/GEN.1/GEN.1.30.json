@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.1.30",
+    "orgId": "GEN.1.30",
+    "bookId": "GEN",
+    "chapterId": "GEN.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 1:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"GEN 1:30\" class=\"v\">30</span>And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein <span class=\"add\">there is</span> life, <span class=\"add\">I have given</span> every green herb for meat: and it was so. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.1.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "GEN.1.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2b6d1c29-3695-4b8f-a550-aa29dfbf0b8a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2b6d1c29-3695-4b8f-a550-aa29dfbf0b8a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2b6d1c29-3695-4b8f-a550-aa29dfbf0b8a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2b6d1c29-3695-4b8f-a550-aa29dfbf0b8a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2b6d1c29-3695-4b8f-a550-aa29dfbf0b8a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

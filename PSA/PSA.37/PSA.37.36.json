@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.37.36",
+    "orgId": "PSA.37.36",
+    "bookId": "PSA",
+    "chapterId": "PSA.37",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 37:36",
+    "content": "<p class=\"q1\"><span data-number=\"36\" data-sid=\"PSA 37:36\" class=\"v\">36</span>Yet he passed away, and, lo, he <span class=\"add\">was</span> not: yea, I sought him, but he could not be found.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.37.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "PSA.37.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f594b264-5681-42c5-aba6-1382a3a4adea');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f594b264-5681-42c5-aba6-1382a3a4adea'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f594b264-5681-42c5-aba6-1382a3a4adea",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f594b264-5681-42c5-aba6-1382a3a4adea'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f594b264-5681-42c5-aba6-1382a3a4adea\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

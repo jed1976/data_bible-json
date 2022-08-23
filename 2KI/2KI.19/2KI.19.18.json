@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.19.18",
+    "orgId": "2KI.19.18",
+    "bookId": "2KI",
+    "chapterId": "2KI.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 19:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"2KI 19:18\" class=\"v\">18</span>And have cast their gods into the fire: for they <span class=\"add\">were</span> no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.19.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "2KI.19.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bb5115b8-6fa5-4cda-b66a-c8a05d354d1d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bb5115b8-6fa5-4cda-b66a-c8a05d354d1d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bb5115b8-6fa5-4cda-b66a-c8a05d354d1d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bb5115b8-6fa5-4cda-b66a-c8a05d354d1d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bb5115b8-6fa5-4cda-b66a-c8a05d354d1d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

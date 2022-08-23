@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.12.1",
+    "orgId": "LUK.12.1",
+    "bookId": "LUK",
+    "chapterId": "LUK.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 12:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"LUK 12:1\" class=\"v\">1</span>In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, <span class=\"wj\">Beware ye of the leaven of the Pharisees, which is hypocrisy.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.12.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "LUK.11.54",
+      "number": "54"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d373ff9c-a84f-4e7a-82dc-c79b713b6f65');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d373ff9c-a84f-4e7a-82dc-c79b713b6f65'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d373ff9c-a84f-4e7a-82dc-c79b713b6f65",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d373ff9c-a84f-4e7a-82dc-c79b713b6f65'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d373ff9c-a84f-4e7a-82dc-c79b713b6f65\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.12.19",
+    "orgId": "DEU.12.19",
+    "bookId": "DEU",
+    "chapterId": "DEU.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 12:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"DEU 12:19\" class=\"v\">19</span>Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.12.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "DEU.12.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b1b58f48-7214-4b61-bd23-d9bc4a1bc844');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b1b58f48-7214-4b61-bd23-d9bc4a1bc844'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b1b58f48-7214-4b61-bd23-d9bc4a1bc844",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b1b58f48-7214-4b61-bd23-d9bc4a1bc844'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b1b58f48-7214-4b61-bd23-d9bc4a1bc844\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.8.6",
+    "orgId": "1KI.8.6",
+    "bookId": "1KI",
+    "chapterId": "1KI.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 8:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"1KI 8:6\" class=\"v\">6</span>And the priests brought in the ark of the covenant of the <span class=\"nd\">LORD</span> unto his place, into the oracle of the house, to the most holy <span class=\"add\">place, even</span> under the wings of the cherubims. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.8.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "1KI.8.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b0df7478-eb0d-480c-9b08-c72c5642007e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b0df7478-eb0d-480c-9b08-c72c5642007e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b0df7478-eb0d-480c-9b08-c72c5642007e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b0df7478-eb0d-480c-9b08-c72c5642007e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b0df7478-eb0d-480c-9b08-c72c5642007e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

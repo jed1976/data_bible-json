@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.12.7",
+    "orgId": "DAN.12.7",
+    "bookId": "DAN",
+    "chapterId": "DAN.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 12:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DAN 12:7\" class=\"v\">7</span>And I heard the man clothed in linen, which <span class=\"add\">was</span> upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that <span class=\"add\">it shall be</span> for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these <span class=\"add\">things</span> shall be finished. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.12.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DAN.12.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('94d0d51c-3d14-4de4-8d86-178bb898d158');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='94d0d51c-3d14-4de4-8d86-178bb898d158'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "94d0d51c-3d14-4de4-8d86-178bb898d158",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('94d0d51c-3d14-4de4-8d86-178bb898d158'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=94d0d51c-3d14-4de4-8d86-178bb898d158\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

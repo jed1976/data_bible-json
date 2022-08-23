@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.5.2",
+    "orgId": "ISA.5.2",
+    "bookId": "ISA",
+    "chapterId": "ISA.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 5:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"ISA 5:2\" class=\"v\">2</span>And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.5.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "ISA.5.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff1ba67b-9ce3-42fb-9378-a1f93014c33e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff1ba67b-9ce3-42fb-9378-a1f93014c33e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff1ba67b-9ce3-42fb-9378-a1f93014c33e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff1ba67b-9ce3-42fb-9378-a1f93014c33e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff1ba67b-9ce3-42fb-9378-a1f93014c33e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.37.12",
+    "orgId": "JOB.37.12",
+    "bookId": "JOB",
+    "chapterId": "JOB.37",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 37:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"JOB 37:12\" class=\"v\">12</span>And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.37.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "JOB.37.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cc62b9da-bdeb-4b4b-8b5e-b97cf10286a1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cc62b9da-bdeb-4b4b-8b5e-b97cf10286a1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cc62b9da-bdeb-4b4b-8b5e-b97cf10286a1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cc62b9da-bdeb-4b4b-8b5e-b97cf10286a1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cc62b9da-bdeb-4b4b-8b5e-b97cf10286a1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

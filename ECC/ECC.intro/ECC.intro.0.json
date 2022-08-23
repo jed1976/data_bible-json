@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.intro.0",
+    "orgId": "ECC.intro.0",
+    "bookId": "ECC",
+    "chapterId": "ECC.intro",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes",
+    "content": "<p class=\"mt1\">Ecclesiastes or, the Preacher</p>",
+    "verseCount": 0,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.1.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "PRO.31.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5fd68e64-720b-4a25-ae8c-399e4b08ae0f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5fd68e64-720b-4a25-ae8c-399e4b08ae0f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5fd68e64-720b-4a25-ae8c-399e4b08ae0f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5fd68e64-720b-4a25-ae8c-399e4b08ae0f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5fd68e64-720b-4a25-ae8c-399e4b08ae0f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

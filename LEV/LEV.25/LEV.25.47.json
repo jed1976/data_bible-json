@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.25.47",
+    "orgId": "LEV.25.47",
+    "bookId": "LEV",
+    "chapterId": "LEV.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 25:47",
+    "content": "<p class=\"p\"><span data-number=\"47\" data-sid=\"LEV 25:47\" class=\"v\">47</span>¶ And if a sojourner or stranger wax rich by thee, and thy brother <span class=\"add\">that dwelleth</span> by him wax poor, and sell himself unto the stranger <span class=\"add\">or</span> sojourner by thee, or to the stock of the stranger’s family: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.25.48",
+      "number": "48"
+    },
+    "previous": {
+      "id": "LEV.25.46",
+      "number": "46"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8172c4e3-8195-49e5-990e-2d5cc8d8c96f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8172c4e3-8195-49e5-990e-2d5cc8d8c96f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8172c4e3-8195-49e5-990e-2d5cc8d8c96f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8172c4e3-8195-49e5-990e-2d5cc8d8c96f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8172c4e3-8195-49e5-990e-2d5cc8d8c96f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

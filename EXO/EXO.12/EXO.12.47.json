@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.12.47",
+    "orgId": "EXO.12.47",
+    "bookId": "EXO",
+    "chapterId": "EXO.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 12:47",
+    "content": "<p class=\"p\"><span data-number=\"47\" data-sid=\"EXO 12:47\" class=\"v\">47</span>All the congregation of Israel shall keep it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.12.48",
+      "number": "48"
+    },
+    "previous": {
+      "id": "EXO.12.46",
+      "number": "46"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f2324649-2234-4766-844c-0da81ecf167a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f2324649-2234-4766-844c-0da81ecf167a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f2324649-2234-4766-844c-0da81ecf167a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f2324649-2234-4766-844c-0da81ecf167a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f2324649-2234-4766-844c-0da81ecf167a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

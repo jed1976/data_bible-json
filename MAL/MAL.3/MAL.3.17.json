@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAL.3.17",
+    "orgId": "MAL.3.17",
+    "bookId": "MAL",
+    "chapterId": "MAL.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Malachi 3:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"MAL 3:17\" class=\"v\">17</span>And they shall be mine, saith the <span class=\"nd\">LORD</span> of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAL.3.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "MAL.3.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e961129a-5cdc-493c-8ff1-6e8648e60dc1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e961129a-5cdc-493c-8ff1-6e8648e60dc1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e961129a-5cdc-493c-8ff1-6e8648e60dc1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e961129a-5cdc-493c-8ff1-6e8648e60dc1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e961129a-5cdc-493c-8ff1-6e8648e60dc1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

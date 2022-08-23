@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.8.9",
+    "orgId": "1KI.8.9",
+    "bookId": "1KI",
+    "chapterId": "1KI.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 8:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"1KI 8:9\" class=\"v\">9</span><span class=\"add\">There was</span> nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the <span class=\"nd\">LORD</span> made <span class=\"add\">a covenant</span> with the children of Israel, when they came out of the land of Egypt. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.8.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "1KI.8.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ced2e5f9-6550-48aa-bafd-bc7593f584b8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ced2e5f9-6550-48aa-bafd-bc7593f584b8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ced2e5f9-6550-48aa-bafd-bc7593f584b8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ced2e5f9-6550-48aa-bafd-bc7593f584b8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ced2e5f9-6550-48aa-bafd-bc7593f584b8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

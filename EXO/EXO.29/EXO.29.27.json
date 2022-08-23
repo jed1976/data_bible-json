@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.29.27",
+    "orgId": "EXO.29.27",
+    "bookId": "EXO",
+    "chapterId": "EXO.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 29:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"EXO 29:27\" class=\"v\">27</span>And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, <span class=\"add\">even</span> of <span class=\"add\">that</span> which <span class=\"add\">is</span> for Aaron, and of <span class=\"add\">that</span> which is for his sons: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.29.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "EXO.29.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff29b955-956f-4c99-9546-d9deab805442');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff29b955-956f-4c99-9546-d9deab805442'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff29b955-956f-4c99-9546-d9deab805442",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff29b955-956f-4c99-9546-d9deab805442'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff29b955-956f-4c99-9546-d9deab805442\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

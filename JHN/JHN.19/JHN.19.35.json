@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.19.35",
+    "orgId": "JHN.19.35",
+    "bookId": "JHN",
+    "chapterId": "JHN.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 19:35",
+    "content": "<p class=\"p\"><span data-number=\"35\" data-sid=\"JHN 19:35\" class=\"v\">35</span>And he that saw <span class=\"add\">it</span> bare record, and his record is true: and he knoweth that he saith true, that ye might believe. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.19.36",
+      "number": "36"
+    },
+    "previous": {
+      "id": "JHN.19.34",
+      "number": "34"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ee25d8a2-f891-4b03-84c7-ce3b6ab3df5a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ee25d8a2-f891-4b03-84c7-ce3b6ab3df5a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ee25d8a2-f891-4b03-84c7-ce3b6ab3df5a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ee25d8a2-f891-4b03-84c7-ce3b6ab3df5a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ee25d8a2-f891-4b03-84c7-ce3b6ab3df5a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

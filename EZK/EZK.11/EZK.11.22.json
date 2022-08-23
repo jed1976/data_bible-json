@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.11.22",
+    "orgId": "EZK.11.22",
+    "bookId": "EZK",
+    "chapterId": "EZK.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 11:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"EZK 11:22\" class=\"v\">22</span>¶ Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel <span class=\"add\">was</span> over them above. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.11.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "EZK.11.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6c24b478-ebf4-4b01-a0ac-6d826b879d9b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6c24b478-ebf4-4b01-a0ac-6d826b879d9b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6c24b478-ebf4-4b01-a0ac-6d826b879d9b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6c24b478-ebf4-4b01-a0ac-6d826b879d9b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6c24b478-ebf4-4b01-a0ac-6d826b879d9b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

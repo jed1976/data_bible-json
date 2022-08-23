@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.4.43",
+    "orgId": "2KI.4.43",
+    "bookId": "2KI",
+    "chapterId": "2KI.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 4:43",
+    "content": "<p class=\"p\"><span data-number=\"43\" data-sid=\"2KI 4:43\" class=\"v\">43</span>And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the <span class=\"nd\">LORD</span>, They shall eat, and shall leave <span class=\"add\">thereof</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.4.44",
+      "number": "44"
+    },
+    "previous": {
+      "id": "2KI.4.42",
+      "number": "42"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c47441f8-cf72-4a85-9461-fd2cf0960c48');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c47441f8-cf72-4a85-9461-fd2cf0960c48'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c47441f8-cf72-4a85-9461-fd2cf0960c48",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c47441f8-cf72-4a85-9461-fd2cf0960c48'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c47441f8-cf72-4a85-9461-fd2cf0960c48\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

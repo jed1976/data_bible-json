@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.17.14",
+    "orgId": "PSA.17.14",
+    "bookId": "PSA",
+    "chapterId": "PSA.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 17:14",
+    "content": "<p class=\"q1\"><span data-number=\"14\" data-sid=\"PSA 17:14\" class=\"v\">14</span>From men <span class=\"add\">which are</span> thy hand, O <span class=\"nd\">LORD</span>, from men of the world, <span class=\"add\">which have</span> their portion in <span class=\"add\">this</span> life, and whose belly thou fillest with thy hid <span class=\"add\">treasure:</span> they are full of children, and leave the rest of their <span class=\"add\">substance</span> to their babes.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.17.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "PSA.17.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5398dc4d-59ad-4516-bff1-fb813046b45f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5398dc4d-59ad-4516-bff1-fb813046b45f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5398dc4d-59ad-4516-bff1-fb813046b45f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5398dc4d-59ad-4516-bff1-fb813046b45f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5398dc4d-59ad-4516-bff1-fb813046b45f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

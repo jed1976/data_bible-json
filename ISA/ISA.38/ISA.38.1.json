@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.38.1",
+    "orgId": "ISA.38.1",
+    "bookId": "ISA",
+    "chapterId": "ISA.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 38:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 38:1\" class=\"v\">1</span>In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the <span class=\"nd\">LORD</span>, Set thine house in order: for thou shalt die, and not live. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.38.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ISA.37.38",
+      "number": "38"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a03bd5ef-9bf5-45cd-9ead-b2d62cc52eee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a03bd5ef-9bf5-45cd-9ead-b2d62cc52eee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a03bd5ef-9bf5-45cd-9ead-b2d62cc52eee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a03bd5ef-9bf5-45cd-9ead-b2d62cc52eee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a03bd5ef-9bf5-45cd-9ead-b2d62cc52eee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

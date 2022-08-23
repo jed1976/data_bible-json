@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.9.1",
+    "orgId": "NEH.9.1",
+    "bookId": "NEH",
+    "chapterId": "NEH.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 9:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"NEH 9:1\" class=\"v\">1</span>Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.9.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "NEH.8.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e2c5faec-9e9e-496c-b749-ba1396c0b60b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e2c5faec-9e9e-496c-b749-ba1396c0b60b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e2c5faec-9e9e-496c-b749-ba1396c0b60b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e2c5faec-9e9e-496c-b749-ba1396c0b60b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e2c5faec-9e9e-496c-b749-ba1396c0b60b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.21.7",
+    "orgId": "2KI.21.7",
+    "bookId": "2KI",
+    "chapterId": "2KI.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 21:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"2KI 21:7\" class=\"v\">7</span>And he set a graven image of the grove that he had made in the house, of which the <span class=\"nd\">LORD</span> said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.21.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "2KI.21.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('21f88b4f-9b1e-473c-9425-6f7e37294a67');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='21f88b4f-9b1e-473c-9425-6f7e37294a67'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "21f88b4f-9b1e-473c-9425-6f7e37294a67",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('21f88b4f-9b1e-473c-9425-6f7e37294a67'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=21f88b4f-9b1e-473c-9425-6f7e37294a67\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

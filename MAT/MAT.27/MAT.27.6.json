@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.27.6",
+    "orgId": "MAT.27.6",
+    "bookId": "MAT",
+    "chapterId": "MAT.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 27:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"MAT 27:6\" class=\"v\">6</span>And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.27.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "MAT.27.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d1364da3-6c38-4f27-a129-5b127fd5501d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d1364da3-6c38-4f27-a129-5b127fd5501d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d1364da3-6c38-4f27-a129-5b127fd5501d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d1364da3-6c38-4f27-a129-5b127fd5501d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d1364da3-6c38-4f27-a129-5b127fd5501d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

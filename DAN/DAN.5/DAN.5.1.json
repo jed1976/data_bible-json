@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.5.1",
+    "orgId": "DAN.5.1",
+    "bookId": "DAN",
+    "chapterId": "DAN.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 5:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"DAN 5:1\" class=\"v\">1</span>Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.5.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "DAN.4.37",
+      "number": "37"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cdd7b8c7-4b62-4d64-8ccd-f877c433ee42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cdd7b8c7-4b62-4d64-8ccd-f877c433ee42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cdd7b8c7-4b62-4d64-8ccd-f877c433ee42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cdd7b8c7-4b62-4d64-8ccd-f877c433ee42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cdd7b8c7-4b62-4d64-8ccd-f877c433ee42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

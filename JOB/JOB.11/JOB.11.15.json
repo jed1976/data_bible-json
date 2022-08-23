@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.11.15",
+    "orgId": "JOB.11.15",
+    "bookId": "JOB",
+    "chapterId": "JOB.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 11:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"JOB 11:15\" class=\"v\">15</span>For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.11.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "JOB.11.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5edb6533-a519-4ab8-8578-be2a1128125f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5edb6533-a519-4ab8-8578-be2a1128125f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5edb6533-a519-4ab8-8578-be2a1128125f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5edb6533-a519-4ab8-8578-be2a1128125f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5edb6533-a519-4ab8-8578-be2a1128125f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

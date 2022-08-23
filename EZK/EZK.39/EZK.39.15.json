@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.39.15",
+    "orgId": "EZK.39.15",
+    "bookId": "EZK",
+    "chapterId": "EZK.39",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 39:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"EZK 39:15\" class=\"v\">15</span>And the passengers <span class=\"add\">that</span> pass through the land, when <span class=\"add\">any</span> seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon-gog. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.39.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "EZK.39.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8885aa0a-eab3-4322-85f4-1f5a29494e28');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8885aa0a-eab3-4322-85f4-1f5a29494e28'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8885aa0a-eab3-4322-85f4-1f5a29494e28",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8885aa0a-eab3-4322-85f4-1f5a29494e28'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8885aa0a-eab3-4322-85f4-1f5a29494e28\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

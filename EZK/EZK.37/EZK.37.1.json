@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.37.1",
+    "orgId": "EZK.37.1",
+    "bookId": "EZK",
+    "chapterId": "EZK.37",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 37:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EZK 37:1\" class=\"v\">1</span>The hand of the <span class=\"nd\">LORD</span> was upon me, and carried me out in the spirit of the <span class=\"nd\">LORD</span>, and set me down in the midst of the valley which <span class=\"add\">was</span> full of bones, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.37.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "EZK.36.38",
+      "number": "38"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8196bf08-eec1-4de6-9e41-42b837a3979f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8196bf08-eec1-4de6-9e41-42b837a3979f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8196bf08-eec1-4de6-9e41-42b837a3979f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8196bf08-eec1-4de6-9e41-42b837a3979f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8196bf08-eec1-4de6-9e41-42b837a3979f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

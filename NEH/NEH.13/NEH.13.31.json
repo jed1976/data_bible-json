@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.13.31",
+    "orgId": "NEH.13.31",
+    "bookId": "NEH",
+    "chapterId": "NEH.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 13:31",
+    "content": "<p class=\"p\"><span data-number=\"31\" data-sid=\"NEH 13:31\" class=\"v\">31</span>And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.intro.0",
+      "number": "0"
+    },
+    "previous": {
+      "id": "NEH.13.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('471e8e9d-0d02-4672-a37a-5f8e681ce447');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='471e8e9d-0d02-4672-a37a-5f8e681ce447'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "471e8e9d-0d02-4672-a37a-5f8e681ce447",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('471e8e9d-0d02-4672-a37a-5f8e681ce447'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=471e8e9d-0d02-4672-a37a-5f8e681ce447\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

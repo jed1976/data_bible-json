@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.21.1",
+    "orgId": "REV.21.1",
+    "bookId": "REV",
+    "chapterId": "REV.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 21:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"REV 21:1\" class=\"v\">1</span>And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.21.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "REV.20.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fc56abff-9943-41d0-9be3-b4c208ada175');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fc56abff-9943-41d0-9be3-b4c208ada175'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fc56abff-9943-41d0-9be3-b4c208ada175",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fc56abff-9943-41d0-9be3-b4c208ada175'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fc56abff-9943-41d0-9be3-b4c208ada175\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

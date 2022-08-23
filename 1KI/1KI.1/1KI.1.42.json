@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.1.42",
+    "orgId": "1KI.1.42",
+    "bookId": "1KI",
+    "chapterId": "1KI.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 1:42",
+    "content": "<p class=\"p\"><span data-number=\"42\" data-sid=\"1KI 1:42\" class=\"v\">42</span>And while he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said unto him, Come in; for thou <span class=\"add\">art</span> a valiant man, and bringest good tidings. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.1.43",
+      "number": "43"
+    },
+    "previous": {
+      "id": "1KI.1.41",
+      "number": "41"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cfb408ee-48d7-4cbd-9e6b-cf9c6d0409fd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cfb408ee-48d7-4cbd-9e6b-cf9c6d0409fd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cfb408ee-48d7-4cbd-9e6b-cf9c6d0409fd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cfb408ee-48d7-4cbd-9e6b-cf9c6d0409fd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cfb408ee-48d7-4cbd-9e6b-cf9c6d0409fd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

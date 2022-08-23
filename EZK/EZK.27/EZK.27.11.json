@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.27.11",
+    "orgId": "EZK.27.11",
+    "bookId": "EZK",
+    "chapterId": "EZK.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 27:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EZK 27:11\" class=\"v\">11</span>The men of Arvad with thine army <span class=\"add\">were</span> upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.27.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "EZK.27.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c9952f7f-5826-4cbb-940c-81d6628ebd5d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c9952f7f-5826-4cbb-940c-81d6628ebd5d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c9952f7f-5826-4cbb-940c-81d6628ebd5d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c9952f7f-5826-4cbb-940c-81d6628ebd5d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c9952f7f-5826-4cbb-940c-81d6628ebd5d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

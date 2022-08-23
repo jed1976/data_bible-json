@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": "2CO.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "intro",
+      "reference": "2 Corinthians"
+    },
+    {
+      "id": "2CO.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "1",
+      "reference": "2 Corinthians 1"
+    },
+    {
+      "id": "2CO.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "2",
+      "reference": "2 Corinthians 2"
+    },
+    {
+      "id": "2CO.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "3",
+      "reference": "2 Corinthians 3"
+    },
+    {
+      "id": "2CO.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "4",
+      "reference": "2 Corinthians 4"
+    },
+    {
+      "id": "2CO.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "5",
+      "reference": "2 Corinthians 5"
+    },
+    {
+      "id": "2CO.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "6",
+      "reference": "2 Corinthians 6"
+    },
+    {
+      "id": "2CO.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "7",
+      "reference": "2 Corinthians 7"
+    },
+    {
+      "id": "2CO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "8",
+      "reference": "2 Corinthians 8"
+    },
+    {
+      "id": "2CO.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "9",
+      "reference": "2 Corinthians 9"
+    },
+    {
+      "id": "2CO.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "10",
+      "reference": "2 Corinthians 10"
+    },
+    {
+      "id": "2CO.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "11",
+      "reference": "2 Corinthians 11"
+    },
+    {
+      "id": "2CO.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "12",
+      "reference": "2 Corinthians 12"
+    },
+    {
+      "id": "2CO.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2CO",
+      "number": "13",
+      "reference": "2 Corinthians 13"
+    }
+  ]
+}

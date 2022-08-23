@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.29.30",
+    "orgId": "2CH.29.30",
+    "bookId": "2CH",
+    "chapterId": "2CH.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 29:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"2CH 29:30\" class=\"v\">30</span>Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the <span class=\"nd\">LORD</span> with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.29.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "2CH.29.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1fb829c-e249-4a67-b027-6ba37a568a3d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1fb829c-e249-4a67-b027-6ba37a568a3d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1fb829c-e249-4a67-b027-6ba37a568a3d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1fb829c-e249-4a67-b027-6ba37a568a3d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1fb829c-e249-4a67-b027-6ba37a568a3d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

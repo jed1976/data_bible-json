@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.38.15",
+    "orgId": "EXO.38.15",
+    "bookId": "EXO",
+    "chapterId": "EXO.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 38:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"EXO 38:15\" class=\"v\">15</span>And for the other side of the court gate, on this hand and that hand, <span class=\"add\">were</span> hangings of fifteen cubits; their pillars three, and their sockets three. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.38.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "EXO.38.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('92d092c5-c254-4f38-90ff-1c27cc280599');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='92d092c5-c254-4f38-90ff-1c27cc280599'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "92d092c5-c254-4f38-90ff-1c27cc280599",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('92d092c5-c254-4f38-90ff-1c27cc280599'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=92d092c5-c254-4f38-90ff-1c27cc280599\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

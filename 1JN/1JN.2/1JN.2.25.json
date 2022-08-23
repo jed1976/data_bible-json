@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1JN.2.25",
+    "orgId": "1JN.2.25",
+    "bookId": "1JN",
+    "chapterId": "1JN.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 John 2:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"1JN 2:25\" class=\"v\">25</span>And this is the promise that he hath promised us, <span class=\"add\">even</span> eternal life. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1JN.2.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "1JN.2.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ac496c5d-d13d-4646-91f0-e44a767e9507');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ac496c5d-d13d-4646-91f0-e44a767e9507'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ac496c5d-d13d-4646-91f0-e44a767e9507",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ac496c5d-d13d-4646-91f0-e44a767e9507'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ac496c5d-d13d-4646-91f0-e44a767e9507\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

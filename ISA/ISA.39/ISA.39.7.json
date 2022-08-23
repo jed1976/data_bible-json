@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.39.7",
+    "orgId": "ISA.39.7",
+    "bookId": "ISA",
+    "chapterId": "ISA.39",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 39:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"ISA 39:7\" class=\"v\">7</span>And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.39.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "ISA.39.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7803f6b8-77ec-42e9-8240-6bc6b363e8af');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7803f6b8-77ec-42e9-8240-6bc6b363e8af'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7803f6b8-77ec-42e9-8240-6bc6b363e8af",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7803f6b8-77ec-42e9-8240-6bc6b363e8af'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7803f6b8-77ec-42e9-8240-6bc6b363e8af\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

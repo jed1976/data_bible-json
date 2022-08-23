@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.8.6",
+    "orgId": "EXO.8.2",
+    "bookId": "EXO",
+    "chapterId": "EXO.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 8:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"EXO 8:6\" class=\"v\">6</span>And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.8.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "EXO.8.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c72255c9-b4ba-4e31-b3b1-7c34bb59ca43');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c72255c9-b4ba-4e31-b3b1-7c34bb59ca43'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c72255c9-b4ba-4e31-b3b1-7c34bb59ca43",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c72255c9-b4ba-4e31-b3b1-7c34bb59ca43'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c72255c9-b4ba-4e31-b3b1-7c34bb59ca43\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

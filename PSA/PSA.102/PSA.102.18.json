@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.102.18",
+    "orgId": "PSA.102.19",
+    "bookId": "PSA",
+    "chapterId": "PSA.102",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 102:18",
+    "content": "<p class=\"q1\"><span data-number=\"18\" data-sid=\"PSA 102:18\" class=\"v\">18</span>This shall be written for the generation to come: and the people which shall be created shall praise the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.102.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PSA.102.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('49c75bab-b7c9-4bf7-a019-68e109775f4d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='49c75bab-b7c9-4bf7-a019-68e109775f4d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "49c75bab-b7c9-4bf7-a019-68e109775f4d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('49c75bab-b7c9-4bf7-a019-68e109775f4d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=49c75bab-b7c9-4bf7-a019-68e109775f4d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

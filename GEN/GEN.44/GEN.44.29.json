@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.44.29",
+    "orgId": "GEN.44.29",
+    "bookId": "GEN",
+    "chapterId": "GEN.44",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 44:29",
+    "content": "<p class=\"p\"><span data-number=\"29\" data-sid=\"GEN 44:29\" class=\"v\">29</span>And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.44.30",
+      "number": "30"
+    },
+    "previous": {
+      "id": "GEN.44.28",
+      "number": "28"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('67e0460c-7752-4779-8049-00cb34ef00c1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='67e0460c-7752-4779-8049-00cb34ef00c1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "67e0460c-7752-4779-8049-00cb34ef00c1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('67e0460c-7752-4779-8049-00cb34ef00c1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=67e0460c-7752-4779-8049-00cb34ef00c1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.8.11",
+    "orgId": "EST.8.11",
+    "bookId": "EST",
+    "chapterId": "EST.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 8:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"EST 8:11\" class=\"v\">11</span>Wherein the king granted the Jews which <span class=\"add\">were</span> in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, <span class=\"add\">both</span> little ones and women, and <span class=\"add\">to take</span> the spoil of them for a prey, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.8.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "EST.8.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c4ae1da7-c729-4e39-914a-e8fa9b9ffff7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c4ae1da7-c729-4e39-914a-e8fa9b9ffff7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c4ae1da7-c729-4e39-914a-e8fa9b9ffff7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c4ae1da7-c729-4e39-914a-e8fa9b9ffff7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c4ae1da7-c729-4e39-914a-e8fa9b9ffff7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

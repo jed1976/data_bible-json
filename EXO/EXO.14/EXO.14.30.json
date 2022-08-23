@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.14.30",
+    "orgId": "EXO.14.30",
+    "bookId": "EXO",
+    "chapterId": "EXO.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 14:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"EXO 14:30\" class=\"v\">30</span>Thus the <span class=\"nd\">LORD</span> saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.14.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "EXO.14.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('126f0c0e-212a-4254-9448-e91169077645');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='126f0c0e-212a-4254-9448-e91169077645'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "126f0c0e-212a-4254-9448-e91169077645",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('126f0c0e-212a-4254-9448-e91169077645'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=126f0c0e-212a-4254-9448-e91169077645\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

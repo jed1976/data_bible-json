@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.7.7",
+    "orgId": "2CH.7.7",
+    "bookId": "2CH",
+    "chapterId": "2CH.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"2CH 7:7\" class=\"v\">7</span>Moreover Solomon hallowed the middle of the court that <span class=\"add\">was</span> before the house of the <span class=\"nd\">LORD</span>: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "2CH.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('83861f10-762b-449d-b914-df9c58129b55');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='83861f10-762b-449d-b914-df9c58129b55'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "83861f10-762b-449d-b914-df9c58129b55",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('83861f10-762b-449d-b914-df9c58129b55'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=83861f10-762b-449d-b914-df9c58129b55\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

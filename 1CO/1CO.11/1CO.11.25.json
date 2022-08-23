@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.11.25",
+    "orgId": "1CO.11.25",
+    "bookId": "1CO",
+    "chapterId": "1CO.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 11:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"1CO 11:25\" class=\"v\">25</span>After the same manner also <span class=\"add\">he took</span> the cup, when he had supped, saying, <span class=\"wj\">This cup is the new testament in my blood: this do ye, as oft as ye drink <span class=\"add\">it</span>, in remembrance of me.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.11.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "1CO.11.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b49dd780-4a33-4c93-baa9-9c1118f336ae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b49dd780-4a33-4c93-baa9-9c1118f336ae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b49dd780-4a33-4c93-baa9-9c1118f336ae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b49dd780-4a33-4c93-baa9-9c1118f336ae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b49dd780-4a33-4c93-baa9-9c1118f336ae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

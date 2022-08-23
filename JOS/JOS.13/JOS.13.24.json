@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.13.24",
+    "orgId": "JOS.13.24",
+    "bookId": "JOS",
+    "chapterId": "JOS.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 13:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"JOS 13:24\" class=\"v\">24</span>And Moses gave <span class=\"add\">inheritance</span> unto the tribe of Gad, <span class=\"add\">even</span> unto the children of Gad according to their families. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.13.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "JOS.13.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ecc8fb06-bdff-4c7d-9427-22930006b9fc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ecc8fb06-bdff-4c7d-9427-22930006b9fc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ecc8fb06-bdff-4c7d-9427-22930006b9fc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ecc8fb06-bdff-4c7d-9427-22930006b9fc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ecc8fb06-bdff-4c7d-9427-22930006b9fc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

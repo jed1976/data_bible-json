@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.38.6",
+    "orgId": "EZK.38.6",
+    "bookId": "EZK",
+    "chapterId": "EZK.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 38:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"EZK 38:6\" class=\"v\">6</span>Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: <span class=\"add\">and</span> many people with thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.38.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "EZK.38.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('66952103-a6ce-44d2-b3e2-9d6c03cb0cbb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='66952103-a6ce-44d2-b3e2-9d6c03cb0cbb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "66952103-a6ce-44d2-b3e2-9d6c03cb0cbb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('66952103-a6ce-44d2-b3e2-9d6c03cb0cbb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=66952103-a6ce-44d2-b3e2-9d6c03cb0cbb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

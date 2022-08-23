@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.9.3",
+    "orgId": "JDG.9.3",
+    "bookId": "JDG",
+    "chapterId": "JDG.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 9:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"JDG 9:3\" class=\"v\">3</span>And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He <span class=\"add\">is</span> our brother. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.9.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "JDG.9.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('feb72148-dcbd-4370-a241-2d7bbae7788a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='feb72148-dcbd-4370-a241-2d7bbae7788a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "feb72148-dcbd-4370-a241-2d7bbae7788a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('feb72148-dcbd-4370-a241-2d7bbae7788a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=feb72148-dcbd-4370-a241-2d7bbae7788a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

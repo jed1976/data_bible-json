@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.9.32",
+    "orgId": "NEH.9.32",
+    "bookId": "NEH",
+    "chapterId": "NEH.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 9:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"NEH 9:32\" class=\"v\">32</span>Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.9.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "NEH.9.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9cc2c11e-3fc0-48c3-aca1-5bbab3c8d6a4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9cc2c11e-3fc0-48c3-aca1-5bbab3c8d6a4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9cc2c11e-3fc0-48c3-aca1-5bbab3c8d6a4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9cc2c11e-3fc0-48c3-aca1-5bbab3c8d6a4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9cc2c11e-3fc0-48c3-aca1-5bbab3c8d6a4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

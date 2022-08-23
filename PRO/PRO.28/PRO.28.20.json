@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.28.20",
+    "orgId": "PRO.28.20",
+    "bookId": "PRO",
+    "chapterId": "PRO.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 28:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"PRO 28:20\" class=\"v\">20</span>A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.28.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "PRO.28.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('04889a02-7238-429e-a3e3-bc24f6d9c124');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='04889a02-7238-429e-a3e3-bc24f6d9c124'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "04889a02-7238-429e-a3e3-bc24f6d9c124",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('04889a02-7238-429e-a3e3-bc24f6d9c124'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=04889a02-7238-429e-a3e3-bc24f6d9c124\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

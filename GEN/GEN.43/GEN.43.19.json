@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.43.19",
+    "orgId": "GEN.43.19",
+    "bookId": "GEN",
+    "chapterId": "GEN.43",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 43:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"GEN 43:19\" class=\"v\">19</span>And they came near to the steward of Joseph’s house, and they communed with him at the door of the house, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.43.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "GEN.43.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('afb9fc83-618c-42e1-ba04-4d04512ef50f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='afb9fc83-618c-42e1-ba04-4d04512ef50f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "afb9fc83-618c-42e1-ba04-4d04512ef50f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('afb9fc83-618c-42e1-ba04-4d04512ef50f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=afb9fc83-618c-42e1-ba04-4d04512ef50f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ECC.5.10",
+    "orgId": "ECC.5.9",
+    "bookId": "ECC",
+    "chapterId": "ECC.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ecclesiastes 5:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"ECC 5:10\" class=\"v\">10</span>He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this <span class=\"add\">is</span> also vanity. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ECC.5.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "ECC.5.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('72712e09-5785-4415-b2d1-3c059ca75359');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='72712e09-5785-4415-b2d1-3c059ca75359'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "72712e09-5785-4415-b2d1-3c059ca75359",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('72712e09-5785-4415-b2d1-3c059ca75359'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=72712e09-5785-4415-b2d1-3c059ca75359\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

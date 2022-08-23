@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.12.10",
+    "orgId": "ZEC.12.10",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 12:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"ZEC 12:10\" class=\"v\">10</span>And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for <span class=\"add\">his</span> only <span class=\"add\">son</span>, and shall be in bitterness for him, as one that is in bitterness for <span class=\"add\">his</span> firstborn. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.12.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "ZEC.12.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0e0ea7b3-8bc9-4b64-b583-d3bd2e0a9672');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0e0ea7b3-8bc9-4b64-b583-d3bd2e0a9672'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0e0ea7b3-8bc9-4b64-b583-d3bd2e0a9672",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0e0ea7b3-8bc9-4b64-b583-d3bd2e0a9672'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0e0ea7b3-8bc9-4b64-b583-d3bd2e0a9672\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

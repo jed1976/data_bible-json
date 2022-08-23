@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.9.51",
+    "orgId": "JDG.9.51",
+    "bookId": "JDG",
+    "chapterId": "JDG.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 9:51",
+    "content": "<p class=\"p\"><span data-number=\"51\" data-sid=\"JDG 9:51\" class=\"v\">51</span>But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut <span class=\"add\">it</span> to them, and gat them up to the top of the tower. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.9.52",
+      "number": "52"
+    },
+    "previous": {
+      "id": "JDG.9.50",
+      "number": "50"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9fc845a3-fade-4e87-a48c-3617f6e484ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9fc845a3-fade-4e87-a48c-3617f6e484ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9fc845a3-fade-4e87-a48c-3617f6e484ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9fc845a3-fade-4e87-a48c-3617f6e484ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9fc845a3-fade-4e87-a48c-3617f6e484ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

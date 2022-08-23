@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.48.6",
+    "orgId": "ISA.48.6",
+    "bookId": "ISA",
+    "chapterId": "ISA.48",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 48:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"ISA 48:6\" class=\"v\">6</span>Thou hast heard, see all this; and will not ye declare <span class=\"add\">it</span>? I have shewed thee new things from this time, even hidden things, and thou didst not know them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.48.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "ISA.48.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('41e99bd4-8d8e-4667-8a86-c32b208708b3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='41e99bd4-8d8e-4667-8a86-c32b208708b3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "41e99bd4-8d8e-4667-8a86-c32b208708b3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('41e99bd4-8d8e-4667-8a86-c32b208708b3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=41e99bd4-8d8e-4667-8a86-c32b208708b3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

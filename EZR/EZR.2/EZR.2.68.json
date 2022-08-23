@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZR.2.68",
+    "orgId": "EZR.2.68",
+    "bookId": "EZR",
+    "chapterId": "EZR.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezra 2:68",
+    "content": "<p class=\"p\"><span data-number=\"68\" data-sid=\"EZR 2:68\" class=\"v\">68</span>¶ And <span class=\"add\">some</span> of the chief of the fathers, when they came to the house of the <span class=\"nd\">LORD</span> which <span class=\"add\">is</span> at Jerusalem, offered freely for the house of God to set it up in his place: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZR.2.69",
+      "number": "69"
+    },
+    "previous": {
+      "id": "EZR.2.67",
+      "number": "67"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3737cfb6-c358-4013-8be7-1957aee3cc81');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3737cfb6-c358-4013-8be7-1957aee3cc81'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3737cfb6-c358-4013-8be7-1957aee3cc81",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3737cfb6-c358-4013-8be7-1957aee3cc81'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3737cfb6-c358-4013-8be7-1957aee3cc81\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.21.17",
+    "orgId": "NUM.21.17",
+    "bookId": "NUM",
+    "chapterId": "NUM.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 21:17",
+    "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"NUM 21:17\" class=\"v\">17</span>¶ Then Israel sang this song, Spring up, O well; sing ye unto it: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.21.18",
+      "number": "18"
+    },
+    "previous": {
+      "id": "NUM.21.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('be7e47e3-ecc9-4560-80d2-b5a9a594b275');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='be7e47e3-ecc9-4560-80d2-b5a9a594b275'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "be7e47e3-ecc9-4560-80d2-b5a9a594b275",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('be7e47e3-ecc9-4560-80d2-b5a9a594b275'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=be7e47e3-ecc9-4560-80d2-b5a9a594b275\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

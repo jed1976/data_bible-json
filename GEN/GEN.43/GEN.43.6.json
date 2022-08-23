@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.43.6",
+    "orgId": "GEN.43.6",
+    "bookId": "GEN",
+    "chapterId": "GEN.43",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 43:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"GEN 43:6\" class=\"v\">6</span>And Israel said, Wherefore dealt ye <span class=\"add\">so</span> ill with me, <span class=\"add\">as</span> to tell the man whether ye had yet a brother? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.43.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "GEN.43.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ec3e4e09-b0be-4c32-9092-ce740d610c04');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ec3e4e09-b0be-4c32-9092-ce740d610c04'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ec3e4e09-b0be-4c32-9092-ce740d610c04",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ec3e4e09-b0be-4c32-9092-ce740d610c04'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ec3e4e09-b0be-4c32-9092-ce740d610c04\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EPH.5.20",
+    "orgId": "EPH.5.20",
+    "bookId": "EPH",
+    "chapterId": "EPH.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ephesians 5:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"EPH 5:20\" class=\"v\">20</span>Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EPH.5.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "EPH.5.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('90ca9a85-5bd7-420c-ad1a-27b07aab4776');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='90ca9a85-5bd7-420c-ad1a-27b07aab4776'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "90ca9a85-5bd7-420c-ad1a-27b07aab4776",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('90ca9a85-5bd7-420c-ad1a-27b07aab4776'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=90ca9a85-5bd7-420c-ad1a-27b07aab4776\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

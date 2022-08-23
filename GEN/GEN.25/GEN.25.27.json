@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.25.27",
+    "orgId": "GEN.25.27",
+    "bookId": "GEN",
+    "chapterId": "GEN.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 25:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"GEN 25:27\" class=\"v\">27</span>And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob <span class=\"add\">was</span> a plain man, dwelling in tents. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.25.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "GEN.25.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9f4e5e48-5c32-48a5-b940-fe08f1d1ce6f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9f4e5e48-5c32-48a5-b940-fe08f1d1ce6f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9f4e5e48-5c32-48a5-b940-fe08f1d1ce6f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9f4e5e48-5c32-48a5-b940-fe08f1d1ce6f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9f4e5e48-5c32-48a5-b940-fe08f1d1ce6f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

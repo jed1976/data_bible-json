@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.23.7",
+    "orgId": "2KI.23.7",
+    "bookId": "2KI",
+    "chapterId": "2KI.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 23:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"2KI 23:7\" class=\"v\">7</span>And he brake down the houses of the sodomites, that <span class=\"add\">were</span> by the house of the <span class=\"nd\">LORD</span>, where the women wove hangings for the grove. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.23.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "2KI.23.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('18528a03-02c2-4d0e-a9c4-b9d974a72d3f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='18528a03-02c2-4d0e-a9c4-b9d974a72d3f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "18528a03-02c2-4d0e-a9c4-b9d974a72d3f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('18528a03-02c2-4d0e-a9c4-b9d974a72d3f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=18528a03-02c2-4d0e-a9c4-b9d974a72d3f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

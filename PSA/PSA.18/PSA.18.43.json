@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.18.43",
+    "orgId": "PSA.18.44",
+    "bookId": "PSA",
+    "chapterId": "PSA.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 18:43",
+    "content": "<p class=\"q1\"><span data-number=\"43\" data-sid=\"PSA 18:43\" class=\"v\">43</span>Thou hast delivered me from the strivings of the people; <span class=\"add\">and</span> thou hast made me the head of the heathen: a people <span class=\"add\">whom</span> I have not known shall serve me.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.18.44",
+      "number": "44"
+    },
+    "previous": {
+      "id": "PSA.18.42",
+      "number": "42"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b4e55e8f-bb48-43ef-a4e4-06117f272f2d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b4e55e8f-bb48-43ef-a4e4-06117f272f2d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b4e55e8f-bb48-43ef-a4e4-06117f272f2d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b4e55e8f-bb48-43ef-a4e4-06117f272f2d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b4e55e8f-bb48-43ef-a4e4-06117f272f2d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

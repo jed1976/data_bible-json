@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.25.11",
+    "orgId": "2KI.25.11",
+    "bookId": "2KI",
+    "chapterId": "2KI.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 25:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"2KI 25:11\" class=\"v\">11</span>Now the rest of the people <span class=\"add\">that were</span> left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.25.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "2KI.25.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2ec5b0f5-b33f-4a7b-a7b6-f47ea46776a6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2ec5b0f5-b33f-4a7b-a7b6-f47ea46776a6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2ec5b0f5-b33f-4a7b-a7b6-f47ea46776a6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2ec5b0f5-b33f-4a7b-a7b6-f47ea46776a6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2ec5b0f5-b33f-4a7b-a7b6-f47ea46776a6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

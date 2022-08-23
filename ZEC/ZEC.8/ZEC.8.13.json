@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.8.13",
+    "orgId": "ZEC.8.13",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 8:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ZEC 8:13\" class=\"v\">13</span>And it shall come to pass, <span class=\"add\">that</span> as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, <span class=\"add\">but</span> let your hands be strong. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.8.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ZEC.8.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('0a8a96a4-d278-451d-a1d6-fa6948f20f6e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='0a8a96a4-d278-451d-a1d6-fa6948f20f6e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "0a8a96a4-d278-451d-a1d6-fa6948f20f6e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('0a8a96a4-d278-451d-a1d6-fa6948f20f6e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=0a8a96a4-d278-451d-a1d6-fa6948f20f6e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

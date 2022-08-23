@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.3.51",
+    "orgId": "LAM.3.51",
+    "bookId": "LAM",
+    "chapterId": "LAM.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 3:51",
+    "content": "<p class=\"p\"><span data-number=\"51\" data-sid=\"LAM 3:51\" class=\"v\">51</span>Mine eye affecteth mine heart because of all the daughters of my city. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.3.52",
+      "number": "52"
+    },
+    "previous": {
+      "id": "LAM.3.50",
+      "number": "50"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e8f47c59-65b3-435b-8911-60f47f4c3089');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e8f47c59-65b3-435b-8911-60f47f4c3089'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e8f47c59-65b3-435b-8911-60f47f4c3089",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e8f47c59-65b3-435b-8911-60f47f4c3089'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e8f47c59-65b3-435b-8911-60f47f4c3089\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EPH.3.9",
+    "orgId": "EPH.3.9",
+    "bookId": "EPH",
+    "chapterId": "EPH.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ephesians 3:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"EPH 3:9\" class=\"v\">9</span>And to make all <span class=\"add\">men</span> see what <span class=\"add\">is</span> the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EPH.3.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "EPH.3.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d8f35670-2dbe-43e8-8026-2f0398fa10f0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d8f35670-2dbe-43e8-8026-2f0398fa10f0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d8f35670-2dbe-43e8-8026-2f0398fa10f0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d8f35670-2dbe-43e8-8026-2f0398fa10f0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d8f35670-2dbe-43e8-8026-2f0398fa10f0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

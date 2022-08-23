@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.6.30",
+    "orgId": "PRO.6.30",
+    "bookId": "PRO",
+    "chapterId": "PRO.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 6:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"PRO 6:30\" class=\"v\">30</span><span class=\"add\">Men</span> do not despise a thief, if he steal to satisfy his soul when he is hungry; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.6.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "PRO.6.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8c73d814-6cf4-4bee-bd0b-ab8e44b74128');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8c73d814-6cf4-4bee-bd0b-ab8e44b74128'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8c73d814-6cf4-4bee-bd0b-ab8e44b74128",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8c73d814-6cf4-4bee-bd0b-ab8e44b74128'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8c73d814-6cf4-4bee-bd0b-ab8e44b74128\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2TI.intro.0",
+    "orgId": "2TI.intro.0",
+    "bookId": "2TI",
+    "chapterId": "2TI.intro",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Timothy",
+    "content": "<p class=\"mt1\">THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</p>",
+    "verseCount": 0,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2TI.1.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "1TI.6.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f57fd123-b893-482b-93e8-a953f5d135bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f57fd123-b893-482b-93e8-a953f5d135bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f57fd123-b893-482b-93e8-a953f5d135bb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f57fd123-b893-482b-93e8-a953f5d135bb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f57fd123-b893-482b-93e8-a953f5d135bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

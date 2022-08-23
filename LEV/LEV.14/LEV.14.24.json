@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.14.24",
+    "orgId": "LEV.14.24",
+    "bookId": "LEV",
+    "chapterId": "LEV.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 14:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"LEV 14:24\" class=\"v\">24</span>And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them <span class=\"add\">for</span> a wave offering before the <span class=\"nd\">LORD</span>: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.14.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "LEV.14.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a823099e-a0c8-4958-b7c1-27219bebd645');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a823099e-a0c8-4958-b7c1-27219bebd645'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a823099e-a0c8-4958-b7c1-27219bebd645",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a823099e-a0c8-4958-b7c1-27219bebd645'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a823099e-a0c8-4958-b7c1-27219bebd645\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

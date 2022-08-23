@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.1.79",
+    "orgId": "LUK.1.79",
+    "bookId": "LUK",
+    "chapterId": "LUK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 1:79",
+    "content": "<p class=\"p\"><span data-number=\"79\" data-sid=\"LUK 1:79\" class=\"v\">79</span>To give light to them that sit in darkness and <span class=\"add\">in</span> the shadow of death, to guide our feet into the way of peace. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.1.80",
+      "number": "80"
+    },
+    "previous": {
+      "id": "LUK.1.78",
+      "number": "78"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('81dca0bc-32fb-409f-bad9-ca6daa4c00e8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='81dca0bc-32fb-409f-bad9-ca6daa4c00e8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "81dca0bc-32fb-409f-bad9-ca6daa4c00e8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('81dca0bc-32fb-409f-bad9-ca6daa4c00e8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=81dca0bc-32fb-409f-bad9-ca6daa4c00e8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

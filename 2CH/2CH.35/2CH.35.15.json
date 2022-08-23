@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.35.15",
+    "orgId": "2CH.35.15",
+    "bookId": "2CH",
+    "chapterId": "2CH.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 35:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"2CH 35:15\" class=\"v\">15</span>And the singers the sons of Asaph <span class=\"add\">were</span> in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters <span class=\"add\">waited</span> at every gate; they might not depart from their service; for their brethren the Levites prepared for them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.35.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "2CH.35.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b773db2b-941c-4950-9688-0f7f49c0a1b6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b773db2b-941c-4950-9688-0f7f49c0a1b6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b773db2b-941c-4950-9688-0f7f49c0a1b6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b773db2b-941c-4950-9688-0f7f49c0a1b6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b773db2b-941c-4950-9688-0f7f49c0a1b6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOL.2.6",
+    "orgId": "JOL.2.6",
+    "bookId": "JOL",
+    "chapterId": "JOL.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joel 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"JOL 2:6\" class=\"v\">6</span>Before their face the people shall be much pained: all faces shall gather blackness. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOL.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "JOL.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('abb6e420-216d-4aca-9e80-ee45489184ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='abb6e420-216d-4aca-9e80-ee45489184ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "abb6e420-216d-4aca-9e80-ee45489184ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('abb6e420-216d-4aca-9e80-ee45489184ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=abb6e420-216d-4aca-9e80-ee45489184ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.42.14",
+    "orgId": "EZK.42.14",
+    "bookId": "EZK",
+    "chapterId": "EZK.42",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 42:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"EZK 42:14\" class=\"v\">14</span>When the priests enter therein, then shall they not go out of the holy <span class=\"add\">place</span> into the utter court, but there they shall lay their garments wherein they minister; for they <span class=\"add\">are</span> holy; and shall put on other garments, and shall approach to <span class=\"add\">those things</span> which <span class=\"add\">are</span> for the people.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.42.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "EZK.42.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b7627ce4-2597-4a3d-aacf-8779f213fbae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b7627ce4-2597-4a3d-aacf-8779f213fbae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b7627ce4-2597-4a3d-aacf-8779f213fbae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b7627ce4-2597-4a3d-aacf-8779f213fbae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b7627ce4-2597-4a3d-aacf-8779f213fbae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

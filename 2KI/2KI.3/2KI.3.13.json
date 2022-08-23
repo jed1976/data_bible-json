@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.3.13",
+    "orgId": "2KI.3.13",
+    "bookId": "2KI",
+    "chapterId": "2KI.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 3:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"2KI 3:13\" class=\"v\">13</span>And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the <span class=\"nd\">LORD</span> hath called these three kings together, to deliver them into the hand of Moab. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.3.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "2KI.3.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a16fe030-fce1-4d63-9822-f51bc94a0aa8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a16fe030-fce1-4d63-9822-f51bc94a0aa8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a16fe030-fce1-4d63-9822-f51bc94a0aa8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a16fe030-fce1-4d63-9822-f51bc94a0aa8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a16fe030-fce1-4d63-9822-f51bc94a0aa8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

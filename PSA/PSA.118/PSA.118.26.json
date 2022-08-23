@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.118.26",
+    "orgId": "PSA.118.26",
+    "bookId": "PSA",
+    "chapterId": "PSA.118",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 118:26",
+    "content": "<p class=\"q1\"><span data-number=\"26\" data-sid=\"PSA 118:26\" class=\"v\">26</span>Blessed <span class=\"add\">be</span> he that cometh in the name of the <span class=\"nd\">LORD</span>: we have blessed you out of the house of the <span class=\"nd\">LORD</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.118.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "PSA.118.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('adcae031-ce95-4f09-990e-6f15641af109');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='adcae031-ce95-4f09-990e-6f15641af109'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "adcae031-ce95-4f09-990e-6f15641af109",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('adcae031-ce95-4f09-990e-6f15641af109'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=adcae031-ce95-4f09-990e-6f15641af109\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

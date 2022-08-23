@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.5.2",
+    "orgId": "ACT.5.2",
+    "bookId": "ACT",
+    "chapterId": "ACT.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 5:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"ACT 5:2\" class=\"v\">2</span>And kept back <span class=\"add\">part</span> of the price, his wife also being privy <span class=\"add\">to it</span>, and brought a certain part, and laid <span class=\"add\">it</span> at the apostles’ feet. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.5.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "ACT.5.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cf2cac42-7817-40d1-9ca0-7ee9be40dfd7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cf2cac42-7817-40d1-9ca0-7ee9be40dfd7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cf2cac42-7817-40d1-9ca0-7ee9be40dfd7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cf2cac42-7817-40d1-9ca0-7ee9be40dfd7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cf2cac42-7817-40d1-9ca0-7ee9be40dfd7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

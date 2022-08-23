@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.31.43",
+    "orgId": "GEN.31.43",
+    "bookId": "GEN",
+    "chapterId": "GEN.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 31:43",
+    "content": "<p class=\"p\"><span data-number=\"43\" data-sid=\"GEN 31:43\" class=\"v\">43</span>¶ And Laban answered and said unto Jacob, <span class=\"add\">These</span> daughters <span class=\"add\">are</span> my daughters, and <span class=\"add\">these</span> children <span class=\"add\">are</span> my children, and <span class=\"add\">these</span> cattle <span class=\"add\">are</span> my cattle, and all that thou seest <span class=\"add\">is</span> mine: and what can I do this day unto these my daughters, or unto their children which they have born? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.31.44",
+      "number": "44"
+    },
+    "previous": {
+      "id": "GEN.31.42",
+      "number": "42"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f6f1d1c3-9acd-48d6-9aa6-6aedefbdbcd1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f6f1d1c3-9acd-48d6-9aa6-6aedefbdbcd1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f6f1d1c3-9acd-48d6-9aa6-6aedefbdbcd1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f6f1d1c3-9acd-48d6-9aa6-6aedefbdbcd1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f6f1d1c3-9acd-48d6-9aa6-6aedefbdbcd1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "PSA.36.1",
+      "orgId": "PSA.36.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:1"
+    },
+    {
+      "id": "PSA.36.2",
+      "orgId": "PSA.36.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:2"
+    },
+    {
+      "id": "PSA.36.3",
+      "orgId": "PSA.36.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:3"
+    },
+    {
+      "id": "PSA.36.4",
+      "orgId": "PSA.36.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:4"
+    },
+    {
+      "id": "PSA.36.5",
+      "orgId": "PSA.36.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:5"
+    },
+    {
+      "id": "PSA.36.6",
+      "orgId": "PSA.36.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:6"
+    },
+    {
+      "id": "PSA.36.7",
+      "orgId": "PSA.36.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:7"
+    },
+    {
+      "id": "PSA.36.8",
+      "orgId": "PSA.36.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:8"
+    },
+    {
+      "id": "PSA.36.9",
+      "orgId": "PSA.36.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:9"
+    },
+    {
+      "id": "PSA.36.10",
+      "orgId": "PSA.36.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:10"
+    },
+    {
+      "id": "PSA.36.11",
+      "orgId": "PSA.36.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:11"
+    },
+    {
+      "id": "PSA.36.12",
+      "orgId": "PSA.36.13",
+      "bookId": "PSA",
+      "chapterId": "PSA.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 36:12"
+    }
+  ]
+}

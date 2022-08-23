@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.45.18",
+    "orgId": "ISA.45.18",
+    "bookId": "ISA",
+    "chapterId": "ISA.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 45:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"ISA 45:18\" class=\"v\">18</span>For thus saith the <span class=\"nd\">LORD</span> that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I <span class=\"add\">am</span> the <span class=\"nd\">LORD</span>; and <span class=\"add\">there is</span> none else. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.45.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "ISA.45.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b42f2278-9830-4c3d-990c-8df0f0b9a512');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b42f2278-9830-4c3d-990c-8df0f0b9a512'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b42f2278-9830-4c3d-990c-8df0f0b9a512",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b42f2278-9830-4c3d-990c-8df0f0b9a512'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b42f2278-9830-4c3d-990c-8df0f0b9a512\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

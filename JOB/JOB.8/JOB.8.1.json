@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.8.1",
+    "orgId": "JOB.8.1",
+    "bookId": "JOB",
+    "chapterId": "JOB.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 8:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"JOB 8:1\" class=\"v\">1</span>Then answered Bildad the Shuhite, and said, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.8.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "JOB.7.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('60a8f411-2ff4-4c2a-8789-11dc74a7c770');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='60a8f411-2ff4-4c2a-8789-11dc74a7c770'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "60a8f411-2ff4-4c2a-8789-11dc74a7c770",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('60a8f411-2ff4-4c2a-8789-11dc74a7c770'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=60a8f411-2ff4-4c2a-8789-11dc74a7c770\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

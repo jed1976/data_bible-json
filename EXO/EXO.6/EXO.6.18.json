@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.6.18",
+    "orgId": "EXO.6.18",
+    "bookId": "EXO",
+    "chapterId": "EXO.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 6:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"EXO 6:18\" class=\"v\">18</span>And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath <span class=\"add\">were</span> an hundred thirty and three years. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.6.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "EXO.6.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('df03c264-c49a-4955-8621-f5e33a5d807d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='df03c264-c49a-4955-8621-f5e33a5d807d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "df03c264-c49a-4955-8621-f5e33a5d807d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('df03c264-c49a-4955-8621-f5e33a5d807d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=df03c264-c49a-4955-8621-f5e33a5d807d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

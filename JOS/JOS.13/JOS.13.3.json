@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.13.3",
+    "orgId": "JOS.13.3",
+    "bookId": "JOS",
+    "chapterId": "JOS.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 13:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"JOS 13:3\" class=\"v\">3</span>From Sihor, which <span class=\"add\">is</span> before Egypt, even unto the borders of Ekron northward, <span class=\"add\">which</span> is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.13.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "JOS.13.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('84dbde02-6899-4009-a8e8-5aa7d6e0cbaa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='84dbde02-6899-4009-a8e8-5aa7d6e0cbaa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "84dbde02-6899-4009-a8e8-5aa7d6e0cbaa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('84dbde02-6899-4009-a8e8-5aa7d6e0cbaa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=84dbde02-6899-4009-a8e8-5aa7d6e0cbaa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

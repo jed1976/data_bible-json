@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.11.7",
+    "orgId": "NUM.11.7",
+    "bookId": "NUM",
+    "chapterId": "NUM.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 11:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"NUM 11:7\" class=\"v\">7</span>And the manna <span class=\"add\">was</span> as coriander seed, and the colour thereof as the colour of bdellium. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.11.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "NUM.11.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fb6aaccf-2f56-4233-91be-b0f3797d442e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fb6aaccf-2f56-4233-91be-b0f3797d442e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fb6aaccf-2f56-4233-91be-b0f3797d442e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fb6aaccf-2f56-4233-91be-b0f3797d442e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fb6aaccf-2f56-4233-91be-b0f3797d442e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

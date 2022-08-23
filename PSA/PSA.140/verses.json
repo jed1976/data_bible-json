@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "PSA.140.1",
+      "orgId": "PSA.140.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:1"
+    },
+    {
+      "id": "PSA.140.2",
+      "orgId": "PSA.140.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:2"
+    },
+    {
+      "id": "PSA.140.3",
+      "orgId": "PSA.140.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:3"
+    },
+    {
+      "id": "PSA.140.4",
+      "orgId": "PSA.140.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:4"
+    },
+    {
+      "id": "PSA.140.5",
+      "orgId": "PSA.140.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:5"
+    },
+    {
+      "id": "PSA.140.6",
+      "orgId": "PSA.140.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:6"
+    },
+    {
+      "id": "PSA.140.7",
+      "orgId": "PSA.140.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:7"
+    },
+    {
+      "id": "PSA.140.8",
+      "orgId": "PSA.140.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:8"
+    },
+    {
+      "id": "PSA.140.9",
+      "orgId": "PSA.140.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:9"
+    },
+    {
+      "id": "PSA.140.10",
+      "orgId": "PSA.140.11",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:10"
+    },
+    {
+      "id": "PSA.140.11",
+      "orgId": "PSA.140.12",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:11"
+    },
+    {
+      "id": "PSA.140.12",
+      "orgId": "PSA.140.13",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:12"
+    },
+    {
+      "id": "PSA.140.13",
+      "orgId": "PSA.140.14",
+      "bookId": "PSA",
+      "chapterId": "PSA.140",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 140:13"
+    }
+  ]
+}

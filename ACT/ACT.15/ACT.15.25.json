@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.15.25",
+    "orgId": "ACT.15.25",
+    "bookId": "ACT",
+    "chapterId": "ACT.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 15:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"ACT 15:25\" class=\"v\">25</span>It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.15.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "ACT.15.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e8f42423-a717-47f2-a1d6-473f6eef3703');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e8f42423-a717-47f2-a1d6-473f6eef3703'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e8f42423-a717-47f2-a1d6-473f6eef3703",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e8f42423-a717-47f2-a1d6-473f6eef3703'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e8f42423-a717-47f2-a1d6-473f6eef3703\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

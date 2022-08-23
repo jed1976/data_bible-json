@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.2.16",
+    "orgId": "LUK.2.16",
+    "bookId": "LUK",
+    "chapterId": "LUK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 2:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"LUK 2:16\" class=\"v\">16</span>And they came with haste, and found Mary, and Joseph, and the babe lying in a manger. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.2.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "LUK.2.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b0af346c-aa12-44c7-9b13-727e5526aeeb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b0af346c-aa12-44c7-9b13-727e5526aeeb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b0af346c-aa12-44c7-9b13-727e5526aeeb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b0af346c-aa12-44c7-9b13-727e5526aeeb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b0af346c-aa12-44c7-9b13-727e5526aeeb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

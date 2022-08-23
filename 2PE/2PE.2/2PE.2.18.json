@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2PE.2.18",
+    "orgId": "2PE.2.18",
+    "bookId": "2PE",
+    "chapterId": "2PE.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Peter 2:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"2PE 2:18\" class=\"v\">18</span>For when they speak great swelling <span class=\"add\">words</span> of vanity, they allure through the lusts of the flesh, <span class=\"add\">through much</span> wantonness, those that were clean escaped from them who live in error. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2PE.2.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "2PE.2.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6f96ea72-2b16-4e9c-b259-2442c09a9d0e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6f96ea72-2b16-4e9c-b259-2442c09a9d0e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6f96ea72-2b16-4e9c-b259-2442c09a9d0e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6f96ea72-2b16-4e9c-b259-2442c09a9d0e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6f96ea72-2b16-4e9c-b259-2442c09a9d0e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.14.28",
+    "orgId": "ACT.14.28",
+    "bookId": "ACT",
+    "chapterId": "ACT.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 14:28",
+    "content": "<p class=\"p\"><span data-number=\"28\" data-sid=\"ACT 14:28\" class=\"v\">28</span>And there they abode long time with the disciples.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.15.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "ACT.14.27",
+      "number": "27"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8bd6e6e7-5e17-4420-a7ed-9f49e2ed0d42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8bd6e6e7-5e17-4420-a7ed-9f49e2ed0d42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8bd6e6e7-5e17-4420-a7ed-9f49e2ed0d42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8bd6e6e7-5e17-4420-a7ed-9f49e2ed0d42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8bd6e6e7-5e17-4420-a7ed-9f49e2ed0d42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

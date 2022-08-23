@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.59.8",
+    "orgId": "PSA.59.9",
+    "bookId": "PSA",
+    "chapterId": "PSA.59",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 59:8",
+    "content": "<p class=\"b\"></p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 59:8\" class=\"v\">8</span>But thou, O <span class=\"nd\">LORD</span>, shalt laugh at them; thou shalt have all the heathen in derision.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.59.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "PSA.59.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a983783e-bd11-497f-b347-6c4ecd74e1b2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a983783e-bd11-497f-b347-6c4ecd74e1b2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a983783e-bd11-497f-b347-6c4ecd74e1b2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a983783e-bd11-497f-b347-6c4ecd74e1b2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a983783e-bd11-497f-b347-6c4ecd74e1b2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

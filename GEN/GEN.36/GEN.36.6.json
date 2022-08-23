@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.36.6",
+    "orgId": "GEN.36.6",
+    "bookId": "GEN",
+    "chapterId": "GEN.36",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 36:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"GEN 36:6\" class=\"v\">6</span>And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.36.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "GEN.36.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e6a6e573-6744-450a-9422-bf6786ee88a4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e6a6e573-6744-450a-9422-bf6786ee88a4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e6a6e573-6744-450a-9422-bf6786ee88a4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e6a6e573-6744-450a-9422-bf6786ee88a4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e6a6e573-6744-450a-9422-bf6786ee88a4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

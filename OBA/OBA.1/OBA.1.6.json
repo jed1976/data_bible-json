@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "OBA.1.6",
+    "orgId": "OBA.1.6",
+    "bookId": "OBA",
+    "chapterId": "OBA.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Obadiah 1:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"OBA 1:6\" class=\"v\">6</span>How are <span class=\"add\">the things</span> of Esau searched out! <span class=\"add\">how</span> are his hidden things sought up! </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "OBA.1.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "OBA.1.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b04ba62d-29af-47f2-b85c-822bf38a830a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b04ba62d-29af-47f2-b85c-822bf38a830a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b04ba62d-29af-47f2-b85c-822bf38a830a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b04ba62d-29af-47f2-b85c-822bf38a830a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b04ba62d-29af-47f2-b85c-822bf38a830a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

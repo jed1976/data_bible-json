@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.7.15",
+    "orgId": "JOS.7.15",
+    "bookId": "JOS",
+    "chapterId": "JOS.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 7:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"JOS 7:15\" class=\"v\">15</span>And it shall be, <span class=\"add\">that</span> he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the <span class=\"nd\">LORD</span>, and because he hath wrought folly in Israel.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.7.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "JOS.7.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('52c0c927-3385-4ee7-a1ba-4b8ec9cc2333');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='52c0c927-3385-4ee7-a1ba-4b8ec9cc2333'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "52c0c927-3385-4ee7-a1ba-4b8ec9cc2333",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('52c0c927-3385-4ee7-a1ba-4b8ec9cc2333'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=52c0c927-3385-4ee7-a1ba-4b8ec9cc2333\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

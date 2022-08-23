@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.10.48",
+    "orgId": "MRK.10.48",
+    "bookId": "MRK",
+    "chapterId": "MRK.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 10:48",
+    "content": "<p class=\"p\"><span data-number=\"48\" data-sid=\"MRK 10:48\" class=\"v\">48</span>And many charged him that he should hold his peace: but he cried the more a great deal, <span class=\"add\">Thou</span> Son of David, have mercy on me. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.10.49",
+      "number": "49"
+    },
+    "previous": {
+      "id": "MRK.10.47",
+      "number": "47"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('da0a9cc9-bcf5-44e5-a3fe-9da95fc4cc42');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='da0a9cc9-bcf5-44e5-a3fe-9da95fc4cc42'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "da0a9cc9-bcf5-44e5-a3fe-9da95fc4cc42",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('da0a9cc9-bcf5-44e5-a3fe-9da95fc4cc42'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=da0a9cc9-bcf5-44e5-a3fe-9da95fc4cc42\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

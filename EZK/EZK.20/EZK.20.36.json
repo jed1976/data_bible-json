@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.20.36",
+    "orgId": "EZK.20.36",
+    "bookId": "EZK",
+    "chapterId": "EZK.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 20:36",
+    "content": "<p class=\"p\"><span data-number=\"36\" data-sid=\"EZK 20:36\" class=\"v\">36</span>Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord <span class=\"nd\">GOD</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.20.37",
+      "number": "37"
+    },
+    "previous": {
+      "id": "EZK.20.35",
+      "number": "35"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c51be629-2dd2-4947-9511-da38416337a0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c51be629-2dd2-4947-9511-da38416337a0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c51be629-2dd2-4947-9511-da38416337a0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c51be629-2dd2-4947-9511-da38416337a0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c51be629-2dd2-4947-9511-da38416337a0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

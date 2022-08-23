@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.4.8",
+    "orgId": "PRO.4.8",
+    "bookId": "PRO",
+    "chapterId": "PRO.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 4:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"PRO 4:8\" class=\"v\">8</span>Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.4.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "PRO.4.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dc67afc3-3315-4dec-8a23-70ea8034f0ed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dc67afc3-3315-4dec-8a23-70ea8034f0ed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dc67afc3-3315-4dec-8a23-70ea8034f0ed",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dc67afc3-3315-4dec-8a23-70ea8034f0ed'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dc67afc3-3315-4dec-8a23-70ea8034f0ed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

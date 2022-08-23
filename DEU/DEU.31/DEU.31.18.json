@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.31.18",
+    "orgId": "DEU.31.18",
+    "bookId": "DEU",
+    "chapterId": "DEU.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 31:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"DEU 31:18\" class=\"v\">18</span>And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.31.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "DEU.31.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('14902099-a36a-455b-8697-4df28237669a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='14902099-a36a-455b-8697-4df28237669a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "14902099-a36a-455b-8697-4df28237669a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('14902099-a36a-455b-8697-4df28237669a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=14902099-a36a-455b-8697-4df28237669a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

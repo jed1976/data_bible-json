@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.2.8",
+    "orgId": "JER.2.8",
+    "bookId": "JER",
+    "chapterId": "JER.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 2:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"JER 2:8\" class=\"v\">8</span>The priests said not, Where <span class=\"add\">is</span> the <span class=\"nd\">LORD</span>? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after <span class=\"add\">things that</span> do not profit.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.2.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "JER.2.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8b6bd282-f50d-4a34-bc9b-c5be79a6f4ed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8b6bd282-f50d-4a34-bc9b-c5be79a6f4ed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8b6bd282-f50d-4a34-bc9b-c5be79a6f4ed",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8b6bd282-f50d-4a34-bc9b-c5be79a6f4ed'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8b6bd282-f50d-4a34-bc9b-c5be79a6f4ed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

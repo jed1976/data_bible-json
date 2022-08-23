@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "OBA.1.18",
+    "orgId": "OBA.1.18",
+    "bookId": "OBA",
+    "chapterId": "OBA.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Obadiah 1:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"OBA 1:18\" class=\"v\">18</span>And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be <span class=\"add\">any</span> remaining of the house of Esau; for the <span class=\"nd\">LORD</span> hath spoken <span class=\"add\">it</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "OBA.1.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "OBA.1.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('eec62925-27ca-45f7-b551-024c1c8fdcf3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='eec62925-27ca-45f7-b551-024c1c8fdcf3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "eec62925-27ca-45f7-b551-024c1c8fdcf3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('eec62925-27ca-45f7-b551-024c1c8fdcf3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=eec62925-27ca-45f7-b551-024c1c8fdcf3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.26.13",
+    "orgId": "DEU.26.13",
+    "bookId": "DEU",
+    "chapterId": "DEU.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 26:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"DEU 26:13\" class=\"v\">13</span>Then thou shalt say before the <span class=\"nd\">LORD</span> thy God, I have brought away the hallowed things out of <span class=\"add\">mine</span> house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten <span class=\"add\">them:</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.26.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "DEU.26.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d5fbeb6a-0176-44ee-967c-8724c827478d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d5fbeb6a-0176-44ee-967c-8724c827478d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d5fbeb6a-0176-44ee-967c-8724c827478d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d5fbeb6a-0176-44ee-967c-8724c827478d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d5fbeb6a-0176-44ee-967c-8724c827478d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

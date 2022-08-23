@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.22.16",
+    "orgId": "NUM.22.16",
+    "bookId": "NUM",
+    "chapterId": "NUM.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 22:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"NUM 22:16\" class=\"v\">16</span>And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.22.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "NUM.22.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8a2eef71-20ee-4927-a88e-5fdc1ed4137c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8a2eef71-20ee-4927-a88e-5fdc1ed4137c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8a2eef71-20ee-4927-a88e-5fdc1ed4137c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8a2eef71-20ee-4927-a88e-5fdc1ed4137c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8a2eef71-20ee-4927-a88e-5fdc1ed4137c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

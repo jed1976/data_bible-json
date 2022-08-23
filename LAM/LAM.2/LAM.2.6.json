@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.2.6",
+    "orgId": "LAM.2.6",
+    "bookId": "LAM",
+    "chapterId": "LAM.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"LAM 2:6\" class=\"v\">6</span>And he hath violently taken away his tabernacle, as <span class=\"add\">if it were of</span> a garden: he hath destroyed his places of the assembly: the <span class=\"nd\">LORD</span> hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "LAM.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('639b380f-958b-4206-8e7a-7d0908df5a4b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='639b380f-958b-4206-8e7a-7d0908df5a4b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "639b380f-958b-4206-8e7a-7d0908df5a4b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('639b380f-958b-4206-8e7a-7d0908df5a4b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=639b380f-958b-4206-8e7a-7d0908df5a4b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

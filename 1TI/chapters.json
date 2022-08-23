@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "1TI.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "intro",
+      "reference": "1 Timothy"
+    },
+    {
+      "id": "1TI.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "1",
+      "reference": "1 Timothy 1"
+    },
+    {
+      "id": "1TI.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "2",
+      "reference": "1 Timothy 2"
+    },
+    {
+      "id": "1TI.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "3",
+      "reference": "1 Timothy 3"
+    },
+    {
+      "id": "1TI.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "4",
+      "reference": "1 Timothy 4"
+    },
+    {
+      "id": "1TI.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "5",
+      "reference": "1 Timothy 5"
+    },
+    {
+      "id": "1TI.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TI",
+      "number": "6",
+      "reference": "1 Timothy 6"
+    }
+  ]
+}

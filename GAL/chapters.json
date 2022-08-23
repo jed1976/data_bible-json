@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": "GAL.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "intro",
+      "reference": "Galatians"
+    },
+    {
+      "id": "GAL.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "1",
+      "reference": "Galatians 1"
+    },
+    {
+      "id": "GAL.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "2",
+      "reference": "Galatians 2"
+    },
+    {
+      "id": "GAL.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "3",
+      "reference": "Galatians 3"
+    },
+    {
+      "id": "GAL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "4",
+      "reference": "Galatians 4"
+    },
+    {
+      "id": "GAL.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "5",
+      "reference": "Galatians 5"
+    },
+    {
+      "id": "GAL.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "GAL",
+      "number": "6",
+      "reference": "Galatians 6"
+    }
+  ]
+}

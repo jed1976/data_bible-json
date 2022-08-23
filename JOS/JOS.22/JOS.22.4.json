@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.22.4",
+    "orgId": "JOS.22.4",
+    "bookId": "JOS",
+    "chapterId": "JOS.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 22:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"JOS 22:4\" class=\"v\">4</span>And now the <span class=\"nd\">LORD</span> your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, <span class=\"add\">and</span> unto the land of your possession, which Moses the servant of the <span class=\"nd\">LORD</span> gave you on the other side Jordan. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.22.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "JOS.22.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('25b084b0-12f8-4211-b5e8-f1c849468001');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='25b084b0-12f8-4211-b5e8-f1c849468001'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "25b084b0-12f8-4211-b5e8-f1c849468001",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('25b084b0-12f8-4211-b5e8-f1c849468001'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=25b084b0-12f8-4211-b5e8-f1c849468001\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

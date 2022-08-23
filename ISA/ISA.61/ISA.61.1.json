@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.61.1",
+    "orgId": "ISA.61.1",
+    "bookId": "ISA",
+    "chapterId": "ISA.61",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 61:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"ISA 61:1\" class=\"v\">1</span>The Spirit of the Lord <span class=\"nd\">GOD</span> <span class=\"add\">is</span> upon me; because the <span class=\"nd\">LORD</span> hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to <span class=\"add\">them that are</span> bound; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.61.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "ISA.60.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b57e56ed-1575-464b-b373-66d1e1a3a5ac');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b57e56ed-1575-464b-b373-66d1e1a3a5ac'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b57e56ed-1575-464b-b373-66d1e1a3a5ac",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b57e56ed-1575-464b-b373-66d1e1a3a5ac'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b57e56ed-1575-464b-b373-66d1e1a3a5ac\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

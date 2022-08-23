@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.4.22",
+    "orgId": "MAT.4.22",
+    "bookId": "MAT",
+    "chapterId": "MAT.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 4:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"MAT 4:22\" class=\"v\">22</span>And they immediately left the ship and their father, and followed him.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.4.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "MAT.4.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('510fe806-3d0e-44b7-8268-92ae3d26e74b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='510fe806-3d0e-44b7-8268-92ae3d26e74b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "510fe806-3d0e-44b7-8268-92ae3d26e74b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('510fe806-3d0e-44b7-8268-92ae3d26e74b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=510fe806-3d0e-44b7-8268-92ae3d26e74b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

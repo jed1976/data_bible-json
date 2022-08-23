@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.4.12",
+    "orgId": "NEH.4.6",
+    "bookId": "NEH",
+    "chapterId": "NEH.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 4:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"NEH 4:12\" class=\"v\">12</span>And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us <span class=\"add\">they will be upon you</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.4.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "NEH.4.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a9cb0d03-788c-43c4-b11c-c8555853cf1f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a9cb0d03-788c-43c4-b11c-c8555853cf1f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a9cb0d03-788c-43c4-b11c-c8555853cf1f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a9cb0d03-788c-43c4-b11c-c8555853cf1f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a9cb0d03-788c-43c4-b11c-c8555853cf1f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

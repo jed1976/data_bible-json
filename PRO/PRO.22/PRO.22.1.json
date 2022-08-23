@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.22.1",
+    "orgId": "PRO.22.1",
+    "bookId": "PRO",
+    "chapterId": "PRO.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 22:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"PRO 22:1\" class=\"v\">1</span>A <span class=\"add\">good</span> name <span class=\"add\">is</span> rather to be chosen than great riches, <span class=\"add\">and</span> loving favour rather than silver and gold. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.22.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "PRO.21.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cc290750-d8a9-4f41-9890-c78c891a8e2b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cc290750-d8a9-4f41-9890-c78c891a8e2b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cc290750-d8a9-4f41-9890-c78c891a8e2b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cc290750-d8a9-4f41-9890-c78c891a8e2b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cc290750-d8a9-4f41-9890-c78c891a8e2b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

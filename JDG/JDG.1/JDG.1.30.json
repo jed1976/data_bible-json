@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.1.30",
+    "orgId": "JDG.1.30",
+    "bookId": "JDG",
+    "chapterId": "JDG.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 1:30",
+    "content": "<p class=\"p\"><span data-number=\"30\" data-sid=\"JDG 1:30\" class=\"v\">30</span>¶ Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.1.31",
+      "number": "31"
+    },
+    "previous": {
+      "id": "JDG.1.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('26698319-0da2-4b46-96db-e33b5c1a41f6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='26698319-0da2-4b46-96db-e33b5c1a41f6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "26698319-0da2-4b46-96db-e33b5c1a41f6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('26698319-0da2-4b46-96db-e33b5c1a41f6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=26698319-0da2-4b46-96db-e33b5c1a41f6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

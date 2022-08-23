@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.12.6",
+    "orgId": "ZEC.12.6",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 12:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"ZEC 12:6\" class=\"v\">6</span>¶ In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, <span class=\"add\">even</span> in Jerusalem. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.12.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "ZEC.12.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('daba630c-988f-45d4-aa32-94b146fde893');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='daba630c-988f-45d4-aa32-94b146fde893'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "daba630c-988f-45d4-aa32-94b146fde893",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('daba630c-988f-45d4-aa32-94b146fde893'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=daba630c-988f-45d4-aa32-94b146fde893\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

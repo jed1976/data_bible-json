@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JON.2.10",
+    "orgId": "JON.2.11",
+    "bookId": "JON",
+    "chapterId": "JON.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jonah 2:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JON 2:10\" class=\"v\">10</span>¶ And the <span class=\"nd\">LORD</span> spake unto the fish, and it vomited out Jonah upon the dry <span class=\"add\">land</span>.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JON.3.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "JON.2.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('41ada0f4-1612-44ef-9614-07db5e78b848');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='41ada0f4-1612-44ef-9614-07db5e78b848'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "41ada0f4-1612-44ef-9614-07db5e78b848",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('41ada0f4-1612-44ef-9614-07db5e78b848'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=41ada0f4-1612-44ef-9614-07db5e78b848\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

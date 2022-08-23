@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.15.7",
+    "orgId": "LUK.15.7",
+    "bookId": "LUK",
+    "chapterId": "LUK.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 15:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"LUK 15:7\" class=\"v\">7</span><span class=\"wj\">I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.</span></p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.15.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "LUK.15.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('899d4983-6094-4b9f-9076-f47bba3af068');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='899d4983-6094-4b9f-9076-f47bba3af068'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "899d4983-6094-4b9f-9076-f47bba3af068",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('899d4983-6094-4b9f-9076-f47bba3af068'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=899d4983-6094-4b9f-9076-f47bba3af068\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

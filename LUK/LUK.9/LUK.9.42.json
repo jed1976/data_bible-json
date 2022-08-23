@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.9.42",
+    "orgId": "LUK.9.42",
+    "bookId": "LUK",
+    "chapterId": "LUK.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 9:42",
+    "content": "<p class=\"p\"><span data-number=\"42\" data-sid=\"LUK 9:42\" class=\"v\">42</span>And as he was yet a coming, the devil threw him down, and tare <span class=\"add\">him</span>. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.9.43",
+      "number": "43"
+    },
+    "previous": {
+      "id": "LUK.9.41",
+      "number": "41"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('50d43a96-266c-4be2-9c13-4915cda4af37');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='50d43a96-266c-4be2-9c13-4915cda4af37'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "50d43a96-266c-4be2-9c13-4915cda4af37",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('50d43a96-266c-4be2-9c13-4915cda4af37'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=50d43a96-266c-4be2-9c13-4915cda4af37\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

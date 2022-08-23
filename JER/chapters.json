@@ -1,0 +1,375 @@
+{
+  "data": [
+    {
+      "id": "JER.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "intro",
+      "reference": "Jeremiah"
+    },
+    {
+      "id": "JER.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "1",
+      "reference": "Jeremiah 1"
+    },
+    {
+      "id": "JER.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "2",
+      "reference": "Jeremiah 2"
+    },
+    {
+      "id": "JER.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "3",
+      "reference": "Jeremiah 3"
+    },
+    {
+      "id": "JER.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "4",
+      "reference": "Jeremiah 4"
+    },
+    {
+      "id": "JER.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "5",
+      "reference": "Jeremiah 5"
+    },
+    {
+      "id": "JER.6",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "6",
+      "reference": "Jeremiah 6"
+    },
+    {
+      "id": "JER.7",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "7",
+      "reference": "Jeremiah 7"
+    },
+    {
+      "id": "JER.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "8",
+      "reference": "Jeremiah 8"
+    },
+    {
+      "id": "JER.9",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "9",
+      "reference": "Jeremiah 9"
+    },
+    {
+      "id": "JER.10",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "10",
+      "reference": "Jeremiah 10"
+    },
+    {
+      "id": "JER.11",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "11",
+      "reference": "Jeremiah 11"
+    },
+    {
+      "id": "JER.12",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "12",
+      "reference": "Jeremiah 12"
+    },
+    {
+      "id": "JER.13",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "13",
+      "reference": "Jeremiah 13"
+    },
+    {
+      "id": "JER.14",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "14",
+      "reference": "Jeremiah 14"
+    },
+    {
+      "id": "JER.15",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "15",
+      "reference": "Jeremiah 15"
+    },
+    {
+      "id": "JER.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "16",
+      "reference": "Jeremiah 16"
+    },
+    {
+      "id": "JER.17",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "17",
+      "reference": "Jeremiah 17"
+    },
+    {
+      "id": "JER.18",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "18",
+      "reference": "Jeremiah 18"
+    },
+    {
+      "id": "JER.19",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "19",
+      "reference": "Jeremiah 19"
+    },
+    {
+      "id": "JER.20",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "20",
+      "reference": "Jeremiah 20"
+    },
+    {
+      "id": "JER.21",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "21",
+      "reference": "Jeremiah 21"
+    },
+    {
+      "id": "JER.22",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "22",
+      "reference": "Jeremiah 22"
+    },
+    {
+      "id": "JER.23",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "23",
+      "reference": "Jeremiah 23"
+    },
+    {
+      "id": "JER.24",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "24",
+      "reference": "Jeremiah 24"
+    },
+    {
+      "id": "JER.25",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "25",
+      "reference": "Jeremiah 25"
+    },
+    {
+      "id": "JER.26",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "26",
+      "reference": "Jeremiah 26"
+    },
+    {
+      "id": "JER.27",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "27",
+      "reference": "Jeremiah 27"
+    },
+    {
+      "id": "JER.28",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "28",
+      "reference": "Jeremiah 28"
+    },
+    {
+      "id": "JER.29",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "29",
+      "reference": "Jeremiah 29"
+    },
+    {
+      "id": "JER.30",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "30",
+      "reference": "Jeremiah 30"
+    },
+    {
+      "id": "JER.31",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "31",
+      "reference": "Jeremiah 31"
+    },
+    {
+      "id": "JER.32",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "32",
+      "reference": "Jeremiah 32"
+    },
+    {
+      "id": "JER.33",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "33",
+      "reference": "Jeremiah 33"
+    },
+    {
+      "id": "JER.34",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "34",
+      "reference": "Jeremiah 34"
+    },
+    {
+      "id": "JER.35",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "35",
+      "reference": "Jeremiah 35"
+    },
+    {
+      "id": "JER.36",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "36",
+      "reference": "Jeremiah 36"
+    },
+    {
+      "id": "JER.37",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "37",
+      "reference": "Jeremiah 37"
+    },
+    {
+      "id": "JER.38",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "38",
+      "reference": "Jeremiah 38"
+    },
+    {
+      "id": "JER.39",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "39",
+      "reference": "Jeremiah 39"
+    },
+    {
+      "id": "JER.40",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "40",
+      "reference": "Jeremiah 40"
+    },
+    {
+      "id": "JER.41",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "41",
+      "reference": "Jeremiah 41"
+    },
+    {
+      "id": "JER.42",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "42",
+      "reference": "Jeremiah 42"
+    },
+    {
+      "id": "JER.43",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "43",
+      "reference": "Jeremiah 43"
+    },
+    {
+      "id": "JER.44",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "44",
+      "reference": "Jeremiah 44"
+    },
+    {
+      "id": "JER.45",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "45",
+      "reference": "Jeremiah 45"
+    },
+    {
+      "id": "JER.46",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "46",
+      "reference": "Jeremiah 46"
+    },
+    {
+      "id": "JER.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "47",
+      "reference": "Jeremiah 47"
+    },
+    {
+      "id": "JER.48",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "48",
+      "reference": "Jeremiah 48"
+    },
+    {
+      "id": "JER.49",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "49",
+      "reference": "Jeremiah 49"
+    },
+    {
+      "id": "JER.50",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "50",
+      "reference": "Jeremiah 50"
+    },
+    {
+      "id": "JER.51",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "51",
+      "reference": "Jeremiah 51"
+    },
+    {
+      "id": "JER.52",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JER",
+      "number": "52",
+      "reference": "Jeremiah 52"
+    }
+  ]
+}

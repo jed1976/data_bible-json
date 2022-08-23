@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1TH.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "intro",
+      "reference": "1 Thessalonians"
+    },
+    {
+      "id": "1TH.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "1",
+      "reference": "1 Thessalonians 1"
+    },
+    {
+      "id": "1TH.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "2",
+      "reference": "1 Thessalonians 2"
+    },
+    {
+      "id": "1TH.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "3",
+      "reference": "1 Thessalonians 3"
+    },
+    {
+      "id": "1TH.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "4",
+      "reference": "1 Thessalonians 4"
+    },
+    {
+      "id": "1TH.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1TH",
+      "number": "5",
+      "reference": "1 Thessalonians 5"
+    }
+  ]
+}

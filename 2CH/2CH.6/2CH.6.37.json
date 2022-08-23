@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.6.37",
+    "orgId": "2CH.6.37",
+    "bookId": "2CH",
+    "chapterId": "2CH.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 6:37",
+    "content": "<p class=\"p\"><span data-number=\"37\" data-sid=\"2CH 6:37\" class=\"v\">37</span>Yet <span class=\"add\">if</span> they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.6.38",
+      "number": "38"
+    },
+    "previous": {
+      "id": "2CH.6.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8a4a2762-1378-4831-b245-e636653d51bc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8a4a2762-1378-4831-b245-e636653d51bc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8a4a2762-1378-4831-b245-e636653d51bc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8a4a2762-1378-4831-b245-e636653d51bc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8a4a2762-1378-4831-b245-e636653d51bc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

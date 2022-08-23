@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.11.4",
+    "orgId": "DEU.11.4",
+    "bookId": "DEU",
+    "chapterId": "DEU.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 11:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"DEU 11:4\" class=\"v\">4</span>And what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red sea to overflow them as they pursued after you, and <span class=\"add\">how</span> the <span class=\"nd\">LORD</span> hath destroyed them unto this day; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.11.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "DEU.11.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7d42751b-fd83-481e-8953-3ed328254214');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7d42751b-fd83-481e-8953-3ed328254214'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7d42751b-fd83-481e-8953-3ed328254214",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7d42751b-fd83-481e-8953-3ed328254214'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7d42751b-fd83-481e-8953-3ed328254214\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.7.18",
+    "orgId": "2KI.7.18",
+    "bookId": "2KI",
+    "chapterId": "2KI.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 7:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"2KI 7:18\" class=\"v\">18</span>And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.7.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "2KI.7.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e67b0f77-10b8-485f-8427-f7db8000522b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e67b0f77-10b8-485f-8427-f7db8000522b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e67b0f77-10b8-485f-8427-f7db8000522b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e67b0f77-10b8-485f-8427-f7db8000522b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e67b0f77-10b8-485f-8427-f7db8000522b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.17.16",
+    "orgId": "JOS.17.16",
+    "bookId": "JOS",
+    "chapterId": "JOS.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 17:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"JOS 17:16\" class=\"v\">16</span>And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, <span class=\"add\">both they</span> who <span class=\"add\">are</span> of Beth-shean and her towns, and <span class=\"add\">they</span> who <span class=\"add\">are</span> of the valley of Jezreel. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.17.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "JOS.17.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b1918b6a-a209-4652-8c2a-fa4df361a011');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b1918b6a-a209-4652-8c2a-fa4df361a011'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b1918b6a-a209-4652-8c2a-fa4df361a011",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b1918b6a-a209-4652-8c2a-fa4df361a011'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b1918b6a-a209-4652-8c2a-fa4df361a011\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

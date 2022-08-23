@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.46.10",
+    "orgId": "EZK.46.10",
+    "bookId": "EZK",
+    "chapterId": "EZK.46",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 46:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"EZK 46:10\" class=\"v\">10</span>And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.46.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "EZK.46.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7ba1b588-0ed3-43e5-a1cf-386562366a24');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7ba1b588-0ed3-43e5-a1cf-386562366a24'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7ba1b588-0ed3-43e5-a1cf-386562366a24",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7ba1b588-0ed3-43e5-a1cf-386562366a24'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7ba1b588-0ed3-43e5-a1cf-386562366a24\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.16.27",
+    "orgId": "LEV.16.27",
+    "bookId": "LEV",
+    "chapterId": "LEV.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 16:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"LEV 16:27\" class=\"v\">27</span>And the bullock <span class=\"add\">for</span> the sin offering, and the goat <span class=\"add\">for</span> the sin offering, whose blood was brought in to make atonement in the holy <span class=\"add\">place</span>, shall <span class=\"add\">one</span> carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.16.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "LEV.16.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('927445d6-d451-4669-b6ab-d42c43300018');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='927445d6-d451-4669-b6ab-d42c43300018'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "927445d6-d451-4669-b6ab-d42c43300018",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('927445d6-d451-4669-b6ab-d42c43300018'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=927445d6-d451-4669-b6ab-d42c43300018\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

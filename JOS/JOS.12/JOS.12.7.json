@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.12.7",
+    "orgId": "JOS.12.7",
+    "bookId": "JOS",
+    "chapterId": "JOS.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 12:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"JOS 12:7\" class=\"v\">7</span>¶ And these <span class=\"add\">are</span> the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel <span class=\"add\">for</span> a possession according to their divisions; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.12.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "JOS.12.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cbf5eae8-c252-4841-838c-4fcaf7721a15');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cbf5eae8-c252-4841-838c-4fcaf7721a15'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cbf5eae8-c252-4841-838c-4fcaf7721a15",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cbf5eae8-c252-4841-838c-4fcaf7721a15'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cbf5eae8-c252-4841-838c-4fcaf7721a15\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

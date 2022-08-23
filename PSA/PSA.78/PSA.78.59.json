@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.78.59",
+    "orgId": "PSA.78.59",
+    "bookId": "PSA",
+    "chapterId": "PSA.78",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 78:59",
+    "content": "<p class=\"q1\"><span data-number=\"59\" data-sid=\"PSA 78:59\" class=\"v\">59</span>When God heard <span class=\"add\">this</span>, he was wroth, and greatly abhorred Israel:</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.78.60",
+      "number": "60"
+    },
+    "previous": {
+      "id": "PSA.78.58",
+      "number": "58"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('69b99f97-ec0c-4017-b751-51416068fd3b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='69b99f97-ec0c-4017-b751-51416068fd3b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "69b99f97-ec0c-4017-b751-51416068fd3b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('69b99f97-ec0c-4017-b751-51416068fd3b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=69b99f97-ec0c-4017-b751-51416068fd3b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

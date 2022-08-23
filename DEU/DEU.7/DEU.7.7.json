@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.7.7",
+    "orgId": "DEU.7.7",
+    "bookId": "DEU",
+    "chapterId": "DEU.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 7:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DEU 7:7\" class=\"v\">7</span>The <span class=\"nd\">LORD</span> did not set his love upon you, nor choose you, because ye were more in number than any people; for ye <span class=\"add\">were</span> the fewest of all people: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.7.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DEU.7.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('82c46879-0872-443c-a851-81f79bea4899');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='82c46879-0872-443c-a851-81f79bea4899'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "82c46879-0872-443c-a851-81f79bea4899",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('82c46879-0872-443c-a851-81f79bea4899'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=82c46879-0872-443c-a851-81f79bea4899\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

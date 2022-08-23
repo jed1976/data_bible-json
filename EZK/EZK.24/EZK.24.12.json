@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.24.12",
+    "orgId": "EZK.24.12",
+    "bookId": "EZK",
+    "chapterId": "EZK.24",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 24:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EZK 24:12\" class=\"v\">12</span>She hath wearied <span class=\"add\">herself</span> with lies, and her great scum went not forth out of her: her scum <span class=\"add\">shall be</span> in the fire. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.24.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EZK.24.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6b2c22b4-4892-4985-a2fe-4388114bd89b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6b2c22b4-4892-4985-a2fe-4388114bd89b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6b2c22b4-4892-4985-a2fe-4388114bd89b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6b2c22b4-4892-4985-a2fe-4388114bd89b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6b2c22b4-4892-4985-a2fe-4388114bd89b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

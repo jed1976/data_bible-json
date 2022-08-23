@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.8.44",
+    "orgId": "LUK.8.44",
+    "bookId": "LUK",
+    "chapterId": "LUK.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 8:44",
+    "content": "<p class=\"p\"><span data-number=\"44\" data-sid=\"LUK 8:44\" class=\"v\">44</span>Came behind <span class=\"add\">him</span>, and touched the border of his garment: and immediately her issue of blood stanched. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.8.45",
+      "number": "45"
+    },
+    "previous": {
+      "id": "LUK.8.43",
+      "number": "43"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d1783e44-5a5a-4786-aee0-0af5b9ff6eeb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d1783e44-5a5a-4786-aee0-0af5b9ff6eeb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d1783e44-5a5a-4786-aee0-0af5b9ff6eeb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d1783e44-5a5a-4786-aee0-0af5b9ff6eeb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d1783e44-5a5a-4786-aee0-0af5b9ff6eeb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

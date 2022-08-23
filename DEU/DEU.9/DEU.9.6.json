@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.9.6",
+    "orgId": "DEU.9.6",
+    "bookId": "DEU",
+    "chapterId": "DEU.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 9:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"DEU 9:6\" class=\"v\">6</span>Understand therefore, that the <span class=\"nd\">LORD</span> thy God giveth thee not this good land to possess it for thy righteousness; for thou <span class=\"add\">art</span> a stiffnecked people.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.9.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "DEU.9.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9d17963b-c9b3-45f9-b2b0-c576d7bbd64c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9d17963b-c9b3-45f9-b2b0-c576d7bbd64c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9d17963b-c9b3-45f9-b2b0-c576d7bbd64c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9d17963b-c9b3-45f9-b2b0-c576d7bbd64c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9d17963b-c9b3-45f9-b2b0-c576d7bbd64c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

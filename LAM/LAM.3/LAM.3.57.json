@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.3.57",
+    "orgId": "LAM.3.57",
+    "bookId": "LAM",
+    "chapterId": "LAM.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 3:57",
+    "content": "<p class=\"p\"><span data-number=\"57\" data-sid=\"LAM 3:57\" class=\"v\">57</span>Thou drewest near in the day <span class=\"add\">that</span> I called upon thee: thou saidst, Fear not. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.3.58",
+      "number": "58"
+    },
+    "previous": {
+      "id": "LAM.3.56",
+      "number": "56"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8bc36807-db46-45e6-a26d-8d7c4a320d45');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8bc36807-db46-45e6-a26d-8d7c4a320d45'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8bc36807-db46-45e6-a26d-8d7c4a320d45",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8bc36807-db46-45e6-a26d-8d7c4a320d45'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8bc36807-db46-45e6-a26d-8d7c4a320d45\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

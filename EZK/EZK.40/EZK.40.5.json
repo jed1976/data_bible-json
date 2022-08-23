@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.40.5",
+    "orgId": "EZK.40.5",
+    "bookId": "EZK",
+    "chapterId": "EZK.40",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 40:5",
+    "content": "<p class=\"p\"><span data-number=\"5\" data-sid=\"EZK 40:5\" class=\"v\">5</span>And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits <span class=\"add\">long</span> by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.40.6",
+      "number": "6"
+    },
+    "previous": {
+      "id": "EZK.40.4",
+      "number": "4"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7a0da542-1671-4f3b-9a04-c6b8b78fad72');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7a0da542-1671-4f3b-9a04-c6b8b78fad72'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7a0da542-1671-4f3b-9a04-c6b8b78fad72",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7a0da542-1671-4f3b-9a04-c6b8b78fad72'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7a0da542-1671-4f3b-9a04-c6b8b78fad72\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.23.8",
+    "orgId": "2CH.23.8",
+    "bookId": "2CH",
+    "chapterId": "2CH.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 23:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"2CH 23:8\" class=\"v\">8</span>So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go <span class=\"add\">out</span> on the sabbath: for Jehoiada the priest dismissed not the courses. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.23.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "2CH.23.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f7b02614-a102-4022-9cb4-abfbd2e945be');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f7b02614-a102-4022-9cb4-abfbd2e945be'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f7b02614-a102-4022-9cb4-abfbd2e945be",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f7b02614-a102-4022-9cb4-abfbd2e945be'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f7b02614-a102-4022-9cb4-abfbd2e945be\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

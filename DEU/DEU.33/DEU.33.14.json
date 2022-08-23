@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.33.14",
+    "orgId": "DEU.33.14",
+    "bookId": "DEU",
+    "chapterId": "DEU.33",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 33:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"DEU 33:14\" class=\"v\">14</span>And for the precious fruits <span class=\"add\">brought forth</span> by the sun, and for the precious things put forth by the moon, </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.33.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "DEU.33.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('caeeccdb-d829-4ce4-9c69-dfeb42e83ace');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='caeeccdb-d829-4ce4-9c69-dfeb42e83ace'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "caeeccdb-d829-4ce4-9c69-dfeb42e83ace",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('caeeccdb-d829-4ce4-9c69-dfeb42e83ace'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=caeeccdb-d829-4ce4-9c69-dfeb42e83ace\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.20.10",
+    "orgId": "EXO.20.10",
+    "bookId": "EXO",
+    "chapterId": "EXO.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 20:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"EXO 20:10\" class=\"v\">10</span>But the seventh day <span class=\"add\">is</span> the sabbath of the <span class=\"nd\">LORD</span> thy God: <span class=\"add\">in it</span> thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that <span class=\"add\">is</span> within thy gates: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.20.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "EXO.20.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('568fe74d-f758-40d0-bb75-d8b79c45d905');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='568fe74d-f758-40d0-bb75-d8b79c45d905'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "568fe74d-f758-40d0-bb75-d8b79c45d905",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('568fe74d-f758-40d0-bb75-d8b79c45d905'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=568fe74d-f758-40d0-bb75-d8b79c45d905\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

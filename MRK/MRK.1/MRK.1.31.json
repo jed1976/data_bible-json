@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.1.31",
+    "orgId": "MRK.1.31",
+    "bookId": "MRK",
+    "chapterId": "MRK.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 1:31",
+    "content": "<p class=\"p\"><span data-number=\"31\" data-sid=\"MRK 1:31\" class=\"v\">31</span>And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.1.32",
+      "number": "32"
+    },
+    "previous": {
+      "id": "MRK.1.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c9c1f5b5-1aa9-4020-9b84-a104f1306faa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c9c1f5b5-1aa9-4020-9b84-a104f1306faa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c9c1f5b5-1aa9-4020-9b84-a104f1306faa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c9c1f5b5-1aa9-4020-9b84-a104f1306faa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c9c1f5b5-1aa9-4020-9b84-a104f1306faa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

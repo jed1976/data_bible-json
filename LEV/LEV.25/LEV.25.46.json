@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.25.46",
+    "orgId": "LEV.25.46",
+    "bookId": "LEV",
+    "chapterId": "LEV.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 25:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"LEV 25:46\" class=\"v\">46</span>And ye shall take them as an inheritance for your children after you, to inherit <span class=\"add\">them for</span> a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.25.47",
+      "number": "47"
+    },
+    "previous": {
+      "id": "LEV.25.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('84021ad0-3397-4a96-ab33-0ee1945f06b3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='84021ad0-3397-4a96-ab33-0ee1945f06b3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "84021ad0-3397-4a96-ab33-0ee1945f06b3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('84021ad0-3397-4a96-ab33-0ee1945f06b3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=84021ad0-3397-4a96-ab33-0ee1945f06b3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

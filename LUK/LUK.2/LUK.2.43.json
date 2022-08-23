@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.2.43",
+    "orgId": "LUK.2.43",
+    "bookId": "LUK",
+    "chapterId": "LUK.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 2:43",
+    "content": "<p class=\"p\"><span data-number=\"43\" data-sid=\"LUK 2:43\" class=\"v\">43</span>And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not <span class=\"add\">of it</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.2.44",
+      "number": "44"
+    },
+    "previous": {
+      "id": "LUK.2.42",
+      "number": "42"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3590ee3b-4216-479a-8a0c-bf0fcaf77038');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3590ee3b-4216-479a-8a0c-bf0fcaf77038'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3590ee3b-4216-479a-8a0c-bf0fcaf77038",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3590ee3b-4216-479a-8a0c-bf0fcaf77038'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3590ee3b-4216-479a-8a0c-bf0fcaf77038\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

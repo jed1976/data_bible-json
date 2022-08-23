@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.8.12",
+    "orgId": "1SA.8.12",
+    "bookId": "1SA",
+    "chapterId": "1SA.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 8:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"1SA 8:12\" class=\"v\">12</span>And he will appoint him captains over thousands, and captains over fifties; and <span class=\"add\">will set them</span> to ear his ground, and to reap his harvest, and to make his instruments of war, and instruments of his chariots. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.8.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "1SA.8.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fa39469e-ddb7-4283-8d77-e0ad2a2466ed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fa39469e-ddb7-4283-8d77-e0ad2a2466ed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fa39469e-ddb7-4283-8d77-e0ad2a2466ed",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fa39469e-ddb7-4283-8d77-e0ad2a2466ed'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fa39469e-ddb7-4283-8d77-e0ad2a2466ed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

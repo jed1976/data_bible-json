@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.9.20",
+    "orgId": "NEH.9.20",
+    "bookId": "NEH",
+    "chapterId": "NEH.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 9:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"NEH 9:20\" class=\"v\">20</span>Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.9.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "NEH.9.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f85c52b8-782e-4d85-8306-ae5567e2fbe4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f85c52b8-782e-4d85-8306-ae5567e2fbe4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f85c52b8-782e-4d85-8306-ae5567e2fbe4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f85c52b8-782e-4d85-8306-ae5567e2fbe4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f85c52b8-782e-4d85-8306-ae5567e2fbe4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

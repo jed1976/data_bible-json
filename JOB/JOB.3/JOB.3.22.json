@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.3.22",
+    "orgId": "JOB.3.22",
+    "bookId": "JOB",
+    "chapterId": "JOB.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 3:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"JOB 3:22\" class=\"v\">22</span>Which rejoice exceedingly, <span class=\"add\">and</span> are glad, when they can find the grave? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.3.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "JOB.3.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('090ba019-b7f3-4fe8-a0b0-cf23df1e31c8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='090ba019-b7f3-4fe8-a0b0-cf23df1e31c8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "090ba019-b7f3-4fe8-a0b0-cf23df1e31c8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('090ba019-b7f3-4fe8-a0b0-cf23df1e31c8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=090ba019-b7f3-4fe8-a0b0-cf23df1e31c8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

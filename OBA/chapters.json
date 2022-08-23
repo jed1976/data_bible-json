@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "OBA.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "OBA",
+      "number": "intro",
+      "reference": "Obadiah"
+    },
+    {
+      "id": "OBA.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "OBA",
+      "number": "1",
+      "reference": "Obadiah 1"
+    }
+  ]
+}

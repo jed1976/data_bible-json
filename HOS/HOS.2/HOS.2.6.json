@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HOS.2.6",
+    "orgId": "HOS.2.8",
+    "bookId": "HOS",
+    "chapterId": "HOS.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hosea 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"HOS 2:6\" class=\"v\">6</span>¶ Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HOS.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "HOS.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8aba0161-5ff4-4593-87d6-ef9a797bfafc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8aba0161-5ff4-4593-87d6-ef9a797bfafc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8aba0161-5ff4-4593-87d6-ef9a797bfafc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8aba0161-5ff4-4593-87d6-ef9a797bfafc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8aba0161-5ff4-4593-87d6-ef9a797bfafc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

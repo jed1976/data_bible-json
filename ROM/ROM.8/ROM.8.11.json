@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.8.11",
+    "orgId": "ROM.8.11",
+    "bookId": "ROM",
+    "chapterId": "ROM.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 8:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"ROM 8:11\" class=\"v\">11</span>But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ROM.8.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "ROM.8.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('88a5333d-a9cf-49ff-bdac-8db9cccc6173');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='88a5333d-a9cf-49ff-bdac-8db9cccc6173'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "88a5333d-a9cf-49ff-bdac-8db9cccc6173",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('88a5333d-a9cf-49ff-bdac-8db9cccc6173'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=88a5333d-a9cf-49ff-bdac-8db9cccc6173\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

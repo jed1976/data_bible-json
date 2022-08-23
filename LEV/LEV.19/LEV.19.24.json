@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.19.24",
+    "orgId": "LEV.19.24",
+    "bookId": "LEV",
+    "chapterId": "LEV.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 19:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"LEV 19:24\" class=\"v\">24</span>But in the fourth year all the fruit thereof shall be holy to praise the <span class=\"nd\">LORD</span> <span class=\"add\">withal</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.19.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "LEV.19.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cba4aed1-6beb-40af-898e-881034d8522c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cba4aed1-6beb-40af-898e-881034d8522c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cba4aed1-6beb-40af-898e-881034d8522c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cba4aed1-6beb-40af-898e-881034d8522c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cba4aed1-6beb-40af-898e-881034d8522c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

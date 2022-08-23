@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1TI.4.1",
+    "orgId": "1TI.4.1",
+    "bookId": "1TI",
+    "chapterId": "1TI.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Timothy 4:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"1TI 4:1\" class=\"v\">1</span>Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1TI.4.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "1TI.3.16",
+      "number": "16"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('45dcb5d6-1b5c-4205-b0b3-37939ac11d2a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='45dcb5d6-1b5c-4205-b0b3-37939ac11d2a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "45dcb5d6-1b5c-4205-b0b3-37939ac11d2a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('45dcb5d6-1b5c-4205-b0b3-37939ac11d2a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=45dcb5d6-1b5c-4205-b0b3-37939ac11d2a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

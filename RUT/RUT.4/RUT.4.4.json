@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "RUT.4.4",
+    "orgId": "RUT.4.4",
+    "bookId": "RUT",
+    "chapterId": "RUT.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ruth 4:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"RUT 4:4\" class=\"v\">4</span>And I thought to advertise thee, saying, Buy <span class=\"add\">it</span> before the inhabitants, and before the elders of my people. If thou wilt redeem <span class=\"add\">it</span>, redeem <span class=\"add\">it:</span> but if thou wilt not redeem <span class=\"add\">it, then</span> tell me, that I may know: for <span class=\"add\">there is</span> none to redeem <span class=\"add\">it</span> beside thee; and I <span class=\"add\">am</span> after thee. And he said, I will redeem <span class=\"add\">it</span>. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "RUT.4.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "RUT.4.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('882689b1-d51a-4c67-8a53-325143b957cf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='882689b1-d51a-4c67-8a53-325143b957cf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "882689b1-d51a-4c67-8a53-325143b957cf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('882689b1-d51a-4c67-8a53-325143b957cf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=882689b1-d51a-4c67-8a53-325143b957cf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

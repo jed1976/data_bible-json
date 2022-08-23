@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.21.15",
+    "orgId": "JHN.21.15",
+    "bookId": "JHN",
+    "chapterId": "JHN.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 21:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"JHN 21:15\" class=\"v\">15</span>¶ So when they had dined, Jesus saith to Simon Peter, <span class=\"wj\">Simon, <span class=\"add\">son</span> of Jonas, lovest thou me more than these?</span> He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, <span class=\"wj\">Feed my lambs.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.21.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "JHN.21.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('069e1aa1-1eca-4ad7-ae2a-995adcb64df6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='069e1aa1-1eca-4ad7-ae2a-995adcb64df6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "069e1aa1-1eca-4ad7-ae2a-995adcb64df6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('069e1aa1-1eca-4ad7-ae2a-995adcb64df6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=069e1aa1-1eca-4ad7-ae2a-995adcb64df6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

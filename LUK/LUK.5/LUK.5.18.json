@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.5.18",
+    "orgId": "LUK.5.18",
+    "bookId": "LUK",
+    "chapterId": "LUK.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 5:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"LUK 5:18\" class=\"v\">18</span>¶ And, behold, men brought in a bed a man which was taken with a palsy: and they sought <span class=\"add\">means</span> to bring him in, and to lay <span class=\"add\">him</span> before him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.5.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "LUK.5.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bdc11b50-182d-444f-a820-acb6d5ea3249');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bdc11b50-182d-444f-a820-acb6d5ea3249'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bdc11b50-182d-444f-a820-acb6d5ea3249",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bdc11b50-182d-444f-a820-acb6d5ea3249'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bdc11b50-182d-444f-a820-acb6d5ea3249\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

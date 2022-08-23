@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.10.31",
+    "orgId": "NEH.10.32",
+    "bookId": "NEH",
+    "chapterId": "NEH.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 10:31",
+    "content": "<p class=\"p\"><span data-number=\"31\" data-sid=\"NEH 10:31\" class=\"v\">31</span>And <span class=\"add\">if</span> the people of the land bring ware or any victuals on the sabbath day to sell, <span class=\"add\">that</span> we would not buy it of them on the sabbath, or on the holy day: and <span class=\"add\">that</span> we would leave the seventh year, and the exaction of every debt.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.10.32",
+      "number": "32"
+    },
+    "previous": {
+      "id": "NEH.10.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('52f156ab-200b-4902-954f-9d48bda22ab7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='52f156ab-200b-4902-954f-9d48bda22ab7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "52f156ab-200b-4902-954f-9d48bda22ab7",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('52f156ab-200b-4902-954f-9d48bda22ab7'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=52f156ab-200b-4902-954f-9d48bda22ab7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

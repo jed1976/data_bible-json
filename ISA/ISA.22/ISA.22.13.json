@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.22.13",
+    "orgId": "ISA.22.13",
+    "bookId": "ISA",
+    "chapterId": "ISA.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 22:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"ISA 22:13\" class=\"v\">13</span>And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.22.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "ISA.22.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('708e72ce-2e40-4ed1-b6e2-ca118d49c15e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='708e72ce-2e40-4ed1-b6e2-ca118d49c15e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "708e72ce-2e40-4ed1-b6e2-ca118d49c15e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('708e72ce-2e40-4ed1-b6e2-ca118d49c15e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=708e72ce-2e40-4ed1-b6e2-ca118d49c15e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

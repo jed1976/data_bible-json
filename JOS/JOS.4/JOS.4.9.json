@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.4.9",
+    "orgId": "JOS.4.9",
+    "bookId": "JOS",
+    "chapterId": "JOS.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 4:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"JOS 4:9\" class=\"v\">9</span>And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.4.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "JOS.4.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('de0f4a32-820b-4fc1-a17f-2ca0393a733d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='de0f4a32-820b-4fc1-a17f-2ca0393a733d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "de0f4a32-820b-4fc1-a17f-2ca0393a733d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('de0f4a32-820b-4fc1-a17f-2ca0393a733d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=de0f4a32-820b-4fc1-a17f-2ca0393a733d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

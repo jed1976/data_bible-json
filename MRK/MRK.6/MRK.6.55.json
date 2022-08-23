@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.6.55",
+    "orgId": "MRK.6.55",
+    "bookId": "MRK",
+    "chapterId": "MRK.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 6:55",
+    "content": "<p class=\"p\"><span data-number=\"55\" data-sid=\"MRK 6:55\" class=\"v\">55</span>And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.6.56",
+      "number": "56"
+    },
+    "previous": {
+      "id": "MRK.6.54",
+      "number": "54"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5c5790e8-17a6-45e1-8b2f-89a7cb35ef91');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5c5790e8-17a6-45e1-8b2f-89a7cb35ef91'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5c5790e8-17a6-45e1-8b2f-89a7cb35ef91",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5c5790e8-17a6-45e1-8b2f-89a7cb35ef91'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5c5790e8-17a6-45e1-8b2f-89a7cb35ef91\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

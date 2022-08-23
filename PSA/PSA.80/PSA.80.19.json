@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.80.19",
+    "orgId": "PSA.80.20",
+    "bookId": "PSA",
+    "chapterId": "PSA.80",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 80:19",
+    "content": "<p class=\"q1\"><span data-number=\"19\" data-sid=\"PSA 80:19\" class=\"v\">19</span>Turn us again, O <span class=\"nd\">LORD</span> God of hosts, cause thy face to shine; and we shall be saved.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.81.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "PSA.80.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5a02d8bd-f3b2-4107-ad7a-61a0a03697ef');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5a02d8bd-f3b2-4107-ad7a-61a0a03697ef'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5a02d8bd-f3b2-4107-ad7a-61a0a03697ef",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5a02d8bd-f3b2-4107-ad7a-61a0a03697ef'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5a02d8bd-f3b2-4107-ad7a-61a0a03697ef\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

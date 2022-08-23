@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEC.1.6",
+    "orgId": "ZEC.1.6",
+    "bookId": "ZEC",
+    "chapterId": "ZEC.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zechariah 1:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"ZEC 1:6\" class=\"v\">6</span>But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the <span class=\"nd\">LORD</span> of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEC.1.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "ZEC.1.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c0977a54-9c8f-43b9-aca4-9095040195b3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c0977a54-9c8f-43b9-aca4-9095040195b3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c0977a54-9c8f-43b9-aca4-9095040195b3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c0977a54-9c8f-43b9-aca4-9095040195b3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c0977a54-9c8f-43b9-aca4-9095040195b3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

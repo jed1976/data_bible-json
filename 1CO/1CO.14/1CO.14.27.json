@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.14.27",
+    "orgId": "1CO.14.27",
+    "bookId": "1CO",
+    "chapterId": "1CO.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 14:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"1CO 14:27\" class=\"v\">27</span>If any man speak in an <span class=\"add\">unknown</span> tongue, <span class=\"add\">let it be</span> by two, or at the most <span class=\"add\">by</span> three, and <span class=\"add\">that</span> by course; and let one interpret. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.14.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "1CO.14.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('192774b4-d2f7-4e48-a4c2-3dc7867a6d90');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='192774b4-d2f7-4e48-a4c2-3dc7867a6d90'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "192774b4-d2f7-4e48-a4c2-3dc7867a6d90",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('192774b4-d2f7-4e48-a4c2-3dc7867a6d90'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=192774b4-d2f7-4e48-a4c2-3dc7867a6d90\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

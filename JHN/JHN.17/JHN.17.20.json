@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.17.20",
+    "orgId": "JHN.17.20",
+    "bookId": "JHN",
+    "chapterId": "JHN.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 17:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JHN 17:20\" class=\"v\">20</span><span class=\"wj\">Neither pray I for these alone, but for them also which shall believe on me through their word;</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.17.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JHN.17.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8181737f-de3b-4966-a285-8ee74555b4ec');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8181737f-de3b-4966-a285-8ee74555b4ec'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8181737f-de3b-4966-a285-8ee74555b4ec",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8181737f-de3b-4966-a285-8ee74555b4ec'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8181737f-de3b-4966-a285-8ee74555b4ec\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

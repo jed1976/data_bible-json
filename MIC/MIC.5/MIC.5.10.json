@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MIC.5.10",
+    "orgId": "MIC.5.9",
+    "bookId": "MIC",
+    "chapterId": "MIC.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Micah 5:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"MIC 5:10\" class=\"v\">10</span>And it shall come to pass in that day, saith the <span class=\"nd\">LORD</span>, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MIC.5.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "MIC.5.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d8eb6d4f-4de9-42bf-9f89-4ca6a9abd423');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d8eb6d4f-4de9-42bf-9f89-4ca6a9abd423'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d8eb6d4f-4de9-42bf-9f89-4ca6a9abd423",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d8eb6d4f-4de9-42bf-9f89-4ca6a9abd423'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d8eb6d4f-4de9-42bf-9f89-4ca6a9abd423\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

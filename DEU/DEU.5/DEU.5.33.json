@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.5.33",
+    "orgId": "DEU.5.33",
+    "bookId": "DEU",
+    "chapterId": "DEU.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 5:33",
+    "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"DEU 5:33\" class=\"v\">33</span>Ye shall walk in all the ways which the <span class=\"nd\">LORD</span> your God hath commanded you, that ye may live, and <span class=\"add\">that it may be</span> well with you, and <span class=\"add\">that</span> ye may prolong <span class=\"add\">your</span> days in the land which ye shall possess.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.6.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "DEU.5.32",
+      "number": "32"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8c445d83-3c31-48bd-910e-e8112f10c2ee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8c445d83-3c31-48bd-910e-e8112f10c2ee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8c445d83-3c31-48bd-910e-e8112f10c2ee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8c445d83-3c31-48bd-910e-e8112f10c2ee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8c445d83-3c31-48bd-910e-e8112f10c2ee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.49.37",
+    "orgId": "JER.49.37",
+    "bookId": "JER",
+    "chapterId": "JER.49",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 49:37",
+    "content": "<p class=\"p\"><span data-number=\"37\" data-sid=\"JER 49:37\" class=\"v\">37</span>For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, <span class=\"add\">even</span> my fierce anger, saith the <span class=\"nd\">LORD</span>; and I will send the sword after them, till I have consumed them: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.49.38",
+      "number": "38"
+    },
+    "previous": {
+      "id": "JER.49.36",
+      "number": "36"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cd36d794-8698-4fd7-b0b7-397e672952bf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cd36d794-8698-4fd7-b0b7-397e672952bf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cd36d794-8698-4fd7-b0b7-397e672952bf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cd36d794-8698-4fd7-b0b7-397e672952bf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cd36d794-8698-4fd7-b0b7-397e672952bf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

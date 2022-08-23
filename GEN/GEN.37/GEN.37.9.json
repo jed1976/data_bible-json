@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.37.9",
+    "orgId": "GEN.37.9",
+    "bookId": "GEN",
+    "chapterId": "GEN.37",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 37:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"GEN 37:9\" class=\"v\">9</span>¶ And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.37.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "GEN.37.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3c31bdd8-ec9c-4819-9568-e054d5990abc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3c31bdd8-ec9c-4819-9568-e054d5990abc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3c31bdd8-ec9c-4819-9568-e054d5990abc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3c31bdd8-ec9c-4819-9568-e054d5990abc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3c31bdd8-ec9c-4819-9568-e054d5990abc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

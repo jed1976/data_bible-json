@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.19.7",
+    "orgId": "EZK.19.7",
+    "bookId": "EZK",
+    "chapterId": "EZK.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 19:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 19:7\" class=\"v\">7</span>And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.19.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "EZK.19.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1c9bf63a-55cb-484d-845b-f82cb5f40e31');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1c9bf63a-55cb-484d-845b-f82cb5f40e31'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1c9bf63a-55cb-484d-845b-f82cb5f40e31",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1c9bf63a-55cb-484d-845b-f82cb5f40e31'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1c9bf63a-55cb-484d-845b-f82cb5f40e31\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

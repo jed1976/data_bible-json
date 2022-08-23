@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ROM.16.27",
+    "orgId": "ROM.16.27",
+    "bookId": "ROM",
+    "chapterId": "ROM.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Romans 16:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"ROM 16:27\" class=\"v\">27</span>To God only wise, <span class=\"add\">be</span> glory through Jesus Christ for ever. Amen.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.intro.0",
+      "number": "0"
+    },
+    "previous": {
+      "id": "ROM.16.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4c0107db-a35d-4e4b-ae21-7c6454c1b274');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4c0107db-a35d-4e4b-ae21-7c6454c1b274'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4c0107db-a35d-4e4b-ae21-7c6454c1b274",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4c0107db-a35d-4e4b-ae21-7c6454c1b274'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4c0107db-a35d-4e4b-ae21-7c6454c1b274\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

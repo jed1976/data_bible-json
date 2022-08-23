@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.21.7",
+    "orgId": "LUK.21.7",
+    "bookId": "LUK",
+    "chapterId": "LUK.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 21:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"LUK 21:7\" class=\"v\">7</span>And they asked him, saying, Master, but when shall these things be? and what sign <span class=\"add\">will there be</span> when these things shall come to pass? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.21.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "LUK.21.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d05f8244-ba33-4198-8c61-b7f301cbcc01');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d05f8244-ba33-4198-8c61-b7f301cbcc01'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d05f8244-ba33-4198-8c61-b7f301cbcc01",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d05f8244-ba33-4198-8c61-b7f301cbcc01'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d05f8244-ba33-4198-8c61-b7f301cbcc01\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

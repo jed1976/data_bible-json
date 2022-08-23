@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.97.4",
+    "orgId": "PSA.97.4",
+    "bookId": "PSA",
+    "chapterId": "PSA.97",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 97:4",
+    "content": "<p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 97:4\" class=\"v\">4</span>His lightnings enlightened the world: the earth saw, and trembled.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.97.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "PSA.97.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7ce27e8d-0c7e-40fc-b968-4123a02ccfee');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7ce27e8d-0c7e-40fc-b968-4123a02ccfee'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7ce27e8d-0c7e-40fc-b968-4123a02ccfee",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7ce27e8d-0c7e-40fc-b968-4123a02ccfee'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7ce27e8d-0c7e-40fc-b968-4123a02ccfee\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

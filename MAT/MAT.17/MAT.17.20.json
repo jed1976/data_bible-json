@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.17.20",
+    "orgId": "MAT.17.20",
+    "bookId": "MAT",
+    "chapterId": "MAT.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 17:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"MAT 17:20\" class=\"v\">20</span>And Jesus said unto them, <span class=\"wj\">Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.17.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "MAT.17.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('46ede852-1c7e-4af3-8834-6eb4463df974');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='46ede852-1c7e-4af3-8834-6eb4463df974'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "46ede852-1c7e-4af3-8834-6eb4463df974",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('46ede852-1c7e-4af3-8834-6eb4463df974'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=46ede852-1c7e-4af3-8834-6eb4463df974\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

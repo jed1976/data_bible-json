@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.9.9",
+    "orgId": "DEU.9.9",
+    "bookId": "DEU",
+    "chapterId": "DEU.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 9:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"DEU 9:9\" class=\"v\">9</span>When I was gone up into the mount to receive the tables of stone, <span class=\"add\">even</span> the tables of the covenant which the <span class=\"nd\">LORD</span> made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.9.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "DEU.9.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8eb29e0c-fb09-4ad8-8f40-ce15ccd22bf5');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8eb29e0c-fb09-4ad8-8f40-ce15ccd22bf5'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8eb29e0c-fb09-4ad8-8f40-ce15ccd22bf5",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8eb29e0c-fb09-4ad8-8f40-ce15ccd22bf5'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8eb29e0c-fb09-4ad8-8f40-ce15ccd22bf5\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "PSA.47.1",
+      "orgId": "PSA.47.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:1"
+    },
+    {
+      "id": "PSA.47.2",
+      "orgId": "PSA.47.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:2"
+    },
+    {
+      "id": "PSA.47.3",
+      "orgId": "PSA.47.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:3"
+    },
+    {
+      "id": "PSA.47.4",
+      "orgId": "PSA.47.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:4"
+    },
+    {
+      "id": "PSA.47.5",
+      "orgId": "PSA.47.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:5"
+    },
+    {
+      "id": "PSA.47.6",
+      "orgId": "PSA.47.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:6"
+    },
+    {
+      "id": "PSA.47.7",
+      "orgId": "PSA.47.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:7"
+    },
+    {
+      "id": "PSA.47.8",
+      "orgId": "PSA.47.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:8"
+    },
+    {
+      "id": "PSA.47.9",
+      "orgId": "PSA.47.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.47",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 47:9"
+    }
+  ]
+}

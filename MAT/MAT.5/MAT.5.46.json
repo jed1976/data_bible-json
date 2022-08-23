@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.5.46",
+    "orgId": "MAT.5.46",
+    "bookId": "MAT",
+    "chapterId": "MAT.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 5:46",
+    "content": "<p class=\"p\"><span data-number=\"46\" data-sid=\"MAT 5:46\" class=\"v\">46</span><span class=\"wj\">For if ye love them which love you, what reward have ye? do not even the publicans the same?</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.5.47",
+      "number": "47"
+    },
+    "previous": {
+      "id": "MAT.5.45",
+      "number": "45"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7eae6865-4e5f-42e5-a3ee-7e46aa26e775');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7eae6865-4e5f-42e5-a3ee-7e46aa26e775'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7eae6865-4e5f-42e5-a3ee-7e46aa26e775",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7eae6865-4e5f-42e5-a3ee-7e46aa26e775'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7eae6865-4e5f-42e5-a3ee-7e46aa26e775\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

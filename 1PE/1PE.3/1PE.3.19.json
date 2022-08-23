@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1PE.3.19",
+    "orgId": "1PE.3.19",
+    "bookId": "1PE",
+    "chapterId": "1PE.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Peter 3:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"1PE 3:19\" class=\"v\">19</span>By which also he went and preached unto the spirits in prison; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1PE.3.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "1PE.3.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a5122786-c746-45d9-9499-51069612585b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a5122786-c746-45d9-9499-51069612585b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a5122786-c746-45d9-9499-51069612585b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a5122786-c746-45d9-9499-51069612585b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a5122786-c746-45d9-9499-51069612585b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

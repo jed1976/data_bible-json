@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1TH.2.15",
+    "orgId": "1TH.2.15",
+    "bookId": "1TH",
+    "chapterId": "1TH.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Thessalonians 2:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"1TH 2:15\" class=\"v\">15</span>Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1TH.2.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "1TH.2.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('61b6a1a0-4a68-4ec4-9757-87f25f59cf8f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='61b6a1a0-4a68-4ec4-9757-87f25f59cf8f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "61b6a1a0-4a68-4ec4-9757-87f25f59cf8f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('61b6a1a0-4a68-4ec4-9757-87f25f59cf8f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=61b6a1a0-4a68-4ec4-9757-87f25f59cf8f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.22.4",
+    "orgId": "ACT.22.4",
+    "bookId": "ACT",
+    "chapterId": "ACT.22",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 22:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"ACT 22:4\" class=\"v\">4</span>And I persecuted this way unto the death, binding and delivering into prisons both men and women. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.22.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "ACT.22.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4311729d-c440-4ab9-8d62-feae3f396702');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4311729d-c440-4ab9-8d62-feae3f396702'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4311729d-c440-4ab9-8d62-feae3f396702",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4311729d-c440-4ab9-8d62-feae3f396702'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4311729d-c440-4ab9-8d62-feae3f396702\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.20.13",
+    "orgId": "2KI.20.13",
+    "bookId": "2KI",
+    "chapterId": "2KI.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 20:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"2KI 20:13\" class=\"v\">13</span>And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and <span class=\"add\">all</span> the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.20.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "2KI.20.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1ce60429-4d9c-4891-8de5-b298e4e76b95');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1ce60429-4d9c-4891-8de5-b298e4e76b95'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "1ce60429-4d9c-4891-8de5-b298e4e76b95",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1ce60429-4d9c-4891-8de5-b298e4e76b95'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1ce60429-4d9c-4891-8de5-b298e4e76b95\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

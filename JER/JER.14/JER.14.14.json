@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.14.14",
+    "orgId": "JER.14.14",
+    "bookId": "JER",
+    "chapterId": "JER.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 14:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"JER 14:14\" class=\"v\">14</span>Then the <span class=\"nd\">LORD</span> said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.14.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "JER.14.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b74e7326-b4e9-4e5a-b5b6-9d5239cb30f1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b74e7326-b4e9-4e5a-b5b6-9d5239cb30f1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b74e7326-b4e9-4e5a-b5b6-9d5239cb30f1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b74e7326-b4e9-4e5a-b5b6-9d5239cb30f1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b74e7326-b4e9-4e5a-b5b6-9d5239cb30f1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

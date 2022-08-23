@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.11.22",
+    "orgId": "NEH.11.22",
+    "bookId": "NEH",
+    "chapterId": "NEH.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 11:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"NEH 11:22\" class=\"v\">22</span>The overseer also of the Levites at Jerusalem <span class=\"add\">was</span> Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers <span class=\"add\">were</span> over the business of the house of God. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.11.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "NEH.11.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('007f63f3-70c0-4992-bcc4-292547e062fc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='007f63f3-70c0-4992-bcc4-292547e062fc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "007f63f3-70c0-4992-bcc4-292547e062fc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('007f63f3-70c0-4992-bcc4-292547e062fc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=007f63f3-70c0-4992-bcc4-292547e062fc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.11.11",
+    "orgId": "DAN.11.11",
+    "bookId": "DAN",
+    "chapterId": "DAN.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 11:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"DAN 11:11\" class=\"v\">11</span>And the king of the south shall be moved with choler, and shall come forth and fight with him, <span class=\"add\">even</span> with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.11.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "DAN.11.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('da03548e-3600-4d94-88a8-ae22169daa2c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='da03548e-3600-4d94-88a8-ae22169daa2c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "da03548e-3600-4d94-88a8-ae22169daa2c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('da03548e-3600-4d94-88a8-ae22169daa2c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=da03548e-3600-4d94-88a8-ae22169daa2c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

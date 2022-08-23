@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "GEN.49.23",
+    "orgId": "GEN.49.23",
+    "bookId": "GEN",
+    "chapterId": "GEN.49",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Genesis 49:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"GEN 49:23\" class=\"v\">23</span>The archers have sorely grieved him, and shot <span class=\"add\">at him</span>, and hated him: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "GEN.49.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "GEN.49.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5bc0c664-0b4e-4c80-b457-51b56514139b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5bc0c664-0b4e-4c80-b457-51b56514139b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5bc0c664-0b4e-4c80-b457-51b56514139b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5bc0c664-0b4e-4c80-b457-51b56514139b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5bc0c664-0b4e-4c80-b457-51b56514139b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

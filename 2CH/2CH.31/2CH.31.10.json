@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.31.10",
+    "orgId": "2CH.31.10",
+    "bookId": "2CH",
+    "chapterId": "2CH.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 31:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"2CH 31:10\" class=\"v\">10</span>And Azariah the chief priest of the house of Zadok answered him, and said, Since <span class=\"add\">the people</span> began to bring the offerings into the house of the <span class=\"nd\">LORD</span>, we have had enough to eat, and have left plenty: for the <span class=\"nd\">LORD</span> hath blessed his people; and that which is left <span class=\"add\">is</span> this great store.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.31.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "2CH.31.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6858cb41-a092-4bc5-b321-1df5e024af78');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6858cb41-a092-4bc5-b321-1df5e024af78'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6858cb41-a092-4bc5-b321-1df5e024af78",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6858cb41-a092-4bc5-b321-1df5e024af78'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6858cb41-a092-4bc5-b321-1df5e024af78\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

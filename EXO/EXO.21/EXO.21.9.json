@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.21.9",
+    "orgId": "EXO.21.9",
+    "bookId": "EXO",
+    "chapterId": "EXO.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 21:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"EXO 21:9\" class=\"v\">9</span>And if he have betrothed her unto his son, he shall deal with her after the manner of daughters. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.21.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "EXO.21.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f502a1e9-5a8b-4844-9f60-2f1c2e6fcb90');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f502a1e9-5a8b-4844-9f60-2f1c2e6fcb90'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f502a1e9-5a8b-4844-9f60-2f1c2e6fcb90",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f502a1e9-5a8b-4844-9f60-2f1c2e6fcb90'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f502a1e9-5a8b-4844-9f60-2f1c2e6fcb90\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "HAG.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAG",
+      "number": "intro",
+      "reference": "Haggai"
+    },
+    {
+      "id": "HAG.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAG",
+      "number": "1",
+      "reference": "Haggai 1"
+    },
+    {
+      "id": "HAG.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "HAG",
+      "number": "2",
+      "reference": "Haggai 2"
+    }
+  ]
+}

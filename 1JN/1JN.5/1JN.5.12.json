@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1JN.5.12",
+    "orgId": "1JN.5.12",
+    "bookId": "1JN",
+    "chapterId": "1JN.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 John 5:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"1JN 5:12\" class=\"v\">12</span>He that hath the Son hath life; <span class=\"add\">and</span> he that hath not the Son of God hath not life. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1JN.5.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "1JN.5.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('53838bf6-20b5-4a1a-8802-89f0a7e079bc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='53838bf6-20b5-4a1a-8802-89f0a7e079bc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "53838bf6-20b5-4a1a-8802-89f0a7e079bc",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('53838bf6-20b5-4a1a-8802-89f0a7e079bc'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=53838bf6-20b5-4a1a-8802-89f0a7e079bc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.23.13",
+    "orgId": "LEV.23.13",
+    "bookId": "LEV",
+    "chapterId": "LEV.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 23:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"LEV 23:13\" class=\"v\">13</span>And the meat offering thereof <span class=\"add\">shall be</span> two tenth deals of fine flour mingled with oil, an offering made by fire unto the <span class=\"nd\">LORD</span> <span class=\"add\">for</span> a sweet savour: and the drink offering thereof <span class=\"add\">shall be</span> of wine, the fourth <span class=\"add\">part</span> of an hin. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.23.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "LEV.23.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('971e43e1-a14e-4ccf-bbaa-2df3c590f862');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='971e43e1-a14e-4ccf-bbaa-2df3c590f862'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "971e43e1-a14e-4ccf-bbaa-2df3c590f862",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('971e43e1-a14e-4ccf-bbaa-2df3c590f862'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=971e43e1-a14e-4ccf-bbaa-2df3c590f862\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

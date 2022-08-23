@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.13.21",
+    "orgId": "JOS.13.21",
+    "bookId": "JOS",
+    "chapterId": "JOS.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 13:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"JOS 13:21\" class=\"v\">21</span>And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, <span class=\"add\">which were</span> dukes of Sihon, dwelling in the country.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.13.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "JOS.13.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('25e11285-0c82-4c88-8b93-d9c41196b9ae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='25e11285-0c82-4c88-8b93-d9c41196b9ae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "25e11285-0c82-4c88-8b93-d9c41196b9ae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('25e11285-0c82-4c88-8b93-d9c41196b9ae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=25e11285-0c82-4c88-8b93-d9c41196b9ae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

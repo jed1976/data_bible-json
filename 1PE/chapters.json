@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1PE.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "intro",
+      "reference": "1 Peter"
+    },
+    {
+      "id": "1PE.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "1",
+      "reference": "1 Peter 1"
+    },
+    {
+      "id": "1PE.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "2",
+      "reference": "1 Peter 2"
+    },
+    {
+      "id": "1PE.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "3",
+      "reference": "1 Peter 3"
+    },
+    {
+      "id": "1PE.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "4",
+      "reference": "1 Peter 4"
+    },
+    {
+      "id": "1PE.5",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "1PE",
+      "number": "5",
+      "reference": "1 Peter 5"
+    }
+  ]
+}

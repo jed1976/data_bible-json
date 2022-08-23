@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.119.174",
+    "orgId": "PSA.119.174",
+    "bookId": "PSA",
+    "chapterId": "PSA.119",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 119:174",
+    "content": "<p class=\"q1\"><span data-number=\"174\" data-sid=\"PSA 119:174\" class=\"v\">174</span>I have longed for thy salvation, O <span class=\"nd\">LORD</span>; and thy law <span class=\"add\">is</span> my delight.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.119.175",
+      "number": "175"
+    },
+    "previous": {
+      "id": "PSA.119.173",
+      "number": "173"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('91db2c79-38fc-4f5a-8249-42b79c68e320');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='91db2c79-38fc-4f5a-8249-42b79c68e320'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "91db2c79-38fc-4f5a-8249-42b79c68e320",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('91db2c79-38fc-4f5a-8249-42b79c68e320'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=91db2c79-38fc-4f5a-8249-42b79c68e320\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

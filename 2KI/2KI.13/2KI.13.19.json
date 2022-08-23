@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.13.19",
+    "orgId": "2KI.13.19",
+    "bookId": "2KI",
+    "chapterId": "2KI.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 13:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"2KI 13:19\" class=\"v\">19</span>And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed <span class=\"add\">it:</span> whereas now thou shalt smite Syria <span class=\"add\">but</span> thrice.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.13.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "2KI.13.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('45ff86f0-934a-464e-a8b4-2911db57c413');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='45ff86f0-934a-464e-a8b4-2911db57c413'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "45ff86f0-934a-464e-a8b4-2911db57c413",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('45ff86f0-934a-464e-a8b4-2911db57c413'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=45ff86f0-934a-464e-a8b4-2911db57c413\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

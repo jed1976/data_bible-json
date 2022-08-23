@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.13.22",
+    "orgId": "NUM.13.22",
+    "bookId": "NUM",
+    "chapterId": "NUM.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 13:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"NUM 13:22\" class=\"v\">22</span>And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, <span class=\"add\">were</span>. (Now Hebron was built seven years before Zoan in Egypt.) </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.13.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "NUM.13.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('08cdfe54-fda0-4fc5-9582-86ebe1dec1c6');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='08cdfe54-fda0-4fc5-9582-86ebe1dec1c6'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "08cdfe54-fda0-4fc5-9582-86ebe1dec1c6",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('08cdfe54-fda0-4fc5-9582-86ebe1dec1c6'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=08cdfe54-fda0-4fc5-9582-86ebe1dec1c6\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

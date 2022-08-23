@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1PE.1.12",
+    "orgId": "1PE.1.12",
+    "bookId": "1PE",
+    "chapterId": "1PE.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Peter 1:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"1PE 1:12\" class=\"v\">12</span>Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1PE.1.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "1PE.1.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('681a7716-4e69-41ab-85eb-692ef1ddb1b0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='681a7716-4e69-41ab-85eb-692ef1ddb1b0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "681a7716-4e69-41ab-85eb-692ef1ddb1b0",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('681a7716-4e69-41ab-85eb-692ef1ddb1b0'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=681a7716-4e69-41ab-85eb-692ef1ddb1b0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

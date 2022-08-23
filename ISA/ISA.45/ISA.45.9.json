@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.45.9",
+    "orgId": "ISA.45.9",
+    "bookId": "ISA",
+    "chapterId": "ISA.45",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 45:9",
+    "content": "<p class=\"p\"><span data-number=\"9\" data-sid=\"ISA 45:9\" class=\"v\">9</span>Woe unto him that striveth with his Maker! <span class=\"add\">Let</span> the potsherd <span class=\"add\">strive</span> with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.45.10",
+      "number": "10"
+    },
+    "previous": {
+      "id": "ISA.45.8",
+      "number": "8"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e885b936-aecf-4961-a5af-4c2280aaed2e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e885b936-aecf-4961-a5af-4c2280aaed2e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e885b936-aecf-4961-a5af-4c2280aaed2e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e885b936-aecf-4961-a5af-4c2280aaed2e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e885b936-aecf-4961-a5af-4c2280aaed2e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

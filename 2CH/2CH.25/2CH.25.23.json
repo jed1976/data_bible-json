@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.25.23",
+    "orgId": "2CH.25.23",
+    "bookId": "2CH",
+    "chapterId": "2CH.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 25:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"2CH 25:23\" class=\"v\">23</span>And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Beth-shemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.25.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "2CH.25.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e74cda8b-cc8a-48f7-8ddc-56c226f9dac3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e74cda8b-cc8a-48f7-8ddc-56c226f9dac3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e74cda8b-cc8a-48f7-8ddc-56c226f9dac3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e74cda8b-cc8a-48f7-8ddc-56c226f9dac3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e74cda8b-cc8a-48f7-8ddc-56c226f9dac3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

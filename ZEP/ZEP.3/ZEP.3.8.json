@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ZEP.3.8",
+    "orgId": "ZEP.3.8",
+    "bookId": "ZEP",
+    "chapterId": "ZEP.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Zephaniah 3:8",
+    "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"ZEP 3:8\" class=\"v\">8</span>¶ Therefore wait ye upon me, saith the <span class=\"nd\">LORD</span>, until the day that I rise up to the prey: for my determination <span class=\"add\">is</span> to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, <span class=\"add\">even</span> all my fierce anger: for all the earth shall be devoured with the fire of my jealousy. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ZEP.3.9",
+      "number": "9"
+    },
+    "previous": {
+      "id": "ZEP.3.7",
+      "number": "7"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5cd688ba-586b-4b27-b45a-6ddc24faf7c3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5cd688ba-586b-4b27-b45a-6ddc24faf7c3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5cd688ba-586b-4b27-b45a-6ddc24faf7c3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5cd688ba-586b-4b27-b45a-6ddc24faf7c3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5cd688ba-586b-4b27-b45a-6ddc24faf7c3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

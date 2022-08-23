@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.16.25",
+    "orgId": "PRO.16.25",
+    "bookId": "PRO",
+    "chapterId": "PRO.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 16:25",
+    "content": "<p class=\"p\"><span data-number=\"25\" data-sid=\"PRO 16:25\" class=\"v\">25</span>There is a way that seemeth right unto a man, but the end thereof <span class=\"add\">are</span> the ways of death. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.16.26",
+      "number": "26"
+    },
+    "previous": {
+      "id": "PRO.16.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8a6f2b11-9d89-4c57-b802-0d0e87e4bc2f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8a6f2b11-9d89-4c57-b802-0d0e87e4bc2f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8a6f2b11-9d89-4c57-b802-0d0e87e4bc2f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8a6f2b11-9d89-4c57-b802-0d0e87e4bc2f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8a6f2b11-9d89-4c57-b802-0d0e87e4bc2f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

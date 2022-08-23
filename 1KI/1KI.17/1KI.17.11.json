@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.17.11",
+    "orgId": "1KI.17.11",
+    "bookId": "1KI",
+    "chapterId": "1KI.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 17:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"1KI 17:11\" class=\"v\">11</span>And as she was going to fetch <span class=\"add\">it</span>, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.17.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "1KI.17.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c1e56908-2883-4eb1-8d33-f52ad30ac78c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c1e56908-2883-4eb1-8d33-f52ad30ac78c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c1e56908-2883-4eb1-8d33-f52ad30ac78c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c1e56908-2883-4eb1-8d33-f52ad30ac78c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c1e56908-2883-4eb1-8d33-f52ad30ac78c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

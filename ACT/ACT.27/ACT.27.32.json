@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.27.32",
+    "orgId": "ACT.27.32",
+    "bookId": "ACT",
+    "chapterId": "ACT.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 27:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"ACT 27:32\" class=\"v\">32</span>Then the soldiers cut off the ropes of the boat, and let her fall off. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.27.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "ACT.27.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('555aca87-ef55-4968-964b-56fb4e6d1eba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='555aca87-ef55-4968-964b-56fb4e6d1eba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "555aca87-ef55-4968-964b-56fb4e6d1eba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('555aca87-ef55-4968-964b-56fb4e6d1eba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=555aca87-ef55-4968-964b-56fb4e6d1eba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

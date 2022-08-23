@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2TH.3.6",
+    "orgId": "2TH.3.6",
+    "bookId": "2TH",
+    "chapterId": "2TH.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Thessalonians 3:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"2TH 3:6\" class=\"v\">6</span>Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2TH.3.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "2TH.3.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f7ce221d-eb77-4aad-b050-52e87a5ba921');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f7ce221d-eb77-4aad-b050-52e87a5ba921'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "f7ce221d-eb77-4aad-b050-52e87a5ba921",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f7ce221d-eb77-4aad-b050-52e87a5ba921'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f7ce221d-eb77-4aad-b050-52e87a5ba921\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

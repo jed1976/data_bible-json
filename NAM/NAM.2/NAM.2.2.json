@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NAM.2.2",
+    "orgId": "NAM.2.3",
+    "bookId": "NAM",
+    "chapterId": "NAM.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nahum 2:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"NAM 2:2\" class=\"v\">2</span>For the <span class=\"nd\">LORD</span> hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NAM.2.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "NAM.2.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('968c1779-475a-456e-bd5d-bdddbccc8d5a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='968c1779-475a-456e-bd5d-bdddbccc8d5a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "968c1779-475a-456e-bd5d-bdddbccc8d5a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('968c1779-475a-456e-bd5d-bdddbccc8d5a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=968c1779-475a-456e-bd5d-bdddbccc8d5a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

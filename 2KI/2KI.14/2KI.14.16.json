@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2KI.14.16",
+    "orgId": "2KI.14.16",
+    "bookId": "2KI",
+    "chapterId": "2KI.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Kings 14:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"2KI 14:16\" class=\"v\">16</span>And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2KI.14.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "2KI.14.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('03fa808c-e895-4f13-8384-20c779cb11eb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='03fa808c-e895-4f13-8384-20c779cb11eb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "03fa808c-e895-4f13-8384-20c779cb11eb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('03fa808c-e895-4f13-8384-20c779cb11eb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=03fa808c-e895-4f13-8384-20c779cb11eb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

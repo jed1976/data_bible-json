@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.32.23",
+    "orgId": "EXO.32.23",
+    "bookId": "EXO",
+    "chapterId": "EXO.32",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 32:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"EXO 32:23\" class=\"v\">23</span>For they said unto me, Make us gods, which shall go before us: for <span class=\"add\">as for</span> this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.32.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "EXO.32.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c81a60cb-1e28-4396-964e-26eb9c53dd02');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c81a60cb-1e28-4396-964e-26eb9c53dd02'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c81a60cb-1e28-4396-964e-26eb9c53dd02",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c81a60cb-1e28-4396-964e-26eb9c53dd02'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c81a60cb-1e28-4396-964e-26eb9c53dd02\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

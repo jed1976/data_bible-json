@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOL.3.18",
+    "orgId": "JOL.4.18",
+    "bookId": "JOL",
+    "chapterId": "JOL.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joel 3:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"JOL 3:18\" class=\"v\">18</span>¶ And it shall come to pass in that day, <span class=\"add\">that</span> the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the <span class=\"nd\">LORD</span>, and shall water the valley of Shittim. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOL.3.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "JOL.3.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fd5402d4-76d1-4b24-bf8b-ac8fb145178b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fd5402d4-76d1-4b24-bf8b-ac8fb145178b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fd5402d4-76d1-4b24-bf8b-ac8fb145178b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fd5402d4-76d1-4b24-bf8b-ac8fb145178b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fd5402d4-76d1-4b24-bf8b-ac8fb145178b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2SA.16.1",
+    "orgId": "2SA.16.1",
+    "bookId": "2SA",
+    "chapterId": "2SA.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Samuel 16:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"2SA 16:1\" class=\"v\">1</span>And when David was a little past the top <span class=\"add\">of the hill</span>, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred <span class=\"add\">loaves</span> of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2SA.16.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "2SA.15.37",
+      "number": "37"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('54cba246-1c7e-4e5d-9a47-f992bf572b15');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='54cba246-1c7e-4e5d-9a47-f992bf572b15'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "54cba246-1c7e-4e5d-9a47-f992bf572b15",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('54cba246-1c7e-4e5d-9a47-f992bf572b15'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=54cba246-1c7e-4e5d-9a47-f992bf572b15\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

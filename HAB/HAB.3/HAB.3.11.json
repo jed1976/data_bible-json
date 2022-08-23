@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HAB.3.11",
+    "orgId": "HAB.3.11",
+    "bookId": "HAB",
+    "chapterId": "HAB.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Habakkuk 3:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"HAB 3:11\" class=\"v\">11</span>The sun <span class=\"add\">and</span> moon stood still in their habitation: at the light of thine arrows they went, <span class=\"add\">and</span> at the shining of thy glittering spear. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HAB.3.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "HAB.3.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cc0d30c3-6059-4e21-8f50-9c13e1cb40ab');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cc0d30c3-6059-4e21-8f50-9c13e1cb40ab'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "cc0d30c3-6059-4e21-8f50-9c13e1cb40ab",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cc0d30c3-6059-4e21-8f50-9c13e1cb40ab'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cc0d30c3-6059-4e21-8f50-9c13e1cb40ab\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

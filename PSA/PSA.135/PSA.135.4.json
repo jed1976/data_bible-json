@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.135.4",
+    "orgId": "PSA.135.4",
+    "bookId": "PSA",
+    "chapterId": "PSA.135",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 135:4",
+    "content": "<p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 135:4\" class=\"v\">4</span>For the <span class=\"nd\">LORD</span> hath chosen Jacob unto himself, <span class=\"add\">and</span> Israel for his peculiar treasure.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.135.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "PSA.135.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b96c2c0b-839d-434e-aa8c-270c123749a3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b96c2c0b-839d-434e-aa8c-270c123749a3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b96c2c0b-839d-434e-aa8c-270c123749a3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b96c2c0b-839d-434e-aa8c-270c123749a3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b96c2c0b-839d-434e-aa8c-270c123749a3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

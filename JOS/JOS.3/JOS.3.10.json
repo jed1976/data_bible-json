@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.3.10",
+    "orgId": "JOS.3.10",
+    "bookId": "JOS",
+    "chapterId": "JOS.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 3:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JOS 3:10\" class=\"v\">10</span>And Joshua said, Hereby ye shall know that the living God <span class=\"add\">is</span> among you, and <span class=\"add\">that</span> he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.3.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "JOS.3.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9979ff3d-0a28-4360-9f9a-13af287b1fae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9979ff3d-0a28-4360-9f9a-13af287b1fae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9979ff3d-0a28-4360-9f9a-13af287b1fae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9979ff3d-0a28-4360-9f9a-13af287b1fae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9979ff3d-0a28-4360-9f9a-13af287b1fae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

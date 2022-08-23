@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MIC.2.6",
+    "orgId": "MIC.2.6",
+    "bookId": "MIC",
+    "chapterId": "MIC.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Micah 2:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"MIC 2:6\" class=\"v\">6</span>Prophesy ye not, <span class=\"add\">say they to them that</span> prophesy: they shall not prophesy to them, <span class=\"add\">that</span> they shall not take shame.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MIC.2.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "MIC.2.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d42ea630-3839-4e82-ad85-8a4e7ab22b00');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d42ea630-3839-4e82-ad85-8a4e7ab22b00'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d42ea630-3839-4e82-ad85-8a4e7ab22b00",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d42ea630-3839-4e82-ad85-8a4e7ab22b00'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d42ea630-3839-4e82-ad85-8a4e7ab22b00\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

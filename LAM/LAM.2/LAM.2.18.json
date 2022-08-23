@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.2.18",
+    "orgId": "LAM.2.18",
+    "bookId": "LAM",
+    "chapterId": "LAM.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 2:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"LAM 2:18\" class=\"v\">18</span>Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.2.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "LAM.2.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('201e9116-662d-4f91-b5c1-1f54a8372b4f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='201e9116-662d-4f91-b5c1-1f54a8372b4f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "201e9116-662d-4f91-b5c1-1f54a8372b4f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('201e9116-662d-4f91-b5c1-1f54a8372b4f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=201e9116-662d-4f91-b5c1-1f54a8372b4f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

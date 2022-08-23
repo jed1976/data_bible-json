@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.23.6",
+    "orgId": "JOS.23.6",
+    "bookId": "JOS",
+    "chapterId": "JOS.23",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 23:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"JOS 23:6\" class=\"v\">6</span>Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom <span class=\"add\">to</span> the right hand or <span class=\"add\">to</span> the left; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.23.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "JOS.23.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('078f97c9-2f1a-4ac3-956b-eab3bd1b633b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='078f97c9-2f1a-4ac3-956b-eab3bd1b633b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "078f97c9-2f1a-4ac3-956b-eab3bd1b633b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('078f97c9-2f1a-4ac3-956b-eab3bd1b633b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=078f97c9-2f1a-4ac3-956b-eab3bd1b633b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

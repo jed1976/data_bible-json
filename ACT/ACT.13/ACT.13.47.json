@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ACT.13.47",
+    "orgId": "ACT.13.47",
+    "bookId": "ACT",
+    "chapterId": "ACT.13",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Acts 13:47",
+    "content": "<p class=\"p\"><span data-number=\"47\" data-sid=\"ACT 13:47\" class=\"v\">47</span>For so hath the Lord commanded us, <span class=\"add\">saying</span>, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ACT.13.48",
+      "number": "48"
+    },
+    "previous": {
+      "id": "ACT.13.46",
+      "number": "46"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ef92f5b4-c22f-41e3-bc73-d1127d000c74');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ef92f5b4-c22f-41e3-bc73-d1127d000c74'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ef92f5b4-c22f-41e3-bc73-d1127d000c74",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ef92f5b4-c22f-41e3-bc73-d1127d000c74'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ef92f5b4-c22f-41e3-bc73-d1127d000c74\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.16.10",
+    "orgId": "JER.16.10",
+    "bookId": "JER",
+    "chapterId": "JER.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 16:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JER 16:10\" class=\"v\">10</span>¶ And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the <span class=\"nd\">LORD</span> pronounced all this great evil against us? or what <span class=\"add\">is</span> our iniquity? or what <span class=\"add\">is</span> our sin that we have committed against the <span class=\"nd\">LORD</span> our God? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.16.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "JER.16.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d37133a4-41dc-4e81-b3b0-db83eb63e9a2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d37133a4-41dc-4e81-b3b0-db83eb63e9a2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d37133a4-41dc-4e81-b3b0-db83eb63e9a2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d37133a4-41dc-4e81-b3b0-db83eb63e9a2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d37133a4-41dc-4e81-b3b0-db83eb63e9a2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

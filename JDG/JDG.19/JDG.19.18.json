@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.19.18",
+    "orgId": "JDG.19.18",
+    "bookId": "JDG",
+    "chapterId": "JDG.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 19:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"JDG 19:18\" class=\"v\">18</span>And he said unto him, We <span class=\"add\">are</span> passing from Beth-lehem-judah toward the side of mount Ephraim; from thence <span class=\"add\">am</span> I: and I went to Beth-lehem-judah, but I <span class=\"add\">am now</span> going to the house of the <span class=\"nd\">LORD</span>; and there <span class=\"add\">is</span> no man that receiveth me to house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.19.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "JDG.19.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a7856d0d-44c2-4217-94d7-d726dae28fcd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a7856d0d-44c2-4217-94d7-d726dae28fcd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a7856d0d-44c2-4217-94d7-d726dae28fcd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a7856d0d-44c2-4217-94d7-d726dae28fcd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a7856d0d-44c2-4217-94d7-d726dae28fcd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.41.13",
+    "orgId": "EZK.41.13",
+    "bookId": "EZK",
+    "chapterId": "EZK.41",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 41:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"EZK 41:13\" class=\"v\">13</span>So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls thereof, an hundred cubits long; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.41.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "EZK.41.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('12ca03f0-fddc-4fca-b07a-8f87d35bdbe4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='12ca03f0-fddc-4fca-b07a-8f87d35bdbe4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "12ca03f0-fddc-4fca-b07a-8f87d35bdbe4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('12ca03f0-fddc-4fca-b07a-8f87d35bdbe4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=12ca03f0-fddc-4fca-b07a-8f87d35bdbe4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.8.31",
+    "orgId": "LEV.8.31",
+    "bookId": "LEV",
+    "chapterId": "LEV.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 8:31",
+    "content": "<p class=\"p\"><span data-number=\"31\" data-sid=\"LEV 8:31\" class=\"v\">31</span>¶ And Moses said unto Aaron and to his sons, Boil the flesh <span class=\"add\">at</span> the door of the tabernacle of the congregation: and there eat it with the bread that <span class=\"add\">is</span> in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.8.32",
+      "number": "32"
+    },
+    "previous": {
+      "id": "LEV.8.30",
+      "number": "30"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('df1dcb78-5150-4168-a617-9ca94d3b32ae');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='df1dcb78-5150-4168-a617-9ca94d3b32ae'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "df1dcb78-5150-4168-a617-9ca94d3b32ae",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('df1dcb78-5150-4168-a617-9ca94d3b32ae'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=df1dcb78-5150-4168-a617-9ca94d3b32ae\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

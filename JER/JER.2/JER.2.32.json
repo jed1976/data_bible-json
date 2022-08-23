@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JER.2.32",
+    "orgId": "JER.2.32",
+    "bookId": "JER",
+    "chapterId": "JER.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Jeremiah 2:32",
+    "content": "<p class=\"p\"><span data-number=\"32\" data-sid=\"JER 2:32\" class=\"v\">32</span>Can a maid forget her ornaments, <span class=\"add\">or</span> a bride her attire? yet my people have forgotten me days without number. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JER.2.33",
+      "number": "33"
+    },
+    "previous": {
+      "id": "JER.2.31",
+      "number": "31"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('391eb84f-664c-48f0-88a8-07822889f1f3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='391eb84f-664c-48f0-88a8-07822889f1f3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "391eb84f-664c-48f0-88a8-07822889f1f3",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('391eb84f-664c-48f0-88a8-07822889f1f3'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=391eb84f-664c-48f0-88a8-07822889f1f3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

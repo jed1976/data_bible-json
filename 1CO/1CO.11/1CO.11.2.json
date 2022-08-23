@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.11.2",
+    "orgId": "1CO.11.2",
+    "bookId": "1CO",
+    "chapterId": "1CO.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 11:2",
+    "content": "<p class=\"p\"><span data-number=\"2\" data-sid=\"1CO 11:2\" class=\"v\">2</span>Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered <span class=\"add\">them</span> to you. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.11.3",
+      "number": "3"
+    },
+    "previous": {
+      "id": "1CO.11.1",
+      "number": "1"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('51d110f9-5014-44ac-97cb-a30e92d8d8b8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='51d110f9-5014-44ac-97cb-a30e92d8d8b8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "51d110f9-5014-44ac-97cb-a30e92d8d8b8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('51d110f9-5014-44ac-97cb-a30e92d8d8b8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=51d110f9-5014-44ac-97cb-a30e92d8d8b8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

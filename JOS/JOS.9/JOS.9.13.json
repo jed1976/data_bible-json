@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOS.9.13",
+    "orgId": "JOS.9.13",
+    "bookId": "JOS",
+    "chapterId": "JOS.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Joshua 9:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"JOS 9:13\" class=\"v\">13</span>And these bottles of wine, which we filled, <span class=\"add\">were</span> new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOS.9.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "JOS.9.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8b4c3649-d2f0-4e95-b4a6-bb782f28e7dd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8b4c3649-d2f0-4e95-b4a6-bb782f28e7dd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8b4c3649-d2f0-4e95-b4a6-bb782f28e7dd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8b4c3649-d2f0-4e95-b4a6-bb782f28e7dd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8b4c3649-d2f0-4e95-b4a6-bb782f28e7dd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

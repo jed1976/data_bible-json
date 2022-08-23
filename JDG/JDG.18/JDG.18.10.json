@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JDG.18.10",
+    "orgId": "JDG.18.10",
+    "bookId": "JDG",
+    "chapterId": "JDG.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Judges 18:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"JDG 18:10\" class=\"v\">10</span>When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where <span class=\"add\">there is</span> no want of any thing that <span class=\"add\">is</span> in the earth.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JDG.18.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "JDG.18.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9940c7f2-99a3-45a1-83e8-a2efef08886a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9940c7f2-99a3-45a1-83e8-a2efef08886a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9940c7f2-99a3-45a1-83e8-a2efef08886a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9940c7f2-99a3-45a1-83e8-a2efef08886a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9940c7f2-99a3-45a1-83e8-a2efef08886a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

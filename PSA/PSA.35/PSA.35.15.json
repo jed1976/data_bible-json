@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.35.15",
+    "orgId": "PSA.35.15",
+    "bookId": "PSA",
+    "chapterId": "PSA.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 35:15",
+    "content": "<p class=\"q1\"><span data-number=\"15\" data-sid=\"PSA 35:15\" class=\"v\">15</span>But in mine adversity they rejoiced, and gathered themselves together: <span class=\"add\">yea</span>, the abjects gathered themselves together against me, and I knew <span class=\"add\">it</span> not; they did tear <span class=\"add\">me</span>, and ceased not:</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.35.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "PSA.35.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9ad8605e-28a9-4b7a-9755-513ffa3bd046');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9ad8605e-28a9-4b7a-9755-513ffa3bd046'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9ad8605e-28a9-4b7a-9755-513ffa3bd046",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9ad8605e-28a9-4b7a-9755-513ffa3bd046'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9ad8605e-28a9-4b7a-9755-513ffa3bd046\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.25.13",
+    "orgId": "EZK.25.13",
+    "bookId": "EZK",
+    "chapterId": "EZK.25",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 25:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"EZK 25:13\" class=\"v\">13</span>Therefore thus saith the Lord <span class=\"nd\">GOD</span>; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.25.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "EZK.25.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b84c8ba0-9d6c-46ef-a4b7-b655df4c4372');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b84c8ba0-9d6c-46ef-a4b7-b655df4c4372'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b84c8ba0-9d6c-46ef-a4b7-b655df4c4372",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b84c8ba0-9d6c-46ef-a4b7-b655df4c4372'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b84c8ba0-9d6c-46ef-a4b7-b655df4c4372\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

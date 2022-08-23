@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.20.1",
+    "orgId": "PRO.20.1",
+    "bookId": "PRO",
+    "chapterId": "PRO.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 20:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"PRO 20:1\" class=\"v\">1</span>Wine <span class=\"add\">is</span> a mocker, strong drink <span class=\"add\">is</span> raging: and whosoever is deceived thereby is not wise. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.20.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "PRO.19.29",
+      "number": "29"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('3fb7d2fa-25dc-40b0-94a4-f93e9ba3039b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='3fb7d2fa-25dc-40b0-94a4-f93e9ba3039b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "3fb7d2fa-25dc-40b0-94a4-f93e9ba3039b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('3fb7d2fa-25dc-40b0-94a4-f93e9ba3039b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=3fb7d2fa-25dc-40b0-94a4-f93e9ba3039b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.68.13",
+    "orgId": "PSA.68.14",
+    "bookId": "PSA",
+    "chapterId": "PSA.68",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 68:13",
+    "content": "<p class=\"q1\"><span data-number=\"13\" data-sid=\"PSA 68:13\" class=\"v\">13</span>Though ye have lien among the pots, <span class=\"add\">yet shall ye be as</span> the wings of a dove covered with silver, and her feathers with yellow gold.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.68.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "PSA.68.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('06d1cca0-0449-4f3b-9bf0-30e0d9b2d355');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='06d1cca0-0449-4f3b-9bf0-30e0d9b2d355'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "06d1cca0-0449-4f3b-9bf0-30e0d9b2d355",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('06d1cca0-0449-4f3b-9bf0-30e0d9b2d355'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=06d1cca0-0449-4f3b-9bf0-30e0d9b2d355\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

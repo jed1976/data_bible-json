@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "JON.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JON",
+      "number": "intro",
+      "reference": "Jonah"
+    },
+    {
+      "id": "JON.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JON",
+      "number": "1",
+      "reference": "Jonah 1"
+    },
+    {
+      "id": "JON.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JON",
+      "number": "2",
+      "reference": "Jonah 2"
+    },
+    {
+      "id": "JON.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JON",
+      "number": "3",
+      "reference": "Jonah 3"
+    },
+    {
+      "id": "JON.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "JON",
+      "number": "4",
+      "reference": "Jonah 4"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1PE.4.11",
+    "orgId": "1PE.4.11",
+    "bookId": "1PE",
+    "chapterId": "1PE.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Peter 4:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"1PE 4:11\" class=\"v\">11</span>If any man speak, <span class=\"add\">let him speak</span> as the oracles of God; if any man minister, <span class=\"add\">let him do it</span> as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1PE.4.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "1PE.4.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a94c4d3c-ba57-4937-925c-1ad22bc5a09c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a94c4d3c-ba57-4937-925c-1ad22bc5a09c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a94c4d3c-ba57-4937-925c-1ad22bc5a09c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a94c4d3c-ba57-4937-925c-1ad22bc5a09c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a94c4d3c-ba57-4937-925c-1ad22bc5a09c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

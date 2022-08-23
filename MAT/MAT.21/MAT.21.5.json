@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MAT.21.5",
+    "orgId": "MAT.21.5",
+    "bookId": "MAT",
+    "chapterId": "MAT.21",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Matthew 21:5",
+    "content": "<p class=\"p\"><span data-number=\"5\" data-sid=\"MAT 21:5\" class=\"v\">5</span>Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MAT.21.6",
+      "number": "6"
+    },
+    "previous": {
+      "id": "MAT.21.4",
+      "number": "4"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a841e831-a657-4125-a3c0-5970233073b8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a841e831-a657-4125-a3c0-5970233073b8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a841e831-a657-4125-a3c0-5970233073b8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a841e831-a657-4125-a3c0-5970233073b8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a841e831-a657-4125-a3c0-5970233073b8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

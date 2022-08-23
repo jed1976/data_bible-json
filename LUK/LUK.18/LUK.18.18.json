@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.18.18",
+    "orgId": "LUK.18.18",
+    "bookId": "LUK",
+    "chapterId": "LUK.18",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 18:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"LUK 18:18\" class=\"v\">18</span>And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life? </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.18.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "LUK.18.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d6f77bda-622b-41d6-bc1e-571fa2d6330c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d6f77bda-622b-41d6-bc1e-571fa2d6330c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d6f77bda-622b-41d6-bc1e-571fa2d6330c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d6f77bda-622b-41d6-bc1e-571fa2d6330c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d6f77bda-622b-41d6-bc1e-571fa2d6330c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

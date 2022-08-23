@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "SNG.1.3",
+    "orgId": "SNG.1.3",
+    "bookId": "SNG",
+    "chapterId": "SNG.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Song of Solomon 1:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"SNG 1:3\" class=\"v\">3</span>Because of the savour of thy good ointments thy name <span class=\"add\">is as</span> ointment poured forth, therefore do the virgins love thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "SNG.1.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "SNG.1.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e44c2d16-0b6e-491d-b2c6-7ff5b1f47643');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e44c2d16-0b6e-491d-b2c6-7ff5b1f47643'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e44c2d16-0b6e-491d-b2c6-7ff5b1f47643",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e44c2d16-0b6e-491d-b2c6-7ff5b1f47643'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e44c2d16-0b6e-491d-b2c6-7ff5b1f47643\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

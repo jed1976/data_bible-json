@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.11.34",
+    "orgId": "1KI.11.34",
+    "bookId": "1KI",
+    "chapterId": "1KI.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 11:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"1KI 11:34\" class=\"v\">34</span>Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.11.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "1KI.11.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d9a64f77-4518-4b49-97c1-648064eb79ca');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d9a64f77-4518-4b49-97c1-648064eb79ca'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d9a64f77-4518-4b49-97c1-648064eb79ca",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d9a64f77-4518-4b49-97c1-648064eb79ca'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d9a64f77-4518-4b49-97c1-648064eb79ca\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

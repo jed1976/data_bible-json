@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.71.18",
+    "orgId": "PSA.71.18",
+    "bookId": "PSA",
+    "chapterId": "PSA.71",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 71:18",
+    "content": "<p class=\"q1\"><span data-number=\"18\" data-sid=\"PSA 71:18\" class=\"v\">18</span>Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto <span class=\"add\">this</span> generation, <span class=\"add\">and</span> thy power to every one <span class=\"add\">that</span> is to come.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.71.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "PSA.71.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('40a1ead7-5df7-4d21-8af5-1097928e9f53');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='40a1ead7-5df7-4d21-8af5-1097928e9f53'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "40a1ead7-5df7-4d21-8af5-1097928e9f53",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('40a1ead7-5df7-4d21-8af5-1097928e9f53'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=40a1ead7-5df7-4d21-8af5-1097928e9f53\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

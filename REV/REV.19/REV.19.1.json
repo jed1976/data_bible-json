@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.19.1",
+    "orgId": "REV.19.1",
+    "bookId": "REV",
+    "chapterId": "REV.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 19:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"REV 19:1\" class=\"v\">1</span>And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.19.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "REV.18.24",
+      "number": "24"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b17183f8-9a24-4248-9d1b-809a8831691a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b17183f8-9a24-4248-9d1b-809a8831691a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b17183f8-9a24-4248-9d1b-809a8831691a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b17183f8-9a24-4248-9d1b-809a8831691a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b17183f8-9a24-4248-9d1b-809a8831691a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

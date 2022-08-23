@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.47.11",
+    "orgId": "ISA.47.11",
+    "bookId": "ISA",
+    "chapterId": "ISA.47",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 47:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"ISA 47:11\" class=\"v\">11</span>¶ Therefore shall evil come upon thee; thou shalt not know from whence it riseth: and mischief shall fall upon thee; thou shalt not be able to put it off: and desolation shall come upon thee suddenly, <span class=\"add\">which</span> thou shalt not know. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.47.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "ISA.47.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e0b53a3f-43ad-43d0-a2da-6b618c6be9be');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e0b53a3f-43ad-43d0-a2da-6b618c6be9be'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "e0b53a3f-43ad-43d0-a2da-6b618c6be9be",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e0b53a3f-43ad-43d0-a2da-6b618c6be9be'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e0b53a3f-43ad-43d0-a2da-6b618c6be9be\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

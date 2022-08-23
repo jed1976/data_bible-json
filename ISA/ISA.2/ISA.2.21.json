@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.2.21",
+    "orgId": "ISA.2.21",
+    "bookId": "ISA",
+    "chapterId": "ISA.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 2:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"ISA 2:21\" class=\"v\">21</span>To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the <span class=\"nd\">LORD</span>, and for the glory of his majesty, when he ariseth to shake terribly the earth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.2.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "ISA.2.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('bb61068b-491f-4086-84b3-dd3dd2a1f7ba');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='bb61068b-491f-4086-84b3-dd3dd2a1f7ba'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "bb61068b-491f-4086-84b3-dd3dd2a1f7ba",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('bb61068b-491f-4086-84b3-dd3dd2a1f7ba'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=bb61068b-491f-4086-84b3-dd3dd2a1f7ba\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

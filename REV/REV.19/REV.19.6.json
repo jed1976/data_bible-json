@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "REV.19.6",
+    "orgId": "REV.19.6",
+    "bookId": "REV",
+    "chapterId": "REV.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Revelation 19:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"REV 19:6\" class=\"v\">6</span>And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "REV.19.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "REV.19.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b1bdc1f6-9f8e-412b-b610-7d5567ef2f8b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b1bdc1f6-9f8e-412b-b610-7d5567ef2f8b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b1bdc1f6-9f8e-412b-b610-7d5567ef2f8b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b1bdc1f6-9f8e-412b-b610-7d5567ef2f8b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b1bdc1f6-9f8e-412b-b610-7d5567ef2f8b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

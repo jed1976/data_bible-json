@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "PSA.112.1",
+      "orgId": "PSA.112.1",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:1"
+    },
+    {
+      "id": "PSA.112.2",
+      "orgId": "PSA.112.2",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:2"
+    },
+    {
+      "id": "PSA.112.3",
+      "orgId": "PSA.112.3",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:3"
+    },
+    {
+      "id": "PSA.112.4",
+      "orgId": "PSA.112.4",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:4"
+    },
+    {
+      "id": "PSA.112.5",
+      "orgId": "PSA.112.5",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:5"
+    },
+    {
+      "id": "PSA.112.6",
+      "orgId": "PSA.112.6",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:6"
+    },
+    {
+      "id": "PSA.112.7",
+      "orgId": "PSA.112.7",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:7"
+    },
+    {
+      "id": "PSA.112.8",
+      "orgId": "PSA.112.8",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:8"
+    },
+    {
+      "id": "PSA.112.9",
+      "orgId": "PSA.112.9",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:9"
+    },
+    {
+      "id": "PSA.112.10",
+      "orgId": "PSA.112.10",
+      "bookId": "PSA",
+      "chapterId": "PSA.112",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Psalms 112:10"
+    }
+  ]
+}

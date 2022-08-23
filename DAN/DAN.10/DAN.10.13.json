@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.10.13",
+    "orgId": "DAN.10.13",
+    "bookId": "DAN",
+    "chapterId": "DAN.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 10:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"DAN 10:13\" class=\"v\">13</span>But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.10.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "DAN.10.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9b044aef-c553-406e-97b5-933dd53a8e02');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9b044aef-c553-406e-97b5-933dd53a8e02'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9b044aef-c553-406e-97b5-933dd53a8e02",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9b044aef-c553-406e-97b5-933dd53a8e02'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9b044aef-c553-406e-97b5-933dd53a8e02\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

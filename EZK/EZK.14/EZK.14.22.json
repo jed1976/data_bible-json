@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.14.22",
+    "orgId": "EZK.14.22",
+    "bookId": "EZK",
+    "chapterId": "EZK.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 14:22",
+    "content": "<p class=\"p\"><span data-number=\"22\" data-sid=\"EZK 14:22\" class=\"v\">22</span>¶ Yet, behold, therein shall be left a remnant that shall be brought forth, <span class=\"add\">both</span> sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, <span class=\"add\">even</span> concerning all that I have brought upon it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.14.23",
+      "number": "23"
+    },
+    "previous": {
+      "id": "EZK.14.21",
+      "number": "21"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8a2e1ed1-f506-4a5a-92e0-a361a4140a8e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8a2e1ed1-f506-4a5a-92e0-a361a4140a8e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8a2e1ed1-f506-4a5a-92e0-a361a4140a8e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8a2e1ed1-f506-4a5a-92e0-a361a4140a8e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8a2e1ed1-f506-4a5a-92e0-a361a4140a8e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

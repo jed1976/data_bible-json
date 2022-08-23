@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2CH.6.27",
+    "orgId": "2CH.6.27",
+    "bookId": "2CH",
+    "chapterId": "2CH.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 Chronicles 6:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"2CH 6:27\" class=\"v\">27</span>Then hear thou from heaven, and forgive the sin of thy servants, and of thy people Israel, when thou hast taught them the good way, wherein they should walk; and send rain upon thy land, which thou hast given unto thy people for an inheritance.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2CH.6.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "2CH.6.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8c906959-7168-452c-a8e2-9b277d8a02ec');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8c906959-7168-452c-a8e2-9b277d8a02ec'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8c906959-7168-452c-a8e2-9b277d8a02ec",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8c906959-7168-452c-a8e2-9b277d8a02ec'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8c906959-7168-452c-a8e2-9b277d8a02ec\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

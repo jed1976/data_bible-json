@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.5.4",
+    "orgId": "JHN.5.4",
+    "bookId": "JHN",
+    "chapterId": "JHN.5",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 5:4",
+    "content": "<p class=\"p\"><span data-number=\"4\" data-sid=\"JHN 5:4\" class=\"v\">4</span>For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.5.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "JHN.5.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a1741ba9-22b9-460b-979c-29e04ad3f8e8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a1741ba9-22b9-460b-979c-29e04ad3f8e8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a1741ba9-22b9-460b-979c-29e04ad3f8e8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a1741ba9-22b9-460b-979c-29e04ad3f8e8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a1741ba9-22b9-460b-979c-29e04ad3f8e8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

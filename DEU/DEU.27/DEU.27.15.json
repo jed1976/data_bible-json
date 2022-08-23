@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.27.15",
+    "orgId": "DEU.27.15",
+    "bookId": "DEU",
+    "chapterId": "DEU.27",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 27:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"DEU 27:15\" class=\"v\">15</span>Cursed <span class=\"add\">be</span> the man that maketh <span class=\"add\">any</span> graven or molten image, an abomination unto the <span class=\"nd\">LORD</span>, the work of the hands of the craftsman, and putteth <span class=\"add\">it</span> in <span class=\"add\">a</span> secret <span class=\"add\">place</span>. And all the people shall answer and say, Amen. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.27.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "DEU.27.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('04ecbf60-0cc2-4e48-bd4a-95a7764831a2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='04ecbf60-0cc2-4e48-bd4a-95a7764831a2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "04ecbf60-0cc2-4e48-bd4a-95a7764831a2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('04ecbf60-0cc2-4e48-bd4a-95a7764831a2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=04ecbf60-0cc2-4e48-bd4a-95a7764831a2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LEV.14.40",
+    "orgId": "LEV.14.40",
+    "bookId": "LEV",
+    "chapterId": "LEV.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Leviticus 14:40",
+    "content": "<p class=\"p\"><span data-number=\"40\" data-sid=\"LEV 14:40\" class=\"v\">40</span>Then the priest shall command that they take away the stones in which the plague <span class=\"add\">is</span>, and they shall cast them into an unclean place without the city: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LEV.14.41",
+      "number": "41"
+    },
+    "previous": {
+      "id": "LEV.14.39",
+      "number": "39"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ebcfe25b-ed40-49bf-b59a-fa49ef968987');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ebcfe25b-ed40-49bf-b59a-fa49ef968987'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ebcfe25b-ed40-49bf-b59a-fa49ef968987",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ebcfe25b-ed40-49bf-b59a-fa49ef968987'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ebcfe25b-ed40-49bf-b59a-fa49ef968987\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

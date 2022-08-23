@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CH.16.27",
+    "orgId": "1CH.16.27",
+    "bookId": "1CH",
+    "chapterId": "1CH.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Chronicles 16:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"1CH 16:27\" class=\"v\">27</span>Glory and honour <span class=\"add\">are</span> in his presence; strength and gladness <span class=\"add\">are</span> in his place. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CH.16.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "1CH.16.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fe797e8b-06cc-4126-be0d-54b9b0e8b579');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fe797e8b-06cc-4126-be0d-54b9b0e8b579'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fe797e8b-06cc-4126-be0d-54b9b0e8b579",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fe797e8b-06cc-4126-be0d-54b9b0e8b579'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fe797e8b-06cc-4126-be0d-54b9b0e8b579\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

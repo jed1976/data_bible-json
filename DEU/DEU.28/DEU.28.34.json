@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.28.34",
+    "orgId": "DEU.28.34",
+    "bookId": "DEU",
+    "chapterId": "DEU.28",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 28:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"DEU 28:34\" class=\"v\">34</span>So that thou shalt be mad for the sight of thine eyes which thou shalt see. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.28.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "DEU.28.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5caf9c54-96a6-4fdf-9bef-19b2fb3b05bd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5caf9c54-96a6-4fdf-9bef-19b2fb3b05bd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5caf9c54-96a6-4fdf-9bef-19b2fb3b05bd",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5caf9c54-96a6-4fdf-9bef-19b2fb3b05bd'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5caf9c54-96a6-4fdf-9bef-19b2fb3b05bd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

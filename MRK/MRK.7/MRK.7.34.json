@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "MRK.7.34",
+    "orgId": "MRK.7.34",
+    "bookId": "MRK",
+    "chapterId": "MRK.7",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Mark 7:34",
+    "content": "<p class=\"p\"><span data-number=\"34\" data-sid=\"MRK 7:34\" class=\"v\">34</span>And looking up to heaven, he sighed, and saith unto him, <span class=\"wj\">Ephphatha,</span> that is, Be opened. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "MRK.7.35",
+      "number": "35"
+    },
+    "previous": {
+      "id": "MRK.7.33",
+      "number": "33"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a90729b4-0fde-413d-b672-b1e3457feca1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a90729b4-0fde-413d-b672-b1e3457feca1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a90729b4-0fde-413d-b672-b1e3457feca1",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a90729b4-0fde-413d-b672-b1e3457feca1'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a90729b4-0fde-413d-b672-b1e3457feca1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

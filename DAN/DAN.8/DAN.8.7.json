@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DAN.8.7",
+    "orgId": "DAN.8.7",
+    "bookId": "DAN",
+    "chapterId": "DAN.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Daniel 8:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"DAN 8:7\" class=\"v\">7</span>And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DAN.8.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "DAN.8.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a4df112a-16bc-4a30-bc16-e90d0a99d95c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a4df112a-16bc-4a30-bc16-e90d0a99d95c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a4df112a-16bc-4a30-bc16-e90d0a99d95c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a4df112a-16bc-4a30-bc16-e90d0a99d95c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a4df112a-16bc-4a30-bc16-e90d0a99d95c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

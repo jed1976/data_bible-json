@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.16.5",
+    "orgId": "1SA.16.5",
+    "bookId": "1SA",
+    "chapterId": "1SA.16",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 16:5",
+    "content": "<p class=\"p\"><span data-number=\"5\" data-sid=\"1SA 16:5\" class=\"v\">5</span>And he said, Peaceably: I am come to sacrifice unto the <span class=\"nd\">LORD</span>: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.16.6",
+      "number": "6"
+    },
+    "previous": {
+      "id": "1SA.16.4",
+      "number": "4"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7c6479a3-5b14-4717-9308-d4fb4668c76e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7c6479a3-5b14-4717-9308-d4fb4668c76e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "7c6479a3-5b14-4717-9308-d4fb4668c76e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7c6479a3-5b14-4717-9308-d4fb4668c76e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7c6479a3-5b14-4717-9308-d4fb4668c76e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.11.10",
+    "orgId": "1KI.11.10",
+    "bookId": "1KI",
+    "chapterId": "1KI.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 11:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"1KI 11:10\" class=\"v\">10</span>And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the <span class=\"nd\">LORD</span> commanded. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.11.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "1KI.11.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d26aacf0-0b3f-4147-8e6e-d475999d7dc8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d26aacf0-0b3f-4147-8e6e-d475999d7dc8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d26aacf0-0b3f-4147-8e6e-d475999d7dc8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d26aacf0-0b3f-4147-8e6e-d475999d7dc8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d26aacf0-0b3f-4147-8e6e-d475999d7dc8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

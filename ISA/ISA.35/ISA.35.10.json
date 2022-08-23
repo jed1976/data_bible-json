@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.35.10",
+    "orgId": "ISA.35.10",
+    "bookId": "ISA",
+    "chapterId": "ISA.35",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 35:10",
+    "content": "<p class=\"p\"><span data-number=\"10\" data-sid=\"ISA 35:10\" class=\"v\">10</span>And the ransomed of the <span class=\"nd\">LORD</span> shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.36.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "ISA.35.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ecb91da1-341a-42ea-a60f-fc749581319c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ecb91da1-341a-42ea-a60f-fc749581319c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ecb91da1-341a-42ea-a60f-fc749581319c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ecb91da1-341a-42ea-a60f-fc749581319c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ecb91da1-341a-42ea-a60f-fc749581319c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

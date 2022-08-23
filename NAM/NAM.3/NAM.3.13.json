@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NAM.3.13",
+    "orgId": "NAM.3.13",
+    "bookId": "NAM",
+    "chapterId": "NAM.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nahum 3:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"NAM 3:13\" class=\"v\">13</span>Behold, thy people in the midst of thee <span class=\"add\">are</span> women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NAM.3.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "NAM.3.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d1e786b0-0582-4d32-927a-9a0704cf8edf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d1e786b0-0582-4d32-927a-9a0704cf8edf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d1e786b0-0582-4d32-927a-9a0704cf8edf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d1e786b0-0582-4d32-927a-9a0704cf8edf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d1e786b0-0582-4d32-927a-9a0704cf8edf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

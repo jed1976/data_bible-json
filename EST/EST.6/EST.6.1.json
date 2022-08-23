@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EST.6.1",
+    "orgId": "EST.6.1",
+    "bookId": "EST",
+    "chapterId": "EST.6",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Esther 6:1",
+    "content": "<p class=\"p\"><span data-number=\"1\" data-sid=\"EST 6:1\" class=\"v\">1</span>On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EST.6.2",
+      "number": "2"
+    },
+    "previous": {
+      "id": "EST.5.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('4bae8f56-a119-4bfd-9ab3-8860ad30d13e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='4bae8f56-a119-4bfd-9ab3-8860ad30d13e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "4bae8f56-a119-4bfd-9ab3-8860ad30d13e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4bae8f56-a119-4bfd-9ab3-8860ad30d13e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4bae8f56-a119-4bfd-9ab3-8860ad30d13e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

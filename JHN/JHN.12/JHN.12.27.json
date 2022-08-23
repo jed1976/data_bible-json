@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.12.27",
+    "orgId": "JHN.12.27",
+    "bookId": "JHN",
+    "chapterId": "JHN.12",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 12:27",
+    "content": "<p class=\"p\"><span data-number=\"27\" data-sid=\"JHN 12:27\" class=\"v\">27</span><span class=\"wj\">Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.12.28",
+      "number": "28"
+    },
+    "previous": {
+      "id": "JHN.12.26",
+      "number": "26"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d0ce51c9-35b1-4b5f-b4e9-1345026c077c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d0ce51c9-35b1-4b5f-b4e9-1345026c077c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d0ce51c9-35b1-4b5f-b4e9-1345026c077c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d0ce51c9-35b1-4b5f-b4e9-1345026c077c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d0ce51c9-35b1-4b5f-b4e9-1345026c077c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

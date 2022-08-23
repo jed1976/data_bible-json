@@ -1,0 +1,508 @@
+{
+  "data": [
+    {
+      "id": "EZK.16.1",
+      "orgId": "EZK.16.1",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:1"
+    },
+    {
+      "id": "EZK.16.2",
+      "orgId": "EZK.16.2",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:2"
+    },
+    {
+      "id": "EZK.16.3",
+      "orgId": "EZK.16.3",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:3"
+    },
+    {
+      "id": "EZK.16.4",
+      "orgId": "EZK.16.4",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:4"
+    },
+    {
+      "id": "EZK.16.5",
+      "orgId": "EZK.16.5",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:5"
+    },
+    {
+      "id": "EZK.16.6",
+      "orgId": "EZK.16.6",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:6"
+    },
+    {
+      "id": "EZK.16.7",
+      "orgId": "EZK.16.7",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:7"
+    },
+    {
+      "id": "EZK.16.8",
+      "orgId": "EZK.16.8",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:8"
+    },
+    {
+      "id": "EZK.16.9",
+      "orgId": "EZK.16.9",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:9"
+    },
+    {
+      "id": "EZK.16.10",
+      "orgId": "EZK.16.10",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:10"
+    },
+    {
+      "id": "EZK.16.11",
+      "orgId": "EZK.16.11",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:11"
+    },
+    {
+      "id": "EZK.16.12",
+      "orgId": "EZK.16.12",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:12"
+    },
+    {
+      "id": "EZK.16.13",
+      "orgId": "EZK.16.13",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:13"
+    },
+    {
+      "id": "EZK.16.14",
+      "orgId": "EZK.16.14",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:14"
+    },
+    {
+      "id": "EZK.16.15",
+      "orgId": "EZK.16.15",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:15"
+    },
+    {
+      "id": "EZK.16.16",
+      "orgId": "EZK.16.16",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:16"
+    },
+    {
+      "id": "EZK.16.17",
+      "orgId": "EZK.16.17",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:17"
+    },
+    {
+      "id": "EZK.16.18",
+      "orgId": "EZK.16.18",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:18"
+    },
+    {
+      "id": "EZK.16.19",
+      "orgId": "EZK.16.19",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:19"
+    },
+    {
+      "id": "EZK.16.20",
+      "orgId": "EZK.16.20",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:20"
+    },
+    {
+      "id": "EZK.16.21",
+      "orgId": "EZK.16.21",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:21"
+    },
+    {
+      "id": "EZK.16.22",
+      "orgId": "EZK.16.22",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:22"
+    },
+    {
+      "id": "EZK.16.23",
+      "orgId": "EZK.16.23",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:23"
+    },
+    {
+      "id": "EZK.16.24",
+      "orgId": "EZK.16.24",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:24"
+    },
+    {
+      "id": "EZK.16.25",
+      "orgId": "EZK.16.25",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:25"
+    },
+    {
+      "id": "EZK.16.26",
+      "orgId": "EZK.16.26",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:26"
+    },
+    {
+      "id": "EZK.16.27",
+      "orgId": "EZK.16.27",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:27"
+    },
+    {
+      "id": "EZK.16.28",
+      "orgId": "EZK.16.28",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:28"
+    },
+    {
+      "id": "EZK.16.29",
+      "orgId": "EZK.16.29",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:29"
+    },
+    {
+      "id": "EZK.16.30",
+      "orgId": "EZK.16.30",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:30"
+    },
+    {
+      "id": "EZK.16.31",
+      "orgId": "EZK.16.31",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:31"
+    },
+    {
+      "id": "EZK.16.32",
+      "orgId": "EZK.16.32",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:32"
+    },
+    {
+      "id": "EZK.16.33",
+      "orgId": "EZK.16.33",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:33"
+    },
+    {
+      "id": "EZK.16.34",
+      "orgId": "EZK.16.34",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:34"
+    },
+    {
+      "id": "EZK.16.35",
+      "orgId": "EZK.16.35",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:35"
+    },
+    {
+      "id": "EZK.16.36",
+      "orgId": "EZK.16.36",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:36"
+    },
+    {
+      "id": "EZK.16.37",
+      "orgId": "EZK.16.37",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:37"
+    },
+    {
+      "id": "EZK.16.38",
+      "orgId": "EZK.16.38",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:38"
+    },
+    {
+      "id": "EZK.16.39",
+      "orgId": "EZK.16.39",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:39"
+    },
+    {
+      "id": "EZK.16.40",
+      "orgId": "EZK.16.40",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:40"
+    },
+    {
+      "id": "EZK.16.41",
+      "orgId": "EZK.16.41",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:41"
+    },
+    {
+      "id": "EZK.16.42",
+      "orgId": "EZK.16.42",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:42"
+    },
+    {
+      "id": "EZK.16.43",
+      "orgId": "EZK.16.43",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:43"
+    },
+    {
+      "id": "EZK.16.44",
+      "orgId": "EZK.16.44",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:44"
+    },
+    {
+      "id": "EZK.16.45",
+      "orgId": "EZK.16.45",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:45"
+    },
+    {
+      "id": "EZK.16.46",
+      "orgId": "EZK.16.46",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:46"
+    },
+    {
+      "id": "EZK.16.47",
+      "orgId": "EZK.16.47",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:47"
+    },
+    {
+      "id": "EZK.16.48",
+      "orgId": "EZK.16.48",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:48"
+    },
+    {
+      "id": "EZK.16.49",
+      "orgId": "EZK.16.49",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:49"
+    },
+    {
+      "id": "EZK.16.50",
+      "orgId": "EZK.16.50",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:50"
+    },
+    {
+      "id": "EZK.16.51",
+      "orgId": "EZK.16.51",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:51"
+    },
+    {
+      "id": "EZK.16.52",
+      "orgId": "EZK.16.52",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:52"
+    },
+    {
+      "id": "EZK.16.53",
+      "orgId": "EZK.16.53",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:53"
+    },
+    {
+      "id": "EZK.16.54",
+      "orgId": "EZK.16.54",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:54"
+    },
+    {
+      "id": "EZK.16.55",
+      "orgId": "EZK.16.55",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:55"
+    },
+    {
+      "id": "EZK.16.56",
+      "orgId": "EZK.16.56",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:56"
+    },
+    {
+      "id": "EZK.16.57",
+      "orgId": "EZK.16.57",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:57"
+    },
+    {
+      "id": "EZK.16.58",
+      "orgId": "EZK.16.58",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:58"
+    },
+    {
+      "id": "EZK.16.59",
+      "orgId": "EZK.16.59",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:59"
+    },
+    {
+      "id": "EZK.16.60",
+      "orgId": "EZK.16.60",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:60"
+    },
+    {
+      "id": "EZK.16.61",
+      "orgId": "EZK.16.61",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:61"
+    },
+    {
+      "id": "EZK.16.62",
+      "orgId": "EZK.16.62",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:62"
+    },
+    {
+      "id": "EZK.16.63",
+      "orgId": "EZK.16.63",
+      "bookId": "EZK",
+      "chapterId": "EZK.16",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Ezekiel 16:63"
+    }
+  ]
+}

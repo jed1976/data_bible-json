@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.10.6",
+    "orgId": "EXO.10.6",
+    "bookId": "EXO",
+    "chapterId": "EXO.10",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 10:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"EXO 10:6\" class=\"v\">6</span>And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.10.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "EXO.10.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d339820f-7087-44f8-ad1c-1aa50e7122c8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d339820f-7087-44f8-ad1c-1aa50e7122c8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "d339820f-7087-44f8-ad1c-1aa50e7122c8",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d339820f-7087-44f8-ad1c-1aa50e7122c8'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d339820f-7087-44f8-ad1c-1aa50e7122c8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

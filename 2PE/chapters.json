@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "2PE.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2PE",
+      "number": "intro",
+      "reference": "2 Peter"
+    },
+    {
+      "id": "2PE.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2PE",
+      "number": "1",
+      "reference": "2 Peter 1"
+    },
+    {
+      "id": "2PE.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2PE",
+      "number": "2",
+      "reference": "2 Peter 2"
+    },
+    {
+      "id": "2PE.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "2PE",
+      "number": "3",
+      "reference": "2 Peter 3"
+    }
+  ]
+}

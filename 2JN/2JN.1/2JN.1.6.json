@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2JN.1.6",
+    "orgId": "2JN.1.6",
+    "bookId": "2JN",
+    "chapterId": "2JN.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 John 1:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"2JN 1:6\" class=\"v\">6</span>And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2JN.1.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "2JN.1.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('36d3ee79-7bb3-4c85-9321-b9aa3d6043fa');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='36d3ee79-7bb3-4c85-9321-b9aa3d6043fa'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "36d3ee79-7bb3-4c85-9321-b9aa3d6043fa",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('36d3ee79-7bb3-4c85-9321-b9aa3d6043fa'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=36d3ee79-7bb3-4c85-9321-b9aa3d6043fa\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

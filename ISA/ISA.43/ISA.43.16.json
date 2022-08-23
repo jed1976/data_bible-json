@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "ISA.43.16",
+    "orgId": "ISA.43.16",
+    "bookId": "ISA",
+    "chapterId": "ISA.43",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Isaiah 43:16",
+    "content": "<p class=\"p\"><span data-number=\"16\" data-sid=\"ISA 43:16\" class=\"v\">16</span>Thus saith the <span class=\"nd\">LORD</span>, which maketh a way in the sea, and a path in the mighty waters; </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "ISA.43.17",
+      "number": "17"
+    },
+    "previous": {
+      "id": "ISA.43.15",
+      "number": "15"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a0d1ea83-e076-44b6-bb79-86ee47449cb4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a0d1ea83-e076-44b6-bb79-86ee47449cb4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "a0d1ea83-e076-44b6-bb79-86ee47449cb4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a0d1ea83-e076-44b6-bb79-86ee47449cb4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a0d1ea83-e076-44b6-bb79-86ee47449cb4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

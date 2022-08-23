@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.4.26",
+    "orgId": "DEU.4.26",
+    "bookId": "DEU",
+    "chapterId": "DEU.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 4:26",
+    "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"DEU 4:26\" class=\"v\">26</span>I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong <span class=\"add\">your</span> days upon it, but shall utterly be destroyed. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.4.27",
+      "number": "27"
+    },
+    "previous": {
+      "id": "DEU.4.25",
+      "number": "25"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5e82375c-a318-4818-b085-4ca25e3c052b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5e82375c-a318-4818-b085-4ca25e3c052b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5e82375c-a318-4818-b085-4ca25e3c052b",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5e82375c-a318-4818-b085-4ca25e3c052b'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5e82375c-a318-4818-b085-4ca25e3c052b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

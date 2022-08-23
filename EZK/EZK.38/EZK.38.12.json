@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.38.12",
+    "orgId": "EZK.38.12",
+    "bookId": "EZK",
+    "chapterId": "EZK.38",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 38:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EZK 38:12\" class=\"v\">12</span>To take a spoil, and to take a prey; to turn thine hand upon the desolate places <span class=\"add\">that are now</span> inhabited, and upon the people <span class=\"add\">that are</span> gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.38.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EZK.38.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ddbc5158-9253-4d51-b6bd-1e9892487a55');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ddbc5158-9253-4d51-b6bd-1e9892487a55'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ddbc5158-9253-4d51-b6bd-1e9892487a55",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ddbc5158-9253-4d51-b6bd-1e9892487a55'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ddbc5158-9253-4d51-b6bd-1e9892487a55\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

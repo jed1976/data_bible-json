@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PRO.17.13",
+    "orgId": "PRO.17.13",
+    "bookId": "PRO",
+    "chapterId": "PRO.17",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Proverbs 17:13",
+    "content": "<p class=\"p\"><span data-number=\"13\" data-sid=\"PRO 17:13\" class=\"v\">13</span>Whoso rewardeth evil for good, evil shall not depart from his house. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PRO.17.14",
+      "number": "14"
+    },
+    "previous": {
+      "id": "PRO.17.12",
+      "number": "12"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('013bca22-d298-40e3-8abb-d81db67dea3d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='013bca22-d298-40e3-8abb-d81db67dea3d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "013bca22-d298-40e3-8abb-d81db67dea3d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('013bca22-d298-40e3-8abb-d81db67dea3d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=013bca22-d298-40e3-8abb-d81db67dea3d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

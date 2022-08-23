@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1PE.3.12",
+    "orgId": "1PE.3.12",
+    "bookId": "1PE",
+    "chapterId": "1PE.3",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Peter 3:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"1PE 3:12\" class=\"v\">12</span>For the eyes of the Lord <span class=\"add\">are</span> over the righteous, and his ears <span class=\"add\">are open</span> unto their prayers: but the face of the Lord <span class=\"add\">is</span> against them that do evil.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1PE.3.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "1PE.3.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('2912096a-d004-4d4e-bcf1-e057144d1ccf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='2912096a-d004-4d4e-bcf1-e057144d1ccf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "2912096a-d004-4d4e-bcf1-e057144d1ccf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('2912096a-d004-4d4e-bcf1-e057144d1ccf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=2912096a-d004-4d4e-bcf1-e057144d1ccf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

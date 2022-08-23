@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.20.3",
+    "orgId": "EXO.20.3",
+    "bookId": "EXO",
+    "chapterId": "EXO.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 20:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"EXO 20:3\" class=\"v\">3</span>Thou shalt have no other gods before me. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.20.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "EXO.20.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('de20ad49-8f2f-4df3-96e2-ed77ff68aecb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='de20ad49-8f2f-4df3-96e2-ed77ff68aecb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "de20ad49-8f2f-4df3-96e2-ed77ff68aecb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('de20ad49-8f2f-4df3-96e2-ed77ff68aecb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=de20ad49-8f2f-4df3-96e2-ed77ff68aecb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1CO.11.6",
+    "orgId": "1CO.11.6",
+    "bookId": "1CO",
+    "chapterId": "1CO.11",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Corinthians 11:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"1CO 11:6\" class=\"v\">6</span>For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1CO.11.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "1CO.11.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ff8908d9-d657-4c8e-9b8d-d4bad7bc4ce4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ff8908d9-d657-4c8e-9b8d-d4bad7bc4ce4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ff8908d9-d657-4c8e-9b8d-d4bad7bc4ce4",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ff8908d9-d657-4c8e-9b8d-d4bad7bc4ce4'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ff8908d9-d657-4c8e-9b8d-d4bad7bc4ce4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "DEU.4.39",
+    "orgId": "DEU.4.39",
+    "bookId": "DEU",
+    "chapterId": "DEU.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Deuteronomy 4:39",
+    "content": "<p class=\"p\"><span data-number=\"39\" data-sid=\"DEU 4:39\" class=\"v\">39</span>Know therefore this day, and consider <span class=\"add\">it</span> in thine heart, that the <span class=\"nd\">LORD</span> he <span class=\"add\">is</span> God in heaven above, and upon the earth beneath: <span class=\"add\">there is</span> none else. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "DEU.4.40",
+      "number": "40"
+    },
+    "previous": {
+      "id": "DEU.4.38",
+      "number": "38"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('ddfc7a9a-507c-4979-9039-7e67eada641f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='ddfc7a9a-507c-4979-9039-7e67eada641f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "ddfc7a9a-507c-4979-9039-7e67eada641f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('ddfc7a9a-507c-4979-9039-7e67eada641f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=ddfc7a9a-507c-4979-9039-7e67eada641f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

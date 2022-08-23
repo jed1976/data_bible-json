@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.4.12",
+    "orgId": "NUM.4.12",
+    "bookId": "NUM",
+    "chapterId": "NUM.4",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 4:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"NUM 4:12\" class=\"v\">12</span>And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put <span class=\"add\">them</span> in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put <span class=\"add\">them</span> on a bar: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.4.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "NUM.4.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aa497157-e2da-450d-b080-94e1ccb76f3e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aa497157-e2da-450d-b080-94e1ccb76f3e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aa497157-e2da-450d-b080-94e1ccb76f3e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aa497157-e2da-450d-b080-94e1ccb76f3e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aa497157-e2da-450d-b080-94e1ccb76f3e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

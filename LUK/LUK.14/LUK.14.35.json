@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LUK.14.35",
+    "orgId": "LUK.14.35",
+    "bookId": "LUK",
+    "chapterId": "LUK.14",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Luke 14:35",
+    "content": "<p class=\"p\"><span data-number=\"35\" data-sid=\"LUK 14:35\" class=\"v\">35</span><span class=\"wj\">It is neither fit for the land, nor yet for the dunghill; <span class=\"add\">but</span> men cast it out. He that hath ears to hear, let him hear.</span></p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LUK.15.1",
+      "number": "1"
+    },
+    "previous": {
+      "id": "LUK.14.34",
+      "number": "34"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fed341e9-008d-4567-91c2-97f99d789f35');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fed341e9-008d-4567-91c2-97f99d789f35'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fed341e9-008d-4567-91c2-97f99d789f35",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fed341e9-008d-4567-91c2-97f99d789f35'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fed341e9-008d-4567-91c2-97f99d789f35\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

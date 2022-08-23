@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1SA.26.21",
+    "orgId": "1SA.26.21",
+    "bookId": "1SA",
+    "chapterId": "1SA.26",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Samuel 26:21",
+    "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"1SA 26:21\" class=\"v\">21</span>¶ Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1SA.26.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "1SA.26.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('eb913fa2-61fd-4658-b5f7-ef42d1308c6e');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='eb913fa2-61fd-4658-b5f7-ef42d1308c6e'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "eb913fa2-61fd-4658-b5f7-ef42d1308c6e",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('eb913fa2-61fd-4658-b5f7-ef42d1308c6e'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=eb913fa2-61fd-4658-b5f7-ef42d1308c6e\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

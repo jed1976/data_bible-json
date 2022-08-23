@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.8.18",
+    "orgId": "JHN.8.18",
+    "bookId": "JHN",
+    "chapterId": "JHN.8",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 8:18",
+    "content": "<p class=\"p\"><span data-number=\"18\" data-sid=\"JHN 8:18\" class=\"v\">18</span><span class=\"wj\">I am one that bear witness of myself, and the Father that sent me beareth witness of me.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.8.19",
+      "number": "19"
+    },
+    "previous": {
+      "id": "JHN.8.17",
+      "number": "17"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5bad8ad8-5dc4-49a3-abec-8da14543f550');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5bad8ad8-5dc4-49a3-abec-8da14543f550'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5bad8ad8-5dc4-49a3-abec-8da14543f550",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5bad8ad8-5dc4-49a3-abec-8da14543f550'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5bad8ad8-5dc4-49a3-abec-8da14543f550\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.15.3",
+    "orgId": "1KI.15.3",
+    "bookId": "1KI",
+    "chapterId": "1KI.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 15:3",
+    "content": "<p class=\"p\"><span data-number=\"3\" data-sid=\"1KI 15:3\" class=\"v\">3</span>And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the <span class=\"nd\">LORD</span> his God, as the heart of David his father. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.15.4",
+      "number": "4"
+    },
+    "previous": {
+      "id": "1KI.15.2",
+      "number": "2"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c9aca77e-94d9-436b-9350-7d6ee902dbfb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c9aca77e-94d9-436b-9350-7d6ee902dbfb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c9aca77e-94d9-436b-9350-7d6ee902dbfb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c9aca77e-94d9-436b-9350-7d6ee902dbfb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c9aca77e-94d9-436b-9350-7d6ee902dbfb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

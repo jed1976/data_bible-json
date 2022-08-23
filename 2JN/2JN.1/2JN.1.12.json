@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "2JN.1.12",
+    "orgId": "2JN.1.12",
+    "bookId": "2JN",
+    "chapterId": "2JN.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "2 John 1:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"2JN 1:12\" class=\"v\">12</span>Having many things to write unto you, I would not <span class=\"add\">write</span> with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "2JN.1.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "2JN.1.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('607177fb-9cb0-4d47-b3d9-c259cc3f77f2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='607177fb-9cb0-4d47-b3d9-c259cc3f77f2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "607177fb-9cb0-4d47-b3d9-c259cc3f77f2",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('607177fb-9cb0-4d47-b3d9-c259cc3f77f2'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=607177fb-9cb0-4d47-b3d9-c259cc3f77f2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

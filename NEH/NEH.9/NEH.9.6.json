@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NEH.9.6",
+    "orgId": "NEH.9.6",
+    "bookId": "NEH",
+    "chapterId": "NEH.9",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Nehemiah 9:6",
+    "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"NEH 9:6\" class=\"v\">6</span>Thou, <span class=\"add\">even</span> thou, <span class=\"add\">art</span> <span class=\"nd\">LORD</span> alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all <span class=\"add\">things</span> that <span class=\"add\">are</span> therein, the seas, and all that <span class=\"add\">is</span> therein, and thou preservest them all; and the host of heaven worshippeth thee. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NEH.9.7",
+      "number": "7"
+    },
+    "previous": {
+      "id": "NEH.9.5",
+      "number": "5"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b0cb743f-33ac-4e76-ad2f-8d656c60c439');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b0cb743f-33ac-4e76-ad2f-8d656c60c439'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "b0cb743f-33ac-4e76-ad2f-8d656c60c439",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b0cb743f-33ac-4e76-ad2f-8d656c60c439'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b0cb743f-33ac-4e76-ad2f-8d656c60c439\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

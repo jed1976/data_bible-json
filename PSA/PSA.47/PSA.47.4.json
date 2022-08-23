@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.47.4",
+    "orgId": "PSA.47.5",
+    "bookId": "PSA",
+    "chapterId": "PSA.47",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 47:4",
+    "content": "<p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 47:4\" class=\"v\">4</span>He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.47.5",
+      "number": "5"
+    },
+    "previous": {
+      "id": "PSA.47.3",
+      "number": "3"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('aa91f1c3-3e1b-460c-a896-b592e58b5edb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='aa91f1c3-3e1b-460c-a896-b592e58b5edb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "aa91f1c3-3e1b-460c-a896-b592e58b5edb",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('aa91f1c3-3e1b-460c-a896-b592e58b5edb'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=aa91f1c3-3e1b-460c-a896-b592e58b5edb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.15.20",
+    "orgId": "JHN.15.20",
+    "bookId": "JHN",
+    "chapterId": "JHN.15",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 15:20",
+    "content": "<p class=\"p\"><span data-number=\"20\" data-sid=\"JHN 15:20\" class=\"v\">20</span><span class=\"wj\">Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.</span> </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.15.21",
+      "number": "21"
+    },
+    "previous": {
+      "id": "JHN.15.19",
+      "number": "19"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('dfbe3f0a-65f8-401c-a7d8-7868934af141');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='dfbe3f0a-65f8-401c-a7d8-7868934af141'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "dfbe3f0a-65f8-401c-a7d8-7868934af141",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('dfbe3f0a-65f8-401c-a7d8-7868934af141'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=dfbe3f0a-65f8-401c-a7d8-7868934af141\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

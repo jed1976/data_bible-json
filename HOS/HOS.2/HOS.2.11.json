@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "HOS.2.11",
+    "orgId": "HOS.2.13",
+    "bookId": "HOS",
+    "chapterId": "HOS.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Hosea 2:11",
+    "content": "<p class=\"p\"><span data-number=\"11\" data-sid=\"HOS 2:11\" class=\"v\">11</span>I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "HOS.2.12",
+      "number": "12"
+    },
+    "previous": {
+      "id": "HOS.2.10",
+      "number": "10"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('73f8412b-0653-40d6-9a12-294c58a0077c');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='73f8412b-0653-40d6-9a12-294c58a0077c'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "73f8412b-0653-40d6-9a12-294c58a0077c",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('73f8412b-0653-40d6-9a12-294c58a0077c'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=73f8412b-0653-40d6-9a12-294c58a0077c\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

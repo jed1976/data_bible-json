@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.30.15",
+    "orgId": "NUM.30.16",
+    "bookId": "NUM",
+    "chapterId": "NUM.30",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 30:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"NUM 30:15\" class=\"v\">15</span>But if he shall any ways make them void after that he hath heard <span class=\"add\">them;</span> then he shall bear her iniquity. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.30.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "NUM.30.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('9e64d9ab-c283-4f14-9cb8-0281dfb8983d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='9e64d9ab-c283-4f14-9cb8-0281dfb8983d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "9e64d9ab-c283-4f14-9cb8-0281dfb8983d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('9e64d9ab-c283-4f14-9cb8-0281dfb8983d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=9e64d9ab-c283-4f14-9cb8-0281dfb8983d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

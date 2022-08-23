@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "id": "EXO.8.1",
+      "orgId": "EXO.7.26",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:1"
+    },
+    {
+      "id": "EXO.8.2",
+      "orgId": "EXO.7.27",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:2"
+    },
+    {
+      "id": "EXO.8.3",
+      "orgId": "EXO.7.28",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:3"
+    },
+    {
+      "id": "EXO.8.4",
+      "orgId": "EXO.7.29",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:4"
+    },
+    {
+      "id": "EXO.8.5",
+      "orgId": "EXO.8.1",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:5"
+    },
+    {
+      "id": "EXO.8.6",
+      "orgId": "EXO.8.2",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:6"
+    },
+    {
+      "id": "EXO.8.7",
+      "orgId": "EXO.8.3",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:7"
+    },
+    {
+      "id": "EXO.8.8",
+      "orgId": "EXO.8.4",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:8"
+    },
+    {
+      "id": "EXO.8.9",
+      "orgId": "EXO.8.5",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:9"
+    },
+    {
+      "id": "EXO.8.10",
+      "orgId": "EXO.8.6",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:10"
+    },
+    {
+      "id": "EXO.8.11",
+      "orgId": "EXO.8.7",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:11"
+    },
+    {
+      "id": "EXO.8.12",
+      "orgId": "EXO.8.8",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:12"
+    },
+    {
+      "id": "EXO.8.13",
+      "orgId": "EXO.8.9",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:13"
+    },
+    {
+      "id": "EXO.8.14",
+      "orgId": "EXO.8.10",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:14"
+    },
+    {
+      "id": "EXO.8.15",
+      "orgId": "EXO.8.11",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:15"
+    },
+    {
+      "id": "EXO.8.16",
+      "orgId": "EXO.8.12",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:16"
+    },
+    {
+      "id": "EXO.8.17",
+      "orgId": "EXO.8.13",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:17"
+    },
+    {
+      "id": "EXO.8.18",
+      "orgId": "EXO.8.14",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:18"
+    },
+    {
+      "id": "EXO.8.19",
+      "orgId": "EXO.8.15",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:19"
+    },
+    {
+      "id": "EXO.8.20",
+      "orgId": "EXO.8.16",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:20"
+    },
+    {
+      "id": "EXO.8.21",
+      "orgId": "EXO.8.17",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:21"
+    },
+    {
+      "id": "EXO.8.22",
+      "orgId": "EXO.8.18",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:22"
+    },
+    {
+      "id": "EXO.8.23",
+      "orgId": "EXO.8.19",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:23"
+    },
+    {
+      "id": "EXO.8.24",
+      "orgId": "EXO.8.20",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:24"
+    },
+    {
+      "id": "EXO.8.25",
+      "orgId": "EXO.8.21",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:25"
+    },
+    {
+      "id": "EXO.8.26",
+      "orgId": "EXO.8.22",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:26"
+    },
+    {
+      "id": "EXO.8.27",
+      "orgId": "EXO.8.23",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:27"
+    },
+    {
+      "id": "EXO.8.28",
+      "orgId": "EXO.8.24",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:28"
+    },
+    {
+      "id": "EXO.8.29",
+      "orgId": "EXO.8.25",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:29"
+    },
+    {
+      "id": "EXO.8.30",
+      "orgId": "EXO.8.26",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:30"
+    },
+    {
+      "id": "EXO.8.31",
+      "orgId": "EXO.8.27",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:31"
+    },
+    {
+      "id": "EXO.8.32",
+      "orgId": "EXO.8.28",
+      "bookId": "EXO",
+      "chapterId": "EXO.8",
+      "bibleId": "de4e12af7f28f599-02",
+      "reference": "Exodus 8:32"
+    }
+  ]
+}

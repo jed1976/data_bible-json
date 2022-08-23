@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JOB.30.19",
+    "orgId": "JOB.30.19",
+    "bookId": "JOB",
+    "chapterId": "JOB.30",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Job 30:19",
+    "content": "<p class=\"p\"><span data-number=\"19\" data-sid=\"JOB 30:19\" class=\"v\">19</span>He hath cast me into the mire, and I am become like dust and ashes. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JOB.30.20",
+      "number": "20"
+    },
+    "previous": {
+      "id": "JOB.30.18",
+      "number": "18"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('8b092323-2598-4e09-8c81-ed22d1d2e48f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='8b092323-2598-4e09-8c81-ed22d1d2e48f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "8b092323-2598-4e09-8c81-ed22d1d2e48f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('8b092323-2598-4e09-8c81-ed22d1d2e48f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=8b092323-2598-4e09-8c81-ed22d1d2e48f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

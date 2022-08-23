@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "LAM.1.15",
+    "orgId": "LAM.1.15",
+    "bookId": "LAM",
+    "chapterId": "LAM.1",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Lamentations 1:15",
+    "content": "<p class=\"p\"><span data-number=\"15\" data-sid=\"LAM 1:15\" class=\"v\">15</span>The Lord hath trodden under foot all my mighty <span class=\"add\">men</span> in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, <span class=\"add\">as</span> in a winepress. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "LAM.1.16",
+      "number": "16"
+    },
+    "previous": {
+      "id": "LAM.1.14",
+      "number": "14"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c5a9b43c-8e6c-4c3f-8607-6732c5c0dd65');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c5a9b43c-8e6c-4c3f-8607-6732c5c0dd65'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "c5a9b43c-8e6c-4c3f-8607-6732c5c0dd65",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c5a9b43c-8e6c-4c3f-8607-6732c5c0dd65'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c5a9b43c-8e6c-4c3f-8607-6732c5c0dd65\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

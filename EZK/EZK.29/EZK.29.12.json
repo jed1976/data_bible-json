@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EZK.29.12",
+    "orgId": "EZK.29.12",
+    "bookId": "EZK",
+    "chapterId": "EZK.29",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Ezekiel 29:12",
+    "content": "<p class=\"p\"><span data-number=\"12\" data-sid=\"EZK 29:12\" class=\"v\">12</span>And I will make the land of Egypt desolate in the midst of the countries <span class=\"add\">that are</span> desolate, and her cities among the cities <span class=\"add\">that are</span> laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EZK.29.13",
+      "number": "13"
+    },
+    "previous": {
+      "id": "EZK.29.11",
+      "number": "11"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('fbc0b930-66d7-4baf-b111-02395a7aeb8a');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='fbc0b930-66d7-4baf-b111-02395a7aeb8a'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "fbc0b930-66d7-4baf-b111-02395a7aeb8a",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('fbc0b930-66d7-4baf-b111-02395a7aeb8a'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=fbc0b930-66d7-4baf-b111-02395a7aeb8a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

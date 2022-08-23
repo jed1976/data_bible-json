@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "COL.intro",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "COL",
+      "number": "intro",
+      "reference": "Colossians"
+    },
+    {
+      "id": "COL.1",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "COL",
+      "number": "1",
+      "reference": "Colossians 1"
+    },
+    {
+      "id": "COL.2",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "COL",
+      "number": "2",
+      "reference": "Colossians 2"
+    },
+    {
+      "id": "COL.3",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "COL",
+      "number": "3",
+      "reference": "Colossians 3"
+    },
+    {
+      "id": "COL.4",
+      "bibleId": "de4e12af7f28f599-02",
+      "bookId": "COL",
+      "number": "4",
+      "reference": "Colossians 4"
+    }
+  ]
+}

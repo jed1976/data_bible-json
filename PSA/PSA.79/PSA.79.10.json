@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.79.10",
+    "orgId": "PSA.79.10",
+    "bookId": "PSA",
+    "chapterId": "PSA.79",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 79:10",
+    "content": "<p class=\"q1\"><span data-number=\"10\" data-sid=\"PSA 79:10\" class=\"v\">10</span>Wherefore should the heathen say, Where <span class=\"add\">is</span> their God? let him be known among the heathen in our sight <span class=\"add\">by</span> the revenging of the blood of thy servants <span class=\"add\">which is</span> shed.</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.79.11",
+      "number": "11"
+    },
+    "previous": {
+      "id": "PSA.79.9",
+      "number": "9"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6d7730f1-07e5-46a4-9436-3b97db91938d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6d7730f1-07e5-46a4-9436-3b97db91938d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "6d7730f1-07e5-46a4-9436-3b97db91938d",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6d7730f1-07e5-46a4-9436-3b97db91938d'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6d7730f1-07e5-46a4-9436-3b97db91938d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

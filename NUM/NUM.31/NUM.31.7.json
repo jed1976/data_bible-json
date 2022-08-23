@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "NUM.31.7",
+    "orgId": "NUM.31.7",
+    "bookId": "NUM",
+    "chapterId": "NUM.31",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Numbers 31:7",
+    "content": "<p class=\"p\"><span data-number=\"7\" data-sid=\"NUM 31:7\" class=\"v\">7</span>And they warred against the Midianites, as the <span class=\"nd\">LORD</span> commanded Moses; and they slew all the males. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "NUM.31.8",
+      "number": "8"
+    },
+    "previous": {
+      "id": "NUM.31.6",
+      "number": "6"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('92d4989d-b2b5-49bb-9b4f-e0f047fc0dca');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='92d4989d-b2b5-49bb-9b4f-e0f047fc0dca'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "92d4989d-b2b5-49bb-9b4f-e0f047fc0dca",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('92d4989d-b2b5-49bb-9b4f-e0f047fc0dca'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=92d4989d-b2b5-49bb-9b4f-e0f047fc0dca\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

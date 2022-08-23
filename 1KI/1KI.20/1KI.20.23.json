@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "1KI.20.23",
+    "orgId": "1KI.20.23",
+    "bookId": "1KI",
+    "chapterId": "1KI.20",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "1 Kings 20:23",
+    "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"1KI 20:23\" class=\"v\">23</span>And the servants of the king of Syria said unto him, Their gods <span class=\"add\">are</span> gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "1KI.20.24",
+      "number": "24"
+    },
+    "previous": {
+      "id": "1KI.20.22",
+      "number": "22"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('43152857-07c0-4090-b970-da8ae19f1b5f');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='43152857-07c0-4090-b970-da8ae19f1b5f'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "43152857-07c0-4090-b970-da8ae19f1b5f",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('43152857-07c0-4090-b970-da8ae19f1b5f'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=43152857-07c0-4090-b970-da8ae19f1b5f\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "JHN.2.14",
+    "orgId": "JHN.2.14",
+    "bookId": "JHN",
+    "chapterId": "JHN.2",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "John 2:14",
+    "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"JHN 2:14\" class=\"v\">14</span>And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "JHN.2.15",
+      "number": "15"
+    },
+    "previous": {
+      "id": "JHN.2.13",
+      "number": "13"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('eb5f3bed-7ee3-44c6-b672-360f2d0be621');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='eb5f3bed-7ee3-44c6-b672-360f2d0be621'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "eb5f3bed-7ee3-44c6-b672-360f2d0be621",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('eb5f3bed-7ee3-44c6-b672-360f2d0be621'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=eb5f3bed-7ee3-44c6-b672-360f2d0be621\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

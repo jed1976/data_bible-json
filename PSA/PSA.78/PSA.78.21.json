@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "PSA.78.21",
+    "orgId": "PSA.78.21",
+    "bookId": "PSA",
+    "chapterId": "PSA.78",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Psalms 78:21",
+    "content": "<p class=\"q1\"><span data-number=\"21\" data-sid=\"PSA 78:21\" class=\"v\">21</span>Therefore the <span class=\"nd\">LORD</span> heard <span class=\"add\">this</span>, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;</p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "PSA.78.22",
+      "number": "22"
+    },
+    "previous": {
+      "id": "PSA.78.20",
+      "number": "20"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('80c3124a-a4ff-48c3-8c84-4ac3872d5ccf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='80c3124a-a4ff-48c3-8c84-4ac3872d5ccf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "80c3124a-a4ff-48c3-8c84-4ac3872d5ccf",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('80c3124a-a4ff-48c3-8c84-4ac3872d5ccf'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=80c3124a-a4ff-48c3-8c84-4ac3872d5ccf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}

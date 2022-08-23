@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "EXO.19.24",
+    "orgId": "EXO.19.24",
+    "bookId": "EXO",
+    "chapterId": "EXO.19",
+    "bibleId": "de4e12af7f28f599-02",
+    "reference": "Exodus 19:24",
+    "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"EXO 19:24\" class=\"v\">24</span>And the <span class=\"nd\">LORD</span> said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the <span class=\"nd\">LORD</span>, lest he break forth upon them. </p>",
+    "verseCount": 1,
+    "copyright": "\n          \n            PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent\n        ",
+    "next": {
+      "id": "EXO.19.25",
+      "number": "25"
+    },
+    "previous": {
+      "id": "EXO.19.23",
+      "number": "23"
+    }
+  },
+  "meta": {
+    "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5979363d-2d32-48d1-8828-a1342bd41512');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5979363d-2d32-48d1-8828-a1342bd41512'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+    "fumsId": "5979363d-2d32-48d1-8828-a1342bd41512",
+    "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+    "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5979363d-2d32-48d1-8828-a1342bd41512'); }",
+    "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5979363d-2d32-48d1-8828-a1342bd41512\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+  }
+}
